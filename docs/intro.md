@@ -8,36 +8,40 @@ sidebar_position: 1
 
 ## Misión
 
-Construir soluciones de calidad y a la medida que impacten positivamente en nuestros socios.
+Construir soluciones de calidad que impacten positivamente en nuestros socios.
 
 ## Visión
 
-Revolucionar la industria del software desarrollando proyectos que se apeguen a los más altos estándares de calidad y que a su vez  impacten de manera social y  responsable.
+Revolucionar la industria del software desarrollando proyectos que se apeguen a los más altos estándares de calidad y que a su vez impacten de manera social y responsable.
 
 
 ## Objetivos
 
-1. Entregar en tiempo, costo y alcance los proyectos que el departamento tenga a su cargo.
-2. Procurar la satisfacción de nuestros clientes durante todo el proceso de construcción de la solución.
-3. Generar valor agregado a los clientes involucrados por medio de una comunicación constante que se reflejará en un producto de software innovador.
+1.-Entregar antes del 3 de diciembre del 2021 los proyectos asignados a Taro en costo, alcance y calidad para que satisfagan las necesidades de los socios y así se cumplan los objetivos acordados
+
+2.-Mantener una comunicación efectiva en todas las reuniones que tengamos, para garantizar el buen entendimiento de los proyectos y poder entregar un producto que vaya de acuerdo a las necesidades de cada uno.
+
+3.-Mejorar al menos un proceso interno en cada una de las iteraciones que se realicen para alcanzar mínimamente el nivel de certificación CMMI 2 al final del semestre.
+
 
 
 ## Valores
 
-**Transparencia**
+
+**Aprendizaje:** Velar por el crecimiento de todos en el departamento reconociendo que la situación de cada miembro es diferente.
 
 
-**Aprendizaje**
+**Empatía:** Reconocer a los miembros del departamento como personas, y considerar los sentimientos y puntos de vista de todos.
 
 
-**Integridad**
+**Integridad:** Comprometerse a hacer todo aquello que considera bueno, sin afectar los intereses de todo el departamento.
 
 
-**Humildad**
+**Puntualidad:** Asegurarse de cumplir toda promesa de estar presente a horas acordadas.
 
 
-**Empatía**
+**Responsabilidad:** Completar el trabajo asignado con calidad y manejar las consecuencias de las decisiones tomadas.
 
 
-**Responsabilidad**
+**Transparencia:** Ser honesto en la comunicación con el cliente, así como con los demás miembros del departamento.
 
