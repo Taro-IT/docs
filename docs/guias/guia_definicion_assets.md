@@ -14,6 +14,33 @@
 
 ### Árbol de decisiones
 
+```mermaid
+flowchart TD
+    A[Inicio] --> B{"¿El objetivo está 
+                    enfocado en 
+                    seguir reglas?"};
+    B -->|Sí| C["El asset es 
+                una política"];
+    B -->|No| D{"¿El objetivo está
+                relacionado con
+                el aprendizaje?"}
+    D -->|Sí| E["El asset es 
+                una guía"]
+    D -->|No| F{"¿El resultado del
+                objetivo debe ser
+                el mismo siempre?"}
+    F -->|Sí| G["El asset es 
+                un proceso"]
+    F -->|No| H["No es necesario un asset o el 
+                objetivo no está bien definido"]
+```
+
+:::info
+
+El árbol de decisiones fue creado con [mermaid](https://mermaid-js.github.io/mermaid/#/README) y [mdx-mermaid](https://github.com/sjwall/mdx-mermaid)
+
+:::
+
 ### Características de los assets
 
 #### Procesos
