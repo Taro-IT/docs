@@ -46,6 +46,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           // Please change this to your repo.
+          remarkPlugins: [require('mdx-mermaid')],
           editUrl:
             'https://github.com/Taro-IT/docs/edit/main/',
         },
