@@ -1,9 +1,4 @@
----
-sidebar_label: Guía para creación de plantillas 
-sidebar_position: 1
----
-
-# Example to put MD content con page
+# Plantilla para Guías
 
 ```markdown
 # Guía <título de la guía>
@@ -21,6 +16,10 @@ _Enlistar los pre-requisitos necesarios (con ligas si son recursos)_
 ## Pasos a seguir
 
 _Enlistar los pasos a seguir (separando por secciones si es necesario)_
+
+## Salidas
+
+_Enlistar los resultados obtenidos al seguir los pasos de la guía. Deben estar alineados al objetivo de la guía._
 
 ## Autores
 
