@@ -13,7 +13,7 @@
 Contar con las plantilla:
 - Contar con acceso al calendario virtual [Académico (Semestre i)](https://calendar.google.com/calendar/embed?src=itesm.mx_jd61cv3hbbmtuiib93un8s2lok%40group.calendar.google.com&ctz=America%2FMexico_City)
 - Contar con acceso al calendario virtual [Departamental](https://calendar.google.com/calendar/embed?src=c_fprk5lfepv1dslipu1dv1let2c%40group.calendar.google.com&ctz=America%2FMexico_City)
-- Contar con acceso al calendario virtual por Equipos ( [Frappé](url) o [Espresso](url) )
+- Contar con acceso al calendario virtual por Equipos ( [Frappé](https://calendar.google.com/calendar/embed?src=c_fprk5lfepv1dslipu1dv1let2c%40group.calendar.google.com&ctz=America%2FMexico_City) o [Espresso](https://calendar.google.com/calendar/embed?src=c_fprk5lfepv1dslipu1dv1let2c%40group.calendar.google.com&ctz=America%2FMexico_City) )
 
 Nota: En caso de no contar con acceso a los calendarios se deberá  seguir lo siguientes pasos:, de lo contrario puede pasar a la sección "Norma para los eventos"
 
