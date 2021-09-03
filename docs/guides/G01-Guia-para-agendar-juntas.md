@@ -1,4 +1,4 @@
-**Propuesta para Guía para agendar eventos**
+
 
 ## Objetivo
 **Principal:** Orientar en la creación y toma de decisión de fechas de un evento departamental dentro del calendario oficial y recreativo de Taro, esto incluye los calendarios:
@@ -15,7 +15,7 @@ Contar con las plantilla:
 - Contar con acceso al calendario virtual [Departamental](https://calendar.google.com/calendar/embed?src=c_fprk5lfepv1dslipu1dv1let2c%40group.calendar.google.com&ctz=America%2FMexico_City)
 - Contar con acceso al calendario virtual por Equipos ( [Frappé](url) o [Espresso](url) )
 
-Nota: _En caso de no contar con acceso a los calendarios se deberá  seguir lo siguientes pasos:, de lo contrario puede pasar a la sección "Norma para los eventos"_
+Nota: En caso de no contar con acceso a los calendarios se deberá  seguir lo siguientes pasos:, de lo contrario puede pasar a la sección "Norma para los eventos"
 
 ## Pedir acceso al calendario Virtual
 En caso de no contar con acceso al calendario puedes seguir estos pasos para obtener tu acceso
@@ -24,35 +24,21 @@ En caso de no contar con acceso al calendario puedes seguir estos pasos para obt
 <li> Ingresa a Google Calendar: Veras una pantalla parecida a esta</li>
 
 
-![image](../assets/G01/g01-img-1.png)
-
-
 <li>Selecciona el Calendario que deseas compartir, te aparecerá una palomita y el calendario se llenara con los eventos actuales</li>
-
-
-![image](../assets/G01/g01-img-2.png)
 
 
 
 <li>Dar clic en los tres puntitos, aparecerá el siguiente menú desplegable, donde tendrás que dar clic en "Configurar y compartir"</li>
 
-![image](../assets/G01/g01-img-3.png)
 
 <li>Aparecerá la siguiente pantalla, aquí podrás editar y configurar todos los aspectos del calendario</li>
 
 
-![image](../assets/G01/g01-img-4.png)
-
 
 <li>Deberás buscar el siguiente botón con nombre "Añadir Persona"</li>
 
-
-![image](../assets/G01/g01-img-5.png)
-
 <li>Ahi, seleccionaras y escribirás el correo al cual quieres que le llegue y los permisos que se le otorgaran ya sean solo de vista de espacios libres, vista general, edición de eventos y edición de eventos + uso compartido   </li>
 
-
-![image](../assets/G01/g01-img-6.png)
 
 </ol>
 
@@ -70,8 +56,6 @@ En caso de no contar con acceso al calendario puedes seguir estos pasos para obt
 - Seleccionar el Calendario virtual en el que se colocara, ya sea Taro, Cínica o Medio Camino
 - Opcionalmente se puede agregar una notificación de recordatorio
 
-
-![image](../assets/G01/g01-img-6.png)
 
 ## Autores
 
