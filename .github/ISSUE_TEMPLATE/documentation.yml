@@ -1,0 +1,21 @@
+name: Solicitud de documentación
+description: Definición de una solicitud de un asset (proceso, guía o política)
+title: "[#] issue name"
+labels: [documentation]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción
+      description: Describe el tipo de solicitud que estás realizando.
+      placeholder: Creación del proceso para definir juntas
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Tipo
+      description: Tipo de documentación a crear
+      options:
+        - Proceso
+        - Guía
+        - Política
