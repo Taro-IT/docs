@@ -1,4 +1,4 @@
-# Guía para la Definición de Assets
+# G02 - Guía para la Definición de Assets
 
 ## Objetivo
 
@@ -70,4 +70,6 @@ El árbol de decisiones fue creado con [mermaid](https://mermaid-js.github.io/me
 
 ## Auditoría
 
--
+- José Carlos Pacheco Sánchez
+- Iván Alejandro Díaz Peralta
+- Karla Daniela Romero Pérez
