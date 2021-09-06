@@ -62,8 +62,9 @@ En caso de no contar con acceso al calendario puedes seguir estos pasos para obt
 - En caso de contar con los correos de los participantes agregarlo para poder enviar una invitación de manera automática
 - En caso de usar una sala de virtual se deberá  verificar la disponibilidad de los links:
   
-<ol><li>Taro General - https://itesm.zoom.us/j/84214225212 </li><li>Frappe -  https://itesm.zoom.us/u/kbyD5xduhs  </li><li>Espresso - 
- https://itesm.zoom.us/u/kkbD8ViPL  </li></ol>
+<ol><li>Taro General - https://itesm.zoom.us/j/84214225212 </li><li>Frappe -  https://itesm.zoom.us/j/84214225212
+  </li><li>Espresso -  https://itesm.zoom.us/j/84321494768
+  </li></ol>
 
 - Agregar una descripción y los puntos claves a tocar en ese evento en la sección "Descripción"
 - Seleccionar el Calendario virtual en el que se colocara, ya sea Taro, Cínica o Medio Camino
