@@ -1,7 +1,7 @@
-# Plantilla para Guías
+# PL2 - Plantilla para Guías
 
 ```markdown
-# Guía <título de la guía>
+# G[# de guía] - Guía <título de la guía>
 
 ## Objetivo
 

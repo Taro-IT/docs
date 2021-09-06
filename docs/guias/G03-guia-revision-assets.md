@@ -1,4 +1,4 @@
-# Guía para Revisar Assets propuestos para la Wiki
+# G03 - Guía para Revisar Assets para la Wiki
 
 ## Objetivo
 
@@ -103,4 +103,6 @@ Si durante tu revisión realizaste modificaciones y se hicieron commits a la ram
 
 ## Auditoría
 
-- 
+- José Carlos Pacheco Sánchez
+- Iván Alejandro Díaz Peralta
+- Karla Daniela Romero Pérez
