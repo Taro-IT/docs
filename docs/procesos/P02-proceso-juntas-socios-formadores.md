@@ -12,7 +12,7 @@
 
 ## Procedimiento
 
-| Paso|   Descripción   | Área(s) involucradas |
+| Paso|   Descripción   | Área(s) y practicas especificas involucradas |
 |------|:---------------:|--------------------|
 | Planeación    | <ol align="left"><li>Se deberá tener una [Junta departamental](../procesos/P01-proceso-juntas-departamentales) donde se definirá una lista de objetivos y puntos a tratar, es recomendable enlistar también las dudas y puntos que quedaron pendientes.</li><li>Se agendará con anticipación la junta especificando fecha y hora (seguir [Guía para agendar juntas](../guias/G01-guia-para-agendar-juntas) )</li><li>Se tendrá como salida de la junta departamental una [Minuta](../plantillas/PL1-plantilla-para-minutas) y una agenda con todos los puntos a tratar donde se le dará un correcto seguimiento.</li></ol> | <ul><li>PMC - 1.5</li><li>PMC - 1.6</li><li>PMC - 1.7</li><li>PMC - 2.1</li></ul> |
 | Previo a la junta     | <ol><li>De manera coloquial y previo a la junta se confirmará la asistencia del socio formador a través de algún medio de comunicación directo (Whatsapp, Slack, Line etc.)</li><li>Todos los integrantes involucrados tratarán de estar al menos 5 minutos antes de la reunión siguiendo el valor de [Puntualidad](../) </li></ol> |  |
