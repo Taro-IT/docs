@@ -37,9 +37,6 @@ Revolucionar la industria del software desarrollando proyectos que se apeguen a 
 **Integridad:** Comprometerse a hacer todo aquello que considera bueno, sin afectar los intereses de todo el departamento.
 
 
-**Puntualidad:** Asegurarse de cumplir toda promesa de estar presente a horas acordadas.
-
-
 **Responsabilidad:** Completar el trabajo asignado con calidad y manejar las consecuencias de las decisiones tomadas.
 
 
