@@ -6,9 +6,7 @@
 
 ## Objetivo
 
-**Principal:** _Describir el objetivo principal._
-
-**Secundario:** _Describir el objetivo secundario (opcional)_
+_Describir los objetivos ._
 
 ## Pre-requisitos
 
@@ -18,10 +16,10 @@ _Enlistar los pre-requisitos necesarios (con ligas si son recursos)_
 
 _Rellenar la tabla del procedimiento agregando filas conforme sea necesario._
 
-| Paso|   Descripción   | Área(s) involucradas |
+| Fase |   Actividades   | Área(s) involucradas |
 |------|:---------------:|--------------------|
-| _El nombre del paso a seguir_ | _La descripción de cómo seguir dicho paso_ | _El o las áreas del CMMI involucradas en este paso (Poner la práctica específica y no solo el área)_ |
-| Ejemplo: Notificiación | Ejemplo: Se deberá notificar con anticipación. | Ejemplo: <ul><li>PMC - 1.5</li><li>PMC - 1.6</li><ul> |
+| _El nombre de la fase a seguir_ | _La descripción de las actividades a seguir en dicho paso_ | _El o las áreas del CMMI involucradas en esta fase (Poner la práctica específica y no solo el área)_ |
+| Ejemplo: 1. Notificiación | Ejemplo: Se deberá notificar con anticipación. | Ejemplo: <ul><li>PMC - 1.5</li><li>PMC - 1.6</li><ul> |
 
 ## Salidas
 
