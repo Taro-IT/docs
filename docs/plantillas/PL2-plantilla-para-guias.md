@@ -3,11 +3,9 @@
 ```markdown
 # G[# de guía] - Guía <título de la guía>
 
-## Objetivo
+## Objetivo(s)
 
-**Principal:** _Describir el objetivo principal._
-
-**Secundario:** _Describir el objetivo secundario (opcional)_
+_Describir los objetivos ._
 
 ## Pre-requisitos
 
