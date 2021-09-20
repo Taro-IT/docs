@@ -1,10 +1,10 @@
 # G02 - Guía para la Definición de Assets
 
-## Objetivo
+## Objetivo(s)
 
-**Principal:** Diferenciar entre los 3 tipos de assets: procesos, guías y políticas.
+- Diferenciar entre los 3 tipos de assets: procesos, guías y políticas.
 
-**Secundario:** Definir la categoría de un asset que se este creando.
+- Definir la categoría de un asset que se este creando.
 
 ## Pre-requisitos
 
