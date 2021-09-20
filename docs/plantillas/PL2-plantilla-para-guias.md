@@ -5,9 +5,7 @@
 
 ## Objetivo
 
-**Principal:** _Describir el objetivo principal._
-
-**Secundario:** _Describir el objetivo secundario (opcional)_
+_Describir los objetivos ._
 
 ## Pre-requisitos
 
