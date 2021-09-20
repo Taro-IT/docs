@@ -2,9 +2,9 @@
 
 ## Objetivo(s)
 
-- Diferenciar entre los 3 tipos de assets: procesos, guías y políticas.
+- Diferenciar entre los tipos de assets departamentales.
 
-- Definir la categoría de un asset que se este creando.
+- Definir la categoría y el título de un asset que se este creando.
 
 ## Pre-requisitos
 
@@ -60,9 +60,31 @@ El árbol de decisiones fue creado con [mermaid](https://mermaid-js.github.io/me
 
 - Reglas estrictas que deben seguirse.
 
+### Cómo nombrar un asset
+
+El identificador del título de un asset se define de acuerdo a la siguiente tabla:
+
+| Tipo de asset | Prefijo | Ejemplo |
+|---------------|:-------:|---------|
+| Proceso | P | P05 |
+| Guía | G | G10 |
+| Política | POL | POL01 |
+| Plantilla | PL | PL02 |
+| Checklist | CH | CH15 |
+
+:::tip
+
+Para saber cuál es el siguiente número de identificador disponible para un asset, se puede hacer un filtrado por label de acuerdo al nombre del asset en el [tablero de la wiki](https://github.com/Taro-IT/docs/projects/1).
+
+Por ejemplo, el identificador del siguiente proceso al momento de escribir esta sección debería ser P08.
+
+![image](../../static/img/guias/G02/name-definition.png)
+
+:::
+
 ## Salidas
 
-- La categoría del asset que se está creando.
+- La categoría y el título del asset que se está creando.
 
 ## Autores
 
