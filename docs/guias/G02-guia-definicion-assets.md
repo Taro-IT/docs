@@ -8,7 +8,7 @@
 
 ## Pre-requisitos
 
- -Tener el objetivo del asset que se quiere crear definido.
+- Tener el objetivo del asset que se quiere crear definido.
 
 ## Pasos a seguir
 
@@ -31,7 +31,15 @@ flowchart TD
                 el mismo siempre?"}
     F -->|Sí| G["El asset es 
                 un proceso"]
-    F -->|No| H["No es necesario un asset o el 
+    F -->|No| H{"¿El asset se
+                se enfoca en la
+                verificación?"}
+    H -->|Sí| I["El asset es una checklist"]
+    H -->|No| J{"¿El asset es
+                un modelo para
+                crear otros assets?"}
+    J -->|Sí| K["El asset es una plantilla"]
+    J -->|No| L["No es necesario un asset o el 
                 objetivo no está bien definido"]
 ```
 
@@ -59,6 +67,14 @@ El árbol de decisiones fue creado con [mermaid](https://mermaid-js.github.io/me
 #### Políticas
 
 - Reglas estrictas que deben seguirse.
+
+#### Plantillas
+
+- Es un modelo que se utiliza para construir algún otro asset.
+
+#### Checklists
+
+- Sirve para verificar el cumplimiento de un listado de requisitos.
 
 ### Cómo nombrar un asset
 
