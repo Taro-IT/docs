@@ -2,9 +2,7 @@
 
 ## Objetivo
 
-**Principal:** Llevar a cabo una reunión con los socios formadores y los integrantes involucrados en donde se puedan intercambiar ideas, llegar a acuerdos, resolver dudas o identificar de manera correcta una nueva funcionalidad.
-
-**Secundario:** Mejorar la percepción de avance y organización dentro de los proyectos generando mayor confianza y estabilidad entre los socios formadores y el departamento.
+**Principal:** Llevar a cabo una reunión con los socios formadores y los integrantes involucrados en donde se puedan intercambiar ideas, llegar a acuerdos, resolver dudas o identificar de manera correcta una nueva funcionalidad, así como mejorar la percepción de avance y organización dentro de los proyectos generando mayor confianza y estabilidad entre los socios formadores y el departamento.
 
 ## Pre-requisitos
 

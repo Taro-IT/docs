@@ -2,9 +2,7 @@
 
 ## Objetivo
 
-**Principal:** Eficientar los tiempos y toma de decisiones en temas de relevancia-valor antes y durante las juntas (Usar la [Plantilla] para tener una base establecida y cumplir con los parámetros del proceso).
-
-**Secundario:** Mejorar la percepción de avance y organización dentro de los integrantes del departamento durante todo el semestre para tener una mejor certeza de la dirección a la que el departamento desea llegar.
+**Principal:** Eficientar los tiempos y toma de decisiones en temas de relevancia-valor antes y durante las juntas (Usar la [Plantilla] para tener una base establecida y cumplir con los parámetros del proceso), así como mejorar la percepción de avance y organización dentro de los integrantes del departamento durante todo el semestre para tener una mejor certeza de la dirección a la que el departamento desea llegar.
 
 ## Pre-requisitos
 
