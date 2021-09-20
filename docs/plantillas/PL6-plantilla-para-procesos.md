@@ -4,7 +4,7 @@
 
 # P[# de proceso] - Proceso <título del proceso>
 
-## Objetivo
+## Objetivo(s)
 
 _Describir los objetivos ._
 

@@ -3,7 +3,7 @@
 ```markdown
 # G[# de guía] - Guía <título de la guía>
 
-## Objetivo
+## Objetivo(s)
 
 _Describir los objetivos ._
 
