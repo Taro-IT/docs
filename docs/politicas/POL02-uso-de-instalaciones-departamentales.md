@@ -1,7 +1,11 @@
 # POL02 - Políticas para el uso de las instalaciones del departamento
 
+### Objetivo:
+<p>Establecer los puntos que un miembro debe considerar para poder ocupar las instalaciones del departamento.</p>
 
-## Horarios y días
+### Políticas:
+
+### Horarios y días
 
 <p>Las instalaciones y el acceso estará a disposición de las indicaciones del Tec que a su vez depende del semáforo COVID Federal, si las condiciones son optimas cada integrantes debera: </p>
 <ul>
@@ -11,7 +15,7 @@
 <li>Llevar cubrebocas</li>
 </ul>
 
-## Uso de Instalaciones 
+### Uso de Instalaciones 
 
 <p>Debido a los cambios y normas establecidos por el campus todos los integrantes que asistan deberán:</p>
 <ul>

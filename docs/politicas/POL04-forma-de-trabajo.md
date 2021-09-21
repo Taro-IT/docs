@@ -1,1 +1,0 @@
-# POL03 - Forma de trabajo

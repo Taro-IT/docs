@@ -1,5 +1,10 @@
 # POL01 - Políticas departamentales
 
+
+### Objetivo:
+<p>Puntualizar los acuerdos y normas que hemos establecido como departamento </p>
+
+### Políticas:
 <ul>
 <li>Todos los integrantes de taro se apegaran a cumplir con los valores departamentales.</li>
 <li>El departamento trabajará apegándose al código de ética establecido por el comité de este mismo</li>
