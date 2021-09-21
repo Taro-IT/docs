@@ -1,12 +1,11 @@
 # G01 - Guía para agendar juntas
 
-## Objetivo
+## Objetivo(s)
 
-**Principal:** Orientar en la creación y toma de decisión de fechas de un evento departamental dentro del calendario oficial y recreativo de Taro, esto incluye los calendarios:
+- Orientar en la creación y toma de decisión de fechas de un evento departamental dentro del calendario oficial y recreativo de Taro, esto incluye los calendarios:
+  <ul><li>Académicos (semestre i)</li><li>Departamentales</li><li>Equipos correspondientes</li></ul>
 
-<ul><li>Académicos (semestre i)</li><li>Departamentales</li><li>Equipos correspondientes</li></ul>
-
-**Secundario:** Organizar de manera visual y ordenada todos los eventos para mejorar la organización y planeación personal de cada integrante del departamento, permitiendo una mayor participación en todos los eventos.
+- Organizar de manera visual y ordenada todos los eventos para mejorar la organización y planeación personal de cada integrante del departamento, permitiendo una mayor participación en todos los eventos.
 
 ## Pre-requisitos
 

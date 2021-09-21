@@ -1,8 +1,8 @@
 # G03 - Guía para Revisar Assets para la Wiki
 
-## Objetivo
+## Objetivo(s)
 
-**Principal:** Entender cómo se realiza la revisión de un pull request de assets para la wiki.
+- Entender cómo se realiza la revisión de un pull request de assets para la wiki.
 
 ## Pre-requisitos
 
