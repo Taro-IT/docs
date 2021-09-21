@@ -16,8 +16,8 @@
 
 <p>Se recomienda ampliamente seguir los siguientes libros para tenerlos como referencia y guía</p>
 <ol>
-<li>Disciplined Agile Delivery o Choosing your WOW! - Scott Ambler & Mark Lines</li>
-<li>Project Managment For The Unofficial Project Managment - Kory Kogon , Suzette Blakemore & James Wood</li>
+<li>Choose Your WoW : A Disciplined Agile Delivery Handbook for Optimizing Your Way of Working - Scott Ambler & Mark Lines</li>
+<li>Project Managment For The Unofficial Project Manager - Kory Kogon , Suzette Blakemore & James Wood</li>
 <li>Introduction to the Team Software Process - Watts Humphrey</li>
 </ol>
 
