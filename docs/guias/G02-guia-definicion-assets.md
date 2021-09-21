@@ -2,13 +2,13 @@
 
 ## Objetivo(s)
 
-- Diferenciar entre los 3 tipos de assets: procesos, guías y políticas.
+- Diferenciar entre los tipos de assets departamentales.
 
-- Definir la categoría de un asset que se este creando.
+- Definir la categoría y el título de un asset que se este creando.
 
 ## Pre-requisitos
 
- -Tener el objetivo del asset que se quiere crear definido.
+- Tener el objetivo del asset que se quiere crear definido.
 
 ## Pasos a seguir
 
@@ -31,7 +31,15 @@ flowchart TD
                 el mismo siempre?"}
     F -->|Sí| G["El asset es 
                 un proceso"]
-    F -->|No| H["No es necesario un asset o el 
+    F -->|No| H{"¿El asset se
+                se enfoca en la
+                verificación?"}
+    H -->|Sí| I["El asset es una checklist"]
+    H -->|No| J{"¿El asset es
+                un modelo para
+                crear otros assets?"}
+    J -->|Sí| K["El asset es una plantilla"]
+    J -->|No| L["No es necesario un asset o el 
                 objetivo no está bien definido"]
 ```
 
@@ -60,9 +68,39 @@ El árbol de decisiones fue creado con [mermaid](https://mermaid-js.github.io/me
 
 - Reglas estrictas que deben seguirse.
 
+#### Plantillas
+
+- Es un modelo que se utiliza para construir algún otro asset.
+
+#### Checklists
+
+- Sirve para verificar el cumplimiento de un listado de requisitos.
+
+### Cómo nombrar un asset
+
+El identificador del título de un asset se define de acuerdo a la siguiente tabla:
+
+| Tipo de asset | Prefijo | Ejemplo |
+|---------------|:-------:|---------|
+| Proceso | P | P05 |
+| Guía | G | G10 |
+| Política | POL | POL01 |
+| Plantilla | PL | PL02 |
+| Checklist | CH | CH15 |
+
+:::tip
+
+Para saber cuál es el siguiente número de identificador disponible para un asset, se puede hacer un filtrado por label de acuerdo al nombre del asset en el [tablero de la wiki](https://github.com/Taro-IT/docs/projects/1).
+
+Por ejemplo, el identificador del siguiente proceso al momento de escribir esta sección debería ser P08.
+
+![image](../../static/img/guias/G02/name-definition.png)
+
+:::
+
 ## Salidas
 
-- La categoría del asset que se está creando.
+- La categoría y el título del asset que se está creando.
 
 ## Autores
 
