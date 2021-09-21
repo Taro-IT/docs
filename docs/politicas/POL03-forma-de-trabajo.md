@@ -44,17 +44,11 @@
 <p>Como departamento cada equipo estimará los tamaños de los items usando "Agile Points" las cuales se regirán por los siguientes lineamientos</p>
 
 <p>Se determinará el numero (1, 3, 5, 8, 13 ..) siguiendo la tecnica de Fibonacci teniendo cada una la siguiente escala</p>
-- 1 - Una tarea donde hay conocimiento para realizarla y su dificultad es considerada fácil.
-- 3 - Una tarea donde no hay o hay poco conocimiento previo para realizarla y su dificultad es considerada fácil.
-- 5 - Una tarea donde no hay o hay poco conocimiento previo para realizarla y su dificultad es considerada media.
-- 8 - Una tarea en la que existe poco o mucho conocimiento previo para realizarla y su dificultad es considerada alta.
-- 13 - Una tarea en la que no hay conocimiento previo para realizarla y su dificultad es considerada muy alta.
 
-<p>Para poder estimar el costo de cada ítem se utilizará un sistema basado en horas</p>
+- 1: Una tarea donde hay conocimiento para realizarla y su dificultad es considerada fácil.
+- 3: Una tarea donde no hay o hay poco conocimiento previo para realizarla y su dificultad es considerada fácil.
+- 5: Una tarea donde no hay o hay poco conocimiento previo para realizarla y su dificultad es considerada media.
+- 8: Una tarea en la que existe poco o mucho conocimiento previo para realizarla y su dificultad es considerada alta.
+- 13: Una tarea en la que no hay conocimiento previo para realizarla y su dificultad es considerada muy alta.
 
-- 1 - Una hora o menos de trabajo.
-- 3 - Medio día de trabajo.
-- 5 - Un tercio de día de trabajo.
-- 8 - Dos tercios de día trabajo.
-- 13 - Todo un día de trabajo.
-
+<p>Para poder estimar el costo de cada ítem se utilizará un sistema basado en horas en donde cada punto ágil equivale a una hora de trabajo.</p>
