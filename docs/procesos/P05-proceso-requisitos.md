@@ -13,3 +13,35 @@ cumplir con un alto estándar de entendimiento y calidad para satisfacer al soci
 
 | Fase |   Actividades   | Área(s) involucradas |
 |------|:---------------:|--------------------|
+| 1.Criterios    | Establecer claramente los criterios para distinguir  cuales son los proveedores de requisitos | <ul><li>REQM - 1.5</li></ul> |
+| 2.Identificación    | <ul><li>Identificar las necesidades concretas que se requieran una solución.</li><li>Identificar los roles involucrados</li></ul> | <ul><li>REQM - 1.5</li><li>PP - 1.5</li><li>RSKM - 1.5</li></ul> |
+| 3.Análisis     | <ul><li>Evaluar si las necesidades descritas por el stakeholder satisfacen la necesidad del negocio</li><li>Priorizar las necesidades con base al conocimiento tanto del problema/negocio/situación como la experiencia previa </li><li>Desglosar las necesidades en requisitos</li></ul>| <ul><li>REQM - 1.5</li><li>PP - 1.5</li><li>RSKM - 1.5</li></ul> |
+| 4.Clasificación | Categorizar de acuerdo a los tipos de requisitos identificados | <ul><li>REQM - 1.5</li><li>PP - 1.5</li><li>RSKM - 1.5</li></ul> |
+| 5.Formalización | Realizar diagramas de alto nivel respecto a las interacciones de necesidades con roles, por ejemplo: Historias de Usuario o Diagramas de Casos de Uso | <ul><li>REQM - 1.5</li><li>PP - 1.5</li><li>RSKM - 1.5</li></ul> |
+| 6.Priorización |  Evaluar cada uno de los requerimientos para estimar el costo de cada uno de ellos y priorizarlos con base a los intereses acordados  | <ul><li>REQM - 1.5</li><li>PP - 1.5</li><li>RSKM - 1.5</li></ul> |
+| 7.Documentos  | 	Acomodar los requisitos en EPICS para luego ser evaluados y ordenados para si integración en el WBS | <ul><li>REQM - 1.5</li><li>PP - 1.5</li><li>RSKM - 1.5</li></ul> |
+| 8.Validación  | 	Verificar la lista de requisitos con los stakeholders, exponiendo las necesidades que se solucionan.  | <ul><li>REQM - 1.5</li><li>PP - 1.5</li><li>RSKM - 1.5</li></ul> |
+
+## Salida
+
+<ul><li>Lista de requisitos funcionales</li><li>Lista de requisitos no funcionales</li><li>Grabación y Minuta</li></ul>
+
+## Autores
+
+<ul>
+<li>Juan Jose Días</li>
+<li>Raul </li>
+<li>José Carlos Pacheco Sánchez</li>
+<li>Eric Buitrón López</li>
+
+</ul>
+
+## Auditoría
+
+<ul>
+<li>Adolfo Acosta Castro</li>
+<li>María de los Ángeles Contreras Anaya</li>
+<li>Karla Daniela Romero Pérez</li>
+<li>Alonso Vladimir Salvador Camacho</li>
+<li>Mauricio Álvarez Milán</li>
+</ul>
