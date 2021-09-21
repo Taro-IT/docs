@@ -7,11 +7,11 @@
 
 ### Horarios y días
 
-<p>Las instalaciones y el acceso estarán a disposición de las indicaciones del Tec que a su vez depende del semáforo COVID Federal, si las condiciones son óptimas cada integrante debera: </p>
+<p>Las instalaciones y el acceso estarán a disposición de las indicaciones del Tec que a su vez depende del semáforo COVID Federal, si las condiciones son óptimas cada integrante deberá: </p>
 <ul>
 <li>Avisar a todo el departamento por medio del canal de comunicación #taro-clases-presenciales.</li>
 <li>Revisar que no se exceda el límite de personas permitidas según las indicaciones del Tec.</li>
-<li>Asegurarse de no contar con síntomas y tener el acceso QR en verde (APP Safiori). </li>
+<li>Asegurarse de no contar con síntomas y tener el acceso QR en verde (APP SAP Fiori). </li>
 <li>Llevar cubrebocas.</li>
 </ul>
 
