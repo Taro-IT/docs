@@ -32,7 +32,7 @@
 **Planeación del proyecto**
 <p>De tal forma que Taro mantenga un estandar , la forma de trabajo para los proyectos se dará de la siguiente manera</p>
 <ul>
-<li>Tener juntas de coordinación diarias las cuales permitirán al equipo actualizar el estado del proyecto y poder mejorar la forma de trabajo, se pueden utilizar las preguntas guía para identificar puntos importantes(¿Dónde estamos?¿Dónde deberíamos estar?¿Cuánto nos ha costado?)).</li>
+<li>Tener juntas de coordinación diarias las cuales permitirán al equipo actualizar el estado del proyecto y poder mejorar la forma de trabajo, se pueden utilizar las preguntas guía para identificar puntos importantes (¿Dónde estamos?¿Dónde deberíamos estar?¿Cuánto nos ha costado?).</li>
 <li>La gestión y toma de requisitos de un proyecto deberá estar definida, incluyendo un control de cambios de los mismos en donde se pueda mantener la trazabilidad.</li>
 <li>Realizar inspecciones de código frecuentes para asegurarse que la implementación cumpla con los estándares establecidos por el equipo, y encontrar defectos para que puedan ser corregidos y mitigados.</li>
 <li>Definir correctamente el WBS y actualizarlo constantemente para poder realizar planeaciones basadas en datos más confiables.</li>
@@ -43,7 +43,7 @@
 
 <p>Como departamento cada equipo estimará los tamaños de los items usando "Agile Points" las cuales se regirán por los siguientes lineamientos</p>
 
-<p>Se determinará el numero (1, 3, 5, 8, 13 ..) siguiendo la tecnica de Fibonacci teniendo cada una la siguiente escala</p>
+<p>Se determinará el numero (1, 3, 5, 8, 13 ..) siguiendo la técnica de Fibonacci teniendo cada una la siguiente escala</p>
 
 - 1: Una tarea donde hay conocimiento para realizarla y su dificultad es considerada fácil.
 - 3: Una tarea donde no hay o hay poco conocimiento previo para realizarla y su dificultad es considerada fácil.
