@@ -7,7 +7,7 @@ cumplir con un alto estándar de entendimiento y calidad para satisfacer al soci
 
 ## Pre-requisitos
 
-- Establecer y agendar una junta o juntas con los socios formadores siguiendo el [proceso de juntas con socios formadores](P02-proceso-juntas-socios-formadores.md)
+- Establecer y agendar una junta o juntas con los socios formadores siguiendo el [proceso de juntas con socios formadores](P02-proceso-juntas-socios-formadores)
 
 ## Procedimiento
 
