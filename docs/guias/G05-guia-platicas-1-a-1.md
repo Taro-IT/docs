@@ -10,7 +10,7 @@ o comentario que los miembros del departamento tengan.
 ## Pasos a seguir
 
 - La plática durará entre 10 y 15 minutos como máximo.
-- Las pláticas se realizarán de acuerdo a los tiempos libres de los integrantes por lo que es recomendable seguir la [guía para agendar juntas](G01-guia-para-agendar-juntas.md).
+- Las pláticas se realizarán de acuerdo a los tiempos libres de los integrantes por lo que es recomendable seguir la [guía para agendar juntas](G01-guia-para-agendar-juntas).
 
 Las pláticas se llevarán de la siguiente forma:
 
