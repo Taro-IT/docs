@@ -1,6 +1,6 @@
 name: Solicitud de documentación
 description: Definición de una solicitud de un asset (proceso, guía o política)
-title: "[#] issue name"
+title: "[id del asset]-nombre del asset"
 labels: [documentation]
 body:
   - type: textarea
