@@ -1,9 +1,9 @@
-# G05 - Guía platicas 1 a 1
+# G05 - Guía pláticas 1 a 1
 
 ## Objetivo(s)
 
-- Cualquier miembro de Taro pueda tener una plática 1 a 1 enfocado a asuntos departamental, se espera que los program 
-managers realicen estas pláticas al menos 1 vez a la semana con el fin de detectar, escuchar y mitigar algún problema o
+- Cualquier miembro de Taro pueda tener una plática 1 a 1 enfocada en asuntos departamentales, se espera que los Program 
+Managers realicen estas pláticas al menos 1 vez a la semana con el fin de detectar, escuchar y mitigar algún problema o
 o comentario que los miembros del departamento tengan.
 
 
@@ -27,7 +27,7 @@ También se pueden hacer las preguntas dependiendo de la conversación
 - ¿Deseas que alguien más se involucre?
 
 
-Conversación: Es importante enfocar a poder responder concretamente la pregunta
+Conversación: Es importante enfocar en poder responder concretamente la pregunta.
 Cierre: Formalización de acuerdos y entendidos de las dos partes.
 
 ## Salidas
