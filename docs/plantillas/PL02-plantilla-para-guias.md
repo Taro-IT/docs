@@ -1,4 +1,4 @@
-# PL2 - Plantilla para Guías
+# PL02 - Plantilla para Guías
 
 ```markdown
 # G[# de guía] - Guía <título de la guía>
