@@ -111,3 +111,5 @@ Por ejemplo, el identificador del siguiente proceso al momento de escribir esta 
 - José Carlos Pacheco Sánchez
 - Iván Alejandro Díaz Peralta
 - Karla Daniela Romero Pérez
+- Eduardo Andrés Castillo Perera
+- María de los Ángeles Contreras Anaya
