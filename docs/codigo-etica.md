@@ -1,9 +1,3 @@
----
-id: codigo
-slug: /
-sidebar_position: 1
----
-
 # Comité de ética - Agua
 
 ## Presentación
