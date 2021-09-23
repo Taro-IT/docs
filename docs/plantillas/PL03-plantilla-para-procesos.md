@@ -12,6 +12,10 @@ _Describir los objetivos ._
 
 _Enlistar los pre-requisitos necesarios (con ligas si son recursos)_
 
+## Entradas
+
+_Enlistar las entradas necesarias para ejecutar el proceso_
+
 ## Procedimiento
 
 _Rellenar la tabla del procedimiento agregando filas conforme sea necesario._
