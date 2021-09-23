@@ -4,7 +4,7 @@
 
 - Construir un asset que ayude a mejorar la forma de trabajo departamental.
 
-## Pre-requisitos
+## Entradas
 
 - Tener identificada la necesidad de mejorar algo en la forma de trabajo departamental.
 
@@ -30,4 +30,7 @@
 
 ## Auditoría
 
-- 
+- Iván Alejandro Díaz Peralta
+- Karla Daniela Romero Pérez
+- Eduardo Andrés Castillo Perera
+- María de los Ángeles Contreras Anaya
