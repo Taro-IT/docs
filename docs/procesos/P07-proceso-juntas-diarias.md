@@ -5,7 +5,6 @@
 
 - Agilizar el proceso de desarrollo del equipo e identificar bloqueos en las actividades asignadas.
 
-**Secundario:**
 
 Informar sobre el estatus de todas las actividades *en progreso* a los integrantes del equipo.
 
