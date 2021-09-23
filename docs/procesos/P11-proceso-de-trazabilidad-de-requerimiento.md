@@ -13,7 +13,6 @@
 
 ## Procedimiento
 
-_Rellenar la tabla del procedimiento agregando filas conforme sea necesario._
 
 | Fase |   Actividades   | Área(s) involucradas |
 |------|:---------------:|--------------------|
