@@ -2,7 +2,6 @@
 
 ## Objetivo
 
-**Principal:**
 
 Agilizar el proceso de desarrollo del equipo e identificar bloqueos en las actividades asignadas.
 
