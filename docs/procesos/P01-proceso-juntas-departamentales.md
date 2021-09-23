@@ -6,7 +6,7 @@
 
 - Mejorar la percepción de avance y organización dentro de los integrantes del departamento durante todo el semestre para tener una mejor certeza de la dirección a la que el departamento desea llegar.
 
-## Pre-requisitos
+## Entradas
 
 Contar con las plantillas:
 

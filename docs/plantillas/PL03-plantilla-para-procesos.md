@@ -8,9 +8,9 @@
 
 _Describir los objetivos ._
 
-## Pre-requisitos
+## Entradas
 
-_Enlistar los pre-requisitos necesarios (con ligas si son recursos)_
+_Enlistar las entradas necesarias para ejecutar el proceso_
 
 ## Procedimiento
 
