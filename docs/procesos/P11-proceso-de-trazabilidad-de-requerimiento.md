@@ -30,7 +30,6 @@
 
 ## Auditoría
 
-_Enlistar a las personas que revisaron el proceso_
 
 - 
 
