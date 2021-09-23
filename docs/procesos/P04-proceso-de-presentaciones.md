@@ -4,7 +4,7 @@
 
 - Preparar, crear y ejecutar presentaciones efectivas para nuestros stakeholders.
 
-## Pre-requisitos
+## Entradas
 
 - Tener definido el motivo de la presentación.
 - Tener definida la audiencia de la presentación.

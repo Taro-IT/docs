@@ -6,7 +6,7 @@
 
 - Mejorar la percepción de avance y organización dentro de los proyectos generando mayor confianza y estabilidad entre los socios formadores y el departamento.
 
-## Pre-requisitos
+## Entradas
 
 - Plantilla de [Minuta](../plantillas/PL01-plantilla-para-minutas)
 
