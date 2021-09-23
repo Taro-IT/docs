@@ -5,11 +5,11 @@
 - Tener conocimiento de los componentes que intervienen en cada requisito y/o work item
 - Poder definir en qué estatus se encuentra cada requisito o work item
 
-## Pre-requisitos
+## Entradas
 
 - Conocer las necesidades del stakeholder.
 - Tener registrado el requisito y/o work item en el pool correspondiente.
-- [Matriz de Trazabilidad](../plantillas/PL04-plantilla-de-matriz-de-trazabilidad-de-requisitos)
+- Plantilla de [Matriz de Trazabilidad](../plantillas/PL04-plantilla-de-matriz-de-trazabilidad-de-requisitos)
 
 ## Procedimiento
 
