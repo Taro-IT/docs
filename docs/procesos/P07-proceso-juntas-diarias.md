@@ -3,7 +3,7 @@
 ## Objetivo
 
 
-Agilizar el proceso de desarrollo del equipo e identificar bloqueos en las actividades asignadas.
+- Agilizar el proceso de desarrollo del equipo e identificar bloqueos en las actividades asignadas.
 
 **Secundario:**
 
