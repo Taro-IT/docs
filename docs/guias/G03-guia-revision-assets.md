@@ -69,9 +69,11 @@ Si durante tu revisión realizaste modificaciones y se hicieron commits a la ram
 
    ![Clic en +](../../static/img/guias/G03/inline-comment.png)
 
-2. Escribe tu comentario y da clic en **Add review comment**.
+2. Escribe tu comentario y da clic en **Add review comment** o en **Start a review**.
 
     ![Escribir comentario](../../static/img/guias/G03/add-comment.png)
+
+    ![Empezar revisión](../../static/img/guias/G03/start-review.png)
 
 3. Tu comentario se verá así.
 
