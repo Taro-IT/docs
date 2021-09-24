@@ -16,10 +16,56 @@ _Enlistar las entradas necesarias para ejecutar el proceso_
 
 _Rellenar la tabla del procedimiento agregando filas conforme sea necesario._
 
-| Fase |   Actividades   | Área(s) involucradas |
-|------|:---------------:|--------------------|
-| _El nombre de la fase a seguir_ | _La descripción de las actividades a seguir en dicho paso_ | _El o las áreas del CMMI involucradas en esta fase (Poner la práctica específica y no solo el área)_ |
-| Ejemplo: 1. Notificiación | Ejemplo: Se deberá notificar con anticipación. | Ejemplo: <ul><li>PMC - 1.5</li><li>PMC - 1.6</li><ul> |
+
+<table>
+  <theader>
+    <th>Fase</th>
+    <th>Actividades</th>
+    <th>Área(s) involucradas</th>
+  </theader>
+
+  <tbody>
+    <tr>
+      <td>_El nombre de la fase a seguir_</td>
+      <td>
+        <ul align="left">
+          <li>_La descripción de las actividades a seguir en dicho paso_</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>_El o las áreas del CMMI involucradas en esta fase (Poner la práctica específica y no solo el área)_</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>_El nombre de la fase a seguir_</td>
+      <td>
+        <ul align="left">
+          <li>_La descripción de las actividades a seguir en dicho paso_</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>_El o las áreas del CMMI involucradas en esta fase (Poner la práctica específica y no solo el área)_</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>_El nombre de la fase a seguir_</td>
+      <td>
+        <ul align="left">
+          <li>Prioriza las historias de usuario con base en las necesidades del stakeholder y el valor que le aportarán.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>_El o las áreas del CMMI involucradas en esta fase (Poner la práctica específica y no solo el área)_</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Salidas
 
@@ -36,6 +82,5 @@ _Enlistar los autores del proceso_
 _Enlistar a las personas que revisaron el proceso_
 
 - 
-
 
 ```
