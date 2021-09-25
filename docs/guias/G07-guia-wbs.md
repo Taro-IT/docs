@@ -7,7 +7,7 @@ Orientar en la manera en que se define un WBS que pueda facilitar el proceso de 
 ## Pre-requisitos
 - Un proyecto que ha sido analizado
 - Requisitos identificados de un proyecto
-- [Plantilla para WBS](../plantillas/PL05-plantilla-para-wbs)
+- [Plantilla para WBS](../plantillas/PL05-plantilla-para-wbs.md)
 
 ## Pasos a seguir
 
