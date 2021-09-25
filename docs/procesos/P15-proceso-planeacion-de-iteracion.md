@@ -11,11 +11,11 @@
 ## Procedimiento
 
 <table>
-  <theader>
+  <thead>
     <th>Fase</th>
     <th>Actividades</th>
     <th>Área(s) involucradas</th>
-  </theader>
+  </thead>
 
   <tbody>
     <tr>
