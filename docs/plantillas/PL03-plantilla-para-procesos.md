@@ -18,11 +18,11 @@ _Rellenar la tabla del procedimiento agregando filas conforme sea necesario._
 
 
 <table>
-  <theader>
+  <thead>
     <th>Fase</th>
     <th>Actividades</th>
     <th>Área(s) involucradas</th>
-  </theader>
+  </thead>
 
   <tbody>
     <tr>
