@@ -13,9 +13,25 @@
 
 ### Flujo para hacer la revisión
 
-1. Abrir el pull request dando clic en las flechas marcadas en la imagen.
+1. En la tab **Pull requests** usar el filtro `review-requested:USERNAME` para localizar rápidamente los pull requests que requieren revisión.
 
-   ![Abrir pull request](../../static/img/guias/G03/open-pr.png)
+   ![Filtro review-requested](../../static/img/guias/G03/search-review-requested.png)
+
+:::note
+
+Esta búsqueda también regresara aquellas revisiones que sean asignadas tanto al usuario específico como a un equipo.
+
+![Filtro review-requested](../../static/img/guias/G03/reviewers.png)
+
+:::
+
+:::note
+
+Adicionalmente, el filtro `reviewed-by:USERNAME` permite ver que pull requests ya han sido revisados por el usuario.
+
+![Filtro reviewed-by](../../static/img/guias/G03/search-reviewed-by.png)
+
+:::
 
 2. Encontrar el comentario con la versión más reciente del asset propuesto en el tab **Conversation**. El comentario tendrá una liga donde se puede ver el preview del asset y puede llegar a tener imágenes para mostrar cosas que sólo se verán bien cuando se haga el deploy.
 
@@ -23,11 +39,11 @@
 
 4. Ir al tab de **Files Changed**
 
-    ![Tab de Files Changed](../../static/img/guias/G03/files-changed.png)
+   ![Tab de Files Changed](../../static/img/guias/G03/files-changed.png)
 
 5. Hacer los [comentarios](#cómo-hacer-comentarios-para-un-archivo) y/o [modificaciones](#cómo-hacer-modificaciones-de-un-archivo) que veas necesarios y marcar cada archivo como viewed (para asegurarte de haber revisado todos los cambios).
 
-    ![Marcar como viewed](../../static/img/guias/G03/mark-viewed.png)
+   ![Marcar como viewed](../../static/img/guias/G03/mark-viewed.png)
 
 :::tip
 
@@ -47,7 +63,7 @@ No todos los archivos se podrán ver o tendrán cambios que requieran revisión.
 
 6. Cuando hayas terminado tu revisión, haz clic en **Review changes**, deja algún comentario general de tu revisión, selecciona el tipo de revisión que quieres dejar y da clic en **Submit review**.
 
-    ![Submit review](../../static/img/guias/G03/submit-review.png)
+   ![Submit review](../../static/img/guias/G03/submit-review.png)
 
 :::note
 
@@ -61,7 +77,7 @@ Si durante tu revisión realizaste modificaciones y se hicieron commits a la ram
 
 7. Tu revisión debería salir en el tab **Conversation** del pull request.
 
-    ![Resultado](../../static/img/guias/G03/final-result.png)
+   ![Resultado](../../static/img/guias/G03/final-result.png)
 
 ### Cómo hacer comentarios para un archivo
 
@@ -71,29 +87,29 @@ Si durante tu revisión realizaste modificaciones y se hicieron commits a la ram
 
 2. Escribe tu comentario y da clic en **Add review comment** o en **Start a review**.
 
-    ![Escribir comentario](../../static/img/guias/G03/add-comment.png)
+   ![Escribir comentario](../../static/img/guias/G03/add-comment.png)
 
-    ![Empezar revisión](../../static/img/guias/G03/start-review.png)
+   ![Empezar revisión](../../static/img/guias/G03/start-review.png)
 
 3. Tu comentario se verá así.
 
-    ![Comentario](../../static/img/guias/G03/comment-saved.png)
+   ![Comentario](../../static/img/guias/G03/comment-saved.png)
 
 ### Cómo hacer modificaciones de un archivo
 
-1. Dar clic en **...** y luego en ***Edit file*** en el archivo que quieras modificar.
+1. Dar clic en **...** y luego en **_Edit file_** en el archivo que quieras modificar.
 
-    ![Editar archivo](../../static/img/guias/G03/edit-file.png)
+   ![Editar archivo](../../static/img/guias/G03/edit-file.png)
 
 2. Realiza los cambios que consideres necesarios usando la pestaña preview como ayuda para revisarlos.
 
 3. Realiza el commit de tus cambios usando la estructura de la siguiente imagen. Asegurate de seleccionar la opción para hacer el commit en la misma rama del pull request.
 
-    ![Hacer commit](../../static/img/guias/G03/commit-changes.png)
+   ![Hacer commit](../../static/img/guias/G03/commit-changes.png)
 
 4. El commit debería salir en el tab **Conversation** del pull request.
 
-    ![Resultado de commit](../../static/img/guias/G03/commit-history.png)
+   ![Resultado de commit](../../static/img/guias/G03/commit-history.png)
 
 ## Salidas
 
@@ -102,6 +118,7 @@ Si durante tu revisión realizaste modificaciones y se hicieron commits a la ram
 ## Autores
 
 - Eric Buitrón López
+- Saul Axel Palacios Acosta
 
 ## Auditoría
 
