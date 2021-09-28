@@ -1,24 +1,23 @@
-# P14 - Proceso de definición del plan inicial
+# P14 - Proceso de definición de un plan.
 
 ## Objetivo(s)
 
-- Definir un plan del proyecto
+- Definir un plan.
 
 ## Entradas
 
-- Objetivos del proyecto a trabajar
+- Objetivo(s) SMART.
 
 ## Procedimiento
 
 | Fase |   Actividades   | Área(s) involucradas |
 |------|:---------------:|--------------------|
-| 1. Identificación | <ul><li>Ver qué recursos y habilidades se necesitan para el plan </li><li>Reunir las habilidades y recursos que se tienen en el momento </li><li>Analizar las habilidades que les faltan a las personas que son necesarias para el plan </li><li>Identificar los riesgos del plan [(Seguir la guía)](../guias/G06-guia-definicion-riesgos) </li><li>Identificar a los interesados en TODAS las fases del plan </li></ul> | <ul><li>PP 2.4</li><li>PP 2.5</li><li>PP 2.5</li><li>PP 2.2</li><li>RSKM</li><li>PP 2.6</li></ul> |
-| 2. Definición | <ul><li>Definir las fases del ciclo de vida del plan </li><li>Definir los work items usando el WBS </li><li>Definir la estimación de cada work item (ya tenemos proceso/guía) </li><li>Definir los hitos del plan </li><li>Definir la asignación de tareas con el equipo y requerimientos que se identificaron </li></ul> | <ul><li>PP 1.3</li><li>PP 1.1</li><li>PP 1.2</li><li>PP 2.1</li><li>PP 2.4</li></ul> |
-| 3. Solución | <ul><li>Proponer la solución que toma en cuenta todos los aspectos mencionados anteriormente</li></ul> | <ul><li>PP 2.7</li><li>TS 1.1</li></ul> |
+| 1. Identificación | <ul><li>Definir las fases del ciclo de vida del plan </li> <li>Ver qué recursos y habilidades se necesitan para el plan [(Usar la plantilla de vision statement)](../plantillas/PL07-plantilla-para-vision-statement-de-un-plan)</li><li>Reunir las habilidades y recursos que se tienen en el momento [(Usar la plantilla de vision statement)](../plantillas/PL07-plantilla-para-vision-statement-de-un-plan)</li><li>Analizar las habilidades que les faltan a las personas que son necesarias para el plan [(Usar la plantilla de vision statement)](../plantillas/PL07-plantilla-para-vision-statement-de-un-plan)</li><li>Ubicar dentro una matriz de interesados a los involucrados del plan para poder definir un plan de comunicación con ellos [(Usar la guía)] </li> <li>Invocar al [(proceso de gestión de riesgos)](../procesos/P08-proceso-gestion-riesgos)</li></ul> | <ul><li>PP 2.4</li><li>PP 2.5</li><li>PP 2.5</li><li>PP 2.2</li><li>RSKM</li><li>PP 2.6</li></ul> |
+| 2. Estimación | <ul><li>Proponer una solución. </li><li>Definir el WBS del plan [(guía)](../guias/G07-guia-wbs) </li><li>Definir la estimación de cada work item (ya tenemos proceso/guía) </li><li>Identificar la disponibilidad de los miembros del plan.</li><li>Estimar el calendario del plan</li><li>Definir los hitos del plan .</li>  </ul> | <ul><li>PP 1.3</li><li>PP 1.1</li><li>PP 1.2</li><li>PP 2.1</li><li>PP 2.4</li></ul> |
+| 3. Solución | <ul><li>Obtener compromiso de todos los interesados.</li> <li>Verificar la solución.</li> </ul> | <ul><li>PP 2.7</li><li>TS 1.1</li></ul> |
 
 ## Salidas
-
-- Definición de un plan
+- Un plan
 
 ## Autores
 
