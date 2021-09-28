@@ -24,7 +24,7 @@
   <tbody>
     <tr>
       <td rowspan="2">Solicitud</td>
-      <td>Comunicarse con el evaluador o la evaluadora para agendar fecha y hora de entrega seguir <a href="../guias/G01-guia-para-agendar-juntas.md">Guia para agendar juntas</a>.</td>
+      <td>Comunicarse con el evaluador o la evaluadora para agendar fecha y hora de entrega seguir <a href="/guias/G01-guia-para-agendar-juntas">Guia para agendar juntas</a>.</td>
       <td rowspan="7"><ul><li>OPF - 1.2</li><li>VER- 1.1</li><li>OPF - 1.2</li><li>VER -  1.2</li><li>VER - 1.3</li><li>VAL - 1.1</li><li>VAL - 1.2</li></ul></td>
     </tr>
     <tr>
