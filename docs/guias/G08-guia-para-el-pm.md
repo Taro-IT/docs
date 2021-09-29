@@ -8,41 +8,37 @@
 
 - N/A
 
-## Pasos a seguir (cambiar)
 
 ### Descripción del Rol
 
-- El rol program manager se caracteriza por ser responsable del cumplimiento de los objetivos departamentales así como de asegurarse de que todos los integrantes esten alineados
-hacia la misma direccion procurando su estabilidad fisica y emocional.  
+-El rol program manager se caracteriza por ser responsable del cumplimiento de los objetivos departamentales así como de asegurarse de que todos los integrantes estén alineados
+hacia la misma dirección procurando su estabilidad física y emocional.
+
 
 ### Responsabilidades
 
-<p>Dentro de las responsabilidades de un PM estan las siguientes:</p>
+<p>Dentro de las responsabilidades de un PM están las siguientes:</p>
 
 - Motivar a todos los integrantes del departamento.
 - Procurar remover cualquier impedimento que pueda afectar las labores de los integrantes.
-- Velar por el cumplimiento y la direccion de los valores, Mision y Vision departamental.
-- Asegurarse de que los objetivos departamentales se cumplan o al menos avancen.
+- Velar por el cumplimiento y la dirección de los valores, misión y visión departamental.
+- Velar por la constante participation del departamento en las actividades departamentales.
+- Asegurarse de que los objetivos departamentales se cumplan o al menos avancen de manera constante.
 
-<p>Dentro de las tareas que los PMs realizan estan las siguientes:</p>
+<p>Dentro de las tareas que los PMs realizan están las siguientes:</p>
 
 
 
-- Pláticas 1 a 1.
-- Planeacion departamental en base al Pool de horas departamentales
-- Organizar juntas departamentales y de liderazgo.
-- Organizar la sesión de calendarización semanal.
+- [Pláticas 1 a 1](G05-guia-platicas-1-a-1.md).
+- Planeación departamental basándose en el Pool de horas departamentales.
+- Organizar [juntas departamentales](../procesos/P01-proceso-juntas-departamentales.md) y de liderazgo.
+- Organizar la sesión de [calendarización semanal](https://calendar.google.com/calendar/u/0?cid=Y19mcHJrNWxmZXB2MWRzbGlwdTFkdjFsZXQyY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 - Representar al departamento con vinculación académica.
-
 - Conocer el estado de cada uno de los proyectos.
 - Pedir retroalimentación constante de los maestros.
-- Asegurarse de mantener el kanban board departamental (Github o Jira)actualizado.
-- 
-
-- Leer constantemente las bibliografias recomendadas
-- Animar y empoderar a los integrantes a poner en marchas las propuestas de mejora.
-- 
-
+- Asegurarse de mantener el kanban board departamental ([Github](https://github.com/Taro-IT/docs/projects/1) o [Jira](https://taro-depto-ti.atlassian.net/jira/software/projects/TARO/boards/1)) actualizado.
+- Leer constantemente las [bibliografías recomendadas](../politicas/POL03-forma-de-trabajo.md).
+- Animar y empoderar a los integrantes a poner en marcha las propuestas de mejora.
 
 ### Habilidades a desarrollar
 
