@@ -23,7 +23,13 @@ Revolucionar la industria del software desarrollando proyectos que se apeguen a 
 
 3.-Mejorar al menos un proceso interno en cada una de las iteraciones que se realicen para alcanzar mínimamente el nivel de certificación CMMI 2 al final del semestre.
 
+## Mapa de procesos
 
+Nuestro mapa de procesos se encuentra [aquí](https://drive.google.com/file/d/1DvFDwbp8PZt1BbRoPlbEJsgMrf43-qhj/view?usp=sharing).
+
+La versión más reciente se ve así:
+
+![Mapa de Procesos](../static/img/mapa-de-procesos.png)
 
 ## Valores
 
