@@ -46,9 +46,8 @@ Mantener una gestion y control de los cambios que sufren los assets y lineas de 
       archivos afectados. En caso de ser un repositorio de código sigue la <a
       href="">
       Guía de Manejo de Ramas </a> y en caso de ser un repositorio de documentación,
-      e.g. Wiki, sigue la <a
-      href="">Guía de Actualizacion de Wiki
-      </td></li>
+      e.g. Wiki, sigue la <a href="">Guía de Actualizacion de Wiki</a>
+          </li>
         </ul>
       </td>
       <td>
