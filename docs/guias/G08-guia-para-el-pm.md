@@ -11,7 +11,7 @@
 
 ### Descripción del Rol
 
--El rol program manager se caracteriza por ser responsable del cumplimiento de los objetivos departamentales así como de asegurarse de que todos los integrantes estén alineados
+-El rol de Program Manager (PM) se caracteriza por ser responsable del cumplimiento de los objetivos departamentales así como de asegurarse de que todos los integrantes estén alineados
 hacia la misma dirección procurando su estabilidad física y emocional.
 
 
