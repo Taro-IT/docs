@@ -1,13 +1,13 @@
-# POL04 - Definicion de elementos de configuracion
+# POL04 - Definición de elementos de configuración
 
 ### Objetivo:
 <p>Definir los productos de trabajo que están bajo Gestión de la Configuración.</p>
 
 **REGLAMENTO**
 
-1.-Los elementos de la configuración deberán seguir las recomendaciones de las siguientes guías, junto a las guias se enlistan los artefactos a los que se les debe de aplicar dicha guia.
+1.-Los elementos de la configuración deberán seguir las recomendaciones de las siguientes guías, junto a las guías se enlistan los artefactos a los que se les debe de aplicar dicha guía.
 
- <p><strong><a href="">Guia de manejo de configuracion</a></strong></p>
+ <p><strong><a href="">Guía de manejo de configuración</a></strong></p>
      
  * **Internos**:
       *Definen la forma de trabajo del departamento.*
@@ -40,14 +40,14 @@
      </ul>
      <br></br>
 
-<p><strong><a href="">Guia de control de ramas</a></strong></p>
+<p><strong><a href="">Guía de control de ramas</a></strong></p>
 
 * **Relacionados con las herramientas**:
 _Se usan para el desarrollo de la solución del cliente._
     <ul>
-          <li><a href="">Lineas base del repositorio de Frappe</a></li>
-          <li><a href="">Lineas base del repositorio de Espresso</a></li>
-          <li><a href="">Linea base del repositorio del departamento</a></li>
+          <li><a href="">Líneas base del repositorio de Frappe</a></li>
+          <li><a href="">Líneas base del repositorio de Espresso</a></li>
+          <li><a href="">Línea base del repositorio del departamento</a></li>
     </ul>
     <br></br>   
 
