@@ -22,7 +22,7 @@ hacia la misma dirección procurando su estabilidad física y emocional.
 - Motivar a todos los integrantes del departamento.
 - Procurar remover cualquier impedimento que pueda afectar las labores de los integrantes.
 - Velar por el cumplimiento y la dirección de los valores, misión y visión departamental.
-- Velar por la constante participation del departamento en las actividades departamentales.
+- Velar por la constante participación del departamento en las actividades departamentales.
 - Asegurarse de que los objetivos departamentales se cumplan o al menos avancen de manera constante.
 
 <p>Dentro de las tareas que los PMs realizan están las siguientes:</p>
@@ -30,7 +30,7 @@ hacia la misma dirección procurando su estabilidad física y emocional.
 
 
 - [Pláticas 1 a 1](G05-guia-platicas-1-a-1.md).
-- Planeación departamental basándose en el Pool de horas departamentales.
+- Planeación departamental basándose en el pool de horas departamentales.
 - Organizar [juntas departamentales](../procesos/P01-proceso-juntas-departamentales.md) y de liderazgo.
 - Organizar la sesión de [calendarización semanal](https://calendar.google.com/calendar/u/0?cid=Y19mcHJrNWxmZXB2MWRzbGlwdTFkdjFsZXQyY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 - Representar al departamento con vinculación académica.
