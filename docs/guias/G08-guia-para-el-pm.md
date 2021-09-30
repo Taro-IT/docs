@@ -36,11 +36,9 @@ hacia la misma dirección procurando su estabilidad física y emocional.
 - Representar al departamento con vinculación académica.
 - Conocer el estado de cada uno de los proyectos.
 - Pedir retroalimentación constante de los maestros.
-- Asegurarse de mantener el kanban board departamental ([Github](https://github.com/Taro-IT/docs/projects/1) o [Jira](https://taro-depto-ti.atlassian.net/jira/software/projects/TARO/boards/1)) actualizado.
+- Asegurarse de mantener el kanban board departamental ([Jira](https://taro-depto-ti.atlassian.net/jira/software/projects/TARO/boards/1)) actualizado.
 - Leer constantemente las [bibliografías recomendadas](../politicas/POL03-forma-de-trabajo.md).
 - Animar y empoderar a los integrantes a poner en marcha las propuestas de mejora.
-
-### Habilidades a desarrollar
 
 ## Salidas
 
