@@ -1,14 +1,14 @@
-# P16 - Proceso Actualizacion de Assets
+# P16 - Proceso de Actualización de Assets
 
 ## Objetivo(s)
 
-Mantener una gestion y control de los cambios que sufren los assets y lineas de codigo dia a dia, para que todos los miembros del departamento tengan facil acceso a las versiones mas recientes de los mismos.
+- Mantener una gestión y control de los cambios que sufren los assets y líneas de código día a día, para que todos los miembros del departamento tengan fácil acceso a las versiones más recientes de los mismos.
 
 ## Entradas
 
-1.-Asset o linea de codigo
+1.-Asset o línea de código
 
-2.-Un cambio o actualizacion a uno de dichos elementos
+2.-Un cambio o actualización a uno de dichos elementos
 
 ## Procedimiento
 
@@ -39,7 +39,7 @@ Mantener una gestion y control de los cambios que sufren los assets y lineas de 
       </td>
     </tr>
     <tr>
-      <td>Implementacion</td>
+      <td>Implementación</td>
       <td>
         <ul align="left">
           <li>Crea un <strong>Pull Request</strong> hacia el repositorio de los
@@ -90,7 +90,7 @@ Mantener una gestion y control de los cambios que sufren los assets y lineas de 
       <td>Publicación</td>
       <td>
         <ul align="left">
-          <li>Haz <em>merge</em> de los cambios o valida que se completo el pull request</li>
+          <li>Haz <em>merge</em> de los cambios o valida que se completó el pull request</li>
         </ul>
       </td>
       <td>
@@ -111,19 +111,17 @@ Mantener una gestion y control de los cambios que sufren los assets y lineas de 
 
 ## Autores
 
-Juan Manuel Amador Perez Flores
-- 
+- Juan Manuel Amador Perez Flores
+ 
 
 ## Auditoría
 
-_Enlistar a las personas que revisaron el proceso_
+- Eric Buitrón López
 
-- 
-
-## Metricas
+## Métricas
 
 1. Tiempo de revisión de cambios.
 2. _Breakdown_ por categoría de cambios, i.e. si fueron _fixes_, adiciones,
 eliminaciones, etc.
 
-v1.0
+v1.1
