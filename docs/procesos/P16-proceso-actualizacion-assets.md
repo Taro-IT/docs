@@ -46,7 +46,7 @@
       archivos afectados. En caso de ser un repositorio de código sigue la <a
       href="">
       Guía de Manejo de Ramas </a> y en caso de ser un repositorio de documentación,
-      e.g. Wiki, sigue la <a href="">Guía de Actualizacion de Wiki</a>
+      e.g. Wiki, sigue la <a href="">Guía de Actualización de Wiki</a>
           </li>
         </ul>
       </td>
@@ -68,7 +68,7 @@
       </td>
       <td>
         <ul>
-          <li>CM, REQM,VAL, VER</li>
+          <li>CM, REQM, VAL, VER</li>
         </ul>
       </td>
     </tr>
@@ -117,11 +117,12 @@
 ## Auditoría
 
 - Eric Buitrón López
+- Adolfo Acosta Castro
 
 ## Métricas
 
 1. Tiempo de revisión de cambios.
-2. _Breakdown_ por categoría de cambios, i.e. si fueron _fixes_, adiciones,
+2. _Breakdown_ por categoría de cambios, i.e. sí fueron _fixes_, adiciones,
 eliminaciones, etc.
 
 v1.1
