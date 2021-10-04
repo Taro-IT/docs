@@ -43,7 +43,7 @@ La persona que asumirá el rol de Product Owner tendrá el conocimiento necesari
 ## Autores
 ​
 - Adolfo Acosta Castro
-- 
+- Raúl Rosario Sandoval Galaviz
 ​
 ## Auditoría
 ​
