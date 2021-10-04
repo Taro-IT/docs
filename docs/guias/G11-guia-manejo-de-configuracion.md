@@ -14,7 +14,7 @@
 
 El manejo de configuración dentro de Taro nos permite mantener consistencia en los artefactos y los cambios que sufren, de tal forma que sea visible y accesible la evolución de nuestro trabajo para todos los miembros del departamento. 
 
-Además, nos permite manejar las versiones de forma correcta para pode, de ser necesario, ver información generada en el pasado de forma ordenada.
+Además, nos permite manejar las versiones de forma correcta para poder, de ser necesario, ver información generada en el pasado de forma ordenada.
 
 Para poder cumplir con ello se siguen las siguientes prácticas:
 
@@ -72,6 +72,6 @@ Así una versión de un artefacto que ha recibido 1 cambio de gran magnitud y 3 
 
 ## Auditoría
 
-- 
+- Eric Buitrón López
 
-V1.0a
+V1.1a
