@@ -30,11 +30,11 @@ hacia la misma dirección procurando su estabilidad física y emocional.
 
 
 - [Pláticas 1 a 1](G05-guia-platicas-1-a-1.md).
-- Planeación departamental basándose en el pool de horas departamentales.
+- Planeación departamental basándose en el [pool de horas departamentales](https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit?usp=sharing) (que se encuentra en la pestaña llamada "Disponibilidad").
 - Organizar [juntas departamentales](../procesos/P01-proceso-juntas-departamentales.md) y de liderazgo.
 - Organizar la sesión de [calendarización semanal](https://calendar.google.com/calendar/u/0?cid=Y19mcHJrNWxmZXB2MWRzbGlwdTFkdjFsZXQyY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 - Representar al departamento con vinculación académica.
-- Conocer el estado de cada uno de los proyectos.
+- Conocer el estado de cada uno de los proyectos al saber el CPI y el SPI de cada uno para fomentar la toma decisiones. De igual manera entrar al menos a 2 juntas de cada equipo semanalmente para estar al tanto de las decisiones que toma cada equipo.
 - Pedir retroalimentación constante de los maestros.
 - Asegurarse de mantener el kanban board departamental ([Jira](https://taro-depto-ti.atlassian.net/jira/software/projects/TARO/boards/1)) actualizado.
 - Leer constantemente las [bibliografías recomendadas](../politicas/POL03-forma-de-trabajo.md).
