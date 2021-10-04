@@ -1,4 +1,4 @@
- G010 - Guía para el Product Owner
+ # G10 - Guía para el Product Owner
 ​
 ## Objetivo(s)
 ​
@@ -47,4 +47,4 @@ La persona que asumirá el rol de Product Owner tendrá el conocimiento necesari
 ​
 ## Auditoría
 ​
-- 
+- Eric Buitrón López
