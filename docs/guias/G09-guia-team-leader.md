@@ -10,7 +10,7 @@
 
 ### Descripción del rol
 
-- El Team Leader (TL) actúa como un *agile coach* quien ayuda a que el equipo cumpla con los objetivos de cada iteración, mantiendo al equipo centrado en la entrega del trabajo. 
+- El Team Leader (TL) actúa como un *agile coach* quien ayuda a que el equipo cumpla con los objetivos de cada iteración, manteniendo al equipo centrado en la entrega del trabajo. 
 - El Team Leader elimina cualquier impedimento que pueda presentar cualquier otro miembro del equipo o del departamento. Facilita la comunicación, y procura mantener la motivación del equipo y del departamento.
 
 ### Responsabilidades
@@ -24,7 +24,7 @@ Dentro de las responsabilidades de un TL están las siguientes:
   
 Dentro de las tareas de un TL están las siguientes:
 
-- Moderar las juntas de trabajo ([planificación de iteración](../procesos/P15-proceso-planeacion-de-iteracion.md), daily meetings, retrospectiva de iteración).
+- Moderar las juntas de trabajo ([planificación de iteración](../procesos/P15-proceso-planeacion-de-iteracion), daily meetings, retrospectiva de iteración).
 - Conocer y monitorear el estado de las tareas de cada iteración.
 - Planear la agenda de las juntas del equipo.
 - Conocer la disponibilidad de trabajo del equipo.
@@ -41,4 +41,4 @@ La persona que asumirá el rol de Team Leader tendrá el conocimiento necesario 
 
 ## Auditoría
 
-- 
+- Eric Buitrón López
