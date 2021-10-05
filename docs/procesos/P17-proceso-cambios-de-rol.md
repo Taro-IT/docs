@@ -24,11 +24,13 @@
         <ul align="left">
           <li>Se identificará a las personas interesadas en el rol.</li>
           <li>Las personas interesadas crearán sus objetivos en el rol de forma SMART.</li>
-          <li>Las personas interesadas enlistarán posibles riesgos o impedimentos de ser asignadas en el rol.</li>
+          <li>Las personas interesadas enlistarán posibles <a href="https://docs.google.com/spreadsheets/d/1L_IWQMrYGR4vnJVB-YF48OHtPyNLnXWxmzz2g-aHHGM/edit?usp=sharing">riesgos</a> o impedimentos de ser asignadas en el rol.</li>
+          <li>La persona interesada hara un <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">listado de qué necesita saber</a> para desempeñarse en el rol.</li>
         </ul>
       </td>
       <td>
         <ul>
+          <li>OT - 1.1</li>
           <li>DAR - 1.3</li>
         </ul>
       </td>
@@ -51,26 +53,41 @@
       <td>Preparación</td>
       <td>
         <ul align="left">
-          <li>La persona que está actualmente en el rol preparará la capacitación, basándose en el [Plan de capacitación para rol], para la persona que entrará en el rol.</li>
+          <li>En base a las necesidades de la persona asignada , se <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">planeará su capacitación</a> considerando las actividades de la fase de transición siguiendo el <a href="../procesos/P14-proceso-de-definicion-del-plan-inicial">proceso de definición de un plan</a>.</li>
+          <li>En caos de ser necesario modificaciones a la guia del rol, siguiendo el <a href="#">proceso para actualizar assets</a></li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>OT - 1.1</li>
+          <li>OT - 1.2</li>
+          <li>OT - 1.3</li>
+          <li>OT - 1.4</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Transición</td>
       <td>
-        <ul align="left">
-          <li>La persona que entra en el rol, deberá leer la guía del rol y asegurarse de resolver las dudas que tenga durante el periodo de capacitación.</li>
-          <li>La persona que deja el rol, deberá darle capacitación y seguimiento adecuados a la persona entrante.</li>
-        </ul>
+            <p>Durante esta fase se tomarán métricas de los tiempos, resultados y esfuerzos de cada actividad</p>
+           <ol>
+                <li>Previamente la persona asignada en alguno de los roles, tendrá que leer la guia correspondiente:
+                    <ol>
+                        <li><a href="../guias/G08-guia-para-el-pm">Guía para Program manager</a></li>
+                        <li><a href="../guias/G09-guia-team-leader">Guía para Team Leader</a></li>
+                        <li><a href="#">Guía para Product Owner</a></li>
+                        <li><a href="#">Guía para Architecture Owner</a></li>
+                    </ol>
+                </li>
+                <li>La persona en el rol , agendará una sesión con la persona asignada para resolver dudas acerca del rol. </li>
+                <li>La persona en el rol actual acompañará a la persona asignada en un tiempo estimado de 3 a 5 días para apoyarla y guiarla en la práctica. </li>
+                <li>La persona en el rol actual dará un cierre formal de las actividades y se mantendrá al tanto de cualquier asesoría que se ocupe y la persona en el nuevo rol dejara una <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">retroalimentación</a> de la capacitación recibida.</li>
+            </ol>
       </td>
       <td>
         <ul>
           <li>OT - 2.1</li>
+          <li>OT - 2.2</li>
+          <li>OT - 2.3</li>
         </ul>
       </td>
     </tr>
@@ -80,11 +97,14 @@
 ## Salidas
 
 - Nueva persona en el rol con la capacitación suficiente para poder desempeñarse de manera exitosa.
+- [Plan de capacitación de rol](https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing).
+- [Retroalimentación de capacitación](https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing)
 
 ## Autores
 
 - Eric Buitrón López
+- José Carlos Pacheco Sánchez
 
 ## Auditoría
 
-- 
+- Juan Manuel Amador Perez Flores
