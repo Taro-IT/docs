@@ -108,3 +108,4 @@
 ## Auditoría
 
 - Juan Manuel Amador Perez Flores
+- Raúl Rosario Sandoval Galaviz
