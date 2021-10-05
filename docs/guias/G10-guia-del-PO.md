@@ -48,3 +48,4 @@ La persona que asumirá el rol de Product Owner tendrá el conocimiento necesari
 ## Auditoría
 ​
 - Eric Buitrón López
+- Juan Manuel Amador Perez Flores
