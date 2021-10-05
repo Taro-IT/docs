@@ -74,7 +74,7 @@
                     <ol>
                         <li><a href="../guias/G08-guia-para-el-pm">Guía para Program manager</a></li>
                         <li><a href="../guias/G09-guia-team-leader">Guía para Team Leader</a></li>
-                        <li><a href="#">Guía para Product Owner</a></li>
+                        <li><a href="../guias/G10-guia-del-PO">Guía para Product Owner</a></li>
                         <li><a href="#">Guía para Architecture Owner</a></li>
                     </ol>
                 </li>
