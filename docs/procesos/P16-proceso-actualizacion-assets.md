@@ -111,7 +111,7 @@
 
 ## Autores
 
-- Juan Manuel Amador Perez Flores
+- Juan Manuel Amador Pérez Flores
  
 
 ## Auditoría
