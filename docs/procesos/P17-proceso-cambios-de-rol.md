@@ -6,7 +6,7 @@
 
 ## Entradas
 
-_Enlistar las entradas necesarias para ejecutar el proceso_
+- Necesidad de cambio de rol. Esta puede ser por parte de la persona que está actualmente en el rol o por decisión departamental tal cómo en fechas planeadas de rotación.
 
 ## Procedimiento
 
@@ -19,41 +19,58 @@ _Enlistar las entradas necesarias para ejecutar el proceso_
 
   <tbody>
     <tr>
-      <td>_El nombre de la fase a seguir_</td>
+      <td>Exploración</td>
       <td>
         <ul align="left">
-          <li>_La descripción de las actividades a seguir en dicho paso_</li>
+          <li>Se identificará a las personas interesadas en el rol.</li>
+          <li>Las personas interesadas crearán sus objetivos en el rol de forma SMART.</li>
+          <li>Las personas interesadas enlistarán posibles riesgos o impedimentos de ser asignadas en el rol.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>_El o las áreas del CMMI involucradas en esta fase (Poner la práctica específica y no solo el área)_</li>
+          <li>DAR - 1.3</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>_El nombre de la fase a seguir_</td>
+      <td>Asignación</td>
       <td>
         <ul align="left">
-          <li>_La descripción de las actividades a seguir en dicho paso_</li>
+          <li>Las personas interesadas deciden quién se queda en el rol evaluando los riesgos asociados con cada interesado.</li>
+          <li>Se notifica la asignación al resto del departamento y a los consultores.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>_El o las áreas del CMMI involucradas en esta fase (Poner la práctica específica y no solo el área)_</li>
+          <li>DAR - 1.5</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>_El nombre de la fase a seguir_</td>
+      <td>Preparación</td>
       <td>
         <ul align="left">
-          <li>Prioriza las historias de usuario con base en las necesidades del stakeholder y el valor que le aportarán.</li>
+          <li>La persona que está actualmente en el rol preparará la capacitación, basándose en el [Plan de capacitación para rol], para la persona que entrará en el rol.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>_El o las áreas del CMMI involucradas en esta fase (Poner la práctica específica y no solo el área)_</li>
+          <li>OT - 1.1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Transición</td>
+      <td>
+        <ul align="left">
+          <li>La persona que entra en el rol, deberá leer la guía del rol y asegurarse de resolver las dudas que tenga durante el periodo de capacitación.</li>
+          <li>La persona que deja el rol, deberá darle capacitación y seguimiento adecuados a la persona entrante.</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>OT - 2.1</li>
         </ul>
       </td>
     </tr>
@@ -62,12 +79,11 @@ _Enlistar las entradas necesarias para ejecutar el proceso_
 
 ## Salidas
 
-_Enlistar los resultados obtenidos al seguir el procedimiento del proceso. Deben estar alineados al objetivo del proceso._
+- Nueva persona en el rol con la capacitación suficiente para poder desempeñarse de manera exitosa.
 
 ## Autores
 
 - Eric Buitrón López
-- José Carlos Pacheco Sánchez
 
 ## Auditoría
 
