@@ -9,6 +9,12 @@ Guiar sobre el uso de control de versiones
 Tener git instalado
 
 Haber clonado los repositorios base:
+- <p><a href="https://github.com/Taro-IT/docs"> Línea base del departamento</a></p>
+
+- <p><a href="https://github.com/Taro-IT/Espresso"> Línea base de Espresso</a></p>
+
+- <p><a href="https://github.com/Taro-IT/frappe"> Línea base de Frappe</a></p>
+
 ## Ramas Permanentes
 
 Las ramas permanentes son las líneas de código sobre las que se derivan las demás ramas. Estas nunca dejan de existir y se integran continuamente.
@@ -52,7 +58,7 @@ La siguiente tabla explica los prefijos aceptados actualmente.
 
 Para poder comenzar a desarrollar de forma local es necesario seguir los siguientes pasos
 
-- Clonar el repositorio base sobre el que se va a trabajar, los cuales pueden ser
+- Clonar el repositorio base sobre el que se va a trabajar, los cuales pueden ser:
 
     - <p><a href="https://github.com/Taro-IT/docs"> Línea base del departamento</a></p>
 
