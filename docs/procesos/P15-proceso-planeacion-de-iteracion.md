@@ -54,7 +54,7 @@
           <li>Discutir las ventajas y desventajas de la solución ideada.</li>
           <li>Elegir la solución propuesta más adecuada para el socio formador, tomando en cuenta el costo y esfuerzo de implementación de la solución.</li>
           <li>Agregar el ítem al stack de tareas.</li>
-          <li>Acutalizar la matriz de trazabilidad con la nueva tarea.</li>
+          <li>Actualizar la matriz de trazabilidad con la nueva tarea.</li>
           <li>Con base en el WBS, en la sección del ítem de trabajo, descomponer el ítem en las subtareas correspondientes.</li>
         </ul>
       </td>
