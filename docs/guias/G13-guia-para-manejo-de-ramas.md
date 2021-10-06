@@ -13,7 +13,7 @@ Haber clonado los repositorios base:
 
 Las ramas permanentes son las líneas de código sobre las que se derivan las demás ramas. Estas nunca dejan de existir y se integran continuamente.
 
-![gitflow](../../static/img/guias/G13/ramasMainGit.png)
+![ramasMainGit](../../static/img/guias/G13/ramasMainGit.png)
 
 ### Master
 
@@ -88,16 +88,11 @@ git commit -m "Se agregaron funcionades relacionadas a la validación de factura
 </code></pre>    
 
 - Una vez aprobado el pull request se debe de eliminar la rama local sobre la que se estuvo trabajando, en caso de que se soliciten cambios se deben de implementar y volver a agregar los commits necesarios para resolverlos.
+
 ## Autores
-
-
-
 - Juan Manuel Amador Perez Flores
 
 ## Auditoría
-
-_Enlistar a las personas que revisaron la guía_
-
-- 
+- Adolfo Acosta Castro
 
 
