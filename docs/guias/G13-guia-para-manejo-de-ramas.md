@@ -1,5 +1,3 @@
-# PL02 - Plantilla para Guías
-
 # G11 - Guía para manejo de ramas
 
 ## Objetivo(s)
