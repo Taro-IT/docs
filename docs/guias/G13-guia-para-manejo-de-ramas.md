@@ -11,27 +11,27 @@ Tener git instalado
 Haber clonado los repositorios base:
 ## Ramas Permanentes
 
-Las ramas permamentes son las lineas de codigo sobre las que se derivan las demas ramas. Estas nunca dejan de existir y se integran continuamente.
+Las ramas permanentes son las líneas de código sobre las que se derivan las demás ramas. Estas nunca dejan de existir y se integran continuamente.
 
 ![gitflow](../../static/img/guias/G13/ramasMainGit.png)
 
 ### Master
 
-En esta rama sólo existe codigo que esta listo para desplegarse en produccion, es la version estable de los proyectos y que contiene una solucion utilizable. 
+En esta rama sólo existe código que está listo para desplegarse en producción, es la versión estable de los proyectos y que contiene una solución utilizable.
 
-Dicha rama ha pasado todo el cluster de pruebas y ademas las reviews de los pull request. 
+Dicha rama ha pasado todo el cluster de pruebas y además las reviews de los pull request. 
 
-El merge de dev a master se realiza a traves de pull request. El unico caso en donde se puede realizar un push directo a master es en el caso de un hotfix, pero debera ser aprobado por ambos Architecture Owners y debidamente justificado.
+El merge de dev a master se realiza a través de un pull request. El único caso en donde se puede realizar un push directo a master es en el caso de un hotfix, pero deberá ser aprobado por ambos Architecture Owners y debidamente justificado.
 
 
 ### Dev
 
-La rama de dev contiene las features mas recientes , cuando dichas features agreguen valor y son capaces de mostrarse en una demo se despliegan a la rama de master a traves de un pull request.
+La rama de dev contiene las features más recientes, cuando dichas features agreguen valor y son capaces de mostrarse en una demo se despliegan a la rama de master a través de un pull request.
 
-Esta rama es a partir de la cual se crean las diferentes ramas locales para trabajar, es la rama dinamica sobre la que se implementan los cambios.
+Esta rama es a partir de la cual se crean las diferentes ramas locales para trabajar, es la rama dinámica sobre la que se implementan los cambios.
 ## Ramas Temporales
 
-Las ramas temporales son las ramas en las que se trabaja de forma local. Dichas ramas proceden siempre de la rama permanente Dev. La convencion para nombrarlas es: 
+Las ramas temporales son las ramas en las que se trabaja de forma local. Dichas ramas proceden siempre de la rama permanente Dev. La convención para nombrarlas es: 
 
 `[Prefijo]/[Contexto/Epic]/[Nombre del item de trabajo]`.
 
@@ -54,11 +54,11 @@ Para poder comenzar a desarrollar de forma local es necesario seguir los siguien
 
 - Clonar el repositorio base sobre el que se va a trabajar, los cuales pueden ser
 
-    - <p><a href="https://github.com/Taro-IT/docs"> Linea base del departamento</a></p>
+    - <p><a href="https://github.com/Taro-IT/docs"> Línea base del departamento</a></p>
 
-    - <p><a href="https://github.com/Taro-IT/Espresso"> Linea base de Espresso</a></p>
+    - <p><a href="https://github.com/Taro-IT/Espresso"> Línea base de Espresso</a></p>
 
-    - <p><a href="https://github.com/Taro-IT/frappe"> Linea base de Frappe</a></p>
+    - <p><a href="https://github.com/Taro-IT/frappe"> Línea base de Frappe</a></p>
 
 - Crear de forma local la rama Dev y sincronizarla con la rama Dev remota
 <pre><code>git branch dev  
@@ -71,13 +71,13 @@ git pull origin dev</code></pre>
 git checkout feature/finance/invoice-payments 
 </code></pre>
 
-- En este punto se ubicara sobre la rama local de desarrollo, por lo que se pueden agregar todos los commits que sean necesarios
+- En este punto se ubicará sobre la rama local de desarrollo, por lo que se pueden agregar todos los commits que sean necesarios
 
 <pre><code>git add -A  
-git commit -m  "Se agregaron funcionades relacionadas a la validacion de facturas" 
+git commit -m "Se agregaron funcionades relacionadas a la validación de facturas" 
 </code></pre>
 
-- Una vez que se haya terminado el trabajo y sea necesario subir los cambios a la rama de dev, se resolvera cualquier conflicto de forma local: 
+- Una vez que se haya terminado el trabajo y sea necesario subir los cambios a la rama de dev, se resolverá cualquier conflicto de forma local: 
 
 <pre><code>git pull merge dev 
 </code></pre>
