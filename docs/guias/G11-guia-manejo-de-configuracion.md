@@ -26,13 +26,21 @@ Permiten identificar de forma rápida y clara el tipo de artefacto con el que se
 
 Si tu artefacto no se encuentra en la guía anterior, puedes utilizar la siguiente tabla para encontrar el identificador único:
 
-| Tipo de artefacto       | Prefijo | Ejemplo |
-| ----------------------- | ------- | ------- |
-| Diagrama                | DG      | DG09    |
-| Wireframe               | WF      | WF01    |
-| Checklist               | CH      | CH03    |
-| Manual de usuario       | MU      | MU07    |
-| Modelo Entidad Relación | MER     | MER10   |
+| Tipo de artefacto             | Prefijo | Ejemplo |
+| ----------------------------- | ------- | ------- |
+| Diagrama (cualquiera del UML) | DG      | DG09    |
+| Wireframe                     | WF      | WF01    |
+| Checklist                     | CH      | CH03    |
+| Manual de Usuario             | MS      | MU07    |
+| Modelos (MER y MR)            | M       | M10     |
+| Work Breakdown Structure      | WBS     | WBS     |
+| Handbook de Arquitectura      | HA      | HA      |
+| Suites de Pruebas             | TS      | TS06    |
+| Mapa de Procesos              | MP      | MP      |
+| Documentación Técnica         | DT      | DT06    |
+| Matrices                      | MAT     | MAT05   |
+
+
 
 Si tu artefacto no se encuentra definido en ninguna de las guías, definir un identificador único para el mismo y actualizar la tabla de arriba de acuerdo al [Proceso para actualizar assets](https://github.com/Taro-IT/docs/pull/75).
 
@@ -49,17 +57,16 @@ Permite mantener un registro constante de los cambios que sufre un artefacto. Ta
 
 Para determinar de manera rápida y sencilla el estatus de un artefacto se definen los siguientes códigos de versión:
 
-**X.YZ**
+**X.Y**
 
-| Código | Descripción                                                  | Tipo      |
-| ------ | ------------------------------------------------------------ | --------- |
-| X      | Representa cambios de gran magnitud a un artefacto.          | Número    |
-| Y      | Representa cambios menores a un artefacto.                   | Número    |
-| Z      | Representa si la versión ya fue validada por el Configuration Control Board o es una versión inicial. (se quita la letra al ser validada por el CCB) | Letra "a" |
+| Código | Descripción                                                  | Tipo   |
+| ------ | ------------------------------------------------------------ | ------ |
+| X      | Representa una versión de nivel estático del artefacto, es decir una versión que se incluye en una línea base. | Número |
+| Y      | Representa cambios realizados a un artefacto durante un nivel controlado. | Número |
 
-Así una versión de un artefacto que ha recibido 1 cambio de gran magnitud y 3 cambios menores y que ya ha sido validado por el CCB deberá versionarse así: **2.3**
+Así un artefacto que ha sido incluido en una línea base y que ha sufrido 3 cambios ya que la forma de trabajo ha permitido identificar que el artefacto no cumple con su función como debería, deberá versionarse así: **1.3**
 
-**Nota:** Todas las versiones de todos los artefactos deben partir del **1.0a** donde se entiende que se trata de una versión inicial que no ha sido validada.
+**Nota:** Todas las versiones de todos los artefactos deben partir del **0.0** donde se entiende que se trata de una versión inicial en nivel dinámico.
 
 ## Salidas
 
@@ -73,5 +80,3 @@ Así una versión de un artefacto que ha recibido 1 cambio de gran magnitud y 3 
 ## Auditoría
 
 - Eric Buitrón López
-
-V1.1a
