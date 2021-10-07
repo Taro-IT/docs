@@ -89,7 +89,7 @@
               <li>Designar con el otro responsable del proceso una fecha para la corrección de no conformidades, teniendo en cuenta la fecha límite.</li>
               <li>Al empezar a trabajar en estas correcciones, cambiar el estado en la bitácora de auditorías a "En curso".</li>
               <li>Corregir cada una de las no conformidades identificadas y cambiar su estado dentro del informe de auditoría a corregido.</li>
-              <li>Si existe un desacuerdo entre auditor y responsable del producto de trabajo sobre alguna no conformidad, cambiar el estado de esta a "Reconsiderado" y explicar en la columna de "Comentarios" el porque del desacuerdo.</li>
+              <li>Si existe un desacuerdo entre auditor y responsable del producto de trabajo sobre alguna no conformidad, cambiar el estado de esta a "Reconsiderado" y explicar en la columna de "Comentarios" el porqué del desacuerdo.</li>
               <li>Al terminar con el listado de no conformidades, cambiar el estado de las mismas dentro de la bitácora de auditorías a "Resueltas" y llenar el campo "Fecha real de resolución" con la fecha pertinente.</li>
               <li>Comunicar por medio del canal de Slack taro-ccb a los auditores del proceso de la resolución de no conformidades.</li>
             </ul>
@@ -118,5 +118,5 @@
 
 ## Auditoría
 
-- 
+- Jan Limpens Gutiérrez
 
