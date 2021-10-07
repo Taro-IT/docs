@@ -69,6 +69,12 @@ En caso de no contar con acceso al calendario puedes seguir estos pasos para obt
 - Seleccionar el Calendario virtual en el que se colocará, ya sea Taro, Cínica o Medio Camino
 - Opcionalmente se puede agregar una notificación de recordatorio
 
+:::note
+
+En el caso de Frappé, los calendarios de disponibilidad de la semana se enviaran el domingo previo a la semana de trabajo.
+
+:::
+
 ![image](../../static/img/guias/G01/g01-img-7.png)
 
 ## Salidas
