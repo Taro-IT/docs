@@ -39,10 +39,11 @@ Datos, gráficas, índice CPI y SPI de la iteración.
       <td>Ejecución</td>
       <td>
         <ol align="left">
-          <li>Envía el link del tablero a los participantes e inicia un timer de 3 minutos</li>
+          <li>Envía el link del tablero a los participantes</li>
+          <li>Inicia un timer de 3 minutos </li>
           <li>Sin compartir la pantalla, los participantes deberán usar el tiempo para agregar la mayor cantidad de tarjetas en la columna de <b>Start Doing</b>. Cada tarjeta debe contener ideas de prácticas que cada quién considere que se deben hacer la siguiente iteración. Los participantes no deberán poder ver las tarjetas que escriban los demás. <br/>
           El formato para estas tarjetas es el siguiente: <i>"Actualmente tenemos X medición, si hacemos Y práctica obtendremos Z medición"</i></li>
-          <li>Repetir el paso anterior para las columnas restantes. <br/>La columna <b>Stop Doing</b> se llena con actividades o prácticas que cada quién considera que deben de dejar de hacerse la siguiente iteración; la columna <b>Continue Doing</b> con aquellas que deban continuarse ejecutando la siguiente iteración. <br/>Finalmente a columna de <b>Kudos</b> está dedicada a hacer menciones y reconocimientos, confetti y fiesta a prácticas, actividades o miembros de la iteración.</li>
+          <li>Repetir el paso 2 y 3 para las columnas restantes. <br/>La columna <b>Stop Doing</b> se llena con actividades o prácticas que cada quién considera que deben de dejar de hacerse la siguiente iteración; la columna <b>Continue Doing</b> con aquellas que deban continuarse ejecutando la siguiente iteración. <br/>Finalmente a columna de <b>Kudos</b> está dedicada a hacer menciones y reconocimientos, confetti y fiesta a prácticas, actividades o miembros de la iteración.</li>
         </ol>
       </td>
       <td>
