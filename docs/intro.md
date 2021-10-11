@@ -17,7 +17,7 @@ Revolucionar la industria del software desarrollando proyectos que se apeguen a 
 
 ## Objetivos
 
-1.-Entregar antes del 3 de diciembre del 2021 los proyectos administrados por Taro en costo, alcance y calidad para que satisfagan las necesidades de los socios y así se cumplan los objetivos acordados
+1.-Entregar antes del 3 de diciembre del 2021 los proyectos administrados por Taro en costo, alcance y calidad para que satisfagan las necesidades de los socios y así se cumplan los objetivos acordados.
 
 2.-Mejorar al menos un proceso interno en cada una de las iteraciones que se realicen para alcanzar mínimamente el nivel de certificación CMMI 2 + 7 áreas del 3 para el final del semestre.
 
