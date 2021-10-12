@@ -6,12 +6,12 @@
 
 - Generar una métrica para visualizar el avance del proyecto.
 
-## Pre-requisitos
+## Entradas
 
 - El PO asigna prioridad a todos y cada uno de los work items en la herramienta de seguimiento de tareas.
 - El PO estima las horas de trabajo para todos y cada uno de los work items en la herramienta de seguimiento de tareas.
 - Cada integrante del equipo, sin importar el rol, deberá ingresar su disponibilidad en horas para el periodo de iteración en la matriz de disponibilidad.
-- Agendar la junta de planeación siguiendo la *Guia para agendar juntas de equipo*.
+- Agendar la junta de planeación siguiendo la <a href="../guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>.
 
 ## Procedimiento
 

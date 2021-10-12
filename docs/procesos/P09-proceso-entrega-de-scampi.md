@@ -7,9 +7,6 @@
 ## Entradas
 
 - Tener identificadas las áreas a evaluar.
-
-## Entradas
-
 - Necesidad de mejora y retroalimentación en áreas definidas.
 - Petición de evaluación por parte del evaluador 
 

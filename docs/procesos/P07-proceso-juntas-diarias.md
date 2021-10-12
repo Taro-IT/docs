@@ -4,13 +4,11 @@
 
 
 - Agilizar el proceso de desarrollo del equipo e identificar bloqueos en las actividades asignadas.
-
-
 - Informar sobre el estatus de todas las actividades *en progreso* a los integrantes del equipo.
 
-## Pre-requisitos
+## Entradas
 
-- Agendar la junta diaria siguiendo el *Proceso para agendar juntas de equipo*.
+- Agendar la junta diaria siguiendo la <a href="../guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a> con un formato de continuidad diaria.
 - Herramienta de seguimiento de tareas con todos los work items asignados en la última junta de planeación actualizados (estatus y horas invertidas).
 
 ## Procedimiento
@@ -36,4 +34,4 @@
 - Eric Buitrón
 - Eduardo Guzmán
 
-## Versión 1.0
+## Versión 1.1
