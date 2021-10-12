@@ -59,7 +59,7 @@ Los elementos de configuración tienen 3 niveles, estos se definen a continuaci�
 
 2. #### Nivel controlado
 
-   Nivel intermedio donde existe un Para que un elemento de configuración entre o salga de nivel controlado se debe tener mecanismos, procesos, y/o aprobaciones que permitan tener control sobre los elementos de configuración. 
+   Nivel intermedio donde existe cierto control sobre los elementos de configuración pero que aún no han sido verificados. Para que un elemento de configuración entre o salga de nivel controlado se debe seguir un proceso de verificación que se describe en el *proceso de institucionalización*. 
 
 3. #### **Nivel estático**
 
@@ -74,7 +74,7 @@ Una línea base es la especificación de elementos de la configuración que han 
 - **Identificados:** Son productos de trabajo que entran en la categoría de elementos de configuración según los criterios definidos y que siguen la *Guía de manejo de configuración* y *Guía de control de ramas* según sea necesario.
 
 - **Auditados:** Productos de trabajo que han pasado por el *Proceso de auditorías* y han sido corregidos y aprobados.
-- **Comunicados:** Productos de trabajo cuya existencia y cambios realizados se han comunicado a los miembros del departamento a través del canal de Slack #taro-docs
+- **Comunicados:** Productos de trabajo cuya existencia y cambios realizados se han comunicado a los miembros del departamento a través del canal de Slack #taro-assets
 - **Controlados:** Productos de trabajo cuyas modificaciones fueron sometidas al *Proceso de modificación de assets*.
 
 Y por lo tanto, corresponden a la última versión liberada y que está siendo usada por el departamento o los stakeholders.
