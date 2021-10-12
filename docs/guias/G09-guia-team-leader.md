@@ -42,3 +42,6 @@ La persona que asumirá el rol de Team Leader tendrá el conocimiento necesario 
 ## Auditoría
 
 - Eric Buitrón López
+
+
+## Versión 1.0

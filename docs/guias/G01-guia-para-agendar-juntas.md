@@ -90,3 +90,6 @@ En el caso de Frappé, los calendarios de disponibilidad de la semana se enviara
 - Eric Buitrón López
 - Karla Daniela Romero Pérez
 - María de los Ángeles Contreras Anaya
+
+
+## Versión 1.0

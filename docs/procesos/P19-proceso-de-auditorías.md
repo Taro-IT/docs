@@ -121,3 +121,5 @@
 - Jan Limpens Gutiérrez
 - Raul Rosario Sandoval Galaviz
 
+
+## Versión 1.0

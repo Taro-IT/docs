@@ -10,7 +10,6 @@
 
 Contar con las plantillas:
 
-- [Juntas departamentales]
 - [Minutas](../plantillas/PL01-plantilla-para-minutas)
 
 ## Procedimiento
@@ -43,3 +42,5 @@ Contar con las plantillas:
 <li>Alonso Vladimir Salvador Camacho</li>
 <li>Mauricio Álvarez Milán</li>
 </ul>
+
+## Versión 1.1

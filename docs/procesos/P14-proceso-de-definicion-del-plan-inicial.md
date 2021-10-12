@@ -28,3 +28,6 @@
 ## Auditoría
 
 - José Carlos Pacheco Sánchez
+
+
+## Versión 1.0

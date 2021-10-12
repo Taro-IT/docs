@@ -80,3 +80,5 @@ Así un artefacto que ha sido incluido en una línea base y que ha sufrido 3 cam
 ## Auditoría
 
 - Eric Buitrón López
+
+## Versión 1.0
