@@ -46,3 +46,4 @@ Cada integrante deberá proponerse como voluntario y definir fechas límite de l
 - Juan José Díaz
 - Saúl Axel Palacios Acosta
 
+## Versión 1.0

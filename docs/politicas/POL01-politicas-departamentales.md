@@ -15,3 +15,6 @@
 <li>Es responsabilidad de cada miembro mencionar sus tiempos de disponibilidad y avisar con tiempo al equipo.</li>
 <li>En caso de presentar algún problema o ausencia en alguna junta o clase se deberá avisar a alguien que si este presente y/o por un medio de comunicación donde todos los integrantes de Taro se puedan enterar.</li>
 </ul>
+
+
+## Versión 1.0

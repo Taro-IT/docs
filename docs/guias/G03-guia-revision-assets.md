@@ -125,3 +125,5 @@ Si durante tu revisión realizaste modificaciones y se hicieron commits a la ram
 - José Carlos Pacheco Sánchez
 - Iván Alejandro Díaz Peralta
 - Karla Daniela Romero Pérez
+
+## Versión 1.0

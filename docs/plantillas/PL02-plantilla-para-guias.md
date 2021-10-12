@@ -31,4 +31,8 @@ _Enlistar a las personas que revisaron la guía_
 
 - 
 
+## Versión número_de_version
+
 ```
+
+## Versión 1.0

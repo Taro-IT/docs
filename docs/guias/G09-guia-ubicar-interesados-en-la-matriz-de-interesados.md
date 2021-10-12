@@ -30,8 +30,7 @@ Ubicar dentro de tu matriz de interesados a los involucrados de un plan
 
 ## Auditoría
 
-_Enlistar a las personas que revisaron la guía_
 
 - 
 
-
+## Versión 1.0

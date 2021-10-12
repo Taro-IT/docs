@@ -35,3 +35,5 @@
 - Jan Limpens
 - Eric Buitrón
 - Eduardo Guzmán
+
+## Versión 1.0

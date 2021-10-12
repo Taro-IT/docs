@@ -52,3 +52,6 @@
 - 13: Una tarea en la que no hay conocimiento previo para realizarla y su dificultad es considerada muy alta.
 
 <p>Para poder estimar el costo de cada ítem se utilizará un sistema basado en horas en donde cada punto ágil equivale a una hora de trabajo.</p>
+
+
+## Versión 1.0

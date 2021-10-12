@@ -27,3 +27,6 @@
 <li>Al finalizar cada sesión los integrantes que hayan asistido deberán dejar las instalaciones como las encontraron.</li>
 <li>Al finalizar su estancia en el departamento, cada integrante deberá rociar y limpiar con desinfectante su área de trabajo.</li>
 </ul>
+
+
+## Versión 1.0

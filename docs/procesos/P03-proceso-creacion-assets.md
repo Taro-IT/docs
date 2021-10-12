@@ -38,3 +38,5 @@
 ## Auditoría
 - Eric Buitrón López
 - Adolfo Acosta Castro
+
+## Versión 1.0

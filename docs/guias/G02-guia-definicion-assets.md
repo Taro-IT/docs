@@ -113,3 +113,5 @@ Por ejemplo, el identificador del siguiente proceso al momento de escribir esta 
 - Karla Daniela Romero Pérez
 - Eduardo Andrés Castillo Perera
 - María de los Ángeles Contreras Anaya
+
+## Versión 1.0

@@ -31,3 +31,5 @@ Orientar en la manera en que se define un WBS que pueda facilitar el proceso de 
 - José Carlos Pacheco Sánchez
 - Eric Buitrón López
 - Mauricio Álvarez Milán
+
+## Versión 1.0

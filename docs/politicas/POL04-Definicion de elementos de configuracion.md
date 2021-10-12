@@ -93,3 +93,5 @@ El código fuente de los proyectos de equipo usara el control de versiones que b
 - **Rama develop**:  Representa el nivel controlado del código fuente. Para pasar de un nivel dinámico a nivel controlado, o de nivel controlado a nivel estático se deben emplear mecanismos y validaciones que permiten verificar que se estén cumpliendo con los estándares de calidad del departamento.
 - **Rama dinámica**:   Representa el nivel dinámico y en esta se encuentra todo el código que está en desarrollo, una vez que los cambios son validados cambia a nivel controlado en la rama develop.
 
+
+## Versión 1.0

@@ -42,6 +42,6 @@ Cierre: Formalización de acuerdos y entendidos de las dos partes.
 
 - Eric Buitrón López
 
-
+## Versión 1.0
 
 

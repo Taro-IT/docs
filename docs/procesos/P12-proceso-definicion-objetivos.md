@@ -37,3 +37,6 @@ Definir los objetivos de un proyecto de manera clara y siguiendo la metodología
 - José Carlos Pacheco Sánchez
 - Adolfo Acosta Castro
 - Mauricio Álvarez Milán
+
+
+## Versión 1.0
