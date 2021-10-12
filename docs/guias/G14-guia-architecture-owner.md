@@ -1,5 +1,5 @@
 
-# G11 - Guía para el Architecture Owner
+# G14 - Guía para el Architecture Owner
 
 ## Objetivo(s)
 
