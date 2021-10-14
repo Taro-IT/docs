@@ -32,10 +32,10 @@
 **Planeación del proyecto**
 <p>De tal forma que Taro mantenga un estándar, la forma de trabajo para los proyectos se dará de la siguiente manera:</p>
 
-- Tener [juntas de coordinación diarias](../procesos/P07-proceso-juntas-diarias.md) las cuales permitirán al equipo actualizar el estado del proyecto y poder mejorar la forma de trabajo, se pueden utilizar las preguntas guía para identificar puntos importantes (¿Dónde estamos?¿Dónde deberíamos estar?¿Cuánto nos ha costado?).
-- La [gestión](../procesos/P11-proceso-de-trazabilidad-de-requerimiento.md) y [toma de requisitos](../procesos/P05-proceso-requisitos.md) de un proyecto deberá estar definida, incluyendo un control de cambios de los mismos en donde se pueda mantener la trazabilidad.
+- Tener [juntas de coordinación diarias](./procesos/P07-proceso-juntas-diarias.md) las cuales permitirán al equipo actualizar el estado del proyecto y poder mejorar la forma de trabajo, se pueden utilizar las preguntas guía para identificar puntos importantes (¿Dónde estamos?¿Dónde deberíamos estar?¿Cuánto nos ha costado?).
+- La [gestión](./procesos/P11-proceso-de-trazabilidad-de-requerimiento.md) y [toma de requisitos](./procesos/P05-proceso-requisitos.md) de un proyecto deberá estar definida, incluyendo un control de cambios de los mismos en donde se pueda mantener la trazabilidad.
 - Realizar inspecciones de código frecuentes para asegurarse que la implementación cumpla con los estándares establecidos por el equipo, y encontrar defectos para que puedan ser corregidos y mitigados.
-- [Definir correctamente el WBS](../guias/G07-guia-wbs.md) y actualizarlo constantemente para poder
+- [Definir correctamente el WBS](./guias/G07-guia-wbs.md) y actualizarlo constantemente para poder
 - Definir los criterios para finalizar un requisito funcional, para tener claro lo que se tiene que cumplir antes de dar por terminado un requisito.
 
 
