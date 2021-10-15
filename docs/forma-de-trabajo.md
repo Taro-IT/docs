@@ -1,4 +1,4 @@
-# POL03 - Forma de trabajo
+# Forma de trabajo
 
 ### Objetivo:
 <p>Que los miembros de Taro tengan una forma de trabajo definida que apoye a la creación de soluciones de software que cumplan con estándares de calidad de nivel internacional.</p>
@@ -17,7 +17,7 @@
 <p>Se recomienda ampliamente seguir los siguientes libros para tenerlos como referencia y guía</p>
 <ol>
 <li>Choose Your WoW : A Disciplined Agile Delivery Handbook for Optimizing Your Way of Working - Scott Ambler & Mark Lines</li>
-<li>Project Managment For The Unofficial Project Manager - Kory Kogon , Suzette Blakemore & James Wood</li>
+<li>Project Management For The Unofficial Project Manager - Kory Kogon , Suzette Blakemore & James Wood</li>
 <li>Introduction to the Team Software Process - Watts Humphrey</li>
 </ol>
 
@@ -31,14 +31,13 @@
 
 **Planeación del proyecto**
 <p>De tal forma que Taro mantenga un estándar, la forma de trabajo para los proyectos se dará de la siguiente manera:</p>
-<ul>
-<li>Tener juntas de coordinación diarias las cuales permitirán al equipo actualizar el estado del proyecto y poder mejorar la forma de trabajo, se pueden utilizar las preguntas guía para identificar puntos importantes (¿Dónde estamos?¿Dónde deberíamos estar?¿Cuánto nos ha costado?).</li>
-<li>La gestión y toma de requisitos de un proyecto deberá estar definida, incluyendo un control de cambios de los mismos en donde se pueda mantener la trazabilidad.</li>
-<li>Realizar inspecciones de código frecuentes para asegurarse que la implementación cumpla con los estándares establecidos por el equipo, y encontrar defectos para que puedan ser corregidos y mitigados.</li>
-<li>Definir correctamente el WBS y actualizarlo constantemente para poder realizar planeaciones basadas en datos más confiables.</li>
-<li>Definir los criterios para finalizar un requisito funcional, para tener claro lo que se tiene que cumplir antes de dar por terminado un requisito.</li>
 
-</ul>
+- Tener [juntas de coordinación diarias](./procesos/P07-proceso-juntas-diarias) las cuales permitirán al equipo actualizar el estado del proyecto y poder mejorar la forma de trabajo, se pueden utilizar las preguntas guía para identificar puntos importantes (¿Dónde estamos?¿Dónde deberíamos estar?¿Cuánto nos ha costado?).
+- La [gestión](./procesos/P11-proceso-de-trazabilidad-de-requerimiento) y [toma de requisitos](./procesos/P05-proceso-requisitos) de un proyecto deberá estar definida, incluyendo un control de cambios de los mismos en donde se pueda mantener la trazabilidad.
+- Realizar inspecciones de código frecuentes para asegurarse que la implementación cumpla con los estándares establecidos por el equipo, y encontrar defectos para que puedan ser corregidos y mitigados.
+- [Definir correctamente el WBS](./guias/G07-guia-wbs) y actualizarlo constantemente para poder
+- Definir los criterios para finalizar un requisito funcional, para tener claro lo que se tiene que cumplir antes de dar por terminado un requisito.
+
 
 
 <p>Como departamento cada equipo estimará los tamaños de los items usando "Agile Points" las cuales se regirán por los siguientes lineamientos</p>
@@ -54,4 +53,11 @@
 <p>Para poder estimar el costo de cada ítem se utilizará un sistema basado en horas en donde cada punto ágil equivale a una hora de trabajo.</p>
 
 
+## Mapa de procesos
+
+Nuestro mapa de procesos se encuentra [aquí](https://drive.google.com/file/d/1DvFDwbp8PZt1BbRoPlbEJsgMrf43-qhj/view?usp=sharing).
+
+La versión más reciente se ve así:
+
+![Mapa de Procesos](../static/img/mapa-de-procesos.png)
 ## Versión 1.0

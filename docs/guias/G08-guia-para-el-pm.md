@@ -37,7 +37,7 @@ hacia la misma dirección procurando su estabilidad física y emocional.
 - Conocer el estado de cada uno de los proyectos al saber el CPI y el SPI de cada uno para fomentar la toma decisiones. De igual manera entrar al menos a 2 juntas de cada equipo semanalmente para estar al tanto de las decisiones que toma cada equipo.
 - Pedir retroalimentación constante de los maestros.
 - Asegurarse de mantener el kanban board departamental ([Jira](https://taro-depto-ti.atlassian.net/jira/software/projects/TARO/boards/1)) actualizado.
-- Leer constantemente las [bibliografías recomendadas](../politicas/POL03-forma-de-trabajo).
+- Leer constantemente las [bibliografías recomendadas](../forma-de-trabajo).
 - Animar y empoderar a los integrantes a poner en marcha las propuestas de mejora.
 
 ## Salidas

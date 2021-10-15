@@ -24,14 +24,6 @@ Revolucionar la industria del software desarrollando proyectos que se apeguen a 
 3.-Que los integrantes del Departamento Taro logren un desarrollo personal íntegro, y que logren como mínimo un nivel "Jedi" en todas las competencias de la malla de evaluación del Camino del Jedi, y al menos dos competencias en nivel "Maestro Jedi", garantizando el crecimiento de nuestros  integrantes, para la última evaluación de esta malla.
 
 
-## Mapa de procesos
-
-Nuestro mapa de procesos se encuentra [aquí](https://drive.google.com/file/d/1DvFDwbp8PZt1BbRoPlbEJsgMrf43-qhj/view?usp=sharing).
-
-La versión más reciente se ve así:
-
-![Mapa de Procesos](../static/img/mapa-de-procesos.png)
-
 ## Valores
 
 
