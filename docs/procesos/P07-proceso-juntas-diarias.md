@@ -27,6 +27,12 @@
 | 4. Identificación de impedimentos, bloqueos o aspectos. | <ul><li>La persona en turno responderá a la pregunta: ¿Tengo algún impedimento/bloqueo/aspecto?</li><li>La persona con rol de Team Leader tomará nota de los impedimentos, bloqueos o aspectos, para darles seguimiento después de la junta diaria.  **Nota: Si el impedimento, bloqueo o aspecto se puede resolver de manera inmediata, se resolverá.** </li></ul> | <ul><li>PMC - 1.4</li><li>PMC - 1.6</li><li>PMC - 2.1</li><li>PMC - 2.2</li><li>PP - 2.1</li></ul> |
 | 5. Revisar estado de la iteración. | <ul><li>La persona con el rol de Team Leader mostrará el progreso del sprint, el CPI, el SPI y la efectividad diaria para mostrar el estado de la iteración y felicitar al equipo si hubo progreso y/o mejora.</li></ul> | <ul><li>PMC - 1.1</li><li>PMC - 1.4</li><li>PMC - 1.6</li><li>MandA - 2.2</li><li>MandA - 2.4</li></ul> |
 
+:::note
+
+ Al finalizar la junta diaria, la persona con el rol de Team Leader le recordará al equipo de las sesiones departamentales que tienen lugar ese día para que asistan.
+
+:::
+
 ## Salida
 
 - Lista de bloqueos a atender siguiendo el _proceso para convertir retroalimentación a work items_.
@@ -42,5 +48,6 @@
 ## Auditoría
 - Jan Limpens
 - Eduardo Guzmán
+- Karla Daniela Romero Pérez
 
 ## Versión 2.0
