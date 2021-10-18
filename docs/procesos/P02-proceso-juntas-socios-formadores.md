@@ -30,7 +30,7 @@
 ## Autores
 
 - José Carlos Pacheco Sánchez
-- Jan Limpens
+- Jan Limpens Gutiérrez
 
 ## Auditoría
 
