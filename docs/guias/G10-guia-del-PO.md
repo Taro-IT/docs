@@ -10,7 +10,7 @@
 
 ### Descripción del rol
 
-- El Product Owner (PO) es quien representa las necesidades de los socios ante al equipo asegurando que se desarrolle y trabaje con una visión común que deleite a los socios.
+- El Product Owner (PO) es quien representa las necesidades de los socios ante el equipo asegurando que se desarrolle y trabaje con una visión común que deleite a los socios.
 - El Product Owner trabaja de cerca con los socios para identificar el trabajo a realizar y priorizar ese trabajo con base al valor que representa para el socio y el riesgo que implica dentro del proyecto. 
 - El Product Owner ayuda al equipo a entender las necesidades de los socios, clarificar el trabajo a realizar y colaborar efectivamente con los socios. 
 
@@ -25,13 +25,13 @@ Dentro de las responsabilidades de un PO están las siguientes:
 - Entender y educar al equipo sobre la forma de operar de los socios. 
 - Educar a los interesados en el proceso a seguir por el equipo de desarrollo.
 - Resolver dudas al equipo sobre las necesidades del cliente y las tareas.
-- Facilitar al equipo el acceso a los interesados.
+- Facilitar al equipo la comunicación con los interesados.
 
 Dentro de las tareas de un PO están las siguientes:
 
 - Continuamente priorizar los artículos de trabajo, pensando en las necesidades y bienestar de la comunidad de interesados y del equipo.
 - Comunicarse constantemente con los interesados del proyecto. 
-- Organizar demonstraciones de incrementos de la solución a los socios.
+- Organizar demostraciones de incrementos de la solución a los socios.
 - Participar en el diseño de requerimientos y de pruebas de aceptación.
 - Validar el producto con los socios y conseguir su aceptación formal.
 - Responder las dudas sobre las necesidades de los interesados a los miembros del equipo.
