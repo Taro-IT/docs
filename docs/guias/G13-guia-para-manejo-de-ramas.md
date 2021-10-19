@@ -104,4 +104,4 @@ git commit -m "Se agregaron funcionades relacionadas a la validación de factura
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la guía
+  - Se creó la guía.
