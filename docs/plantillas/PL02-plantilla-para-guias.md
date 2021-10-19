@@ -38,4 +38,4 @@ _Enlistar a las personas que revisaron la guía_
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la plantilla
+  - Se creó la plantilla.
