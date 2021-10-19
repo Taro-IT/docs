@@ -5,5 +5,5 @@ El checklist de código se encuentra [aquí](https://docs.google.com/spreadsheet
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la checklist
+  - Se creó la checklist.
 
