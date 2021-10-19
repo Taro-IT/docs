@@ -129,4 +129,4 @@ Si durante tu revisión realizaste modificaciones y se hicieron commits a la ram
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la guía
+  - Se creó la guía.
