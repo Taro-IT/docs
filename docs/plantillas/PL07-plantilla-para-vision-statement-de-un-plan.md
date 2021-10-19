@@ -5,4 +5,4 @@ La plantilla para la identificación del vision statement de un plan se encuentr
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la plantilla
+  - Se creó la plantilla.
