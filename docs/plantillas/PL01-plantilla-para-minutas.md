@@ -5,4 +5,4 @@ La plantilla para las minutas se encuentra [aquí](https://docs.google.com/docum
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la plantilla
+  - Se creó la plantilla.
