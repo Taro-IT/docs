@@ -5,4 +5,4 @@ La plantilla para documentar pruebas se encuentra [aquí](https://docs.google.co
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la plantilla
+  - Se creó la plantilla.
