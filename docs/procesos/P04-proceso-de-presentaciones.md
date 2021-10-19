@@ -32,6 +32,15 @@
 - José Carlos Pacheco Sánchez
 
 ## Auditoría
+  
 
-- Jan Limpens
-## Versión 1.1
+# Bitácora de cambios
+
+## Versión 1.0
+  - Se creó el proceso
+## Versión 1.1 
+  - Se arreglaron errores de formato
+  - Se corrigió la ortografía
+  - Se corrigieron las áreas involucradas del CMMI
+  - Se agregaron links correspondientes
+  
