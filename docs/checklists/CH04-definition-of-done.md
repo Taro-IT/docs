@@ -5,4 +5,4 @@ La Definition of Done se encuentra [aquí](https://docs.google.com/spreadsheets/
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la checklist
+  - Se creó la checklist.
