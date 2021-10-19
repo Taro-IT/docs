@@ -36,4 +36,4 @@ Ubicar dentro de tu matriz de interesados a los involucrados de un plan
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la guía
+  - Se creó la guía.
