@@ -5,4 +5,4 @@ La plantilla de toma de retroalimentación se encuentra [aquí](https://docs.goo
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la plantilla
+  - Se creó la plantilla.
