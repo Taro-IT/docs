@@ -5,4 +5,4 @@ La plantilla para el banco de preguntas se encuentra [aquí](https://docs.google
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la plantilla
+  - Se creó la plantilla.
