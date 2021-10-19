@@ -1,5 +1,5 @@
 
-# G09 - Guía para ubicar interesados en la matriz de interesados
+# G15 - Guía para ubicar interesados en la matriz de interesados
 
 ## Objetivo(s)
 
