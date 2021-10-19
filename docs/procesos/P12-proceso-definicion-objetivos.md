@@ -42,6 +42,6 @@ Definir los objetivos de un proyecto de manera clara y siguiendo la metodología
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó el proceso
+  - Se creó el proceso.
 
 
