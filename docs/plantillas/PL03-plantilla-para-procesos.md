@@ -91,4 +91,4 @@ _Enlistar a las personas que revisaron el proceso_
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la plantilla
+  - Se creó la plantilla.
