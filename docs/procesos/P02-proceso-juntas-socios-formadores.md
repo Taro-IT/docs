@@ -42,12 +42,12 @@
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó el proceso
+  - Se creó el proceso.
 
 ## Versión 1.1
-  - Se corrigieron errores de ortografía
-  - Se actualizaron links
+  - Se corrigieron errores de ortografía.
+  - Se actualizaron links.
   
 ## Versión 1.2
-  - Queda pendiente ligar al proceso de manejo de retro
-  - Se modificaron áreas del CMMI
+  - Queda pendiente ligar al proceso de manejo de retro.
+  - Se modificaron áreas del CMMI.
