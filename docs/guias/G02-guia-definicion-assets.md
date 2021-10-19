@@ -117,4 +117,4 @@ Por ejemplo, el identificador del siguiente proceso al momento de escribir esta 
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la guía
+  - Se creó la guía.
