@@ -42,4 +42,4 @@ Riesgo identificado y clasificado
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la guía
+  - Se creó la guía.
