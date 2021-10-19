@@ -48,3 +48,7 @@ El rol del Architecture Owner (AO) consiste en guiar la creación y la evolució
 - Adolfo Acosta Castro
 
 
+# Bitácora de cambios
+
+## Versión 1.0
+  - Se creó la guía.

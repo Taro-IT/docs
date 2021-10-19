@@ -81,4 +81,7 @@ Así un artefacto que ha sido incluido en una línea base y que ha sufrido 3 cam
 
 - Eric Buitrón López
 
+# Bitácora de cambios
+
 ## Versión 1.0
+  - Se creó la guía.

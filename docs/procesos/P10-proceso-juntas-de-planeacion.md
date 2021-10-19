@@ -46,4 +46,10 @@ Cada integrante deberá proponerse como voluntario y definir fechas límite de l
 - Juan José Díaz
 - Saúl Axel Palacios Acosta
 
+
+# Bitácora de cambios
+
 ## Versión 1.0
+  - Se creó el proceso.
+
+

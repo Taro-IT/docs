@@ -28,5 +28,9 @@
 ## Auditoría
 
 - 
+# Bitácora de cambios
 
 ## Versión 1.0
+  - Se creó el proceso.
+
+
