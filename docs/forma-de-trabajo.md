@@ -59,7 +59,7 @@ Nuestro mapa de procesos se encuentra [aquí](https://drive.google.com/file/d/1D
 
 La versión más reciente se ve así:
 
-![Mapa de Procesos](../static/img/mapa-procesos-2.png)
+![Mapa de Procesos](../static/img/mapa-procesos-2.PNG)
 
 # Bitácora de cambios
 
