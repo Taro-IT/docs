@@ -32,4 +32,7 @@ Orientar en la manera en que se define un WBS que pueda facilitar el proceso de 
 - Eric Buitrón López
 - Mauricio Álvarez Milán
 
+# Bitácora de cambios
+
 ## Versión 1.0
+  - Se creó la guía

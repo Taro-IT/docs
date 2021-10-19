@@ -53,4 +53,7 @@ hacia la misma dirección procurando su estabilidad física y emocional.
 
 - 
 
+# Bitácora de cambios
+
 ## Versión 1.0
+  - Se creó la guía

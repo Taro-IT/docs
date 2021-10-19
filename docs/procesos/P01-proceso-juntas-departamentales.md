@@ -43,4 +43,8 @@ Contar con las plantillas:
 <li>Mauricio Álvarez Milán</li>
 </ul>
 
-## Versión 1.1
+# Bitácora de cambios
+
+## Versión 1.0
+  - Se creó el proceso
+

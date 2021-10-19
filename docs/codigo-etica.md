@@ -92,3 +92,10 @@ De igual manera, cualquier miembro del departamento podrá enviar un mensaje pri
 ## Referencias
 
 Association for Computer Machinery. (2018). *ACM Code of Ethics and Professional Conduct*. Recuperado de https://www.acm.org/code-of-ethics
+
+# Bitácora de cambios
+
+## Versión 1.0
+  - Se creó el código de étoca
+
+  
