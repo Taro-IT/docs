@@ -47,4 +47,4 @@ La persona que asumirá el rol de Team Leader tendrá el conocimiento necesario 
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la guía
+  - Se creó la guía.
