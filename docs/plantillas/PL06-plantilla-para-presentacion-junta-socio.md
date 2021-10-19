@@ -5,4 +5,4 @@ La plantilla para la presentación de junta con el socio formador se encuentra [
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la plantilla
+  - Se creó la plantilla.
