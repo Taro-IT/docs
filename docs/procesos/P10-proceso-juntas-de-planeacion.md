@@ -50,6 +50,6 @@ Cada integrante deberá proponerse como voluntario y definir fechas límite de l
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó el proceso
+  - Se creó el proceso.
 
 
