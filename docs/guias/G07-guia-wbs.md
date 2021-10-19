@@ -35,4 +35,4 @@ Orientar en la manera en que se define un WBS que pueda facilitar el proceso de 
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la guía
+  - Se creó la guía.
