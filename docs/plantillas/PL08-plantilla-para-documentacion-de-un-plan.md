@@ -5,4 +5,4 @@ La plantilla para la documentación de un plan se encuentra [aquí](https://docs
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la plantilla
+  - Se creó la plantilla.
