@@ -45,9 +45,20 @@ La persona que asumirá el rol de Product Owner tendrá el conocimiento necesari
 - Adolfo Acosta Castro
 - Raúl Rosario Sandoval Galaviz
 
+
 ## Auditoría
 
 - Eric Buitrón López
 - Juan Manuel Amador Perez Flores
+- Jan Limpens 
+
+# Bitácora de cambios
 
 ## Versión 1.0
+  - Se creó la guía
+
+## Versión 1.1 
+  - Se arreglaron errores de ortografía
+  
+
+
