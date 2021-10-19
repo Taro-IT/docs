@@ -5,4 +5,4 @@ La plantilla de pase de lista de presentaciones se encuentra [aquí](https://doc
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la plantilla
+  - Se creó la plantilla.
