@@ -5,4 +5,4 @@ La plantilla para la planeación de la iteración se encuentra [aquí](https://d
 # Bitácora de cambios
 
 ## Versión 1.0
-  - Se creó la plantilla
+  - Se creó la plantilla.
