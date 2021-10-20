@@ -13,37 +13,37 @@ _N/A_
 
 ### Tabla de contenido
 
-[Modelos gordos, controladores delgados](#modelos-gordos-controladores-delgados)
-[Validación](#validación)
-[La lógica de negocios debe estar en una clase de servicio](#la-lógica-de-negocios-debe-estar-en-una-clase-de-servicio)
+- [Modelos gordos, controladores delgados](#modelos-gordos-controladores-delgados)
+- [Validación](#validación)
+- [La lógica de negocios debe estar en una clase de servicio](#la-lógica-de-negocios-debe-estar-en-una-clase-de-servicio)
 
-[No te repitas (DRY)](#no-te-repitas-dry)
+- [No te repitas (DRY)](#no-te-repitas-dry)
 
-[Prioriza el uso de Eloquent por sobre el constructor de consultas y consultas puras. Prioriza las colecciones sobre los arreglos](#prioriza-el-uso-de-eloquent-por-sobre-el-constructor-de-consultas-y-consultas-puras-prioriza-las-colecciones-sobre-los-arreglos)
+- [Prioriza el uso de Eloquent por sobre el constructor de consultas y consultas puras. Prioriza las colecciones sobre los arreglos](#prioriza-el-uso-de-eloquent-por-sobre-el-constructor-de-consultas-y-consultas-puras-prioriza-las-colecciones-sobre-los-arreglos)
 
-[Asignación en masa](#asignación-en-masa)
+- [Asignación en masa](#asignación-en-masa)
 
-[No ejecutes consultas en las plantillas Blade y utiliza el cargado prematuro (Problema N + 1)](#no-ejecutes-consultas-en-las-plantillas-blade-y-utiliza-el-cargado-prematuro-problema-n--1))
+- [No ejecutes consultas en las plantillas Blade y utiliza el cargado prematuro (Problema N + 1)](#no-ejecutes-consultas-en-las-plantillas-blade-y-utiliza-el-cargado-prematuro-problema-n--1)
 
-[Comenta tu código, pero prioriza los métodos y nombres de variables descriptivas por sobre los comentarios](#comenta-tu-código-pero-prioriza-los-métodos-y-nombres-de-variables-descriptivas-por-sobre-los-comentarios)
+- [Comenta tu código, pero prioriza los métodos y nombres de variables descriptivas por sobre los comentarios](#comenta-tu-código-pero-prioriza-los-métodos-y-nombres-de-variables-descriptivas-por-sobre-los-comentarios)
 
-[No coloques JS ni CSS en las plantillas Blade y no coloques HTML en clases de PHP](#no-coloques-js-ni-css-en-las-plantillas-blade-y-no-coloques-html-en-clases-de-php)
+- [No coloques JS ni CSS en las plantillas Blade y no coloques HTML en clases de PHP](#no-coloques-js-ni-css-en-las-plantillas-blade-y-no-coloques-html-en-clases-de-php)
 
-[Utiliza los archivos de configuración y lenguaje en lugar de texto en el código](#utiliza-los-archivos-de-configuración-y-lenguaje-en-lugar-de-texto-en-el-código)
+- [Utiliza los archivos de configuración y lenguaje en lugar de texto en el código](#utiliza-los-archivos-de-configuración-y-lenguaje-en-lugar-de-texto-en-el-código)
 
-[Utiliza las herramientas estándar de Laravel aceptadas por la comunidad](#utiliza-las-herramientas-estándar-de-laravel-aceptadas-por-la-comunidad)
+- [Utiliza las herramientas estándar de Laravel aceptadas por la comunidad](#utiliza-las-herramientas-estándar-de-laravel-aceptadas-por-la-comunidad)
 
-[Sigue la convención de Laravel para los nombres](#sigue-la-convención-de-laravel-para-los-nombres)
+- [Sigue la convención de Laravel para los nombres](#sigue-la-convención-de-laravel-para-los-nombres)
 
-[Utiliza sintaxis cortas y legibles siempre que sea posible](#utiliza-sintaxis-cortas-y-legibles-siempre-que-sea-posible)
+- [Utiliza sintaxis cortas y legibles siempre que sea posible](#utiliza-sintaxis-cortas-y-legibles-siempre-que-sea-posible)
 
-[Utiliza contenedores IoC o fachadas en lugar de new Class](#utiliza-contenedores-ioc-o-fachadas-en-lugar-de-new-class)
+- [Utiliza contenedores IoC o fachadas en lugar de new Class](#utiliza-contenedores-ioc-o-fachadas-en-lugar-de-new-class)
 
-[No saques información directamente del archivo .env](#no-saques-información-directamente-del-archivo-env)
+- [No saques información directamente del archivo .env](#no-saques-información-directamente-del-archivo-env)
 
-[Guarda las fechas en los formatos estándares. Utiliza los accessors y mutators para modificar el formato](#guarda-las-fechas-en-los-formatos-estándares-utiliza-los-accessors-y-mutators-para-modificar-el-formato)
+- [Guarda las fechas en los formatos estándares. Utiliza los accessors y mutators para modificar el formato](#guarda-las-fechas-en-los-formatos-estándares-utiliza-los-accessors-y-mutators-para-modificar-el-formato)
 
-[Otras buenas prácticas](#otras-buenas-prácticas)
+- [Otras buenas prácticas](#otras-buenas-prácticas)
 
 ### **Principio de propósito único**
 
@@ -401,7 +401,6 @@ Trabajar con data | Laravel collections | Arreglos
 Validación de formularios | Clases Request | Paquetes de terceros, validación en el controlador
 Autenticación | Integrada | Paquetes de terceros, solución propia
 Estructura de la base de datos | Migraciones | Trabajar directamente con la estructura
-
 Generación de información de prueba | Clases Seeder, Fábricas de modelos, Faker | Crear la información manualmente
 Base de datos | MySQL, PostgreSQL, SQLite, SQL Server | MongoDB
 
@@ -555,8 +554,8 @@ Minimiza el uso de PHP vanilla en las plantillas Blade.
 - José Carlos Pacheco Sánchez
 
 ## Auditoría
+- Adolfo Acosta Castro
 
-
-#Bitácora de cambios
+# Bitácora de cambios
 ## Versión 1.0
 - Se creó la guía
