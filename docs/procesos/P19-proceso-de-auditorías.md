@@ -55,6 +55,7 @@
       </td>
       <td>
         <ul>
+          <li>CM 1.2</li>
           <li>CM 2.1</li>
           <li>CM 2.2</li>
           <li>PPQA 1.1</li>
