@@ -2,7 +2,7 @@
 
 ## Objetivo(s)
 
-_Generar una guia que permita entender con ejemplos los estandartes a utilziar en la codifiacion de laravel_
+_Generar una guía que permita entender con ejemplos los estandartes a utilizar en la codificación de laravel_
 
 ## Pre-requisitos
 
@@ -216,7 +216,7 @@ class ArticleService
 
 Reutiliza código cada vez que puedas.  El SRP (Principio de Propósito Único) te ayuda a evitar la duplicación. Reutiliza también las plantillas Blade, utiliza scopes de Eloquent, etcétera.
 
-Como estandar el uso de scopes para funciones específicas o de grado mayor seguido de las de menor 
+Como estándar el uso de scopes para funciones específicas o de grado mayor seguido de las de menor 
 
 Malo:
 
@@ -384,7 +384,7 @@ La mejor ruta es utilizar algún paquete especializado para transferir informaci
 [🔝 Volver al índice](#índice-de-contenido)
 
 
-### **Utiliza las herramientas estandar de Laravel aceptadas por la comunidad**
+### **Utiliza las herramientas estándar de Laravel aceptadas por la comunidad**
 
 Prioriza la utilización de funcionalidades integradas y los paquetes de la comunidad en lugar de utilizar paquetes o herramientas de terceros ya que cualquier desarrollador que vaya a trabajar a futuro en tu aplicación necesitará aprender a utilizar nuevas herramientas. También, las probabilidades de recibir ayuda de la comunidad son significativamente más bajas cuando utilizas herramientas o paquetes de terceros. No hagas que tu cliente pague por ello.
 
