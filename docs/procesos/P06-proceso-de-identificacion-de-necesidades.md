@@ -32,6 +32,11 @@
 ## Auditoría
 
 - Raúl Rosario Sandoval Galavis
-- Mauricio Alvarez Milán
+- Mauricio Alvarez Milán  
+  
+# Bitácora de cambios
 
-## Versión 1.1
+## Versión 1.0
+  - Se creó el proceso.
+
+

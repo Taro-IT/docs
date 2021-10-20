@@ -126,4 +126,7 @@ Si durante tu revisión realizaste modificaciones y se hicieron commits a la ram
 - Iván Alejandro Díaz Peralta
 - Karla Daniela Romero Pérez
 
+# Bitácora de cambios
+
 ## Versión 1.0
+  - Se creó la guía.

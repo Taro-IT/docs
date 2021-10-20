@@ -1,5 +1,5 @@
 
-# G09 - Guía para ubicar interesados en la matriz de interesados
+# G15 - Guía para ubicar interesados en la matriz de interesados
 
 ## Objetivo(s)
 
@@ -33,4 +33,7 @@ Ubicar dentro de tu matriz de interesados a los involucrados de un plan
 
 - 
 
+# Bitácora de cambios
+
 ## Versión 1.0
+  - Se creó la guía.

@@ -39,4 +39,7 @@ Riesgo identificado y clasificado
 - Eric Butirón
 - Jose Carlos Pacheco
 
+# Bitácora de cambios
+
 ## Versión 1.0
+  - Se creó la guía.
