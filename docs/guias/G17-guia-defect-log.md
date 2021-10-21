@@ -43,7 +43,7 @@ En la columna `Fecha de hallazgo` se debe registrar la fecha en la que se identi
 
 En la columna `Fase de hallazgo` se debe registrar la fase en donde **se identificó** el defecto (Análisis, Diseño, Desarrollo, Pruebas, Verificación o Entrega).
 
-### Regitrar fase en donde se inyectó
+### Registrar  fase en donde se inyectó
 
 En la columna `Fase de inyección` se debe registrar la fase en donde **se originó** el defecto (Análisis, Diseño, Desarrollo, Pruebas, Verificación o Entrega).
 
@@ -57,9 +57,9 @@ Cuando se registra por primera vez el defecto, la columna `Estatus` deberá tene
 
 Cuando se comience a corregir el defecto, este valor deberá ser actualizado por `Corrigiendo`, y cuando se haya solucionado por completo, el valor deberá ser `Arreglado`.
 
-### Registrar fecha de correcicón
+### Registrar fecha de corrección
 
-Una vez que el estatus del defcto sea `Arreglado`, en la columna `Fecha de corrección` se debe registrar la fecha en la que se solucionó el defecto por completo.
+Una vez que el estatus del defecto sea `Arreglado`, en la columna `Fecha de corrección` se debe registrar la fecha en la que se solucionó el defecto por completo.
 
 ### Registrar quién lo corrigió
 
