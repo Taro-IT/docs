@@ -23,7 +23,7 @@
       <td>Seguimiento del tiempo</td>
       <td>
         <ul align="left">
-          <li>Se seleccionara en que subtarea de trabajo se trabajara a continuación</li>
+          <li>Se seleccionará en que subtarea de trabajo se trabajará a continuación</li>
           <li>Se deberá de inicializar el temporizador preferido con el nombre de la subtarea, (recomendados: <a href="https://clockify.me/">clockify</a>, <a href="https://toggl.com/">toggl</a>)</li>
           <li>Cuando se deje de trabajar en la subtarea se deberá de detener el temporizador</li>
         </ul>
@@ -43,7 +43,7 @@
       <td>
         <ul align="left">
           <li>Al terminar la subtarea, se deberá de pasar la medida de tiempo a decimales, recomendamos utilizar la herramienta: <a href="https://www.calculatorsoup.com/calculators/time/time-to-decimal-calculator.php">Calculator Soup</a></li>
-          <li>Se deberá de insertar el dato adquirido en la sección de <a href="https://docs.google.com/spreadsheets/d/16f-DMyEdRWJv8i912wG2XAdjriofDox448LiZrLuX9c/edit#gid=696613617&range=L6">Costo Real (Horas) de en Planeación de la Iteración</a> bajo la subtarea trabajada</li>
+          <li>Se deberá de insertar el dato adquirido en la columna de "Costo Real (Horas)" en<a href="https://docs.google.com/spreadsheets/d/16f-DMyEdRWJv8i912wG2XAdjriofDox448LiZrLuX9c/edit#gid=696613617&range=L6"> Planeación de la Iteración</a> para la subtarea trabajada</li>
         </ul>
       </td>
       <td>
@@ -67,10 +67,8 @@
 
 ## Auditoría
 
-_Enlistar a las personas que revisaron el proceso_
+- Adolfo Acosta Castrp
 
-- 
+## Versión 1.0
 
-## Versión número_de_version
-
-- 1.0
+- Se creó el proceso.
