@@ -85,6 +85,20 @@ Datos, gráficas, índice CPI y SPI de la iteración.
         </ul>
       </td>
     </tr>
+     <tr>
+      <td>Seguimiento de riesgos</td>
+      <td>
+        <ol align="left">
+          <li>Colaborativamente, revisen los riesgos del plan del equipo, y evalúen si ya se mitigaron algunos, si hay que agregar nuevos o si hay que comenzar a aplicar los planes de mitigación o de contingencia.</li>
+        </ol>
+      </td>
+      <td>
+        <ul>
+          <li>RKM 3.2</li>
+          <li>PP 2.2</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
