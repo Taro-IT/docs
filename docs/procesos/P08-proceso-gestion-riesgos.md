@@ -8,7 +8,6 @@
 
 ## Entradas
 
-- Matriz de riesgos
 - Riesgo no gestionado
 
 ## Procedimiento
@@ -24,8 +23,7 @@
 
 ## Salidas
 
-- Matriz de riesgos actualizada
-- Bitácora matriz de riesgos actualizada
+- Ítems de trabajo de los riesgos de mayor prioridad
 
 ## Autores
 
