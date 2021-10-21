@@ -82,8 +82,8 @@ Finalmente, en la columna `Costo (hrs)` se debe registrar la cantidad de horas t
 
 ## Auditoría
 
-- 
+- Adolfo Acosta Castro
 
-## Versión número_de_version
+## Versión 1.0
 
-1.0
+- Se creó el proceso.
