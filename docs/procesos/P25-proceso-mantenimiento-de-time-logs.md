@@ -67,7 +67,8 @@
 
 ## Auditoría
 
-- Adolfo Acosta Castrp
+- Adolfo Acosta Castro
+- Raúl Rosario
 
 ## Versión 1.0
 
