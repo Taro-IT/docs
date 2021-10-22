@@ -10,8 +10,8 @@
 
 ### Manejo de datos
 - Bajo ninguna circunstancia  deberán ser compartidos a externos los datos sensibles de los interesados, ni parcialmente ni mucho menos en su totalidad.
-- Al finalizar los proyectos debe existir una fecha después de la cual, ningún miembro de taro debe tener acceso a dichos datos
-- Durante el desarrollo de la solución, el Architecture Owner es el responsable de compartir adecuadamente estos datos únicamente con los otros miembros del equipo de desarrollo
+- Al finalizar los proyectos debe existir una fecha después de la cual, ningún miembro de taro debe tener acceso a dichos datos.
+- Durante el desarrollo de la solución, el Architecture Owner es el responsable de compartir adecuadamente estos datos únicamente con los otros miembros del equipo de desarrollo.
 
 # Bitácora de cambios
 
