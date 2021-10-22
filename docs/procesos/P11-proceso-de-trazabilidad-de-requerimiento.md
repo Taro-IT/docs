@@ -7,26 +7,26 @@
 
 ## Entradas
 
-- Conocer las necesidades del stakeholder.
-- Tener registrado el requisito y/o work item en el pool correspondiente.
-- Plantilla de [Matriz de Trazabilidad](../plantillas/PL04-plantilla-de-matriz-de-trazabilidad-de-requisitos)
+- requisitos
 
 ## Procedimiento
 
 
 | Fase |   Actividades   | Área(s) involucradas |
 |------|:---------------:|--------------------|
-| 1. Registro (Opcional)    | <ul align="left"><li>Verificar si es un requisito o work item nuevo, en ese caso registrarlo en la matriz de trazabilidad.</li><li>Agregar recursos (o links) de análisis para la implementación del item de trabajo.</li></ul> | <ul><li>RM - 1.1</li><li>RM - 1.2</li></ul> |
-| 2. Actualización    | <ul align="left"> <li> Agregar links a los componentes resultantes de la implementación del ítem de trabajo así como el versionado del mismo (semantic versioning). </li> <li> Agregar evidencias de la implementación funcionando o validad (videos, resultados de CI, logs, etc). </li> </ul> | <ul><li>RM - 1.4</li></ul> |
+| 1. Registro (Opcional)    | <ul align="left"><li>Verificar si es un requisito o work item nuevo, en ese caso registrarlo en la matriz de trazabilidad.</li><li>Agregar recursos (o links) de análisis para la implementación del item de trabajo en la matriz.</li></ul> | <ul><li>RM - 1.1</li><li>RM - 1.2</li></ul> |
+| 2. Actualización    | <ul align="left"> <li> Agregar links a los componentes resultantes de la implementación del ítem de trabajo así como el versionado del mismo (semantic versioning). </li> <li> Agregar evidencias de la implementación funcionando o validad (videos, resultados de CI, logs, etc). </li> <li> Asegurar la bidireccionalidad de la matriz ligando los artefactos realizados a la misma matriz </li></ul> | <ul><li>RM - 1.4</li></ul> |
 
 ## Salidas
 
-- Matriz de trazabilidad
+- Requisito monitoreado
+
 
 ## Autores
 
 - Eduardo Andres Castillo Perera
 - Alonso Vladimir Salvador Camacho
+- Jan Limpens
 
 ## Auditoría
 
