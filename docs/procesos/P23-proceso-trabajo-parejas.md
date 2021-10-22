@@ -1,5 +1,5 @@
 
-# P23 - Proceso de Pair Programming
+# P23 - Proceso de Trabajo en Parejas
 
 ## Objetivo(s)
 
@@ -29,7 +29,7 @@
       <td>
         <ul align="left">
           <li>Discutir en pareja el estado del work item.</li>
-          <li>Identificar el task del work item a realizar.</li>
+          <li>Identificar la subtarea del work item en el que se va a trabajar.</li>
           <li>La pareja decidirá si van a usar una herramienta colaborativa.</li>
         </ul>
       </td>
@@ -45,7 +45,7 @@
       <td>Ejecución.</td>
       <td>
         <ul align="left">
-          <li>Un miembro de la pareja realiza las acciones necesarias para completar el task, mientras la otra persona dicta lo esperado del task.</li>
+          <li>Un miembro de la pareja realiza las acciones necesarias para completar la subtarea, mientras la otra persona dicta lo esperado de esta.</li>
           <li>La persona que realiza las acciones narra lo que hace.</li>
           <li>La otra persona verifica las acciones de la pareja y comunica los defectos para dar solución inmediatamente.</li>
           <li>Si la pareja no puede resolver el defecto, este deberá ser documentado en la bitácora de defectos y se deberá comunicar al resto del equipo.</li>
@@ -67,7 +67,7 @@
       <td>Rotación.</td>
       <td>
         <ul align="left">
-          <li>Se intercambian los papeles, ahora uno realiza el task y el otro observa.</li>
+          <li>Después de un tiempo determinado por la pareja, se intercambian los papeles. Ahora uno realiza la subtarea y la otra persona observa.</li>
         </ul>
       </td>
       <td>
@@ -79,9 +79,15 @@
   </tbody>
 </table>
 
+:::note
+
+Si la subtarea en la que se va a trabajar involucra escribir código, se deberá seguir la [guía para manejo de ramas](../guias/G13-guia-para-manejo-de-ramas).
+
+:::
+
 ## Salidas
 
-- Task listo para seguir el proceso de revisión.
+- Subtarea lista para seguir el proceso de revisión.
 
 ## Autores
 
@@ -91,6 +97,9 @@
 ## Auditoría
 
 - 
-## Bitácora de cambios 
+
+## Bitácora de cambios
+
 ### Versión 1.0
+
 - Se creó el proceso.
