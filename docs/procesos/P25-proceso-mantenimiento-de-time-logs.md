@@ -7,7 +7,7 @@
 
 ## Entradas
 
-- El tiempo invertido en una actividad en específico en formato decimal con una hora siendo igual a 1.0
+- Planeación de la iteración.
 
 ## Procedimiento
 
@@ -43,7 +43,7 @@
       <td>
         <ul align="left">
           <li>Al terminar la subtarea, se deberá de pasar la medida de tiempo a decimales, recomendamos utilizar la herramienta: <a href="https://www.calculatorsoup.com/calculators/time/time-to-decimal-calculator.php">Calculator Soup</a></li>
-          <li>Se deberá de insertar el dato adquirido en la columna de "Costo Real (Horas)" en<a href="https://docs.google.com/spreadsheets/d/16f-DMyEdRWJv8i912wG2XAdjriofDox448LiZrLuX9c/edit#gid=696613617&range=L6"> Planeación de la Iteración</a> para la subtarea trabajada</li>
+          <li>Se deberá de insertar el dato adquirido en la columna de "Costo Real (Horas)" en la<a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=1305724830"> Planeación de la Iteración de Frappé</a> o en la <a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=578736519">Planeación de la Iteración de Espresso</a> o en la <a href="https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit#gid=1885784650">Planeación de la Iteración departamental</a> para la subtarea trabajada</li>
         </ul>
       </td>
       <td>
@@ -57,13 +57,12 @@
 
 ## Salidas
 
-- Costo real por cada subtarea de la iteración
-- Costo real por cada tarea de la iteración
-- Costo real acumulado del sprint
+- Planeación de la iteración actualizada
 
 ## Autores
 
 - Jorge Arturo Sánchez Arreola
+- Raúl Rosario Galaviz
 
 ## Auditoría
 
