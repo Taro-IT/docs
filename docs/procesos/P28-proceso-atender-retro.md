@@ -29,7 +29,7 @@ A partir de la retroalimentación recibida, identificar tareas a realizar para p
       <td>1. Identificación</td>
       <td>
         <ul align="left">
-          <li>A partir de los documentos de retroalimentación que vienen desde otros procesos, identificar si los elementos descritos son elegibles para tomar una acción correctiva</li>
+          <li>A partir de los documentos de retroalimentación que vienen desde otros procesos, identificar si los elementos descritos son elegibles para tomar una acción correctiva.</li>
         </ul>
       </td>
       <td>
@@ -42,8 +42,9 @@ A partir de la retroalimentación recibida, identificar tareas a realizar para p
       <td>2. Análisis</td>
       <td>
         <ul align="left">
-          <li>Determinar y documentar las acciones pertinentes a realizar en los elementos que fueron identificados como elegibles para corregir</li>
-          <li>Consultar con los interesados relevantes las acciones identificadas y evaluar si son las correctas para corregir los elementos seleccionados</li>
+          <li>Determinar las acciones pertinentes a realizar en los elementos que fueron identificados como elegibles para corregir.</li>
+          <li>Consultar con los interesados relevantes las acciones identificadas y evaluar si son las correctas para corregir los elementos seleccionados.</li>
+          <li>Documentar en los documentos de planeación las actividades a realizar como ítems de trabajo ( <a href="https://docs.google.com/spreadsheets/u/1/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit#gid=0">Planeación departamental</a>, <a href ="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=1100323685">planeación Frappé</a>,<a href="https://docs.google.com/spreadsheets/d/1xPuPU4C-SlJlFZ1v5lpxuJ4RD-dEz9dOgNvWhQ9ZiNo/edit#gid=0"> planeación Espresso</a> ).</li>
         </ul>
       </td>
       <td>
@@ -56,7 +57,7 @@ A partir de la retroalimentación recibida, identificar tareas a realizar para p
       <td>3. Documentación</td>
       <td>
         <ul align="left">
-          <li>En caso de tratarse de retroalimentación de requisitos del sistema, documentar los cambios en la matriz de trazabilidad, documentar en la bitácora de cambios de requisitos los cambios realizados y realizar los cambios necesarios a los elementos de configuración que se modificaron</li>
+          <li>En caso de tratarse de retroalimentación de requisitos del sistema, documentar los cambios en la matriz de trazabilidad, documentar en la bitácora de cambios de requisitos los cambios realizados y realizar los cambios necesarios a los elementos de configuración que se modificaron.</li>
         </ul>
       </td>
       <td>
@@ -72,7 +73,7 @@ A partir de la retroalimentación recibida, identificar tareas a realizar para p
 
 ## Salidas
 
-- Tareas por hacer para atender a la retroalimentación
+- Tareas por hacer para atender a la retroalimentación.
 
 ## Autores
 
