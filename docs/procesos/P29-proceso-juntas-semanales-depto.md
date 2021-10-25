@@ -8,7 +8,9 @@
 
 ## Entradas
 
-- Inicio de semana
+- Plan de iteración departamental
+- Plan de iteración de Frappé
+- Plan de iteración de Espresso
 
 ## Procedimiento
 
