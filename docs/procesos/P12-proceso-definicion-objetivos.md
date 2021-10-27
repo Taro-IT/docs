@@ -9,20 +9,19 @@ Definir los objetivos de un proyecto de manera clara y siguiendo la metodología
 
 
 ## Entradas
-- Necesidades que deben ser satisfechas.
+- [Requisitos](./P05-proceso-requisitos) de un proyecto.
 
 ## Procedimiento
 
 | Fase | Actividades | Área(s) involucradas |
 |------|:---------------:|--------------------|
-|Acercamiento | Comprender las necesidades del proyecto | PP 2.1 |
-|Identificación| <ul><li>Identificar la fecha para la que se quiere haber alcanzado el objetivo</li><li>Definir los objetivos de manera [SMART](https://www.inboundcycle.com/blog-de-inbound-marketing/objetivos-inteligentes-smart-que-son-pasos-para-definirlos) (específico, medible, alcanzble, realista y temporal)</li></ul>|<ul><li>PP 2.1</li> <li> PP 3.3</li></ul> |
-|Documentación|Registrar los nuevos objetivos en el documento de estrategia inicial.|PP 2.7
+|1. Identificación| <ul align="left"><li>Identificar la fecha para la que se quiere haber alcanzado el objetivo</li><li>Definir los objetivos de manera [SMART](https://www.inboundcycle.com/blog-de-inbound-marketing/objetivos-inteligentes-smart-que-son-pasos-para-definirlos) (específico, medible, alcanzable, realista y temporal)</li></ul>|<ul><li>PP 2.1</li> <li> PP 2.7</li><li>PP 3.3</li></ul> |
+|2. Documentación|<p align="left">Registrar los nuevos objetivos en el documento de estrategia inicial.</p>|
 
   
 
 ## Salidas
-- Objetivos del proyecto
+- Objetivos del proyecto generados para generar un [plan](./P14-proceso-de-definicion-del-plan-inicial)
 
   
 
@@ -37,6 +36,7 @@ Definir los objetivos de un proyecto de manera clara y siguiendo la metodología
 - José Carlos Pacheco Sánchez
 - Adolfo Acosta Castro
 - Mauricio Álvarez Milán
+- Jan Limpens
 
 
 # Bitácora de cambios
