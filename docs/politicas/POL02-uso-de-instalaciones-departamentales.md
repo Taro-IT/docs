@@ -7,7 +7,7 @@
 
 ### Horarios y días
 
-<p>Las instalaciones y el acceso estarán a disposición de las indicaciones del Tec que a su vez depende del semáforo COVID Federal, si las condiciones son óptimas cada integrante deberá: </p>
+<p>Las instalaciones y el acceso estarán a disposición de las indicaciones del Tec que a su vez dependen del semáforo COVID Federal, si las condiciones son óptimas cada integrante deberá: </p>
 <ul>
 <li>Avisar a todo el departamento por medio del canal de comunicación #taro-clases-presenciales.</li>
 <li>Revisar que no se exceda el límite de personas permitidas según las indicaciones del Tec.</li>
@@ -21,7 +21,7 @@
 <ul>
 <li>Usar el cubrebocas en todo momento.</li>
 <li>Limpiarse las manos de manera constante.</li>
-<li>Mantener una distancia de 1.5 mts entre cada integrante.</li>
+<li>Mantener una distancia de 1.5 metros entre cada integrante.</li>
 <li>Las pertenencias de cada integrante deberán estar siempre en orden y en un lugar establecido.</li>
 <li>En caso de traer alimentos o bebidas es responsabilidad de cada integrante mantener la limpieza del lugar.</li>
 <li>Al finalizar cada sesión los integrantes que hayan asistido deberán dejar las instalaciones como las encontraron.</li>
@@ -33,3 +33,5 @@
 
 ## Versión 1.0
   - Se creó la política.
+## Versión 1.1
+  - Se corrigen algunos errores de ortografía
