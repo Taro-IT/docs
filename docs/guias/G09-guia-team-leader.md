@@ -54,7 +54,7 @@ La persona que asumirá el rol de Team Leader tendrá el conocimiento necesario 
 
 - Juan José Díaz André
 - Mauricio Alvarez Milán
-
+- Karla Daniela Romero Pérez
 ## Auditoría
 
 - Eric Buitrón López
@@ -64,3 +64,5 @@ La persona que asumirá el rol de Team Leader tendrá el conocimiento necesario 
 
 ## Versión 1.0
   - Se creó la guía.
+## Versión 1.1
+  - Se hizo un refactor para incluir recomendaciones y tareas diarias de un Team Leader
