@@ -21,14 +21,14 @@
 * Localizar el archivo correspondiente al entorno que se necesite: Local, Pruebas o Producción
 * Descargar el archivo seleccionado
 
-![image](/static/img/guias/G20/Imagen1.png)
+![image](../../static/img/guias/G20/Imagen1.png)
 
 ### Para actualizar un archivo
 * Localizar el archivo env con la nueva versión de las variables en la computadora del desarrollador.
 * Subir el archivo a la carpeta con el nombre apropiado y la terminación “.env”
 * Registrar el cambio en la bitácora de actualización.
 
-![image](/static/img/guias/G20/Imagen2.png)
+![image](../../static/img/guias/G20/Imagen2.png)
 
 
 ### Para consultar una versión anterior de un archivo:
@@ -38,7 +38,7 @@ En ocasiones puede ser necesario consultar una versión anterior de un archivo d
 * Buscar la versión necesaria.
 
 
-![image](/static/img/guias/G20/Imagen3.png)
+![image](../../static/img/guias/G20/Imagen3.png)
 
 ## Salidas
 * Archivo(s) env con variables de entorno en la carpeta compartida de archivos env
