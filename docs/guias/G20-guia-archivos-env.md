@@ -5,14 +5,15 @@
 * Orientar en la creación y sincronización de archivos de variables de entorno, también conocidos como “archivos env” para agilizar el intercambio de claves de APIs y de entornos de prueba y producción.
 * Contar con un registro centralizado de configuraciones tanto para desarrollo como para producción.
 * Asegurar la confidencialidad y la integridad de claves de acceso importantes que pudieran comprometer el estado del proyecto si se usan de manera inapropiada.
-* Aportar valor al equipo al apoyar en el complimiento de manejo de configuración en CMMI y las evaluaciones SCAMPI
+* Aportar valor al equipo al apoyar en el cumplimento de manejo de configuración en CMMI y las evaluaciones SCAMPI
 
 ## Pre-requisitos
 
 * Contar con un entorno de pruebas o producción según sea la configuración que se desea compartir.
 * Contar con alguna aplicación o proyecto que use variables como mecanismo de configuración.
 * Tener permisos de lectura y escritura al Google Drive departamental.
-* Que la carpeta de variables de entorno 
+* Que la carpeta de variables de entorno se encuentre accesible para los participantes del proyecto.
+* Hoja de cálculo para registrar los cambios de los archivos.
 
 ## Pasos a seguir
 
