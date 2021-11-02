@@ -49,7 +49,10 @@
         <ul align="left">
           <li>Utilizar el canal de slack de #taro-propuestas para informar a todo el departamento de la propuesta de  decisión.</li>
           <li>Dar un tiempo de mínimo 8 horas y máximo 24 horas para escuchar cualquier opinión a favor o en contra de la decisión.</li>
-          <li>Cualquier refutación debe ser informada respondiendo al hilo del mensaje de la propuesta de decisión.</li>
+            <ul>
+              <li>En caso de que este periodo incluya fin de semana, postergar la decisión para el siguiente día hábil del departamento.</li>
+            </ul>
+          <li>Cualquier refutación o alternativa debe ser informada respondiendo al hilo del mensaje de la propuesta de decisión.</li>
         </ul>
       </td>
       <td>
@@ -66,11 +69,11 @@
             <ul>
               <li>Si la decisión es pertinente:</li>
                 <ul>
-                  <li>Invocar al <a href="./P08-proceso-gestion-riesgos.md">proceso de gestión de riesgos</a> para actualizar la matriz de riesgos.</li>
+                  <li>Invocar al <a href="./P08-proceso-gestion-riesgos">proceso de gestión de riesgos</a> para actualizar la matriz de riesgos.</li>
                 </ul>
               <li>Si la decisión no es pertinente:</li>
                 <ul>
-                  <li>Considerando las refutaciones y alternativas presentadas por los otros miembros del departamento hacer alguna de las siguientes opciones:</li>
+                  <li>Considerando las refutaciones y alternativas presentadas por los otros miembros del departamento hacer alguna de las siguientes dos opciones:</li>
                   <ul>
                     <li>Replantear la propuesta de solución y volver a la fase de análisis.</li>
                     <li>Desechar la propuesta de decisión.</li>
@@ -82,8 +85,9 @@
       </td>
       <td>
         <ul>
-          <li><li>DAR 1.5</li>
-          <li>DAR 1.6</li></li>
+          <li>DAR 1.5</li>
+          <li>DAR 1.6</li>
+          <li>RKM 1.1</li>
         </ul>
       </td>
     </tr>
@@ -92,13 +96,13 @@
       <td>
         <ul align="left">
           <li>En el canal de Slack de #taro-propuestas, comunicar sobre la toma de la decisión.</li>
-          <li>Documentar en el <a href="https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit#gid=597584843">backlog de decisiones departamental</a>,<a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=540680903">backlog de decisiones de Frappé</a> o <a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=1733685017">backlog de decisiones de Espresso </a>dependiendo del proyecto correspondiente.</li>
+          <li>Documentar en el <a href="https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit#gid=597584843">backlog de decisiones departamental</a> o en el<a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=540680903">backlog de decisiones de Frappé</a> o en el<a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=1733685017">backlog de decisiones de Espresso </a>dependiendo del proyecto correspondiente.</li>
           <li>Tomar la decisión.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>_El o las áreas del CMMI involucradas en esta fase (Poner la práctica específica y no solo el área)_</li>
+          <li>DAR 1.6</li>
         </ul>
       </td>
     </tr>
@@ -107,19 +111,15 @@
 
 ## Salidas
 
-_Enlistar los resultados obtenidos al seguir el procedimiento del proceso. Deben estar alineados al objetivo del proceso._
+- Una decisión.
 
 ## Autores
-
-
 
 - Raúl Rosario
 - Eduardo Castillo
 
 ## Auditoría
 
-_Enlistar a las personas que revisaron el proceso_
 
-- 
-
-## Versión número_de_version
+## Versión 1.0
+  - Se creó el proceso.
