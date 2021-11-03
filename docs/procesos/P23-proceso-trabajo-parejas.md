@@ -87,7 +87,7 @@ Si la subtarea en la que se va a trabajar involucra escribir código, se deberá
 
 ## Salidas
 
-- Subtarea lista para seguir el proceso de revisión.
+- Subtarea lista para seguir el [proceso de revisión](P31-proceso-revision-codigo).
 
 ## Autores
 
