@@ -83,13 +83,13 @@
 ## Auditoría
 
 - 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.0
+### Versión 1.0
 
 - Se creó el proceso
 
-## Versión 1.1
+### Versión 1.1
 
 - Se agregaron los links a assets necesarios
 - Se cambiaron las entradas y salidas
