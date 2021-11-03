@@ -31,11 +31,20 @@ _Enlistar a las personas que revisaron la guía_
 
 - 
 
-## Versión número_de_version
+## Bitácora de cambios
+
+### Versión [número de versión]
+
+- [Cambios nuevos en la versión].
 
 ```
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.0
-  - Se creó la plantilla.
+### Versión 1.0
+
+- Se creó la plantilla.
+
+### Versión 2.0
+
+- Se le agrega la bitácora de cambios a la plantilla.
