@@ -50,7 +50,7 @@
       <td rowspan="4"><ul><li>OPF - 1.2</li><li>VER - 2.2</li><li>VER - 3.1</li><li>PPQA - 1.1</li><li>PPQA - 1.2</li><li>PPQA - 2.1</li></ul></td>
     </tr>
     <tr>
-      <td>En caso de usar ligas, verificar que solo exista una liga por renglon, para evitar problemas al momento de comunicar el contenido de las ligas con los evaluadores.</td>
+      <td>Completar el <a href="https://docs.google.com/spreadsheets/d/1Hr3ab5XTAcUgdhaBFc5iaN5Qahe8IAZbLFuvvKzY0Ss/edit#gid=0">checklist 08 -  Entrega de SCAMPI</a>.</td>
     </tr>
     <tr>
       <td>Comunica la finalización de la verificación.</td>
