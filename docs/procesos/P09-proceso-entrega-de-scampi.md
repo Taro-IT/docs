@@ -86,14 +86,15 @@
 - José Carlos Pacheco Sánchez
 - Eric Buitrón López
 - Eduardo Andrés Castillo Perera
+- María de los Ángeles Contreras Anaya
 
 ## Auditoría
-
+- Raúl Rosario Sandoval Galaviz
 
 # Bitácora de cambios
 
 ## Versión 1.1
-  - Se añadieron cambios para verificar que las ligas a los entregables tengan los permisos adecuados para que puedan .
+  - Se añadió referencia a la checklist de entrega SCAMPI.
 
 ## Versión 1.0
   - Se creó el proceso.
