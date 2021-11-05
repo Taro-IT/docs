@@ -1,13 +1,13 @@
 
-# P31 - Proceso para revisión de código
+# P31 - Proceso para revisión de items de trabajo
 
 ## Objetivo(s)
 
-- Verificar que el código cuente con los estándares de calidad del equipo del departamento correspondiente.
+- Verificar que los items de trabajo cuenten con los estándares de calidad del equipo del departamento correspondiente.
 
 ## Entradas
 
-- Subtarea lista para seguir el proceso de revisión originada del [proceso de trabajo en parejas](P23-proceso-trabajo-parejas)
+- Subtarea lista para seguir el proceso de revisión originada del [proceso de trabajo en parejas](P23-proceso-trabajo-parejas).
 
 ## Procedimiento
 
@@ -74,15 +74,21 @@
 
 ## Salidas
 
-- Pull Request aprobado listo para lbieración bajo el proceso de liberación
+- Pull Request aprobado listo para liberación bajo el proceso de liberación.
+
+- Subtarea lista para la siguiente etapa de la fase de construcción siguiendo el [proceso de trabajo en parejas](P23-proceso-trabajo-parejas).
 
 ## Autores
 
 - Mauricio Alvarez Milán
+- Jan Limpens Gutiérrez
+- Eduardo Andrés Castillo Perera
+- Eric Buitrón López
 
 ## Auditoría
 
 - 
+
 ## Bitácora de cambios
 
 ### Versión 1.0
@@ -93,3 +99,7 @@
 
 - Se agregaron los links a assets necesarios
 - Se cambiaron las entradas y salidas
+
+### Versión 1.2
+
+- Se cambió el proceso para hacerlo más génerico y no sólo de revisión de código.
