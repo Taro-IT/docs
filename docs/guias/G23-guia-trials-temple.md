@@ -15,7 +15,7 @@ El nivel de **Youngling** en el tablero es el equivalente al nivel **No conoce l
 
 :::
 
-- También es altamente recomendable que, en la celda correspondiente, agregues un link de la evidencia que utilizaste durante tu entrevista más reciente para cada competencia. Esto con el fin de permitir a los otros miembros del departamento darse una idea de cómo poder aumentar su nivel (Recuerda dar los permisos necesarios para que los miembros del departamento puedan ver tus evidencias). 
+- Es altamente recomendable que, en la celda correspondiente, agregues un link de la evidencia que utilizaste durante tu entrevista más reciente para cada competencia. Esto con el fin de permitir a los otros miembros del departamento darse una idea de cómo poder aumentar su nivel (Recuerda dar los permisos necesarios para que los miembros del departamento puedan ver tus evidencias). 
 
 - En la misma hoja podrás consultar los niveles de competencia y evidencia de todos los otros integrantes del departamento, ¡úsalos como guía para saber cómo mejorar tus competencias!
 
@@ -26,7 +26,7 @@ Recuerda apoyarte de los compañeros con niveles más altos en las competencias,
 :::
 
 ## Salidas
-_Enlistar los resultados obtenidos al seguir los pasos de la guía. Deben estar alineados al objetivo de la guía._
+- Tablero Trials of the Temple actualizado.
 ## Autores
 - Iván Díaz
 ## Auditoría
