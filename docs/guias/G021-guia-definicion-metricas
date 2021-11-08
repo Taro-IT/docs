@@ -1,0 +1,42 @@
+# G21 - Guía de definicion de metricas
+
+## Objetivo(s)
+- Guiar la creacion de nuevas metricas que satisfagan necesidades de informacion de los proyectos y que puedan ser manejadas de acuerdo al proceso de manejo de metricas. 
+
+## Pre-requisitos
+- Necesidades de informacion de los proyectos
+- Matrices de metricas de los proyectos
+
+## Pasos a seguir
+### Definir objetivo
+Para que una metrica sea de utilidad debe estar alineada a conseguir un objetivo que sea especifico y medible. Por ejemplo: Conocer el avance del proyecto.
+
+### Desarrollar preguntas guia
+Partiendo del objetivo identificado, plantea una o varias preguntas que concreten la manera en la que el objetivo sera alcanzado.
+
+### Especificar metrica
+Identificar la nueva metrica que se utilizara para responder las preguntas generadas. Esta debe tener una unidad de medida especifica.
+
+### Definir metodo de obtencion
+Redactar una explicacion del mecanismo de recoleccion de la metrica. Se debe especificar como conseguir los datos, como y donde registrarlos, como asegurar su integridad, y como generar cualquier artefacto para su analisis y reporte, como graficas.
+
+### Definir criterio de analisis
+Especificar como se interpretan los datos recolectados.s
+
+### Definir frecuencia de analisis
+Especifircar la periodicidad con la que se analizaran los datos recolectados de la metrica.
+
+## Salidas
+- Nueva metrica registrada en la matriz de metricas correspondiente.
+
+## Autores
+- Adolfo Acosta Castro
+
+## Auditoría
+_Enlistar a las personas que revisaron la guía_
+
+
+## Bitácora de cambios
+
+### Versión 1.0
+- Se creó la guía
