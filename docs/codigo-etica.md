@@ -94,7 +94,11 @@ De igual manera, cualquier miembro del departamento podrá enviar un mensaje pri
 Association for Computer Machinery. (2018). *ACM Code of Ethics and Professional Conduct*. Recuperado de https://www.acm.org/code-of-ethics
 
 ## Autores
-Comité de Etica "Agua" del departamento Taro
+- Adolfo Acosta Castro
+- Jan Limpens Gutiérrez
+- Juan Manuel Amador Pérez Flores
+- Mauricio Álvarez Milán
+- Raúl Rosario Sandoval Galaviz
 
 # Bitácora de cambios
 
