@@ -26,7 +26,7 @@ El nivel de **Youngling** en el tablero es el equivalente al nivel **No conoce l
 
 :::note
 
-Recuerda apoyarte de los compañeros con niveles más altos en las competencias, si su evidencia no es suficiente o crees necesitar más ayuda, siempre puedes pedir asesoria 1 a 1 con ellos.
+Recuerda apoyarte de los compañeros con niveles más altos en las competencias, si su evidencia no es suficiente o crees necesitar más ayuda, siempre puedes pedir asesoría 1 a 1 con ellos.
 
 :::
 
