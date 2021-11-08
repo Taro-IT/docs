@@ -132,7 +132,7 @@
         <ul>
           Durante la sesión de retroalimentación:
           <li>Anotar las observaciones de los evaluadores en el mismo archivo entregado. </li>
-          <li>Seguir el proceso para <a href="https://taro-it.github.io/docs/procesos/P28-proceso-atender-retro">atender retroalimentación</a>.</li></li>
+          <li>Seguir el proceso para <a href="https://taro-it.github.io/docs/procesos/P28-proceso-atender-retro">atender retroalimentación</a>.</li>
         </ul>
       </td>
     </tr>
