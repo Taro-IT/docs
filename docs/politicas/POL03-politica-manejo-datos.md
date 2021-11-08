@@ -19,9 +19,14 @@
 - Solo se deberán tratar estos datos en dispositivos de confianza.
 - En el caso de poseer datos en formato físico, es responsabilidad del miembro de Taro mantenerlo siempre con su persona y propiamente destruirlos una vez su utilidad haya expirado.
 - Al finalizar los proyectos debe existir una fecha después de la cual, ningún miembro de Taro debe tener acceso a dichos datos.
-- Durante el desarrollo de la solución, el Architecture Owner es el responsable de compartir adecuadamente estos datos únicamente con los otros miembros del equipo de desarrollo.
+- Durante el desarrollo de la solución, el Architecture Owner es el responsable de compartir adecuadamente estos datos únicamente con los otros miembros del equipo de desarrollo según se refiere en el [Plan de Datos Departamental](https://docs.google.com/spreadsheets/d/1pr1yQhi7KrxjBpAtKkJdMdSsJclQP9aOeIuqiJBv7rc/edit#gid=0).
 - El Product Owner es el último responsable de asegurarse de que no se hayan modificado los permisos de acceso no aprobados.
 - En caso de que se detecte una fuga de datos, el Architecture Owner bloqueará los datos de poder ser accedidos y se aplicarán las medidas de contingencia pertinentes.
+
+### Respaldo de Información
+
+- La información ubicada en la unidad compartida de Google Drive deberá ser respaldada y resguardada por los PM y AO cada 3 semanas.
+- Las [lineas base](https://taro-it.github.io/docs/politicas/POL04-Definicion%20de%20elementos%20de%20configuracion) de los proyectos deberán ser clonados por todos los miembros de Taro, se deberá realizar un fetch los dias lunes y miercoles de cada semana para mantener actualizadas las [lineas base](https://taro-it.github.io/docs/politicas/POL04-Definicion%20de%20elementos%20de%20configuracion).
 
 # Bitácora de cambios
 
@@ -33,3 +38,5 @@
 
 - Añadir medidas de prevención.
 - Arreglar formato.
+- Se agrego el respaldo de información.
+- Fix de links.
