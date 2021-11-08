@@ -2,7 +2,7 @@
 
 ## Objetivos
 
-- Poder estimar correctamente todos los work items identificados dentro de un plan, incluso sin datos históricos.
+- Estimar correctamente todos los work items identificados dentro de un plan, incluso sin datos históricos.
 
 ## Pre-requisitos
 
@@ -24,7 +24,7 @@ Todos los siguientes pasos se deben realizar por cada work item.
 2. Estimar el tiempo que le llevara a todas las personas asignadas terminar el work item.
    1. Si no se tienen datos históricos, es decir, métricas que indiquen si se tiende a sobreestimar o subestimar el costo, se realizará una suposición de lo que predicen que tomará ese work item.
    2. Si se tienen datos históricos, a la estimación original se le restará o sumará lo que porcentualmente se tiende a sobreestimar o subestimar, respectivamente.
-   3. Si varias personas tienen asignado el mismo work item, el costo es la suma del tiempo de trabajo de esas personas, por ejemplo, si dos personas trabajan por una hora en un work item el costo será de dos horas.
+   3. Si varias personas tienen asignado el mismo work item, el costo es la suma del tiempo de trabajo de esas personas, por ejemplo, si dos personas trabajan por una hora en un work item, el costo será de dos horas.
 3. Si el costo individual de todos los work items que tiene asignada una persona es mayor a lo que indica la matriz de disponibilidad, deberá ocurrir una renegociación del plan.
 
 ### Para la estimación de valor
