@@ -5,10 +5,15 @@
 - Contar con acceso al tablero [Trials of the Temple](https://docs.google.com/spreadsheets/d/1MZ-7gZ1iUZPbCIa3G2UtK8B-_w1ipbHrO0hJMeRTozQ/edit#gid=1760954040)
 ## Pasos a seguir
 
-- Accede a la [página de competencias](https://app.gladio.com.mx/)
-- Revisa el nivel de todas tus competencias en la sección de la página llamada `competencias`
+- Accede a la [página de competencias](https://app.gladio.com.mx/).
+- Revisa el nivel de todas tus competencias de la siguiente forma: 
+    - Da clic en la sección de la página llamada `competencias`.
+    - Da clic en en nombre de la competencia para expandir la información de esta.
+    - Dentro de la información de la competencia, busca su evaluación más actual.
+    - Busca el campo de `Nivel logrado` y ahí encontrarás el nivel de esa competencia.
 - En el tablero de [Trials of the Temple](https://docs.google.com/spreadsheets/d/1MZ-7gZ1iUZPbCIa3G2UtK8B-_w1ipbHrO0hJMeRTozQ/edit#gid=1760954040) busca la hoja `Entrevista y evidencias` más actual.
 - En dicha hoja, ubica tu nombre y actualiza tu nivel actual en cada competencia.
+
 :::note
 
 El nivel de **Youngling** en el tablero es el equivalente al nivel **No conoce la fuerza** de la página de competencias
