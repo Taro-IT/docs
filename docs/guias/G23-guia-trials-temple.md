@@ -35,7 +35,7 @@ Recuerda apoyarte de los compañeros con niveles más altos en las competencias,
 ## Autores
 - Iván Díaz
 ## Auditoría
-
+- Saúl 
 ## Bitácora de cambios
 ### Versión 1.0
 - Se creó la guía
