@@ -23,13 +23,17 @@
 - El Product Owner es el último responsable de asegurarse de que no se hayan modificado los permisos de acceso no aprobados.
 - En caso de que se detecte una fuga de datos, el Architecture Owner bloqueará los datos de poder ser accedidos y se aplicarán las medidas de contingencia pertinentes.
 
+### Respaldo de Información
+- La información ubicada en la unidad compartida de Google Drive deberá ser respaldada y resguardada por los PM y AO cada 3 semanas.
+- Las [lineas base](https://taro-it.github.io/docs/politicas/POL04-Definicion%20de%20elementos%20de%20configuracion) de los proyectos deberán ser clonados por todos los miembros de Taro, se deberá realizar un fetch los dias lunes y miercoles de cada semana para mantener actualizadas las [lineas base](https://taro-it.github.io/docs/politicas/POL04-Definicion%20de%20elementos%20de%20configuracion). 
+
 # Bitácora de cambios
 
 ## Versión 1.0
 
-- Se creó la política.
+  - Se creó la política.
 
 ## Versión 1.1
-
-- Añadir medidas de prevención.
-- Arreglar formato.
+  - Añadir medidas de prevención.
+  - Se agrego el respaldo de información.
+  - Fix de links.
