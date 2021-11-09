@@ -20,9 +20,16 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">Solicitud</td>
-      <td>Comunicarse con el evaluador o la evaluadora para agendar fecha y hora de entrega seguir <a href="/guias/G01-guia-para-agendar-juntas">Guía para agendar juntas</a>.</td>
-      <td rowspan="6"><ul><li>OPF - 1.2</li><li>VER- 1.1</li><li>OPF - 1.2</li><li>VER -  1.2</li><li>VER - 1.3</li><li>VAL - 1.1</li><li>VAL - 1.2</li></ul></td>
+      <td>Solicitud</td>
+      <td>
+        <ul>
+          <li>Comunicarse con el evaluador o la evaluadora para agendar fecha y hora de entrega, seguir la <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>.</li>
+          <li>Avisar por el canal de slack taro-general la fecha y hora de la entrega.</li>
+        </ul>
+      </td>
+      <td rowspan="3">
+        <ul><li>OPF - 1.2</li><li>VER- 1.1</li><li>OPF - 1.2</li><li>VER -  1.2</li><li>VER - 1.3</li><li>VAL - 1.1</li><li>VAL - 1.2</li></ul>
+      </td>
     </tr>
     <tr>
       <td>Avisar por alguno de los medios de comunicación al departamento la fecha y hora de la entrega.</td>
@@ -35,16 +42,46 @@
     <td>Hacer una copia de la <a href="https://docs.google.com/spreadsheets/d/1trRd8J3lm7lMjZJck7JbxtUdJlLRZkapo7FPQ3G_J24/edit#gid=209818233">hoja de evaluación SCAMPI</a>.</td>
     </tr>
     <tr>
-      <td rowspan="2">Recolección de evidencias</td>
-      <td>Identificar el entregable para cada área a evaluar.</td>
+    <td>Verificación</td>
+      <td>
+        <ul>
+          <li>Dentro de la matriz de configuración, asegurarse que el nivel del tablero es "Controlado".</li>
+          <li>Verificar que los criterios de gestión de la configuración y difusión se cumplan (llenar la columna "¿Cumple?" para que refleje los resultados de dicha verificación). </li>
+          <li>Para la verificación de cada área a evaluar se deberá hacer lo siguiente: 
+            <ul>
+              <li>Dentro de la checklist, cambiar el estado del área a "En proceso".</li>
+              <li>Duplicar la hoja "Template Area" y nombrar de la siguiente manera: [Área]-VER[00], donde 00 deberá ir incrementando según las verificaciones que se hayan hecho anteriormente.</li>
+              <li>Llenar área del CMMI y verificadores.</li>
+              <li>Verificar que dicha área cumple con todos y cada uno de los elementos definidos en la checklist.</li>
+              <li>Llenar la columna "¿Cumple?" para que refleje los resultados de la verificación anterior.</li>
+          <li>Si el área no cumple con un elemento:
+          	<ul>
+              <li>Agregar comentarios para detallar las observaciones.</li>
+              <li>Comunicar al departamento de las observaciones realizadas a través del canal de slack taro-general.</li>
+              <li>Actualizar la versión del tablero dentro de la matriz de configuración, aumentando en una unidad el valor del número de la derecha.</li>
+              <li>Los <a href="https://docs.google.com/spreadsheets/d/1TVphnJJ8Fs1tjc2MPeg-Vpy9lEqMeVrbBeRvzP8b-gw/edit#gid=0">responsables del área</a> deberán hacer las correcciones necesarias y comunicar que esta se ha corregido para ser verificada nuevamente.</li>
+              <li>Dentro de la matriz de configuración, se debe actualizar la última fecha de modificación del tablero.</li>
+            </ul>
+            </li>
+              <li>Una vez que el área cumpla con todos los elementos de la checklist, cambiar su estado a "Verificada".</li>
+          </ul>
+         </li>
+          <li>Si todas las áreas y el tablero en sí cumple con todos los elementos de la checklist, continuar con la siguiente fase.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Obtener evidencia de definición y ejecución de cada área a evaluar. Llena las columnas correspondientes del entregable.</td>
     </tr>
     <tr>
-      <td rowspan="3">Verificación de áreas de proceso</td>
-      <td>Marca como Sí a la pregunta "¿La práctica está completamente definida?" si las subprácticas están definidas en nuestra forma de trabajo (procesos, guías, etc) y "¿La práctica está completamente implementada?" si hay evidencia que los equipos lo apliquen.</td>
-      <td rowspan="3"><ul><li>OPF - 1.2</li><li>VER - 2.2</li><li>VER - 3.1</li><li>PPQA - 1.1</li><li>PPQA - 1.2</li><li>PPQA - 2.1</li></ul></td>
+      <td>Seguimiento</td>
+      <td>
+        <ul>
+          Durante la sesión de retroalimentación:
+          <li>Anotar las observaciones de los evaluadores en el mismo archivo entregado. </li>
+          <li>Seguir el proceso para <a href="https://taro-it.github.io/docs/procesos/P28-proceso-atender-retro">atender retroalimentación</a>.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Comunica la finalización de la verificación.</td>
