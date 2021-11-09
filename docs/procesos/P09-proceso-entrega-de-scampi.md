@@ -23,7 +23,7 @@
       <td>Solicitud</td>
       <td>
         <ul>
-          <li>Comunicarse con el evaluador o la evaluadora para agendar fecha y hora de entrega, seguir la <a href="/guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>.</li>
+          <li>Comunicarse con el evaluador o la evaluadora para agendar fecha y hora de entrega, seguir la <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>.</li>
           <li>Avisar por el canal de slack taro-general la fecha y hora de la entrega.</li>
         </ul>
       </td>
@@ -77,6 +77,7 @@
         </ul>
       </td>
     </tr>
+    <tr>
     <td>Verificación</td>
       <td>
         <ul>
@@ -131,7 +132,7 @@
         <ul>
           Durante la sesión de retroalimentación:
           <li>Anotar las observaciones de los evaluadores en el mismo archivo entregado. </li>
-          <li>Seguir el proceso para <a href="https://taro-it.github.io/docs/procesos/P28-proceso-atender-retro">atender retroalimentación</a>.</li></li>
+          <li>Seguir el proceso para <a href="https://taro-it.github.io/docs/procesos/P28-proceso-atender-retro">atender retroalimentación</a>.</li>
         </ul>
       </td>
     </tr>
