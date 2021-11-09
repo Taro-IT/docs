@@ -1,4 +1,8 @@
-# Forma de trabajo de Taro
+---
+sidebar_position: 1
+---
+
+# Forma de trabajo - Taro
 
 ### Objetivo:
 <p>Que los miembros de Taro tengan una forma de trabajo definida que apoye a la creación de soluciones de software que cumplan con estándares de calidad de nivel internacional.</p>
@@ -67,18 +71,18 @@ En **Taro** utilizamos el ciclo de vida DAD Básico definido en la siguiente ima
 
 ![Ciclo de vida DAD](../../static/img/ciclo-de-vida-dad.png "Ciclo de vida")
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.0
+### Versión 1.0
 - Se creó la forma de trabajo.
 
-## Versión 1.1
+### Versión 1.1
 - Dejó de ser una política a ser su propio apartado.
 - Se corrigieron errores de ortografía.
 
-## Versión 1.2
+### Versión 1.2
 - Se actualizó la imagen del mapa de procesos.
 - Se agregó la liga para la DoD checklist.
 
-## Version 1.3
+### Version 1.3
 - Se agregó la sección del ciclo de vida DAD Básico
