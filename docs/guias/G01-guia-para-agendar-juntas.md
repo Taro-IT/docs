@@ -69,7 +69,7 @@ En el caso de Frapp√©, los calendarios de disponibilidad de la semana se enviar√
 
 :::
 
-![image](../../static/img/guias/G01/G01-img-7.png)
+![image](../../static/img/guias/G01/g01-img-7.png)
 
 ## Salidas
 
