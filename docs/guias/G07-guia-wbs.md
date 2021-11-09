@@ -7,7 +7,7 @@ Orientar en la manera en que se define un WBS que pueda facilitar el proceso de 
 ## Pre-requisitos
 - Un proyecto que ha sido analizado
 - Requisitos identificados de un proyecto
-- Plantilla para WBS
+- [Plantilla para WBS](https://app.diagrams.net/#G1FFD6BBHCHfoPOvhvurE_uToa33KGPnDi)
 
 ## Pasos a seguir
 
