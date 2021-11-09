@@ -11,9 +11,14 @@
 ### Manejo de datos
 - Bajo ninguna circunstancia  deberán ser compartidos a externos los datos sensibles de los interesados, ni parcialmente ni mucho menos en su totalidad.
 - Al finalizar los proyectos debe existir una fecha después de la cual, ningún miembro de taro debe tener acceso a dichos datos.
-- Durante el desarrollo de la solución, el Architecture Owner es el responsable de compartir adecuadamente estos datos únicamente con los otros miembros del equipo de desarrollo.
+- Durante el desarrollo de la solución, el Architecture Owner es el responsable de compartir adecuadamente estos datos únicamente con los otros miembros del equipo de desarrollo según se refiere en el [Plan de Datos Departamental](https://docs.google.com/spreadsheets/d/1pr1yQhi7KrxjBpAtKkJdMdSsJclQP9aOeIuqiJBv7rc/edit#gid=0).
+
+### Respaldo de Información
+- La información ubicada en la unidad compartida de Google Drive deberá ser respaldada y resguardada por los PM y AO cada 3 semanas.
+- Las [lineas base](https://taro-it.github.io/docs/politicas/POL04-Definicion%20de%20elementos%20de%20configuracion) de los proyectos deberán ser clonados por todos los miembros de Taro, se deberá realizar un fetch los dias lunes y miercoles de cada semana para mantener actualizadas las [lineas base](https://taro-it.github.io/docs/politicas/POL04-Definicion%20de%20elementos%20de%20configuracion). 
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó la política.
+## Versión 1.1
+  - Se agrego el respaldo de información.
+  - Fix de links.
