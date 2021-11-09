@@ -2,20 +2,29 @@
 
 ## Objetivo(s)
 
-Orientar en la manera en que se define un WBS que pueda facilitar el proceso de planificación.
+- Guiar a los miembros de Taro sobre qué es un WBS y cómo definirlo.
 
 ## Pre-requisitos
-- Un proyecto que ha sido analizado
 - Requisitos identificados de un proyecto
 - [Plantilla para WBS](https://app.diagrams.net/#G1FFD6BBHCHfoPOvhvurE_uToa33KGPnDi)
 
 ## Pasos a seguir
+### WBS
+El Work Breakdown Structure (WBS) es una deconstrucción visual, jerárquica y orientada a la entrega del alcance total de un proyecto, lo que facilita la planificación del mismo. 
 
-1. Identificar las áreas críticas (Nivel 1).
-2. Desglosar el área en entregables (Nivel 2).
-3. Identificar los paquetes de trabajo que se necesitan para completar cada entregable (Nivel 3).
-4. Repetir el paso 2 para cada área crítica.
-5. Repetir el paso 3 para cada entregable.
+### Niveles de un WBS
+Un WBS tiene cuatro niveles, los cuales se describen a continuación:
+- Nivel superior: Define el producto final que será entregado a los socios.
+- Control account: Son puntos de control de gestión donde se integran el alcance, presupuesto, costo real y cronograma, es decir, las fases o entregables más importantes de un proyecto.
+- Work Packages: Es el esfuerzo requerido para producir un entregable dentro de un proyecto, es decir grupos de tareas que aseguran el cumplimiento de un control account.
+- Activities: Tareas específicas que son necesarias para completar un work package.
+
+### ¿Cómo definir un WBS?
+1. Defina el alcance, los recursos y los objetivos del proyecto.
+2. Identifique las fases más importantes del proyecto y desglóselas en entregables.
+3. Identifique los paquetes de trabajo que se necesitan para completar cada entregable.
+4. Enliste todas y cada una de las tareas y subtareas necesarias para completar el work package.
+5. Repita el paso 3 y 4 para cada entregable.
 
 ## Salidas
 
@@ -23,6 +32,7 @@ Orientar en la manera en que se define un WBS que pueda facilitar el proceso de 
 
 ## Autores
 
+- María de los Ángeles Contreras Anaya
 - Karla Daniela Romero Pérez
 
 ## Auditoría
@@ -33,6 +43,9 @@ Orientar en la manera en que se define un WBS que pueda facilitar el proceso de 
 - Mauricio Álvarez Milán
 
 # Bitácora de cambios
+## Versión 1.1
+  - Se agregó una definición de los niveles del WBS.
+  - Se agregó el link a la plantilla del WBS.
 
 ## Versión 1.0
   - Se creó la guía.
