@@ -6,6 +6,29 @@ sidebar_position: 1
 
 # ¿Quiénes somos?
 
+
+## Roles
+
+### Program Manager (PM)
+
+- María de los Ángeles Contreras Anaya.
+- Saúl Axel Palacios Acosta.
+
+### Team Leader (TL)
+
+- Ivan Alejandro Díaz Peralta en el equipo de Frappé.
+- Juan Manuel Amador Pérez Flores en el equipo de Espresso.
+
+### Product Owner (PO)
+
+- Jorge Sanchez en el equipo de Frappé.
+- Lalo Guzmán en el equipo de Espresso.
+
+### Architecture Owner (AO)
+
+- Eduardo Andrés Castillo Perera en el equipo de Frappé.
+- Sebastian Gonzalez Tafoya en el equipo de Espresso.
+
 ## Misión
 
 Construir soluciones de calidad que impacten positivamente en nuestros socios.
