@@ -8,7 +8,7 @@
 ## Entradas
 
 - Junta o juntas con los socios formadores siguiendo
-  el [proceso de juntas con socios formadores](P02-proceso-juntas-socios-formadores)
+  el [proceso de juntas con socios formadores](./P02-proceso-juntas-socios-formadores)
 
 ## Procedimiento
 
@@ -20,8 +20,10 @@
 | 4.Clasificación | <p  align="left" >Categorizar de acuerdo a los tipos de requisitos identificados. </p>| <ul ><li>RM - 1.1</li></ul> |
 | 5. Formalización | <p align="left">Realizar [historias de Usuario](./P13-proceso-generar-alimentar-historias-usuario)  colocándolo en la <a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=1305724830"> Lista de Historias de usuario de Frappé </a> o  <a href="https://docs.google.com/spreadsheets/d/1xPuPU4C-SlJlFZ1v5lpxuJ4RD-dEz9dOgNvWhQ9ZiNo/edit#gid=1491480126"> Lista de Historias de usuario de Espresso. </a></p> | <ul><li>RM - 1.4</li></ul> |
 | 6. Priorización |  <p align="left">Evaluar cada uno de los requerimientos para estimar el costo de cada uno de ellos y priorizarlos con base a los intereses acordados. </p> | <ul><li>RM - 1.2</li></ul> |
-| 7. Análisis  | <ul align="left"> <li> Se analizará el impacto y la definición de los requisitos de acuerdo a los [criterios de aceptación de requisitos](../checklists/CH05-criterios-aceptacion-requisitos.md) y se agregarán a la alcance del proyecto. De no ser así, se harán propuestas de cambios para que sean aceptados y agregados. </li><li> Se hará una estimación de puntos ágiles para poder asignarles un tamaño.</li></ul> | <ul><li>RM - 1.1</li><li>RM - 1.3</li></ul> |
-| 8. Validación  |  <p align="left">  Verificar la lista de requisitos con los stakeholders exponiendo las necesidades que se solucionan y llegar a un acuerdo. </p> | <ul><li>RM - 1.1</li><li>RM - 1.2</li></ul> |
+| 7. Verificación  | <ul align="left"> <li> Se analizará el impacto y la definición de los requisitos de acuerdo a los [criterios de aceptación de requisitos](../checklists/CH05-criterios-aceptacion-requisitos.md) y se agregarán a la alcance del proyecto. De no ser así, se harán propuestas de cambios para que sean aceptados y agregados. </li><li> Se hará una estimación de puntos ágiles para poder asignarles un tamaño.</li></ul> | <ul><li>RM - 1.1</li><li>RM - 1.3</li></ul> |
+| 8. Validación  |  <p align="left">  Validar la lista de requisitos con los stakeholders exponiendo las necesidades que se solucionan y llegar a un acuerdo. </p> | <ul><li>RM - 1.1</li><li>RM - 1.2</li></ul> |
+
+
 
 ## Salida
 
