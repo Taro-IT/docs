@@ -1,63 +1,64 @@
-# G20 - Guía para sincronizar, respaldar y compartir archivos de configuración y variables de entorno
+# G21 - Guía para realizar un pull request
 
 ## Objetivo(s)
 
-* Orientar en la creación y sincronización de archivos de variables de entorno, también conocidos como “archivos env” para agilizar el intercambio de claves de APIs y de entornos de prueba y producción.
-* Contar con un registro centralizado de configuraciones tanto para desarrollo como para producción.
-* Asegurar la confidencialidad y la integridad de claves de acceso importantes que pudieran comprometer el estado del proyecto si se usan de manera inapropiada.
-* Aportar valor al equipo al apoyar en el cumplimento de manejo de configuración en CMMI y las evaluaciones SCAMPI
+* Solicitar la revisión y el merge de nuevas funcionalidades para validar que este sigue los estandares de calidad.
+
 
 ## Pre-requisitos
 
-* Contar con un entorno de pruebas o producción según sea la configuración que se desea compartir.
-* Contar con alguna aplicación o proyecto que use variables como mecanismo de configuración.
-* Tener permisos de lectura y escritura al Google Drive departamental.
-* Que la carpeta de variables de entorno se encuentre accesible para los participantes del proyecto.
-* Hoja de cálculo para registrar los cambios de los archivos.
+* Contar con item de trabajo nuevo o fix de trabajo. (Revisión de codigo, nuevo featue, fix de un feature, etc. ). Siguiendo la [guia de manejo de ramas](https://taro-it.github.io/docs/guias/G13-guia-para-manejo-de-ramas).
+
 
 ## Pasos a seguir
 
-### Para consultar las variables de entorno de algún ambiente:
-* Navegar al archivo de variables de entorno del proyecto
-* Localizar el archivo correspondiente al entorno que se necesite: Local, Pruebas o Producción
-* Descargar el archivo seleccionado
+### Entrar al [repositorio](https://github.com/Taro-IT/docs) del equipo:
 
-![image](../../static/img/guias/G20/Imagen1.png)
+* Navegar a Pull Request
+![image](../../static/img/guias/G21/1.png)
 
-### Para actualizar un archivo
-* Localizar el archivo env con la nueva versión de las variables en la computadora del desarrollador.
-* Subir el archivo a la carpeta con el nombre apropiado y la terminación “.env”
-* Registrar el cambio en la bitácora de actualización.
+* Navegar a new Pull Request
+![image](../../static/img/guias/G21/2.png)
 
-![image](../../static/img/guias/G20/Imagen2.png)
+* Localizar la rama a realizar merge y hacer click en la rama a solicitar pull request.
+![image](../../static/img/guias/G21/3.png)
 
+* Navegar a create Pull Request
+![image](../../static/img/guias/G21/4.png)
 
-### Para consultar una versión anterior de un archivo:
-En ocasiones puede ser necesario consultar una versión anterior de un archivo de configuración. Esto se puede realizar usando las funciones de versionado de Google drive.
-* Localizar el archivo en la carpeta correspondiente.
-* Hacer click secundario y en el menú emergente hacer click en gestionar versiones
-* Buscar la versión necesaria.
+* Localizar y agregar a los miembros de equipo para realizar la auditoría.
+![image](../../static/img/guias/G21/6.png)
+![image](../../static/img/guias/G21/7.png)
 
+* Escribir un comentario (Opcional) y posteriormente navegar a create pull request.
+![image](../../static/img/guias/G21/8.png)
 
-![image](../../static/img/guias/G20/Imagen3.png)
+### Para realizar el merge del pull request
+* Navegar a pull request
+![image](../../static/img/guias/G21/1.png)
+
+* Elegir el pull request a auditar.
+![image](../../static/img/guias/G21/11.png)
+
+* Navegar a add you review
+![image](../../static/img/guias/G21/12.png)
+
+* Navegar a review changes y seleccionar la opción correspondiente.
+* Approve : Verificaste y no hay ningún problema con el merge.
+* Request Changes: Verificaste pero aún no esta bien definido.
+![image](../../static/img/guias/G21/13.png)
+
+* Si tu pull request ya ha sido aprobado por los auditores, entonces se desplegaá la siguiente ventana dentro de tu pull request.
+![image](../../static/img/guias/G21/10.png)
 
 ## Salidas
-* Archivo(s) env con variables de entorno en la carpeta compartida de archivos env
-* Registro en la bitácora de actualización si un archivo fue actualizado
+* Versión nueva del [repositorio](https://github.com/Taro-IT/docs)
+* Registro en la bitácora de actualización si un archivo fue actualizado o creado
 
 ## Autores
-Eduardo Andrés Castillo Perera
+Jorge López Chávez
 
 ## Auditoría
-
-## Referencias
-
-[Consultar o recuperar versiones anteriores de archivos - Centro de Aprendizaje de Google Workspace](https://support.google.com/a/users/answer/9308971?hl=es)
-
-[We need to talk about the .env | Platform.sh](https://platform.sh/blog/2021/we-need-to-talk-about-the-env/)
-
-[The Twelve-Factor App (12factor.net)](https://12factor.net/config)
-
 
 # Bitácora de cambios
 
