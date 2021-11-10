@@ -21,7 +21,7 @@
 
 - Datos analizados de una métrica con la guía de métricas.
 - [Proceso de juntas departamentales](./P01-proceso-juntas-departamentales).
-- [Proceso de juntas con socios formadores](./P06-proceso-juntas-socios-formadores).
+- [Proceso de juntas con socios formadores](./P02-proceso-juntas-socios-formadores).
 - [Proceso de juntas diarias](./P07-proceso-juntas-diarias).
 - [Proceso de juntas semanales departamentales](./P29-proceso-juntas-semanales-depto).
 
