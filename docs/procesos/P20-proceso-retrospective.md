@@ -26,6 +26,7 @@ Datos, gráficas, índice CPI y SPI de la iteración.
           <li>En el dashboard, haz click en "Add board" para crear un nuevo tablero. </li>
           <li>Nombra el tablero "Retrospectiva SP[# iteración], permite 5 votos por participante y haz habilita las opciones de "Hide cards initially", "Disable voting initially" </li>
           <li>Agrega las columnas Start doing, Continue doing, Stop doing y Kudos. Haz click en "Create".</li>
+          <li>Añadir el link del tablero a la <a href="https://docs.google.com/spreadsheets/d/1uYSPo966wNlzTGg_xeQxHO8dOu2z2sIsBVoq0DF8umo/edit#gid=53563502">Matriz de Retrospectives</a>.</li>
         </ol>
       </td>
       <td>
