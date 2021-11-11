@@ -87,6 +87,9 @@ Si esta trabajando de manera grupal deberá llegar a un consenso antes de utiliz
 
 # Bitácora de cambios
 
+## Versión 2.0
+  - El asset ha sido institucionalizado
+
 ## Versión 1.0
 - Se eliminan algunos párrafos para evitar ser repetitivos.
 - Se incluye como revisar el ID de un commit en GitHub.
