@@ -58,15 +58,15 @@ Para poder comenzar a desarrollar de forma local es necesario seguir los siguien
     - <p><a href="https://github.com/Taro-IT/frappe"> Línea base de Frappe</a></p>
 
 - Crear de forma local la rama `dev` y sincronizarla con la rama `dev` remota
-<pre><code>git branch dev<br> 
-git checkout dev<br> 
+<code><pre>git branch dev
+git checkout dev
 git pull origin dev
-</code></pre>
+</pre></code>
 
 - Crear la rama de trabajo de manera local siguiendo el sistema de ramas temporales y situarse en la misma.
 
-<pre><code>git checkout -b feature/finance/invoice-payments 
-</code></pre>
+<code><pre>git checkout -b feature/finance/invoice-payments 
+</pre></code>
 
 :::note
 
@@ -74,19 +74,22 @@ En este punto se encuentra sobre la rama local de desarrollo, por lo que se pued
 
 :::
 
-<pre><code>git add -A  <br> 
+<code><pre>
+git add -A
 git commit -m "feat(invoice-payments): add connection with third-party service" 
-</code></pre>
+</pre></code>
 
 - Una vez que se ha terminado el trabajo de forma local, se deberán traer los cambios de la rama `dev` remota y así asegurar que los conflictos que puedan existir se resuelvan de manera local: 
 
-<pre><code>git pull dev 
-</code></pre>
+<code><pre>
+git pull dev 
+</pre></code>
 
 - Después de resolver los conflictos, se deberán de enviar los cambios locales al repositorio remoto donde se solicitará el pull request hacia `dev`.
     
-<pre><code>git push origin feature/finance/invoice-payments 
-</code></pre>    
+<code><pre>
+git push origin feature/finance/invoice-payments 
+</pre></code>   
 
 - Seguir la [guía para realizar un pull request](https://taro-it.github.io/docs/guias/G20-guia-archivos-env).
 
