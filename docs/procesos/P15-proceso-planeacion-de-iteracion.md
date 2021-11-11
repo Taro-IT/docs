@@ -23,6 +23,8 @@
       <td>
         <ul align="left">
           <li>Se revisan las lecciones aprendidas de la iteración anterior para la nueva planeación.</li>
+          <li>Identificar los recursos necesarios para completar el plan, ubicado en el <a href="https://docs.google.com/spreadsheets/d/1frtMUtfqJzUiE9ej_qi-HwhZZtvbSbPsc-TMsYf10Bk/edit#gid=0">Repositorio de recursos</a></li>
+          <li>Revisar el WBS (<a href="https://app.diagrams.net/#G1Y_8bcH24-RTK0W6F2wwTM64BEp-ylUWn">Departamental</a>, <a href="https://app.diagrams.net/#G1i00w__BA-zEfea5xUjIgRisWwyQ3V-cr">Frappé</a>, <a href="https://app.diagrams.net/#G1BgBJ2mr8yjmmV6anHILdW0YtsEUEv3ja">Espresso</a>) para identificar el alcance de la iteración.</li>
         </ul>
       </td>
       <td>
@@ -40,6 +42,7 @@
       </td>
       <td>
         <ul>
+          <li>PP 1.4</li>
           <li>PP 2.4</li>
         </ul>
       </td>
@@ -113,7 +116,7 @@
 
 ## Auditoría
 
-- 
+-
 
 # Bitácora de cambios
 
@@ -122,4 +125,5 @@
 
 ## Versión 1.1
   - Se agregó la estimación de tiempo de cada ítem de trabajo. 
+
 
