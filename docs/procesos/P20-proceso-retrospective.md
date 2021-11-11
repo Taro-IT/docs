@@ -113,7 +113,7 @@ Plan para la mejora del WoW
 - Eduardo Guzmán
 
 ## Auditoría
-- Raúl Rosario Gálavi<
+- Raúl Rosario Gálaviz
 
 # Bitácora de cambios
 
