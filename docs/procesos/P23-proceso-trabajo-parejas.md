@@ -81,7 +81,7 @@
 
 :::note
 
-Si la subtarea en la que se va a trabajar involucra escribir código, se deberá seguir la [guía para manejo de ramas](../guias/G13-guia-para-manejo-de-ramas).
+Si la subtarea en la que se va a trabajar involucra escribir código, se deberá seguir la [guía para manejo de ramas](../guias/G12-guia-para-manejo-de-ramas).
 
 :::
 

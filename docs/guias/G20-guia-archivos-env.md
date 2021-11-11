@@ -7,7 +7,7 @@
 
 ## Pre-requisitos
 
-* Contar con item de trabajo nuevo o fix de trabajo. (Revisión de codigo, nuevo featue, fix de un feature, etc. ). Siguiendo la [guia de manejo de ramas](https://taro-it.github.io/docs/guias/G13-guia-para-manejo-de-ramas).
+* Contar con item de trabajo nuevo o fix de trabajo. (Revisión de codigo, nuevo featue, fix de un feature, etc. ). Siguiendo la [guia de manejo de ramas](https://taro-it.github.io/docs/guias/G12-guia-para-manejo-de-ramas).
 
 
 ## Pasos a seguir
