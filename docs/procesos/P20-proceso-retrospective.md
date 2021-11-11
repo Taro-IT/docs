@@ -109,14 +109,18 @@ Plan para la mejora del WoW
 
 ## Autores
 
-Karla Daniela Romero Pérez
+- Karla Daniela Romero Pérez
+- Eduardo Guzmán
 
 ## Auditoría
-- 
+- Raúl Rosario Gálavi<
 
 # Bitácora de cambios
 
 ## Versión 1.0
   - Se creó el proceso.
+
+## Versión 1.1
+  - Se añadió el link a la matriz de retrospectives
 
 
