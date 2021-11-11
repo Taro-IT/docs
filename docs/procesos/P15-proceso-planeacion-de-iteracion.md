@@ -52,7 +52,8 @@
       <td>
         <ul align="left">
           <li>Seleccionar un ítem de trabajo del backlog.</li>
-          <li>Obtener los detalles del ítem de trabajo.</li>
+          <li>Con base en el WBS, en la sección del ítem de trabajo, descomponer el ítem en las subtareas correspondientes.</li>
+          <li>Usando la <a href="../guias/G22-guia-para-estimar-workitem">guía para estimar work items</a>, se define cuánto tiempo va a costar terminar el ítem de trabajo.</li>
           <li>Idear una solución de alto nivel para el ítem de trabajo.</li>
           <li>Discutir las ventajas y desventajas de la solución ideada.</li>
           <li>Elegir la solución propuesta más adecuada para el socio formador, tomando en cuenta el costo y esfuerzo de implementación de la solución.</li>
@@ -64,6 +65,7 @@
       <td>
         <ul>
           <li>PP 1.1</li>
+          <li>PP 1.2</li>
           <li>PP 2.1</li>
           <li>TS 1.1</li>
         </ul>
@@ -119,5 +121,9 @@
 # Bitácora de cambios
 
 ## Versión 1.0
+  - Se creó el proceso.
 
-- Se creó el proceso.
+## Versión 1.1
+  - Se agregó la estimación de tiempo de cada ítem de trabajo. 
+
+
