@@ -49,6 +49,11 @@ El rol del Architecture Owner (AO) consiste en guiar en la creación y la evoluc
 
 
 # Bitácora de cambios
+## Versión 2.0
+  - El asset ha sido institucionalizado
+
+## Versión 1.1 
+  - Se arreglaron errores de ortografía
 
 ## Versión 1.0
   - Se creó la guía.
