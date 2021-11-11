@@ -111,5 +111,6 @@
 
 ## Versión 2.0
   - Añadir paso de estimación.
-
+  - Quitar referencias a plantillas obsoletas.
+  - Referenciar plantillas de planes departamentales, personales y de equipo.
 
