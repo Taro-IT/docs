@@ -55,3 +55,7 @@
 
 ## Versión 1.3
 - Se agrega un paso para dar seguimiento a los compromisos realizados en juntas previas.
+
+## Versión 1.4
+
+- Se agrego referencia a la plantilla de seguimiento de compromisos
