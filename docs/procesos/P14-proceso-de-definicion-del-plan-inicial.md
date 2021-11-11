@@ -8,9 +8,9 @@
 
 - Objetivo(s) SMART.
 - Plantilla del plan a definir:
-  - [Plantilla de plan departamental].
-  - [Plantilla de plan de equipo].
-  - [Plantilla para plan personal].
+  - [Plantilla de plan departamental](../plantillas/PL08-plantilla-para-plan-departamental.md).
+  - [Plantilla de plan de equipo](../plantillas/PL09-plantilla-para-planeacion-de-iteracion.md).
+  - [Plantilla para plan personal](../plantillas/PL07-plantilla-para-planeacion-personal.md).
 
 ## Procedimiento
 
@@ -66,7 +66,7 @@
       </td>
       <td>
         <ul>
-          <li><li>PP 1.1</li><li>PP 1.2</li><li>PP 2.1</li><li>PP 2.7</li></li>
+          <li>PP 1.1</li><li>PP 1.2</li><li>PP 2.1</li><li>PP 2.7</li></li>
         </ul>
       </td>
     </tr>
@@ -75,7 +75,7 @@
       <td>
         <ul align="left">
           <li>Prioriza las historias de usuario con base en las necesidades del stakeholder y el valor que le aportarán.</li>
-          <li>Obtener compromiso de todos los interesados.<a href="../plantillas/PL08-plantilla-para-documentacion-de-un-plan">(Documentar)</a></li>
+          <li>Obtener compromiso de todos los interesados.</li>
           <li>Verificar la solución.</li> 
         </ul>
       </td>
@@ -95,6 +95,7 @@
 ## Autores
 
 - Raúl Rosario Sandoval Galaviz
+- Iván Alejandro Díaz Peralta
 - Karla Daniela Romero Pérez
 - Jorge Arturo Sánchez Arreola 
 
@@ -107,5 +108,8 @@
 
 ## Versión 1.0
   - Se creó el proceso.
+
+## Versión 2.0
+  - Añadir paso de estimación.
 
 
