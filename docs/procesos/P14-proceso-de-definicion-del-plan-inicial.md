@@ -66,7 +66,10 @@
       </td>
       <td>
         <ul>
-          <li>PP 1.1</li><li>PP 1.2</li><li>PP 2.1</li><li>PP 2.7</li></li>
+          <li>PP 1.1</li>
+          <li>PP 1.2</li>
+          <li>PP 2.1</li>
+          <li>PP 2.7</li>
         </ul>
       </td>
     </tr>
