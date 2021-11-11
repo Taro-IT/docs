@@ -29,6 +29,8 @@ sidebar_position: 1
 - Eduardo Andrés Castillo Perera en el equipo de Frappé.
 - Sebastian Gonzalez Tafoya en el equipo de Espresso.
 
+[Aquí](https://docs.google.com/spreadsheets/d/1naF2ckYlDvAIQoa3ptkEfBDong-dnMHzKCRtS0vz6x8/edit#gid=0) se encuentra un historial de los roles de liderazgo y las rotaciones de los mismos dentro del departamento Taro.
+
 ## Misión
 
 Construir soluciones de calidad que impacten positivamente en nuestros socios.
