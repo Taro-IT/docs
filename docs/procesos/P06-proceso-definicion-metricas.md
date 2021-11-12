@@ -21,8 +21,9 @@
       <td>Alineacion de metrica</td>
       <td>
         <ul align="left">
-          <li>Especificar el objetivo que se quiere alcanzar. Debe de estar planteado de forma que especifica y medible.</li>
-          <li>Partiendo del objetivo identificado, plantear una o varias preguntas guia que concreten la manera en la que el objetivo sera alcanzado.</li>
+          <li>Abrir la matriz de metrica del proyecto correspondiente.</li>
+          <li>Especificar el objetivo que se quiere alcanzar y registrarlo en la columna de "Objetivo". Este debe de estar planteado de forma que especifica y medible.</li>
+          <li>Partiendo del objetivo identificado, plantear una o varias preguntas guia que concreten la manera en la que el objetivo sera alcanzado y registrarlas en la columna de "Preguntas guia".</li>
         </ul>
       </td>
       <td>
@@ -36,8 +37,8 @@
       <td>
         <ul align="left">
           <li>Indentificar opciones de metricas para cubrir el objetivo planteado.</li>
-          <li>Escoger una de las opciones de metricas identificadas y señalar su unidad de medida. Esta debe ser especifica.</li>
-          <li>Verificar en la matriz de metricas que la metrica seleccionada no es redundante con las que se encuentran en uso. En caso de serlo, descartarla.</li>
+          <li>Escoger una de las opciones de metricas identificadas y señalar su unidad de medida. Esta debe ser especifica. Registrar la metrica y su unidad en las columnas de "Métrica" y "Unidad de medida".</li>
+          <li>Verificar en la matriz de metricas que la metrica seleccionada no es redundante con las que se encuentran en uso. En caso de serlo, descartar la metrica.</li>
         </ul>
       </td>
       <td>
@@ -47,12 +48,12 @@
       </td>
     </tr>
     <tr>
-      <td>Definicion de obtencion</td>
+      <td>Definicion de obtencion y almacenamiento</td>
       <td>
         <ul align="left">
-          <li>Especificar el archivo o herramienta donde se almacenara la metrica</li>
-          <li>Detallar como se obtiene la metrica especificando como conseguir los datos y el lugar preciso donde registrarlos.</li>
-          <li>Especificar la periodicidad con la que se obtendran los datos de la metrica</li>
+          <li>Especificar el archivo o herramienta donde se almacenara la metrica registrando un enlace a este en la columna de "Ubicacion".</li>
+          <li>Detallar como se obtiene la metrica especificando como conseguir los datos y el lugar preciso donde registrarlos. Registrar la explicacion en la columna de "Metodo de obtencion".</li>
+          <li>Especificar la periodicidad con la que se obtendran los datos de la metrica en la columna de "Frecuencia de medicion".</li>
         </ul>
       </td>
       <td>
@@ -65,8 +66,8 @@
       <td>Definicion de analisis</td>
       <td>
         <ul align="left">
-          <li>Detallar como se interpretan los datos obtenidos para la metrica</li>
-          <li>Especificar la periodicidad con la que se analizar los datos obtenidos para la metrica.</li>
+          <li>Detallar como se interpretan los datos obtenidos para la metrica, especificando cuando sea posible el significado de ciertos rangos de valores. Registrar la explicacion en la columa de "Criterio de analisis".</li>
+          <li>Especificar la periodicidad con la que se analizaran los datos obtenidos para la metrica en la columan de "Frecuencia de medicion".</li>
         </ul>
       </td>
       <td>
