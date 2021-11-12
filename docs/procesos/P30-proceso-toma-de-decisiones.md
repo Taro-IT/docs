@@ -111,7 +111,7 @@
 
 ## Salidas
 
-- Una decisión.
+- Una decisión documentada en el backlog de decisiones correspondiente.
 
 ## Autores
 
