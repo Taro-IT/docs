@@ -69,14 +69,12 @@ Si varias personas tienen asignado el mismo work item, el costo es la suma del t
 
 # Bitácoras de cambios
 
-## Versión 2.0
-  - El asset ha sido institucionalizado
-
 ## Versión 1.1
 
 - Se corrigieron errores de ortografía
 - Se agregó una nota 
 - Se puso en bold los términos del glosario
+- Falta enlazar a matrices de interesados y de disponibilidad
 
 ## Versión 1.0
 
