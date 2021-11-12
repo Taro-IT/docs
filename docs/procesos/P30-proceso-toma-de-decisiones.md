@@ -69,7 +69,7 @@
             <ul>
               <li>Si la decisión es pertinente:</li>
                 <ul>
-                  <li>Invocar al <a href="./P08-proceso-gestion-riesgos">proceso de gestión de riesgos</a> para actualizar la matriz de riesgos.</li>
+                  <li>Invocar al <a href="https://taro-it.github.io/docs/procesos/P08-proceso-gestion-riesgos">proceso de gestión de riesgos</a> para actualizar la matriz de riesgos.</li>
                 </ul>
               <li>Si la decisión no es pertinente:</li>
                 <ul>
