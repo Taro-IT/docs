@@ -65,7 +65,7 @@
       <td>Decisión</td>
       <td>
         <ul align="left">
-          <li>Haciendo uso de las refutaciones o opiniones presentadas. Pensar en las consecuencias de tomar la decisión originalmente propuesta.
+          <li>Haciendo uso de las refutaciones u opiniones presentadas. Pensar en las consecuencias de tomar la decisión originalmente propuesta.
             <ul>
               <li>Si la decisión es pertinente:</li>
                 <ul>
