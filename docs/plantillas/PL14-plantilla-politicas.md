@@ -7,7 +7,7 @@
 
 _Describir los objetivos ._
 
-## Política
+## Políticas
 
 _Nombre de la política a implementar_
 
