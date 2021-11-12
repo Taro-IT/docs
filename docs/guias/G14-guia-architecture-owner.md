@@ -3,15 +3,15 @@
 
 ## Objetivo(s)
 
-Describir las cualidades y responsabilidades que deberá adoptar la persona que ocupe el rol de Architecture Owner.
+- Describir las cualidades y responsabilidades que deberá adoptar la persona que ocupe el rol de Architecture Owner.
 
 ## Pre-requisitos
 
-Un interesado en tomar el rol
+- Un interesado en tomar el rol
 
 ## ¿Quién es el architecture Owner?
 
-El rol del Architecture Owner (AO) consiste en guiar la creación y la evolución de la arquitectura de la solución del proyecto de un equipo. El Architecture Owner no es el único responsable de la arquitectura, pero si es responsable de liderar las discusiones técnicas que brindaran las alternativas que existen para la solución del proyecto. El AO debe tener conocimiento sobre patrones, frameworks, así como un sólido entendimiento del dominio de negocio de las soluciones construidas.
+El rol del Architecture Owner (AO) consiste en guiar en la creación y la evolución de la arquitectura de la solución del proyecto de un equipo. El Architecture Owner no es el único responsable de la arquitectura, pero si es responsable de facilitar la creación de la arquitectura. El AO debe tener conocimiento sobre patrones, frameworks, así como un sólido entendimiento del dominio de negocio de las soluciones construidas.
 
 ##  Labores con las personas
 
@@ -49,6 +49,11 @@ El rol del Architecture Owner (AO) consiste en guiar la creación y la evolució
 
 
 # Bitácora de cambios
+## Versión 2.0
+  - El asset ha sido institucionalizado
+
+## Versión 1.1 
+  - Se arreglaron errores de ortografía
 
 ## Versión 1.0
   - Se creó la guía.
