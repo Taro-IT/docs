@@ -3,7 +3,7 @@
 
 ## Objetivo(s)
 
-- Verificar que los items de trabajo cuenten con los estándares de calidad del equipo del departamento correspondiente.
+- Verificar que los items de trabajo cuenten con los estándares de calidad del proyecto correspondiente.
 
 ## Entradas
 
@@ -13,7 +13,7 @@
 
 :::note
 
-Si es la primera vez que se revisa un item de una historia de usuario, realizar una hoja duplicada de la <a href="../checklists/CH02-checklist-items-trabajo">checklist original de items de trabajo</a> del equipo correspondiente con el identificador del caso.
+Si es la primera vez que se revisa un item de una historia de usuario, se deberá hacer una copia de la hoja original de la <a href="../checklists/CH02-checklist-items-trabajo">checklist de items de trabajo</a> del equipo correspondiente y nombrarla con el identificador de la historia.
 
 :::
 
