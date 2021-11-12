@@ -107,5 +107,3 @@ Association for Computer Machinery. (2018). *ACM Code of Ethics and Professional
 
 ## Versión 1.1
   - Se creó un apartado para los autores.
-
-  
