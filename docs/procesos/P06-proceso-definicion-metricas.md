@@ -70,12 +70,12 @@
       <td>
         <ul align="left">
           <li>Detallar como se interpretan los datos obtenidos para la métrica, especificando cuando sea posible el significado de ciertos rangos de valores. Registrar la explicación en la columna de "Criterio de análisis".</li>
-          <li>Especificar la periodicidad con la que se analizaran los datos obtenidos para la métrica en la columna de "Frecuencia de medición".</li>
+          <li>Especificar la periodicidad con la que se analizaran los datos obtenidos para la métrica en la columna de "Frecuencia de análisis".</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>1.4</li>
+          <li>M&A - 1.4</li>
         </ul>
       </td>
     </tr>
