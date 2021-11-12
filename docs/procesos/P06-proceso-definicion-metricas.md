@@ -1,12 +1,13 @@
 
-# P06 - Proceso de definicion de metricas
+# P06 - Proceso de definición de métricas
 
 ## Objetivo(s)
-- Alinear la creacion de nuevas metricas a necesidades de informacion de los proyectos y que puedan ser manejadas de acuerdo al proceso de manejo de metricas. 
+- Alinear la creación de nuevas métricas a necesidades de información de los proyectos y que puedan ser manejadas de acuerdo con el proceso de manejo de métricas.
 
 ## Entradas
-- Necesidades de informacion de los proyectos
-- Matrices de metricas
+- Necesidades de información de los proyectos
+- Matrices de métricas
+
 
 ## Procedimiento
 <table>
@@ -18,12 +19,12 @@
 
   <tbody>
     <tr>
-      <td>Alineacion de metrica</td>
+      <td>Alineación  de métrica</td>
       <td>
         <ul align="left">
-          <li>Abrir la matriz de metrica del proyecto correspondiente.</li>
+          <li>Abrir la matriz de métrica del proyecto correspondiente.</li>
           <li>Especificar el objetivo que se quiere alcanzar y registrarlo en la columna de "Objetivo". Este debe de estar planteado de forma que especifica y medible.</li>
-          <li>Partiendo del objetivo identificado, plantear una o varias preguntas guia que concreten la manera en la que el objetivo sera alcanzado y registrarlas en la columna de "Preguntas guia".</li>
+          <li>Partiendo del objetivo identificado, plantear una o varias preguntas guía que concreten la manera en la que el objetivo será alcanzado y registrarlas en la columna de "Preguntas guía".</li>
         </ul>
       </td>
       <td>
@@ -33,12 +34,12 @@
       </td>
     </tr>
     <tr>
-      <td>Definicion de metrica</td>
+      <td>Definición  de métrica</td>
       <td>
         <ul align="left">
-          <li>Indentificar opciones de metricas para cubrir el objetivo planteado.</li>
-          <li>Escoger una de las opciones de metricas identificadas y señalar su unidad de medida. Esta debe ser especifica. Registrar la metrica y su unidad en las columnas de "Métrica" y "Unidad de medida".</li>
-          <li>Verificar en la matriz de metricas que la metrica seleccionada no es redundante con las que se encuentran en uso. En caso de serlo, descartar la metrica.</li>
+          <li>Identificar opciones de métricas para cubrir el objetivo planteado.</li>
+          <li>Escoger una de las opciones de métricas identificadas y señalar su unidad de medida. Esta debe ser especifica. Registrar la métrica y su unidad en las columnas de "Métrica" y "Unidad de medida".</li>
+          <li>Verificar en la matriz de métricas que la métrica seleccionada no es redundante con las que se encuentran en uso. En caso de serlo, descartar la métrica.</li>
         </ul>
       </td>
       <td>
@@ -48,12 +49,12 @@
       </td>
     </tr>
     <tr>
-      <td>Definicion de obtencion y almacenamiento</td>
+      <td>Definición de obtención y almacenamiento</td>
       <td>
         <ul align="left">
-          <li>Especificar el archivo o herramienta donde se almacenara la metrica registrando un enlace a este en la columna de "Ubicacion".</li>
-          <li>Detallar como se obtiene la metrica especificando como conseguir los datos y el lugar preciso donde registrarlos. Registrar la explicacion en la columna de "Metodo de obtencion".</li>
-          <li>Especificar la periodicidad con la que se obtendran los datos de la metrica en la columna de "Frecuencia de medicion".</li>
+          <li>Especificar el archivo o herramienta donde se almacenará la métrica registrando un enlace a este en la columna de "Ubicación".</li>
+          <li>Detallar como se obtiene la métrica especificando como conseguir los datos y el lugar preciso donde registrarlos. Registrar la explicación en la columna de "Método de obtención".</li>
+          <li>Especificar la periodicidad con la que se obtendrán los datos de la métrica en la columna de "Frecuencia de medición".</li>
         </ul>
       </td>
       <td>
@@ -63,11 +64,11 @@
       </td>
     </tr>
     <tr>
-      <td>Definicion de analisis</td>
+      <td>Definición de análisis	</td>
       <td>
         <ul align="left">
-          <li>Detallar como se interpretan los datos obtenidos para la metrica, especificando cuando sea posible el significado de ciertos rangos de valores. Registrar la explicacion en la columa de "Criterio de analisis".</li>
-          <li>Especificar la periodicidad con la que se analizaran los datos obtenidos para la metrica en la columan de "Frecuencia de medicion".</li>
+          <li>Detallar como se interpretan los datos obtenidos para la métrica, especificando cuando sea posible el significado de ciertos rangos de valores. Registrar la explicación en la columna de "Criterio de análisis".</li>
+          <li>Especificar la periodicidad con la que se analizaran los datos obtenidos para la métrica en la columna de "Frecuencia de medición".</li>
         </ul>
       </td>
       <td>
@@ -80,7 +81,7 @@
 </table>
 
 ## Salidas
-- Nueva metrica registrada en la matriz de metricas correspondiente.
+- Nueva métrica registrada en la matriz de métricas correspondiente.
 
 ## Autores
 - Adolfo Acosta Castro
