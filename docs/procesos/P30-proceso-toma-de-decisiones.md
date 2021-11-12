@@ -11,7 +11,7 @@
 - Faltas al código de ética.
 - Código de ética.
 - Procesos y guías departamentales.
-- Tareas por hacer para atender a la retroalimentación.
+- Tareas por hacer para atender retroalimentación.
 
 ## Procedimiento
 
@@ -29,7 +29,7 @@
       <td>Análisis</td>
       <td>
         <ul align="left">
-          <li>Análizar qué tipo de entrada se está utilizando.</li>
+          <li>Analizar qué tipo de entrada se está utilizando.</li>
           <li>Proponer una solución.</li>
           <li>Hacer una hipótesis.</li>
           <li>Identificar a los interesados o afectados de esta decisión.</li>
@@ -96,7 +96,7 @@
       <td>
         <ul align="left">
           <li>En el canal de Slack de #taro-propuestas, comunicar sobre la toma de la decisión.</li>
-          <li>Documentar en el <a href="https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit#gid=597584843">backlog de decisiones departamental</a> o en el<a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=540680903">backlog de decisiones de Frappé</a> o en el<a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=1733685017">backlog de decisiones de Espresso </a>dependiendo del proyecto correspondiente.</li>
+          <li>Documentar en el <a href="https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit#gid=597584843">backlog de decisiones departamental</a> o en el <a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=540680903">backlog de decisiones de Frappé</a> o en el <a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=1733685017">backlog de decisiones de Espresso </a>dependiendo del proyecto correspondiente.</li>
           <li>Tomar la decisión.</li>
         </ul>
       </td>
