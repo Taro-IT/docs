@@ -49,7 +49,7 @@ Si es la primera vez que se revisa un item de una historia de usuario, realizar 
         <ul align="left">
           <li>Si el cambio a revisar está en un PR, la pareja se dirige a la sección Files Changed para ver los archivos que fueron modificados en este PR.</li>
           <li>Utilizando la checklist de la fase correspondiente del item, la pareja marca si se cumplen los puntos de la misma en los cambios hechos por la persona que realizó los cambios. Si algo no se cumple, se registra en el Defect Log.</li>
-          <li>Si el item a revisar es algun asset departamental, se debe seguir la <a href="../guias/G03-guia-revision-assets">Guía para revisión de assets</a></li>
+          <li>Si el item a revisar es algún asset departamental, se debe seguir la <a href="../guias/G03-guia-revision-assets">Guía para revisión de assets</a></li>
         </ul>
       </td>
       <td>
@@ -109,4 +109,4 @@ Si es la primera vez que se revisa un item de una historia de usuario, realizar 
 
 ### Versión 1.2
 
-- Se cambió el proceso para hacerlo más génerico y no sólo de revisión de código.
+- Se cambió el proceso para hacerlo más genérico y no sólo de revisión de código.
