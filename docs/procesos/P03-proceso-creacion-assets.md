@@ -10,7 +10,7 @@
 - Plantilla  del asset a definir:
   - [Plantilla para procesos](https://taro-it.github.io/docs/plantillas/PL03-plantilla-para-procesos)
   - [Plantilla para guías](https://taro-it.github.io/docs/plantillas/PL02-plantilla-para-guias)
-  - [Plantilla para políticas]()
+  - [Plantilla para políticas](https://taro-it.github.io/docs/plantillas/PL14-plantilla-politicas)
 - [Matriz de configuración Taro](https://docs.google.com/spreadsheets/d/13zfQpqBBmqAT_znf1N4ebV_jcLBpeh_gjq9eHpkdOhk/edit#gid=0)
 - Canal de slack taro-assets
 - [Checklist de institucionalización](https://docs.google.com/spreadsheets/d/11vgBbxiGG13rIehFPVx6FvvmeMygKSb4eztTdh6djv8/edit#gid=0)
