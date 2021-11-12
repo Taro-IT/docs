@@ -5,7 +5,7 @@
 
 ## Objetivo(s)
 
-_Describir los objetivos ._
+_Describir los objetivos._
 
 ## Políticas
 
@@ -15,7 +15,7 @@ _Enlistar puntos de cumplimiento de la política_
 
 
 ## Bitácora de cambios
-- Las version actual debe ser la que quede hasta arriba de esta sección
+- Las versión actual debe ser la que quede hasta arriba de esta sección
 
 ### Versión [número de versión]
 
