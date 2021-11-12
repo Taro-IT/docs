@@ -23,11 +23,15 @@
       <td>
         <ul align="left">
           <li>Se revisan las lecciones aprendidas de la iteración anterior para la nueva planeación.</li>
+          <li>Se revisan los resultados de las métricas relacionadas con la iteración anterior y se analizan usando el [proceso de análisis de métricas]</li>
         </ul>
       </td>
       <td>
         <ul>
           <li>PP 2.1</li>
+          <li>MA 2.1</li>
+          <li>MA 2.2</li>
+          <li>MA 2.4</li>
         </ul>
       </td>
     </tr>

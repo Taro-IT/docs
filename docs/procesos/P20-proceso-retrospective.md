@@ -85,6 +85,22 @@ Datos, gráficas, índice CPI y SPI de la iteración.
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>Análisis de Métricas</td>
+      <td>
+        <ol align="left">
+          <li>En equipo y con una persona compartiendo su pantalla, se revisan los resultados de las métricas relacionadas con la iteración anterior y se analizan usando el [proceso de análisis de métricas].</li>
+          <li>Se toman decisiones para mejorar los resultados en la siguiente iteración después de analizar las métricas.</li>
+        </ol>
+      </td>
+      <td>
+        <ul>
+          <li>MA 2.1</li>
+          <li>MA 2.2</li>
+          <li>MA 2.4</li>
+        </ul>
+      </td>
+    </tr>
      <tr>
       <td>Seguimiento de riesgos</td>
       <td>
