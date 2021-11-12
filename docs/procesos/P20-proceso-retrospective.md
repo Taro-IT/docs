@@ -105,15 +105,16 @@ Datos, gráficas, índice CPI y SPI de la iteración.
 
 ## Salidas
 
-Plan para la mejora del WoW
+- Retroalimentación de retrospectiva.
 
 ## Autores
 
 - Karla Daniela Romero Pérez
 - Eduardo Guzmán
+- Raúl Rosario Galaviz
 
 ## Auditoría
-- Raúl Rosario Gálaviz
+- 
 
 # Bitácora de cambios
 
@@ -122,5 +123,8 @@ Plan para la mejora del WoW
 
 ## Versión 1.1
   - Se añadió el link a la matriz de retrospectives
+
+## Versión 1.2
+  - Se cambió la salida a "retroalimentación de retrospectiva"
 
 
