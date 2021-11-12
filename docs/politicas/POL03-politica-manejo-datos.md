@@ -26,7 +26,7 @@
 ### Respaldo de información
 
 - La información ubicada en la unidad compartida de Google Drive deberá ser respaldada y resguardada por los PM y AO cada 3 semanas.
-- Las [líneas base](https://taro-it.github.io/docs/politicas/POL04-Definicion%20de%20elementos%20de%20configuracion) de los proyectos deberán ser clonados por todos los miembros de Taro, se deberá utilizar un fetch los días lunes y miércoles de cada semana para mantenerlas actualizadas.
+- Las [líneas base](https://taro-it.github.io/docs/politicas/POL04-Definicion%20de%20elementos%20de%20configuracion) de los proyectos deberán ser clonados por todos los miembros de Taro, se deberá utilizar el comando `git fetch` los días lunes y miércoles de cada semana para mantenerlas actualizadas.
 
 # Bitácora de cambios
 
