@@ -6,7 +6,9 @@
 
 ## Entradas
 - Necesidades de información de los proyectos
-- Matrices de métricas
+- [Matriz de métricas del departamento](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=0)
+- [Matriz de métricas de frappe](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=1505846577)
+- [Matriz de métricas de espresso](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=16791600)
 
 
 ## Procedimiento
@@ -22,7 +24,7 @@
       <td>Alineación  de métrica</td>
       <td>
         <ul align="left">
-          <li>Abrir la matriz de métrica del proyecto correspondiente.</li>
+          <li>Abrir la matriz de métricas correspondiente.</li>
           <li>Especificar el objetivo que se quiere alcanzar y registrarlo en la columna de "Objetivo". Este debe de estar planteado de forma que especifica y medible.</li>
           <li>Partiendo del objetivo identificado, plantear una o varias preguntas guía que concreten la manera en la que el objetivo será alcanzado y registrarlas en la columna de "Preguntas guía".</li>
         </ul>
