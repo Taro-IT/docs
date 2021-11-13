@@ -10,22 +10,22 @@
 
 ## Entradas
 
-- La necesidad de una junta con los socios
+- Junta agendada con los socios formadores
 
 
 ## Procedimiento
 
 | Fase |   Actividades   | Área(s) involucradas |
 |------|:---------------:|--------------------|
-| 1. Planeación    | <ul align="left"><li>Se deberá tener una junta de equipo donde se definirá una lista de objetivos y puntos a tratar,también es recomendable enlistar las dudas y puntos que quedaron pendientes.</li><li>Se agendará con anticipación la junta especificando fecha y hora (<a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">seguir Guía para agendar juntas</a> )</li><li>Se tendrá como resultado de la junta una Minuta y una agenda con todos los puntos a tratar en la junta con los socios, donde se le dará un correcto seguimiento.</li></ul> | <ul><li>RM - 1.5</li><li>PMC - 1.7</li><li>PMC - 2.1</li></ul> |
-| 2. Previo a la junta     | <ul><li>De manera coloquial y previo a la junta se confirmará la asistencia del socio formador a través de algún medio de comunicación directo (Whatsapp, Slack, Line etc.)</li><li>Todos los integrantes involucrados tratarán de estar al menos 5 minutos antes de la reunión siguiendo el valor de [Responsabilidad](../) </li></ul> | <ul><li>PMC - 1.5</li></ul> |
-| 3. Ejecución | Se llevará a cabo la junta apegándose lo más posible a: <ul align="left"><li>Seguir la agenda (es recomendable compartirla o mostrarla al inicio de cada junta)</li><li>Encender la cámara para tener una buena comunicación  </li><li>Pedir la palabra y formular correctamente lo que vaya a aportar a la junta</li><li>Documentar correctamente los acuerdos y cambios que se soliciten en la minuta de la junta y seguir el <a href="../procesos/P05-proceso-requisitos">Proceso para obtención de requisitos</a> en caso de ser necesario </li><li>Si hubo cambios en los requisitos, documéntalos en la bitácora de cambios, acatando los [criterios para documentar cambios en requisitos](../checklists/CH13-cambios-en-requisitos.md)</li></ul>  | <ul><li>RM - 1.2</li><li>RM - 1.3</li><li>RM - 1.5</li><li>PP - 2.6</li><li>PP - 3.2</li><li>PMC - 1.2</li><li>PMC - 1.5</li><li>PMC - 1.6</li><li>PMC - 1.7</li></ul> |
-| 4. Documentos | Los archivos generados, los acuerdos , compromisos  y la grabación, se subirán a la unidad del departamento. | <ul><li>PP - 3.3</li></ul> |
-| 5. Acuerdos | En caso de tener una fecha y hora en donde ambas partes se encuentren disponibles para una siguiente junta, [agendarla](../guias/G01-guia-para-agendar-juntas). Así mismo, hacer una recapitulación de todo lo abordado, los acuerdos y los compromisos de ambas partes | <ul><li>PP - 3.3</li><li>PMC - 1.5</li><li>PMC - 1.6</li><li>PP - 2.6</li></ul> |
+| 1. Planeación    | <ul align="left"><li>Agendar una junta de equipo con anticipación, siguiendo la <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>.</li><li>En dicha junta, duplicar la plantilla de minuta de <a href="https://docs.google.com/document/d/1tlRYMhfTR4rd0h6Zh30YKKUzyWxB3XDAN1TIAdykj7k/edit?usp=sharing">Espresso</a> o de <a href="https://docs.google.com/document/d/1ohQBkUDxXincnM3UeLQ0OmonaX6H3WH1lnPRiQiWVBY/edit?usp=sharing">Frappé</a> según corresponda.</li><li>Definir los puntos a tratar en la junta con los socios, indicando el tiempo que se tomará para revisar cada uno de estos.</li><li>Definir quiénes deben de asistir, los responsables del llenado de la minuta y los responsables de guiar la junta.</li></ul> | <ul><li>RM - 1.5</li><li>PMC - 1.7</li><li>PMC - 2.1</li></ul> |
+| 2. Previo a la junta     | <ul><li>De manera coloquial y previo a la junta se confirmará la asistencia del socio formador a través de algún medio de comunicación directo (Whatsapp, Slack, Line etc.)</li><li>Todos los integrantes involucrados deberán de estar al menos 5 minutos antes de la reunión, apegándose al valor departamental de responsabilidad. </li></ul> | <ul><li>PMC - 1.5</li></ul> |
+| 3. Ejecución | Paralelo a los pasos descritos a continuación, se deberá de llenar la minuta generada en la fase de planeación y la matriz de seguimiento de compromisos con el socio de <a href="">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit?usp=sharing">Espresso</a> según corresponda: <ol align="left"><li>Encender la cámara y pedir que los socios enciendan sus cámaras para tener una comunicación más efectiva.</li><li>Revisar la matriz de compromisos para obtener información sobre el estado de los mismos. Si existe algún bloqueo por parte de los socios tomar medidas correctivas.</li><li>Presentar a los socios la agenda(temas a tratar) de la reunión.</li><li>Revisar cada punto de la agenda en el tiempo estimado y pasar al siguiente punto siempre y cuando se haya concluido el actual.</li><li>Después de cada punto de la agenda abrir un espacio para preguntas del socio si es necesario.</li><li>Una vez que se han revisado todos los puntos de la agenda, revisar la matriz de compromisos nuevamente para formalizar los acuerdos realizados durante la junta.</li><li>Formalizar el compromiso del equipo con respecto a los cambios solicitados por parte de los socios.</li><li>Agradecer la asistencia de los socios y reiterar que se mantendrán en contacto con ellos por su medio de comunicación preferido.</li></ol> | <ul><li>RM - 1.2</li><li>RM - 1.3</li><li>RM - 1.5</li><li>PP - 2.6</li><li>PP - 3.2</li><li>PMC - 1.2</li><li>PMC - 1.5</li><li>PMC - 1.6</li><li>PMC - 1.7</li></ul> |
+| 4. Seguimiento | <ul align="left"><li>Subir la grabación y cualquier archivo generado por zoom a la carpeta correspondiente del equipo <a href="https://drive.google.com/drive/folders/1ueSAkK45KS2orozOsN9ThxdkUap6b9NW?usp=sharing">Frappé</a> o <a href="https://drive.google.com/drive/folders/1KaG9g6VV-jgjPzWV7se8emiVg1u6HlA7?usp=sharing">Espresso</a>.</li><li>Documentar los cambios a requisitos en la bitácora de cambios, acatando los [criterios para documentar cambios en requisitos](../checklists/CH13-cambios-en-requisitos.md), si es necesario.</li><li>Convertir en work items los cambios acordados y formalizados por parte del equipo con el socio.</li><li>Seguir el <a href="https://taro-it.github.io/docs/procesos/P05-proceso-requisitos">proceso de obtención de requisitos</a> o el <a href="https://taro-it.github.io/docs/procesos/P28-proceso-atender-retro">proceso de retroalimentación</a>, según sea necesario.</li></ul> | <ul><li>RM - 1.2</li><li>RM - 1.3</li><li>RM - 1.5</li><li>PP - 3.3</li><li>PMC - 1.5</li><li>PMC - 1.6</li><li>PP - 2.6</li></ul> |
 
 ## Salida
 
-- [Retroalimentación] de lo visto en la junta
+- Retroalimentación de lo visto en la junta.
+- Compromisos por parte del equipo y/o compromisos por parte del socio.
 
 ## Autores
 
@@ -40,17 +40,22 @@
 - Adolfo Acosta Castro
 
 # Bitácora de cambios
+## Versión 1.4
+- Se agregó referencia a la plantilla de seguimiento de compromisos.
+- Se reestructuró la fase de ejecución
+- Se agregó el proceso de retroalimentación
+- Falta link de la matriz de compromisos de Frappé
 
-## Versión 1.0
-  - Se creó el proceso.
+## Versión 1.3
+- Se agrega un paso para dar seguimiento a los compromisos realizados en juntas previas.
 
-## Versión 1.1
-  - Se corrigieron errores de ortografía.
-  - Se actualizaron links.
-  
 ## Versión 1.2
   - Queda pendiente ligar al proceso de manejo de retro.
   - Se modificaron áreas del CMMI.
 
-## Versión 1.3
-- Se agrega un paso para dar seguimiento a los compromisos realizados en juntas previas.
+## Versión 1.1
+  - Se corrigieron errores de ortografía.
+  - Se actualizaron links.
+
+## Versión 1.0
+  - Se creó el proceso.
