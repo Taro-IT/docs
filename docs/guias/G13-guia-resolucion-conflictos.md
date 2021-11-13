@@ -71,7 +71,7 @@ En un conflicto **nivel 5** se recomienda hacer lo que sea necesario para evitar
 
 ## Salidas
 
-- Objetivo SMART
+- Idea para la resolución del conflicto
 
 ## Autores
 
@@ -83,10 +83,6 @@ En un conflicto **nivel 5** se recomienda hacer lo que sea necesario para evitar
 
 ## Bitácora de cambios
 
-### Versión 1.1
-
-- Se refactoriza el proceso a una guía
-
 ### Versión 1.0
 
-- Se creó el proceso de definición de objetivos
+- Se creó la guía como apoyo al proceso de resolución de conflictos
