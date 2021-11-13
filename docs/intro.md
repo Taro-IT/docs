@@ -5,17 +5,17 @@ sidebar_position: 1
 ---
 
 # ¿Quiénes somos?
-<div class="warning" style='padding: 1em; background-color:#EAE3F6; color:#00000; border-radius:5px 35px;'>
+<div class="warning" style={{padding: '1em', backgroundColor:'#EAE3F6', color: '#00000', borderRadius:'5px 35px'}}>
 <span>
-<p align="justify" style='margin-left:1em; margin-right:1em; font-size:17px;'>
+<p align="justify" style={{marginLeft: '1em', marginRight: '1em', fontSize: '17px'}}>
   <b>Taro</b> es un departamento de Tecnologías de la Información (TI) que se dedica a crear soluciones <b>innovadoras</b> y <b>a la medida</b> para todo tipo de clientes.</p>
-  <p align="justify" style='margin-left:1em; margin-right:1em; font-size: 17px; align-text: justify;' >
+<p align="justify" style={{marginLeft: '1em', marginRight: '1em', fontSize: '17px'}}>
 El departamento está conformado por dieciocho estudiantes del Tecnológico de Monterrey con diferentes antecedentes, pasiones e intereses pero con muchas ganas de <b>crecer</b> y <b>aprender</b> juntos mientras buscan entender las necesidades reales de sus clientes y generar un <b>impacto positivo</b> con las soluciones generadas. 
     Cada miembro de Taro hace que el departamento se convierta en un <b>universo de habilidades</b> donde rige la <b>perseverancia</b>, la <b>empatía</b> y el <b>trabajo colaborativo</b>.
 </p>
 </span>
 </div>
-<p style="font-size: 15px; margin-left:1em; margin-top:2em;">
+<p style={{marginLeft: '1em', marginTop: '2em', fontSize: '15px'}}>
 Si quieres conocer más sobre <b>Taro</b>, en esta wiki encontrarás información sobre nuestra <b>identidad</b> como departamento de TI y toda la documentación que existe sobre nuestra <b>forma de trabajo</b>.
 </p>
 
