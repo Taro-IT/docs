@@ -7,7 +7,7 @@
 
 ## Entradas
 
-- Item de trabajo recien creado o actualizado(artefacto de analisis o disenio, codigo, o manuales entregables)
+- Item de trabajo recién creado o actualizado (artefacto de análisis o diseño, código, o manuales entregables)
 - [Checklists de items de trabajo de Espresso](https://docs.google.com/spreadsheets/d/1n_54rAYTKQbeS7BMTjiWpKrLYeu8Y7eRPxawOJVQQbs/edit#gid=796495081) o [Checklists de items de trabajo de Frappé](https://docs.google.com/spreadsheets/d/1BTfYvNCsBmU54sY2hRHbU0hQRsxRtR4aCTtCfFbPxrI/edit#gid=796495081)
 - [Matriz de configuración Espresso](https://docs.google.com/spreadsheets/d/13zfQpqBBmqAT_znf1N4ebV_jcLBpeh_gjq9eHpkdOhk/edit#gid=1361951105) o [Matriz de configuración Frappé](https://docs.google.com/spreadsheets/d/13zfQpqBBmqAT_znf1N4ebV_jcLBpeh_gjq9eHpkdOhk/edit#gid=579763828)
 - Defect Log
@@ -32,19 +32,19 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
       <td>Preparación del dueño</td>
       <td>
         <ul align="left">
-          <li>Si el item no es codigo, agregarlo a la matriz de configuración de la línea base pertinente, definiendo el nivel como "Dinámico" y asignándose uno mismo como owner (si dos o más personas están trabajando el item, elegir solo a uno).</li>
+          <li>Si el item no es código, agregarlo a la matriz de configuración de la línea base pertinente, definiendo el nivel como "Dinámico" y asignándose uno mismo como owner (si dos o más personas están trabajando el item, elegir solo a uno).</li>
           <li>Abrir la <a href="../checklists/CH02-checklist-items-trabajo">checklist de items de trabajo</a> correspondiente al equipo y al tipo de item (hacer una copia local si es necesario), y verificar que cumple con todos y cada uno de los elementos definidos en la misma.</li>
-          <li>Si un elemento de la checklist no se cumple dentro del item de trabajo, hacer las correcciones necesarias. En caso de que el item verificandose sea codigo, registrar el incumplimiento en el Defect Log usando la [guia para el Defect Log](https://taro-it.github.io/docs/guias/G17-guia-defect-log)</li>
-          <li>Subir el item de trabajo desarrollado al lugar correspondiente para su revision y almacenamiento: 
+          <li>Si un elemento de la checklist no se cumple dentro del item de trabajo, hacer las correcciones necesarias. En caso de que el item verificándose sea código, registrar el incumplimiento en el Defect Log usando la [guía  para el Defect Log](https://taro-it.github.io/docs/guias/G17-guia-defect-log)</li>
+          <li>Subir el item de trabajo desarrollado al lugar correspondiente para su verificación y almacenamiento: 
           <ul>
-            <li>Si es un artefacto de analisis o disenio, a la carpeta correspondiente</li>
-            <li>Si es codigo a un PR de acuerdo a la guia de ramas y de PRs***</li>
+            <li>Si es un artefacto de análisis o diseño, a la carpeta correspondiente</li>
+            <li>Si es código a un PR acuerdo con la guía de ramas y de PRs***</li>
             <li>Si es un entregable para los socios, a la carpeta de Google Drive 
             <a href="https://drive.google.com/drive/folders/1QoEbapxFqzZjgzCtYJKNwA_TtxqYiuhP?usp=sharing">Entregables_Espresso</a> ó 
             <a href="https://drive.google.com/drive/folders/1taPaKK4cAIGSyFQELMcemIgEWR_JtF7N?usp=sharing">Entregables_Frappé.</a></li>
           </ul>
           </li>
-          <li>Comunicar en la junta diaria del equipo o a través del canal de slack taro-medio-camino o taro-cinica según corresponda, que el artefacto ha sido creado/modificado y está listo para su verificacion.</li>
+          <li>Comunicar en la junta diaria del equipo o a través del canal de slack taro-medio-camino o taro-cinica según corresponda, que el artefacto ha sido creado/modificado y está listo para su verificación.</li>
         </ul>
       </td>
       <td>
@@ -64,21 +64,21 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
       <td>
         <ul align="left">
           <li>Seleccionar al menos un integrante de Espresso o Frappé según corresponda (distinto al responsable del item de trabajo) para hacer una verificación.</li>
-          <li>Si el item no es codigo, dentro de la matriz de configuración de la línea base pertinente, actualizar/verificar que el producto de trabajo se encuentre en nivel "Controlado".</li>
+          <li>Si el item no es código, dentro de la matriz de configuración de la línea base pertinente, actualizar/verificar que el producto de trabajo se encuentre en nivel "Controlado".</li>
           <li>Duplicar la <a href="../checklists/CH02-checklist-items-trabajo">checklist de items de trabajo</a> (la copia de la checklist se quedará como una nueva pestaña dentro del mismo archivo) correspondiente al equipo y nombrarla con el identificador de la historia de usuario relacionada al item.</li>
-          <li>En la seccion correspondiente al tipo del item, llenar los campos: ID, nombre del item de trabajo, versión y verificador. La version debe seguir el formato [ID_PRODUCTODETRABAJO]-VER[00], donde 00 deberá ir incrementando según las verificaciones que se hayan hecho anteriormente.</li>
+          <li>En la sección correspondiente al tipo del item, llenar los campos: ID, nombre del item de trabajo, versión y verificador. La version debe seguir el formato [ID_PRODUCTODETRABAJO]-VER[00], donde 00 deberá ir incrementando según las verificaciones que se hayan hecho anteriormente.</li>
           <li>Utilizando la checklist correspondiente al tipo del item, verificar que el item de trabajo cumple con todos y cada uno de los elementos definidos en la checklist.</li>
           <li>Llenar la columna "¿Cumple?" para que refleje los resultados de la verificación anterior.</li>
           <li>Si el item no cumple con un elemento:
             <ul>
                 <li>Agregar comentarios en la checklist para detallar las observaciones.</li>
-                <li>Si el item es codigo, *** registrar el incumplimiento en el Defect Log usando la [guia para el Defect Log](https://taro-it.github.io/docs/guias/G17-guia-defect-log).</li>
-                <li>Si el item no es codigo:</li>
+                <li>Si el item es código, *** registrar el incumplimiento en el Defect Log usando la [guía  para el Defect Log](https://taro-it.github.io/docs/guias/G17-guia-defect-log).</li>
+                <li>Si el item no es código:</li>
                   <ul>
                     <li>Actualizar la versión del item de trabajo dentro de la matriz de configuración, aumentando en una unidad el valor del número de la derecha.</li>
                     <li>Dentro de la matriz de configuración en la línea base pertinente, actualizar la última fecha de modificación de dicho item de trabajo.</li>
                   </ul>
-                <li>Comunicar al owner del item de trabajo el resultado de la verificacion a través del canal de slack taro-medio-camino o taro-cinica según corresponda.</li>
+                <li>Comunicar al owner del item de trabajo el resultado de la verificación a través del canal de slack taro-medio-camino o taro-cinica según corresponda.</li>
                 <li>El owner deberá hacer las correcciones necesarias y realizar los pasos desde el último punto de la fase de Preparación del dueño.</li>
               </ul>
           </li>
@@ -107,9 +107,9 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
       <td>Difusión</td>
       <td>
         <ul align="left">
-          <li>Si el item no es codigo, dentro de la matriz de configuración en la línea base pertinente, definir el nivel del producto de trabajo como "Estático" y actualizar la versión del mismo (aumentar una unidad el valor de la izquierda y poner en cero el valor de la derecha).</li>
-          <li>Si el item es codigo, completar el PR haciendo el merge a dev y borrando la rama en la que se trabajaron los cambios.</li>
-          <li>Comunicar la creación/modificacion exitosa del producto de trabajo, a través del canal de slack taro-cinica o taro-medio-camino según corresponda o en la daily meeting del equipo.</li>    
+          <li>Si el item no es código, dentro de la matriz de configuración en la línea base pertinente, definir el nivel del producto de trabajo como "Estático" y actualizar la versión del mismo (aumentar una unidad el valor de la izquierda y poner en cero el valor de la derecha).</li>
+          <li>Si el item es código, completar el PR haciendo el merge a dev y borrando la rama en la que se trabajaron los cambios.</li>
+          <li>Comunicar la creación/modificación exitosa del producto de trabajo, a través del canal de slack taro-cinica o taro-medio-camino según corresponda o en la daily meeting del equipo.</li>    
         </ul>
       </td>
       <td>
@@ -159,4 +159,4 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
 
 ### Versión 1.3
 
-- Se cambió el proceso para incluir la verificacion de entregables e incorporar practicas de CM.
+- Se cambió el proceso para incluir la verificación de entregables e incorporar prácticas de CM.
