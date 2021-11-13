@@ -6,12 +6,12 @@ A partir de la retroalimentación recibida, identificar tareas a realizar para p
 
 ## Entradas
 
-- Retroalimentación de socios formadores
-- Retroalimentación de auditorías
-- Retroalimentación de reportes de estado
-- Retroalimentación de entrega SCAMPI
-- Retroalimentación de juntas diarias
-- Retroalimentación de mejora de WoW
+- Retroalimentación de socios formadores.
+- Retroalimentación de auditorías.
+- Retroalimentación de reportes de estado.
+- Retroalimentación de entrega SCAMPI.
+- Retroalimentación de juntas diarias.
+- Retroalimentación de retrospectiva.
 
 
 ## Procedimiento
