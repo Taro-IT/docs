@@ -72,6 +72,8 @@
           <li>Detallar como se interpretan los datos obtenidos para la métrica, especificando cuando sea posible el significado de ciertos rangos de valores. Registrar la explicación en la columna de "Criterio de análisis".</li>
           <li>Especificar la periodicidad con la que se analizarán los datos obtenidos para la métrica en la columna de "Frecuencia de análisis".</li>
           <li>Identificar los stakeholders a quienes se les debe mantener informados sobre los resultados de la recolección de la métrica y su análisis, y registrarlos en la columna de "Interesados".</li>
+          <li>Modificar los procesos relevantes para definir el uso de la metrica dentro de la forma de trabajo.</li>
+          <li>Llenar la casilla en la columna de "Activa". Esto significa que la métrica ahora se encuentra en uso. Para saber cuándo desactivar una métrica consultar el proceso de análisis de métricas.</li>
         </ul>
       </td>
       <td>
