@@ -2,7 +2,7 @@
 # P06 - Proceso de definición de métricas
 
 ## Objetivo(s)
-- Alinear la creación de nuevas métricas a necesidades de información de los proyectos y que puedan ser manejadas de acuerdo con el proceso de manejo de métricas.
+- Alinear la creación de nuevas métricas con necesidades de información de los proyectos y que puedan ser manejadas de acuerdo con el proceso de manejo de métricas.
 
 ## Entradas
 - Necesidades de información de los proyectos
@@ -25,7 +25,7 @@
       <td>
         <ul align="left">
           <li>Abrir la matriz de métricas correspondiente.</li>
-          <li>Especificar el objetivo que se quiere alcanzar y registrarlo en la columna de "Objetivo". Este debe de estar planteado de forma que sea especifica y medible.</li>
+          <li>Especificar el objetivo que se quiere alcanzar y registrarlo en la columna de "Objetivo". Este debe de estar planteado de forma especifica y medible.</li>
           <li>Partiendo del objetivo identificado, plantear una o varias preguntas guía que concreten la manera en la que el objetivo será alcanzado y registrarlas en la columna de "Preguntas guía".</li>
         </ul>
       </td>
@@ -66,11 +66,12 @@
       </td>
     </tr>
     <tr>
-      <td>Definición de análisis	</td>
+      <td>Definición de análisis</td>
       <td>
         <ul align="left">
           <li>Detallar como se interpretan los datos obtenidos para la métrica, especificando cuando sea posible el significado de ciertos rangos de valores. Registrar la explicación en la columna de "Criterio de análisis".</li>
           <li>Especificar la periodicidad con la que se analizarán los datos obtenidos para la métrica en la columna de "Frecuencia de análisis".</li>
+          <li>Identificar los stakeholders a quienes se les debe mantener informados sobre los resultados de la recolección de la métrica y su análisis, y registrarlos en la columna de "Interesados".</li>
         </ul>
       </td>
       <td>
