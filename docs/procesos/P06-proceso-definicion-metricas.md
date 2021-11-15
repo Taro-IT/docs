@@ -92,10 +92,7 @@
 - Adolfo Acosta Castro
 
 ## Auditoría
-
-_Enlistar a las personas que revisaron el proceso_
-
-- 
+- María de los Ángeles Contreras Anaya
 
 ## Bitácora de cambios
 
