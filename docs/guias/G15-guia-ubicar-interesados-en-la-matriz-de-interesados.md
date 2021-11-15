@@ -17,11 +17,11 @@ Un interesado, también llamado Stakeholder, son personas o entidades con quiene
 - Identificar a los interesados.
 - Identificar los 4 cuadrantes de la matriz de interesados:
 
-![Matriz de interesados vacía](....\static\img\guias\G15\matrizInteresados.png)
+![Matriz de interesados vacía](..//../static/img/guias/G15/matrizInteresados.png)
 
 - Usar símbolos o nombres para identificar a cada interesado dentro de esta matriz. Dependiendo de su Poder e Interés sobre el plan.
 
-![Matriz de interesados](....\static\img\guias\G15\matrizEjemplo.png)
+![Matriz de interesados](../../static/img/guias/G15/matrizEjemplo.png)
 
 ### Desarrollar las formas de comunicación
 
