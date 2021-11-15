@@ -25,7 +25,7 @@
       <td>
         <ul align="left">
           <li>Abrir la matriz de métricas correspondiente.</li>
-          <li>Especificar el objetivo que se quiere alcanzar y registrarlo en la columna de "Objetivo". Este debe de estar planteado de forma que especifica y medible.</li>
+          <li>Especificar el objetivo que se quiere alcanzar y registrarlo en la columna de "Objetivo". Este debe de estar planteado de forma que sea especifica y medible.</li>
           <li>Partiendo del objetivo identificado, plantear una o varias preguntas guía que concreten la manera en la que el objetivo será alcanzado y registrarlas en la columna de "Preguntas guía".</li>
         </ul>
       </td>
