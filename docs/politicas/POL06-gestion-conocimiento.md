@@ -8,7 +8,7 @@
 
 ### Conocimiento departamental
 
-- Es responsabilidad de todos los integrantes del departamento detallar todas las habilidades y conocimientos relevantes dentro del [Inventario de habilidades](https://docs.google.com/spreadsheets/d/1_JFVHoZ6bqCCFWyYPrTCWAgmNdVp86vKUfPZX1JokvI/edit#gid=0), para conocer así el conjunto de las habilidades disponibles.
+- Es responsabilidad de todos los integrantes del departamento detallar todas sus habilidades y conocimientos relevantes dentro del [Inventario de habilidades](https://docs.google.com/spreadsheets/d/1_JFVHoZ6bqCCFWyYPrTCWAgmNdVp86vKUfPZX1JokvI/edit#gid=0), para conocer así el conjunto de las habilidades disponibles.
 
 ### Conocimiento del proyecto
 
