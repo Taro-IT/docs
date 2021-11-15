@@ -1,9 +1,8 @@
-
-# G15 - Guía para ubicar interesados en la matriz de interesados
+# G15 - Guía para realizar un plan de comunicación con los interesados.
 
 ## Objetivo(s)
 
-Ubicar dentro de tu matriz de interesados a los involucrados de un plan 
+- Realizar un plan de comunicación con los interesados, para definir las formas en la cual ocurrirá dicha comunicación.
 
 ## Pre-requisitos
 
@@ -11,29 +10,48 @@ Ubicar dentro de tu matriz de interesados a los involucrados de un plan
 
 ## Pasos a seguir
 
-<ul>
-    <li>Identificar a los involucrados.</li>
-    <li>Identificar los 4 cuadrantes de la matriz de interesados:<br></br><img src="https://drive.google.com/uc?export=view&id=17cHMUEONuNvSc7yXgh2wmAZnXTJp9E_F" style={{backgroundColor:"blue"}} /></li>
-    <li>Usar símbolos, o nombres para identificar a cada interesado dentro de esta matriz. Dependiendo de su Poder e Interés sobre el plan.<br></br>
-    <img src="https://drive.google.com/uc?export=view&id=1zpavMtcKFV-pcM-kBuTcmj7U_OAcW-SA" style={{backgroundColor:"blue"}}/></li> 
-</ul>
+### Identificar a los interesados en la matriz
 
+Un interesado, también llamado Stakeholder, son personas o entidades con quienes el proyecto tiene algún tipo de relación como puedan ser actividades y relaciones.
+
+- Identificar a los interesados.
+- Identificar los 4 cuadrantes de la matriz de interesados:
+
+![Matriz de interesados vacía](../../static\img\guias\G15\matrizInteresados.png)
+
+- Usar símbolos o nombres para identificar a cada interesado dentro de esta matriz. Dependiendo de su Poder e Interés sobre el plan.
+
+![Matriz de interesados](../../static\img\guias\G15\matrizEjemplo.png)
+
+### Desarrollar las formas de comunicación
+
+Por cada interesado hay que detallar todas las formas de comunicación que se tendrá, esto involucra:
+
+- Listar todas las herramientas de comunicación que se tendrá con el interesado.
+- Por cada herramienta, listar todos los canales que existen y su propósito, si aplica.
+- Por cada herramienta, listar la forma en la que la comunicación tiene lugar, como puede ser las menciones y reacciones, si aplica.
+- Definir los horarios en las cuales es posible tener la comunicación.
 
 ## Salidas
 
-- Una matriz de interesados.
+- Plan de comunicación.
 
 ## Autores
 
-
 - Raúl Rosario Galaviz
+- Saul Axel Palacios Acosta
 
 ## Auditoría
 
-
-- 
+-
 
 # Bitácora de cambios
 
+## Versión 2.0
+
+- Se cambió el propósito de la guía para realizar un plan de comunicación.
+- Se arregló el formato.
+
 ## Versión 1.0
-  - Se creó la guía.
+
+- Se creó la guía.
