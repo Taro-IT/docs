@@ -14,7 +14,7 @@
 
 | Fase |   Actividades   | Área(s) involucradas |
 |------|:---------------:|--------------------|
-| 1. Verificación | <ul><li>Verificar la integridad de los datos obtenidos según los criterios de análisis definido.</li><li>En caso de que los datos salgan de los márgenes de los criterios de análisis se tiene que revisar la integridad de la métrica.</li><li>Si la integridad de la métrica queda comprometida o si la métrica ya no es útil para el departamento, la métrica se desactiva</li></ul>| <ul><li>M&A - 1.3</li><li>M&A - 2.2</li><li>M&A - 2.3</li></ul> |
+| 1. Verificación | <ul><li>Verificar la integridad de los datos obtenidos según los criterios de análisis definidos.</li><li>En caso de que los datos salgan de los márgenes de los criterios de análisis se tiene que revisar la integridad de la métrica.</li><li>Si la integridad de la métrica queda comprometida o si la métrica ya no es útil para el departamento, la métrica se desactiva</li></ul>| <ul><li>M&A - 1.3</li><li>M&A - 2.2</li><li>M&A - 2.3</li></ul> |
 | 2. Análisis | <ul><li>Analizar los datos obtenidos.</li><li>Tomar decisiones a partir del análisis.</li></ul>| <ul><li>M&A - 2.2</li></ul> |
 | 3. Comunicación | <ul><li>Comunicar las decisiones tomadas y plasmarlas en las herramientas pertinentes a la métrica analizada.</li></ul>| <ul><li>M&A - 2.3</li><li>M&A - 2.4</li></ul> |
 
