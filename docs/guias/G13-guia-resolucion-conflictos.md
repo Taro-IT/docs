@@ -10,7 +10,7 @@
 
 ## Niveles de conflicto
 
-Taro utiliza los cinco niveles de conflicto descritos a continuación como un marco de referencia que nos permite conocer de manera sitemática la **seriedad del conflicto** y con esto plantear la **mejor forma de resolverlo**. Un conflicto oscila de ser uno normal a ser uno destructivo y en los niveles listados a continuación entenderemos la diferencia entre cada uno de estos:
+Taro utiliza los cinco niveles de conflicto descritos a continuación como un marco de referencia que nos permite conocer de manera sistemática la **seriedad del conflicto** y con esto plantear la **mejor forma de resolverlo**. Un conflicto oscila de ser uno normal a ser uno destructivo y en los niveles listados a continuación entenderemos la diferencia entre cada uno de estos:
 
 - **Nivel 1** - Problema a resolver
 
@@ -18,10 +18,10 @@ Taro utiliza los cinco niveles de conflicto descritos a continuación como un ma
 
   - La información fluye libremente entre los involucrados y cualquier intercambio de información es **claro**, **específico** y **basado en hechos**. 
 
-  - Existe incomodidad por parte de los involucrados pero **no se mezclan las emociones**. 
+  - Existe incomodidad por parte de los involucrados, pero **no se mezclan las emociones**. 
 
 - **Nivel 2** - Desacuerdo
-  - Los comunicación pasa de ser con todos los involucrados a solo algunos con el objetivo de **construir alianzas**.
+  - La comunicación pasa de ser con todos los involucrados a solo algunos con el objetivo de **construir alianzas**.
   - Los intercambios de información son **generales** e **incompletos** pues se empieza una tendencia a no compartir todo lo que se sabe del problema.
   - Las **interpretaciones** sustituyen a los hechos lo que crea mayor confusión de lo sucedido.
   - Los involucrados se distancian entre sí, empiezan a ser **cautelosos** y velan por la **autoprotección**.
@@ -29,7 +29,7 @@ Taro utiliza los cinco niveles de conflicto descritos a continuación como un ma
 - **Nivel 3** - Concurso
   - El problema pasa de ser una situación entre todos los involucrados a un **problema entre dos grupos**.
   - **Se involucran emociones** con el objetivo de ganar más seguidores para cualquiera de estos grupos.
-  - La información intercambiada se **sobregeneraliza**, se hacen **presunciones** y se empieza a buscar **culpables** en lugar de soluciones.
+  - La información intercambiada se **sobre generaliza**, se hacen **presunciones** y se empieza a buscar **culpables** en lugar de soluciones.
 - **Nivel 4** - Cruzada
   - Los involucrados no buscan resolver la solución, buscan **eliminar al otro grupo** pues se cree firmemente que estos incurrirán en las mismas faltas.
   - **Se destruye la identidad** de equipo que se tenía en un principio.
@@ -52,7 +52,7 @@ Las preguntas listadas a continuación te permitirán tener un **mejor entendimi
 
 ## Recomendaciones según el nivel de conflicto
 
-En un conflicto de **nivel 1**  se recomienda empezar una colaboración para buscar una resolución donde todos los involucrados ganen. Para esto se deben de comunicar los hechos de manera clara y específica, proponer soluciones y llegar a un concenso sobre la mejor de estas.
+En un conflicto de **nivel 1** se recomienda empezar una colaboración para buscar una resolución donde todos los involucrados ganen. Para esto se deben de comunicar los hechos de manera clara y específica, proponer soluciones y llegar a un consenso sobre la mejor de estas.
 
 En un conflicto de **nivel 2** se recomienda empoderar a los involucrados para que estos resuelvan el problema, a la par de actividades que creen un sentimiento de seguridad e integración para fortalecer los valores como equipo. 
 
@@ -75,11 +75,12 @@ En un conflicto **nivel 5** se recomienda hacer lo que sea necesario para evitar
 
 ## Autores
 
-- María de los Angeles Contreras Anaya
+- María de los Ángeles Contreras Anaya
 
 ## Auditoría
 
-- 
+- Eduardo Andrés Castillo Perera
+- Adolfo Acosta Castro
 
 ## Bitácora de cambios
 
