@@ -33,6 +33,25 @@ Cada criterio de aceptación debe documentarse como un enunciado con las siguien
 - No usa conjunciones: no se deben usar palabras como "y", "o", "pero" y "también". Su presencia indica que un criterio se puede separar en varios. 
 - No usa absolutos inalcanzables: los atributos absolutos, como 100% de disponibilidad, no son realistas ni fáciles de verificar. No se deben usar.
 
+## Ejemplos de criterios de aceptación
+**Historia de usuario**: Como administrador quiero registrar un artículo para llevar su inventario.
+
+**Criterios de aceptación**:
+<ul>
+    <li>El usuario solo puede enviar el formulario cuando todos los campos obligatorios esta llenos.</li>
+    <li>El sistema muestra un mensaje de éxito cuando se registra un nuevo artículos.</li>
+    <li>El sistema muestra un mensaje de error cuando se registra una cantidad de artículos mayor a 100000.</li>
+</ul>
+
+**Historia de usuario**: Como usuario quiero usar la barra de búsqueda para ingresar un nombre, autor o tema y asi encontrar los libros que coincidan.
+
+**Criterios de aceptación**:
+<ul>
+    <li>La barra de búsqueda muestra un placeholder con el texto: "Palabras clave".</li>
+    <li>El sistema realiza la búsqueda en el momento que el usuario hace clic en el botón de buscar.</li>
+    <li>El sistema muestra un mensaje de error cuando se ingresan más de 280 caracteres.</li>
+</ul>
+
 ## Salidas
 
 - Listado de criterios de aceptación por historia de usuario.
