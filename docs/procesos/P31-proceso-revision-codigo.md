@@ -34,11 +34,11 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
         <ul align="left">
           <li>Si el item no es código, agregarlo a la matriz de configuración de la línea base pertinente, definiendo el nivel como "Dinámico" y asignándose uno mismo como owner (si dos o más personas están trabajando el item, elegir solo a uno).</li>
           <li>Abrir la <a href="../checklists/CH02-checklist-items-trabajo">checklist de items de trabajo</a> correspondiente al equipo y al tipo de item (hacer una copia local si es necesario), y verificar que cumple con todos y cada uno de los elementos definidos en la misma.</li>
-          <li>Si un elemento de la checklist no se cumple dentro del item de trabajo, hacer las correcciones necesarias. En caso de que el item verificándose sea código, registrar el incumplimiento en el Defect Log usando la [guía  para el Defect Log](https://taro-it.github.io/docs/guias/G17-guia-defect-log)</li>
+          <li>Si un elemento de la checklist no se cumple dentro del item de trabajo, hacer las correcciones necesarias. En caso de que el item verificándose sea código, registrar el incumplimiento en el Defect Log usando la <a href="https://taro-it.github.io/docs/guias/G17-guia-defect-log">guía para el Defect Log</a></li>
           <li>Subir el item de trabajo desarrollado al lugar correspondiente para su verificación y almacenamiento: 
           <ul>
             <li>Si es un artefacto de análisis o diseño, a la carpeta correspondiente</li>
-            <li>Si es código a un PR acuerdo con la guía de ramas y de PRs***</li>
+            <li>Si es código, a un PR en el repositorio correspondiente acuerdo con la <a href="https://taro-it.github.io/docs/guias/G12-guia-para-manejo-de-ramas">guía para manejo de ramas</a> y la <a href="https://taro-it.github.io/docs/guias/G20-guia-archivos-env/ ">guía para realizar un pull request</a></li>
             <li>Si es un entregable para los socios, a la carpeta de Google Drive 
             <a href="https://drive.google.com/drive/folders/1QoEbapxFqzZjgzCtYJKNwA_TtxqYiuhP?usp=sharing">Entregables_Espresso</a> ó 
             <a href="https://drive.google.com/drive/folders/1taPaKK4cAIGSyFQELMcemIgEWR_JtF7N?usp=sharing">Entregables_Frappé.</a></li>
@@ -72,7 +72,7 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
           <li>Si el item no cumple con un elemento:
             <ul>
                 <li>Agregar comentarios en la checklist para detallar las observaciones.</li>
-                <li>Si el item es código, *** registrar el incumplimiento en el Defect Log usando la [guía  para el Defect Log](https://taro-it.github.io/docs/guias/G17-guia-defect-log).</li>
+                <li>Si el item es código, registrar el incumplimiento en el Defect Log usando la <a href="https://taro-it.github.io/docs/guias/G17-guia-defect-log">guía para el Defect Log</a>.</li>
                 <li>Si el item no es código:</li>
                   <ul>
                     <li>Actualizar la versión del item de trabajo dentro de la matriz de configuración, aumentando en una unidad el valor del número de la derecha.</li>
