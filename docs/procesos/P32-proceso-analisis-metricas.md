@@ -6,9 +6,8 @@
 
 ## Entradas
 
-- [Matriz de Métricas](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit?usp=sharing).
-- [Proceso para una retrospectiva de la iteración](./P20-proceso-retrospective).
-- [Proceso de planeación de una iteración](./P15-proceso-planeacion-de-iteracion).
+- Datos obtenidos durante la ejecución de otros procesos.
+- [Matriz de Métricas](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit?usp=sharing) del proyecto correspondiente.
 
 ## Procedimiento
 
@@ -19,7 +18,7 @@
 
 ## Salida
 
-- Análisis de datos obtenidos.
+- Análisis de datos obtenidos durante la ejecución de otros procesos.
 
 ## Autores
 
