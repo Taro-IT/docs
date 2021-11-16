@@ -26,12 +26,12 @@ Para definir los criterios de aceptación se deben discutir entre los miembros d
 
 Cada criterio de aceptación debe documentarse como un enunciado con las siguientes características:
 
-- Es verificable: se puede decir inequívocamente al momento de verificar una historia de usuario si esta cumple el criterio.
-- Es suficientemente especifico: un criterio debe de contener suficiente detalle para poder verificarse y relacionarse con tareas pequeñas pero no debe de restringir las opciones de implementación del equipo.
-- No usa lenguaje técnico: el criterio debe ser entendible para alguien sin conocimientos técnicos como pueden ser los stakeholders.
-- Usa la primera persona y la voz activa: se debe especificar quien es la entidad que realiza cada acción mencionada en el criterio.
-- No usa conjunciones: no se deben usar palabras como "y", "o", "pero" y "también". Su presencia indica que un criterio se puede separar en varios. 
-- No usa absolutos inalcanzables: los atributos absolutos, como 100% de disponibilidad, no son realistas ni fáciles de verificar. No se deben usar.
+- **Es verificable**: se puede decir inequívocamente al momento de verificar una historia de usuario si esta cumple el criterio.
+- **Es suficientemente especifico**: un criterio debe de contener suficiente detalle para poder verificarse y relacionarse con tareas pequeñas pero no debe de restringir las opciones de implementación del equipo.
+- **No usa lenguaje técnico**: el criterio debe ser entendible para alguien sin conocimientos técnicos como pueden ser los stakeholders.
+- **Usa la primera persona y la voz activa**: se debe especificar quien es la entidad que realiza cada acción mencionada en el criterio.
+- **No usa conjunciones**: no se deben usar palabras como "y", "o", "pero" y "también". Su presencia indica que un criterio se puede separar en varios. 
+- **No usa absolutos inalcanzables**: los atributos absolutos, como 100% de disponibilidad, no son realistas ni fáciles de verificar. No se deben usar.
 
 ## Ejemplos de criterios de aceptación
 **Historia de usuario**: Como administrador quiero registrar un artículo para llevar su inventario.
