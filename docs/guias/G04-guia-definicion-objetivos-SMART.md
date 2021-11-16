@@ -67,7 +67,8 @@ Un objetico sin un límite temporal, es decir, sin una fecha límite no es efica
 
 ## Auditoría
 
-- 
+- Eduardo Andrés Castillo Perera
+- Adolfo Acosta Castro
 
 ## Bitácora de cambios
 
