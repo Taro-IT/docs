@@ -10,7 +10,7 @@
 
 ## Niveles de conflicto
 
-Taro utiliza los cinco niveles de conflicto descritos a continuación como un marco de referencia que nos permite conocer de manera sistemática la **seriedad del conflicto** y con esto plantear la **mejor forma de resolverlo**. Un conflicto oscila de ser uno normal a ser uno destructivo y en los niveles listados a continuación entenderemos la diferencia entre cada uno de estos:
+Taro utiliza los cinco niveles de conflicto descritos a continuación como un marco de referencia que nos permite conocer de manera sistemática la **seriedad del conflicto** y con esto plantear la **mejor forma de resolverlo**. Un conflicto oscila entre ser uno normal y ser uno destructivo y en los niveles listados a continuación entenderemos la diferencia entre cada uno de estos:
 
 - **Nivel 1** - Problema a resolver
 
