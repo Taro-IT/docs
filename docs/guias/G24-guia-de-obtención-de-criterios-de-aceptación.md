@@ -10,13 +10,13 @@
 
 ## ¿Qué es un criterio de aceptación?
 
-Son las condiciones específicas de acuerdo a la funcionalidad, comportamiento y calidad técnica para ser aceptado por un stakeholder.
+Son las condiciones específicas de acuerdo con la funcionalidad, comportamiento y calidad técnica para ser aceptado por un stakeholder.
 
 ## ¿Cómo definir un criterio de aceptación?
 
-Discutir entre el product owner, desarolladores y stakeholders las condiciones para cada una de las hisotiras de usuario. Al discutir tener en cuenta que: 
--  Ayudarán al equipo de desarrollo a entender mejor el funcionamiento de la hisotria de usuario. 
--  Servirá como guía en la fase de desarrollo y cuando el desarollador tenga que tomar una desición tome la más acertada. 
+Discutir entre el product owner, desarolladores y stakeholders las condiciones para cada una de las historias de usuario. Al discutir tener en cuenta que: 
+-  Ayudarán al equipo de desarrollo a entender mejor el funcionamiento de la historia de usuario. 
+-  Servirá como guía en la fase de desarrollo y cuando el desarrollador tenga que tomar una decisión tome la más acertada. 
 
 ## Salidas
 
