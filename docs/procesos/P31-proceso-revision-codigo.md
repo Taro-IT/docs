@@ -35,11 +35,11 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
           <li>Si el item no es código, agregarlo a la matriz de configuración de la línea base pertinente, definiendo el nivel como "Dinámico" y asignándose uno mismo como owner (si dos o más personas están trabajando el item, elegir solo a uno).</li>
           <li>Duplicar la <a href="../checklists/CH02-checklist-items-trabajo">checklist de items de trabajo</a> (la copia de la checklist se quedará como una nueva pestaña dentro del mismo archivo) correspondiente al equipo y nombrarla con el identificador de la historia de usuario relacionada al item.</li>
           <li>Verificar que la checklist cumple con todos y cada uno de los elementos definidos en la misma, marcándolos en la celda para los desarrolladores.</li>
-          <li>Si un elemento de la checklist no se cumple dentro del item de trabajo, hacer las correcciones necesarias. En caso de que el item verificándose sea código, registrar el incumplimiento en el Defect Log usando la <a href="../guias/G17-guia-defect-log">guía  para el Defect Log</a>.</li>
+          <li>Si un elemento de la checklist no se cumple dentro del item de trabajo, hacer las correcciones necesarias. En caso de que el item que se está verificando sea código, registrar el incumplimiento en el Defect Log usando la <a href="../guias/G17-guia-defect-log">guía  para el Defect Log</a>.</li>
           <li>Subir el item de trabajo desarrollado al lugar correspondiente para su verificación y almacenamiento: 
           <ul>
-            <li>Si es un artefacto de análisis o diseño, a la carpeta correspondiente</li>
-            <li>Si es código a un PR acuerdo con la guía de ramas y de PRs***</li>
+            <li>Si es un artefacto de análisis o diseño, a la carpeta correspondiente.</li>
+            <li>Si es código a un PR de acuerdo con la guía de ramas y de PRs.</li>
             <li>Si es un entregable para los socios, a la carpeta de Google Drive  
             <a href="https://drive.google.com/drive/folders/1QoEbapxFqzZjgzCtYJKNwA_TtxqYiuhP?usp=sharing"> Entregables_Espresso</a> ó 
             <a href="https://drive.google.com/drive/folders/1taPaKK4cAIGSyFQELMcemIgEWR_JtF7N?usp=sharing"> Entregables_Frappé.</a></li>
@@ -67,12 +67,12 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
           <li>Seleccionar al menos un integrante de Espresso o Frappé según corresponda (distinto al responsable del item de trabajo) para hacer una verificación.</li>
           <li>Si el item no es código, dentro de la matriz de configuración de la línea base pertinente, actualizar/verificar que el producto de trabajo se encuentre en nivel "Controlado".</li>
           <li>Abrir la <a href="../checklists/CH02-checklist-items-trabajo">checklist de items de trabajo</a> y buscar la copia para el caso que tendrá el nombre del identificador de la historia de usuario relacionada al item.</li>
-          <li>En la sección correspondiente al tipo del item, llenar los campos: ID, nombre del item de trabajo, versión y verificador. La version debe seguir el formato [ID_PRODUCTODETRABAJO]-VER[00], donde 00 deberá ir incrementando según las verificaciones que se hayan hecho anteriormente.</li>
+          <li>En la sección correspondiente al tipo del item, llenar los campos: ID, nombre del item de trabajo, versión y verificador. La versión debe seguir el formato [ID_PRODUCTODETRABAJO]-VER[00], donde 00 deberá ir incrementando según las verificaciones que se hayan hecho anteriormente.</li>
           <li>Utilizando la checklist correspondiente al tipo del item, verificar que el item de trabajo cumple con todos y cada uno de los elementos definidos en la checklist.</li>
-          <li>Llenar la columna "¿Cumple?" para que refleje los resultados de la verificación anterior.</li>
+          <li>Llenar la columna "¿Cumple?" para que refleje los resultados de la verificación anterior. Si la verificación ya se había realizado anteriormente, se deberá sobreescribir esta celda.</li>
           <li>Si el item no cumple con un elemento:
             <ul>
-                <li>Agregar comentarios en la checklist para detallar las observaciones.</li>
+                <li>Agregar comentarios en la checklist para detallar las observaciones incluyendo la fecha en la que se hizo esta verificación.</li>
                 <li>Si el item es código, registrar el incumplimiento en el Defect Log usando la <a href="../guias/G17-guia-defect-log">guía  para el Defect Log</a>.</li>
                 <li>Si el item no es código:</li>
                   <ul>
@@ -83,7 +83,7 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
                 <li>El owner deberá hacer las correcciones necesarias y realizar los pasos desde el último punto de la fase de Preparación del dueño.</li>
               </ul>
           </li>
-          <li>Si el item de trabajo cumple con todos los elementos, continuar con la siguiente fase.</li>
+          <li>Si el item de trabajo cumple con todos los elementos, continuar con la siguiente fase. En caso de haber sobreescrito la celda, colocar la fecha en la sección de comentarios en la que se está aprobando.</li>
         </ul>
       </td>
       <td>
