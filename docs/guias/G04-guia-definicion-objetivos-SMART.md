@@ -41,7 +41,7 @@ Un objetivo debe ser cuantificable, si no podemos medir el progreso de un objeti
 
 Definir un objetivo que no es alcanzable es una mala práctica pues puede impactar de manera negativa en el compromiso, motivación y ánimo de los involucrados en completarlo. Un buen objetivo nos anima a seguir enfocados tanto a corto como a largo plazo, es recomendable contestar las siguientes preguntas para asegurarnos de que el objetivo se puede alcanzar:
 
-- **¿El objetivo se alinea a los recursos con los que cuento?** - Pensar en el impacto económico y la cantida de personas necesarias para lograr el objetivo
+- **¿El objetivo se alinea a los recursos con los que cuento?** - Pensar en el impacto económico y la cantidad de personas necesarias para lograr el objetivo
 - **¿Conozco todo el esfuerzo que implica el completar dicho objetivo?** - Ser consciente sobre lo que implica un objetivo nos ayuda a saber si este es alcanzable. 
 
 ### 4. Relevante
