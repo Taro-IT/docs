@@ -2,7 +2,7 @@
 
 ## Objetivo(s)
 
-- Analizar métricas definidas en la [Matriz de Métricas](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit?usp=sharing).
+- Analizar los datos obtenidos para las métricas definidas en la [Matriz de Métricas](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit?usp=sharing).
 
 ## Entradas
 
@@ -14,24 +14,19 @@
 
 | Fase |   Actividades   | Área(s) involucradas |
 |------|:---------------:|--------------------|
-| 1. Verificación | <ul><li>Verificar la integridad de los datos obtenidos según los criterios de análisis definidos.</li><li>En caso de que los datos salgan de los márgenes de los criterios de análisis se tiene que revisar la integridad de la métrica.</li><li>Si la integridad de la métrica queda comprometida o si la métrica ya no es útil para el departamento, la métrica se desactiva</li></ul>| <ul><li>M&A - 1.3</li><li>M&A - 2.2</li><li>M&A - 2.3</li></ul> |
-| 2. Análisis | <ul><li>Analizar los datos obtenidos.</li><li>Tomar decisiones a partir del análisis.</li></ul>| <ul><li>M&A - 2.2</li></ul> |
-| 3. Comunicación | <ul><li>Comunicar las decisiones tomadas y plasmarlas en las herramientas pertinentes a la métrica analizada.</li></ul>| <ul><li>M&A - 2.3</li><li>M&A - 2.4</li></ul> |
+| 1. Verificación | <ul align="left"><li>Verificar la integridad de los datos obtenidos apoyándose de los criterios de análisis definidos en la [Matriz de Métricas](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit?usp=sharing).</li><li>Verificar si la métrica sigue siendo de utilidad dentro de la forma de trabajo del equipo. En caso de que la métrica ya no aporte valor: <ul align="left"><li>Desactivar la métrica yendo a su fila dentro de la [Matriz de Métricas](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit?usp=sharing) y vaciando la casilla en la columna de "Activa". </li><li>Modificar todos los procesos relevantes para dejar de utilizar la métrica.</li></ul></li></ul>| <ul><li>M&A - 1.3</li><li>M&A - 2.2</li><li>M&A - 2.3</li></ul> |
+| 2. Análisis | <ul align="left"><li>Analizar los datos obtenidos usando los criterios de análisis establecidos para las métricas en cuestión. Los criterios de análisis se encuentran en la [Matriz de Métricas](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit?usp=sharing).</li></ul> |
 
 ## Salida
 
-- Una decisión.
-- [Historial de experimentos](https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit#gid=597584843).
-- [Proceso de juntas con socios formadores](./P02-proceso-juntas-socios-formadores).
-- [Proceso de juntas semanales departamentales](./P29-proceso-juntas-semanales-depto).
-- [Proceso de reporte de estado](./P18-proceso-reporte-estado).
+- Analisis de datos obtenidos.
 
 ## Autores
 
 - Juan José Díaz André
 
 ## Auditoría
-
+- Adolfo Acosta Castro
 
 
 # Bitácora de cambios
