@@ -24,7 +24,7 @@ Un objetivo **SMART**, por sus siglas en inglés es aquel que es:
 
 ### 1. Específico
 
-Un objetivo nunca puede ser ambiguo, para evitar esto es recomendable contestar las siguientes preguntas dentro de la definición incial del objetivo:
+Un objetivo nunca puede ser ambiguo, para evitar esto es recomendable contestar las siguientes preguntas dentro de la definición inicial del objetivo:
 
 - **¿Qué?** - Detallar lo que queremos lograr con el objetivo.
 - **¿Quién?** - Involucrados que deberán velar por alcanzar el objetivo.
@@ -32,7 +32,7 @@ Un objetivo nunca puede ser ambiguo, para evitar esto es recomendable contestar 
 
 ### 2. Medible
 
-Un objetivo debe ser cuantificable, si no podemos medir el progreso de un objetivo no sirve de nada definirlo ya que no tendríamos forma de saber el progreso del mismo. Es recomendable contestar las siguientes pregunta a la hora de hacer un objetivo medible:
+Un objetivo debe ser cuantificable, si no podemos medir el progreso de un objetivo no sirve de nada definirlo ya que no tendríamos forma de saber el progreso del mismo. Es recomendable contestar las siguientes preguntas a la hora de hacer un objetivo medible:
 
 - **¿Cuánto quiero incrementar, reducir, etc?** - Detallar una medida específica de progreso que se quiere ver al término del objetivo.
 - **¿Cómo sabré que el objetivo se cumplió?** 
@@ -48,14 +48,14 @@ Definir un objetivo que no es alcanzable es una mala práctica pues puede impact
 
 Un objetivo siempre debe contribuir a alcanzar una visión o meta global, es recomendable contestar las siguientes preguntas para saber si el objetivo es realmente relevante: 
 
-- **¿Porqué me estoy planteando este objetivo?** - Pensar sobre cual es la razón detrás de este objetivo
+- **¿Por qué me estoy planteando este objetivo?** - Pensar sobre cuál es la razón detrás de este objetivo
 - **¿Este objetivo me ayuda a cumplir mi visión global?** - Pensar a largo plazo
 
 ### 5. Temporal
 
 Un objetico sin un límite temporal, es decir, sin una fecha límite no es eficaz ya que al no tener dicho límite tendemos a procrastinar y por lo tanto aplazamos una infinidad de veces el cumplimiento del objetivo. Es recomendable que la definición del objetivo conteste las siguientes preguntas:
 
-- **¿Cuando deberá ser completado el objetivo?** - fecha específica que contemple cualquier bloqueo o situación que implique un retraso en el cumplimiento del mismo. 
+- **¿Cuándo  deberá ser completado el objetivo?** - fecha específica que contemple cualquier bloqueo o situación que implique un retraso en el cumplimiento del mismo. 
 
 ## Salidas
 
@@ -63,7 +63,7 @@ Un objetico sin un límite temporal, es decir, sin una fecha límite no es efica
 
 ## Autores
 
-- María de los Angeles Contreras Anaya
+- María de los Ángeles Contreras Anaya
 
 ## Auditoría
 
