@@ -44,7 +44,7 @@ A partir de la retroalimentación recibida, identificar tareas a realizar para p
         <ul align="left">
           <li>Determinar las acciones pertinentes a realizar en los elementos que fueron identificados como elegibles para corregir.</li>
           <li>Consultar con los interesados relevantes las acciones identificadas y evaluar si son las correctas para corregir los elementos seleccionados.</li>
-          <li>Documentar en los documentos de planeación las actividades a realizar como ítems de trabajo ( <a href="https://docs.google.com/spreadsheets/u/1/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit#gid=0">Planeación departamental</a>, <a href ="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=1100323685">planeación Frappé</a>,<a href="https://docs.google.com/spreadsheets/d/1xPuPU4C-SlJlFZ1v5lpxuJ4RD-dEz9dOgNvWhQ9ZiNo/edit#gid=0"> planeación Espresso</a> ).</li>
+          <li>Documentar en los documentos de planeación (<a href="https://docs.google.com/spreadsheets/u/1/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit#gid=0">planeación departamental</a>, <a href ="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=1100323685">planeación Frappé</a>,<a href="https://docs.google.com/spreadsheets/d/1xPuPU4C-SlJlFZ1v5lpxuJ4RD-dEz9dOgNvWhQ9ZiNo/edit#gid=0"> planeación Espresso</a>) las actividades a realizar como ítems de trabajo.</li>
         </ul>
       </td>
       <td>
