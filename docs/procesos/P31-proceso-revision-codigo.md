@@ -38,7 +38,7 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
           <li>Si un elemento de la checklist no se cumple dentro del item de trabajo, hacer las correcciones necesarias. En caso de que el item que se está verificando sea código, registrar el incumplimiento en el Defect Log usando la <a href="../guias/G17-guia-defect-log">guía  para el Defect Log</a>.</li>
           <li>Subir el item de trabajo desarrollado al lugar correspondiente para su verificación y almacenamiento: 
           <ul>
-            <li>Si es un artefacto de análisis o diseño, al espacio designado para cada proyecto</li>
+            <li>Si es un artefacto de análisis o diseño, al espacio designado para cada proyecto.</li>
             <li>Si es código, a un PR en el repositorio del equipo de acuerdo a la <a href="https://taro-it.github.io/docs/guias/G12-guia-para-manejo-de-ramas">guía para manejo de ramas</a> y la <a href="https://taro-it.github.io/docs/guias/G20-guia-archivos-env/ ">guía para realizar un pull request</a>.</li>
             <li>Si es un entregable para los socios, a la carpeta de Google Drive.  
             <a href="https://drive.google.com/drive/folders/1QoEbapxFqzZjgzCtYJKNwA_TtxqYiuhP?usp=sharing"> Entregables_Espresso</a> ó 
