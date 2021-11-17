@@ -28,16 +28,6 @@
       <td>
         <ul align="left">
           <li>Definir un ciclo de vida para el plan. </li>
-            <ul align="left">
-              <li>Tipos de ciclos de vida a elegir:</li>
-              <ul align="left">
-                <li><a href="https://docs.google.com/presentation/d/1zTMVnqxYRWe_Fh0TFrjlKbB42MXc9lM4ftcBvG49oJ8/edit#slide=id.g2b2b7a0211_0_6">Ciclo de vida de DAD clásico.</a></li>
-                <li><a href="https://docs.google.com/presentation/d/1zTMVnqxYRWe_Fh0TFrjlKbB42MXc9lM4ftcBvG49oJ8/edit#slide=id.g2b2b7a0211_0_19">Ciclo de vida de DAD avanzado.</a></li>
-                <li><a href="https://docs.google.com/presentation/d/1zTMVnqxYRWe_Fh0TFrjlKbB42MXc9lM4ftcBvG49oJ8/edit#slide=id.g2b2b7a0211_0_115">Ciclo de vida de entrega continua ágil.</a></li>
-                <li><a href="https://docs.google.com/presentation/d/1zTMVnqxYRWe_Fh0TFrjlKbB42MXc9lM4ftcBvG49oJ8/edit#slide=id.g2b2b7a0211_0_122">Ciclo de vida de entrega continua lean.</a></li>
-                <li><a href="https://docs.google.com/presentation/d/1zTMVnqxYRWe_Fh0TFrjlKbB42MXc9lM4ftcBvG49oJ8/edit#slide=id.g2b2b7a0211_0_129">Ciclo de vida exploratorio.</a></li>
-              </ul>
-            </ul>
           <li>Reunir las habilidades<a href="https://docs.google.com/spreadsheets/d/1MZ-7gZ1iUZPbCIa3G2UtK8B-_w1ipbHrO0hJMeRTozQ/edit#gid=1760954040"> (Utilizar el documento de Trials of the temple).</a> y recursos <a href="https://docs.google.com/spreadsheets/d/1frtMUtfqJzUiE9ej_qi-HwhZZtvbSbPsc-TMsYf10Bk/edit#gid=0">(Utilizar el repositorio de recursos departamentales)</a> que se tienen en el momento.<a></a></li>
           <li>Analizar las habilidades que les faltan a las personas que son necesarias para el plan <a href="https://docs.google.com/spreadsheets/d/1MZ-7gZ1iUZPbCIa3G2UtK8B-_w1ipbHrO0hJMeRTozQ/edit#gid=1760954040"> (Utilizar el documento de Trials of the temple).</a></li>
           <li>Ubicar dentro una matriz de interesados a los involucrados del plan para poder definir un plan de comunicación con ellos <a href="../guias/G15-guia-ubicar-interesados-en-la-matriz-de-interesados">(Usar la guía)</a></li>
