@@ -94,7 +94,7 @@
     <td>
       <ul>
         <li>Convertir en work items los compromisos formalizados durante la junta y agregarlos al <a href="https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit?usp=sharing">plan departamental</a>.</li>
-        <li>Actualizar la matriz de compromisos según sea necesario como preparación para la revisión de la misma en una junta posterior.</li>
+        <li>Actualizar la <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=14619367">matriz de compromisos</a> según sea necesario como preparación para la revisión de la misma en una junta posterior.</li>
       </ul>
     </td>
     <td>
@@ -107,8 +107,8 @@
 
 ## Salida
 
-- Plan departamental actualizado
-- Matriz de compromisos actualizada
+- <a href="https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit?usp=sharing">Plan departamental</a> actualizado
+- <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=14619367">Matriz de compromisos</a> actualizada
 
 ## Autores
 - José Carlos Pacheco Sánchez
