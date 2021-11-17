@@ -1,4 +1,4 @@
-# POL03 - Política para el manejo de datos
+# POL03 - Políticas para el manejo de datos
 
 ## Objetivo:
 
