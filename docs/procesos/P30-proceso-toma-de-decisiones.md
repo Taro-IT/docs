@@ -7,7 +7,7 @@
 
 ## Entradas
 
-- Métricas de un plan.
+- Análisis de métricas.
 - Faltas al código de ética.
 - Código de ética.
 - Procesos y guías departamentales.
