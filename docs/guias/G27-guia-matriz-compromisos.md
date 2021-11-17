@@ -43,8 +43,8 @@ Una vez que el compromiso ha sido completado se deberá de:
 - Validar que lo entregado o realizado es lo esperado de acuerdo con la columna "Detalle del compromiso".
   - Si el compromiso se cumple con lo esperado, cambiar el estado a "Finalizado", registrar la fecha de cumplimiento bajo la columna "Fecha real" y en la columna "Evidencia" poner el enlace de lo entregado o algo que sirva como prueba del cumplimiento del compromiso.
   - Si el compromiso se cumple pero no en su totalidad, cambiar el estado a "Con detalles", registrar la fecha de cumplimiento bajo la columna "Fecha real", en la columna "Evidencia" poner el enlace de lo entregado o algo que sirva como prueba del cumplimiento del compromiso y en comentarios enlistar las acciones o información faltante.
-  - Si el compromiso no cumple con lo esperado, el estado permanecerá como "En proceso" y se le comunicará al responsable por qué  lo entregado o completado no validó el cumplimento del compromiso.
-- Para los compromisos finalizados con un estado definido como "Con detalles " es necesario generar un nuevo item dentro de la matriz y dar seguimiento a lo faltante.
+  - Si el compromiso no cumple con lo esperado, el estado permanecerá como "En proceso" y se le comunicará al responsable por qué lo entregado o completado no validó el cumplimiento del compromiso. En este caso se deberá cambiar la "Fecha real" y este cambio deberá ser registrado en la columna "Comentarios".
+- Para los compromisos finalizados con un estado definido como "Con detalles" es necesario generar un nuevo item dentro de la matriz y dar seguimiento a lo faltante.
 
 ## Salidas
 
