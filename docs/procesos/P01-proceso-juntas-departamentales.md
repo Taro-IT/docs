@@ -50,7 +50,7 @@
     <td>
       <ul>
         <li>Generar una <a href="https://taro-it.github.io/docs/plantillas/PL01-plantilla-para-minutas">minuta</a> dentro de la carpeta <a href="https://drive.google.com/drive/folders/1SuxSp22ltngtlSmymEWx_6vEoKlnA_uR?usp=sharing">correspondiente</a> y nombrar de la siguiente forma: [#_minuta]-TARO-[DD]-[MM]-[AA]. Ejemplo: 003-TARO-16-11-21.</li>
-        <li>Asignar un responsable de la junta(el responsable de la junta se encarga de llenar la minuta y liderar la junta), si se hizo una petición de junta esa persona deberá de ser el responsable, si no, designar a alguno de los PM como responsable.</li>
+        <li>Asignar un responsable de la junta (el responsable de la junta se encarga de llenar la minuta y liderar la junta), si se hizo una petición de junta esa persona deberá de ser el responsable, si no, designar a alguno de los PM como responsable.</li>
         <li>Llenar el campo "Asunto" especificando las razones y objetivos de la junta.</li>
         <li>Especificar la fecha, hora de inicio, hora de termino y lugar en que se realizará la junta dentro de la sección "Datos de la Reunión".</li>
         <li>Definir y enlistar los puntos a tratar durante la junta y el tiempo estimado que se tomará en cada uno de estos dentro de la sección "Agenda" dejando cinco minutos libres al inicio y término de esta para la revisión de acuerdos.</li>
@@ -67,13 +67,13 @@
     <td>4. Ejecución</td>
     <td>
       <ul>
-        <li>Los PM y el responsable(en caso de que sea alguien con un rol diferente a PM) deberán estar presentes en el lugar de la reunión cinco minutos antes de la hora de inicio.</li>
+        <li>Los PM y el responsable (en caso de que sea alguien con un rol diferente a PM) deberán estar presentes en el lugar de la reunión cinco minutos antes de la hora de inicio.</li>
         <li>Indicar con un check bajo la columna "Asistió" en la sección de "Convocados" a todas las personas que asistieron a la junta.</li>
         <li>El responsable deberá encender la cámara y pedir a todos los asistentes que enciendan sus cámaras para tener una comunicación más efectiva.</li>
         <li>Revisar el <a href="https://docs.google.com/spreadsheets/d/1L_IWQMrYGR4vnJVB-YF48OHtPyNLnXWxmzz2g-aHHGM/edit?usp=sharing">tablero de riesgos departamentales</a> para llevar un correcto monitoreo de los mismos.</li>
         <li>Revisar la <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=14619367">matriz de compromisos</a> del departamento para obtener información sobre el estado de los mismos. Si existe algún bloqueo por parte del owner del compromiso tomar medidas correctivas.</li>
         <li>Revisar cada uno de los puntos definidos en la agenda, procurando tomar el tiempo previsto y pasando al siguiente punto siempre y cuando se haya concluido el actual.</li>
-        <li>Formalizar los acuerdos y compromisos definidos durante la ejecución de la junta detallando cada uno dentro de la matriz siguiendo la guia correspondiente.</li>
+        <li>Formalizar los acuerdos y compromisos definidos durante la ejecución de la junta detallando cada uno dentro de la matriz siguiendo la guía correspondiente.</li>
         <li>Antes de finalizar, abrir un espacio para resolución de dudas de los integrantes de Taro.</li>
         <li>Cerrar la junta recordando a los participantes de cumplir con sus compromisos y estar pendientes del canal de slack taro-general.</li>
       </ul>

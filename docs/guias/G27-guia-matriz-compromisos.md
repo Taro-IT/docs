@@ -12,9 +12,9 @@
 
 ## ¿Qué es un compromiso?
 
-Un compromiso es cualquier obligación que contraemos al dar nuestra palabra para cumplir con una acción determinada, es decir una acción de la cual tenemos conocimiento y para la cual existe el rol de quien la ejecuta que asumimos nosotros  y el rol de quíen la recibe y/o evalúa que asume otra persona. 
+Un compromiso es cualquier obligación que contraemos al dar nuestra palabra para cumplir con una acción determinada, es decir una acción de la cual tenemos conocimiento y para la cual existe el rol de quien la ejecuta que asumimos nosotros y el rol de quien la recibe y/o evalúa que asume otra persona. 
 
-## ¿Porqué llevar una matriz de compromisos?
+## ¿Por qué llevar una matriz de compromisos?
 
 En Taro hemos decidido llevar una matriz de compromisos para poder garantizar el cumplimiento de los mismos en la fecha acordada y según lo estipulado desde un principio. Gracias a la matriz diseñada es más sencillo el visualizar el estado y todo lo acordado para el cumplimiento de dichos compromisos, además la inclusión de una columna llamada "Días de incumplimiento" hace que el encargado de ejecutar determinada tarea tenga un incremento en el nivel de compromiso por cumplir con esta.
 
@@ -40,10 +40,10 @@ Una vez que se ha definido el compromiso es necesario formalizarlo con el respon
 
 Una vez que el compromiso ha sido completado se deberá de:
 
-- Validar que lo entregado o realizado es lo esperado de acuerdo a la columna "Detalle del compromiso".
+- Validar que lo entregado o realizado es lo esperado de acuerdo con la columna "Detalle del compromiso".
   - Si el compromiso se cumple con lo esperado, cambiar el estado a "Finalizado", registrar la fecha de cumplimiento bajo la columna "Fecha real" y en la columna "Evidencia" poner el enlace de lo entregado o algo que sirva como prueba del cumplimiento del compromiso.
   - Si el compromiso se cumple pero no en su totalidad, cambiar el estado a "Con detalles", registrar la fecha de cumplimiento bajo la columna "Fecha real", en la columna "Evidencia" poner el enlace de lo entregado o algo que sirva como prueba del cumplimiento del compromiso y en comentarios enlistar las acciones o información faltante.
-  - Si el compromiso no cumple con lo esperado, el estado permanecerá como "En proceso" y se le comunicará al responsable el porque lo entregado o completado no validó el cumplimento del compromiso.
+  - Si el compromiso no cumple con lo esperado, el estado permanecerá como "En proceso" y se le comunicará al responsable por qué  lo entregado o completado no validó el cumplimento del compromiso.
 - Para los compromisos finalizados con un estado definido como "Con detalles " es necesario generar un nuevo item dentro de la matriz y dar seguimiento a lo faltante.
 
 ## Salidas
@@ -52,7 +52,7 @@ Una vez que el compromiso ha sido completado se deberá de:
 
 ## Autores
 
-- María de los Angeles Contreras Anaya
+- María de los Ángeles Contreras Anaya
 
 ## Auditoría
 
