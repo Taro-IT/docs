@@ -19,7 +19,7 @@
     <td>1. Notificación</td>
     <td>
       <ul>
-        <li>Realizar petición de junta indicando la fecha de la misma durante la reunión de planeación de horarios departamental o a través del canal de slack taro-general.</li>
+        <li>Realizar petición de junta indicando la fecha de la misma durante la reunión de planeación de horarios departamental (reunión recurrente los días jueves de 10:45 a 11:30 agendada siguiendo la guía <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">correspondiente</a>) o a través del canal de slack taro-general.</li>
         <li>Durante la planeación de horarios decidir el horario para dicha junta teniendo en cuenta la disponibilidad de los integrantes de Taro para garantizar la asistencia de la mayoría.</li>
       </ul>
     </td>
@@ -117,7 +117,7 @@
 - María de los Ángeles Contreras Anaya
 
 ## Auditoría
-- 
+- Adolfo Acosta Castro
 
 # Bitácora de cambios
 ## Versión 1.3
