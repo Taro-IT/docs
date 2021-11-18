@@ -10,7 +10,7 @@
 
 ## Entradas
 
-- La necesidad de una junta con los socios
+- Junta agendada con los socios formadores
 
 
 ## Procedimiento
@@ -25,7 +25,8 @@
 
 ## Salida
 
-- [Retroalimentación] de lo visto en la junta
+- Retroalimentación de lo visto en la junta.
+- Compromisos por parte del equipo y/o compromisos por parte del socio.
 
 ## Autores
 
@@ -40,17 +41,22 @@
 - Adolfo Acosta Castro
 
 # Bitácora de cambios
+## Versión 1.4
+- Se agregó referencia a la plantilla de seguimiento de compromisos.
+- Se reestructuró la fase de ejecución
+- Se agregó el proceso de retroalimentación
+- Falta link de la matriz de compromisos de Frappé
 
-## Versión 1.0
-  - Se creó el proceso.
+## Versión 1.3
+- Se agrega un paso para dar seguimiento a los compromisos realizados en juntas previas.
 
-## Versión 1.1
-  - Se corrigieron errores de ortografía.
-  - Se actualizaron links.
-  
 ## Versión 1.2
   - Queda pendiente ligar al proceso de manejo de retro.
   - Se modificaron áreas del CMMI.
 
-## Versión 1.3
-- Se agrega un paso para dar seguimiento a los compromisos realizados en juntas previas.
+## Versión 1.1
+  - Se corrigieron errores de ortografía.
+  - Se actualizaron links.
+
+## Versión 1.0
+  - Se creó el proceso.
