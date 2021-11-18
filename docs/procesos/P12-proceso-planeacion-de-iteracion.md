@@ -2,11 +2,11 @@
 
 ## Objetivo(s)
 
-- Establecer y mantener planes que definan las actividades de la iteración
+- Establecer y mantener planes que definan las actividades de la iteración.
 
 ## Entradas
 
-- Ítems de trabajo
+- Ítems de trabajo.
 
 ## Procedimiento
 
@@ -22,10 +22,10 @@
       <td>1. Pre-planeación</td>
       <td>
         <ul align="left">
-          <li>Se revisan las lecciones aprendidas de la iteración anterior para la nueva planeación.</li>
+          <li>Revisar las lecciones aprendidas de la iteración anterior para la nueva planeación.</li>
           <li>Identificar los recursos necesarios para completar el plan, ubicado en el <a href="https://docs.google.com/spreadsheets/d/1frtMUtfqJzUiE9ej_qi-HwhZZtvbSbPsc-TMsYf10Bk/edit#gid=0">Repositorio de recursos</a></li>
           <li>Revisar el WBS (<a href="https://app.diagrams.net/#G1Y_8bcH24-RTK0W6F2wwTM64BEp-ylUWn">Departamental</a>, <a href="https://app.diagrams.net/#G1i00w__BA-zEfea5xUjIgRisWwyQ3V-cr">Frappé</a>, <a href="https://app.diagrams.net/#G1BgBJ2mr8yjmmV6anHILdW0YtsEUEv3ja">Espresso</a>) para identificar el alcance de la iteración.</li>
-          <li>Se revisan los resultados de las métricas relacionadas con la iteración anterior y se analizan usando el [proceso de análisis de métricas]</li>
+          <li>Revisar los resultados de las métricas relacionadas con la iteración anterior y se analizan usando el [proceso de análisis de métricas]</li>
         </ul>
       </td>
       <td>
@@ -40,7 +40,7 @@
       <td>2. Disponibilidad del equipo</td>
       <td>
         <ul align="left">
-          <li>Los miembros del equipo comparten cuántas horas de trabajo tienen disponibles para trabajar en el proyecto.</li>
+          <li>Los miembros del equipo deben compartir cuántas horas de trabajo tienen disponibles para trabajar en el proyecto.</li>
         </ul>
       </td>
       <td>
@@ -56,7 +56,7 @@
         <ul align="left">
           <li>Seleccionar un ítem de trabajo del backlog.</li>
           <li>Con base en el WBS, en la sección del ítem de trabajo, descomponer el ítem en las subtareas correspondientes.</li>
-          <li>Usando la <a href="../guias/G22-guia-para-estimar-workitem">guía para estimar work items</a>, se define cuánto tiempo va a costar terminar el ítem de trabajo.</li>
+          <li>Usando la <a href="../guias/G22-guia-para-estimar-workitem">guía para estimar work items</a>, definir cuánto tiempo va a costar terminar el ítem de trabajo.</li>
           <li>Idear una solución de alto nivel para el ítem de trabajo.</li>
           <li>Discutir las ventajas y desventajas de la solución ideada.</li>
           <li>Elegir la solución propuesta más adecuada para el socio formador, tomando en cuenta el costo y esfuerzo de implementación de la solución.</li>
@@ -78,7 +78,7 @@
       <td>3. Priorización</td>
       <td>
         <ul align="left">
-          <li>Prioriza las historias de usuario con base en las necesidades del stakeholder y el valor que le aportarán.</li>
+          <li>Priorizar las historias de usuario con base en las necesidades del stakeholder y el valor que le aportarán.</li>
         </ul>
       </td>
       <td>
@@ -119,7 +119,7 @@
 
 ## Auditoría
 
--
+- Iván Alejandro Díaz Peralta
 
 # Bitácora de cambios
 

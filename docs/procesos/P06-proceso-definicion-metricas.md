@@ -1,17 +1,18 @@
-
 # P06 - Proceso de definición de métricas
 
 ## Objetivo(s)
+
 - Alinear la creación de nuevas métricas con las necesidades de información de los proyectos y que puedan ser utilizadas de acuerdo con el proceso de análisis de métricas.
 
 ## Entradas
-- Necesidades de información de los proyectos
-- [Matriz de métricas del departamento](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=0)
-- [Matriz de métricas de frappe](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=1505846577)
-- [Matriz de métricas de espresso](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=16791600)
 
+- Necesidades de información de los proyectos.
+- [Matriz de métricas del departamento](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=0).
+- [Matriz de métricas de frappe](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=1505846577).
+- [Matriz de métricas de espresso](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=16791600).
 
 ## Procedimiento
+
 <table>
   <thead>
     <th>Fase</th>
@@ -88,15 +89,19 @@
 </table>
 
 ## Salidas
+
 - Nueva métrica registrada en la matriz de métricas correspondiente.
 
 ## Autores
+
 - Adolfo Acosta Castro
 
 ## Auditoría
+
 - María de los Ángeles Contreras Anaya
 
 ## Bitácora de cambios
 
 ### Versión 1.0
-- Se creó el proceso
+
+- Se creó el proceso.

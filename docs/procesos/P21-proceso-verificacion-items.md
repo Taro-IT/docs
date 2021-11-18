@@ -7,10 +7,10 @@
 
 ## Entradas
 
-- Item de trabajo recién creado o actualizado (artefacto de análisis o diseño, código, o manuales entregables)
+- Item de trabajo recién creado o actualizado (artefacto de análisis o diseño, código, o manuales entregables).
 - [Checklists de items de trabajo de Espresso](https://docs.google.com/spreadsheets/d/1n_54rAYTKQbeS7BMTjiWpKrLYeu8Y7eRPxawOJVQQbs/edit#gid=796495081) o [Checklists de items de trabajo de Frappé](https://docs.google.com/spreadsheets/d/1BTfYvNCsBmU54sY2hRHbU0hQRsxRtR4aCTtCfFbPxrI/edit#gid=796495081)
-- [Matriz de configuración Espresso](https://docs.google.com/spreadsheets/d/13zfQpqBBmqAT_znf1N4ebV_jcLBpeh_gjq9eHpkdOhk/edit#gid=1361951105) o [Matriz de configuración Frappé](https://docs.google.com/spreadsheets/d/13zfQpqBBmqAT_znf1N4ebV_jcLBpeh_gjq9eHpkdOhk/edit#gid=579763828)
-- Defect Log
+- [Matriz de configuración Espresso](https://docs.google.com/spreadsheets/d/13zfQpqBBmqAT_znf1N4ebV_jcLBpeh_gjq9eHpkdOhk/edit#gid=1361951105) o [Matriz de configuración Frappé](https://docs.google.com/spreadsheets/d/13zfQpqBBmqAT_znf1N4ebV_jcLBpeh_gjq9eHpkdOhk/edit#gid=579763828).
+- Defect Log.
 
 ## Procedimiento
 
@@ -45,7 +45,7 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
             <a href="https://drive.google.com/drive/folders/1taPaKK4cAIGSyFQELMcemIgEWR_JtF7N?usp=sharing"> Entregables_Frappé</a>.</li>
           </ul>
           </li>
-          <li>Comunicar en la junta diaria del equipo o a través del canal de slack taro-medio-camino o taro-cinica según corresponda, que el item de trabajo ha sido creado/modificado y está listo para su verificación.</li>
+          <li>Comunicar en la junta diaria del equipo o a través del canal de Slack taro-medio-camino o taro-cinica según corresponda, que el item de trabajo ha sido creado/modificado y está listo para su verificación.</li>
         </ul>
       </td>
       <td>
@@ -79,7 +79,7 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
                     <li>Actualizar la versión del item de trabajo dentro de la matriz de configuración, aumentando en una unidad el valor del número de la derecha.</li>
                     <li>Dentro de la matriz de configuración en la línea base pertinente, actualizar la última fecha de modificación de dicho item de trabajo.</li>
                   </ul>
-                <li>Comunicar al owner del item de trabajo el resultado de la verificación a través del canal de slack taro-medio-camino o taro-cinica según corresponda.</li>
+                <li>Comunicar al owner del item de trabajo el resultado de la verificación a través del canal de Slack taro-medio-camino o taro-cinica según corresponda.</li>
                 <li>El owner deberá hacer las correcciones necesarias y realizar los pasos desde el último punto de la fase de Preparación del dueño.</li>
               </ul>
           </li>
@@ -110,7 +110,7 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
         <ul align="left">
           <li>Si el item no es código, dentro de la matriz de configuración en la línea base pertinente, definir el nivel del producto de trabajo como "Estático" y actualizar la versión del mismo (aumentar una unidad el valor de la izquierda y poner en cero el valor de la derecha).</li>
           <li>Si el item es código, completar el PR haciendo el merge a dev y borrando la rama en la que se trabajaron los cambios. Basarse en la <a href="../guias/G20-guia-archivos-env">guía para realizar un pull request</a>.</li>
-          <li>Comunicar la creación/modificación exitosa del producto de trabajo, a través del canal de slack taro-cinica o taro-medio-camino según corresponda o en la daily meeting del equipo.</li>    
+          <li>Comunicar la creación/modificación exitosa del producto de trabajo, a través del canal de Slack taro-cinica o taro-medio-camino según corresponda o en la daily meeting del equipo.</li>    
         </ul>
       </td>
       <td>
@@ -141,7 +141,7 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
 
 ## Auditoría
 
-- 
+- Juan Manuel Amador Pérez
 
 ## Bitácora de cambios
 

@@ -30,7 +30,7 @@
         <ul align="left">
           <li>Discutir en pareja el estado del work item.</li>
           <li>Identificar la subtarea del work item en el que se va a trabajar.</li>
-          <li>La pareja decidirá si van a usar una herramienta colaborativa.</li>
+          <li>Decidir si se hará uso de una herramienta colaborativa.</li>
         </ul>
       </td>
       <td>
@@ -45,10 +45,10 @@
       <td>Ejecución.</td>
       <td>
         <ul align="left">
-          <li>Un miembro de la pareja realiza las acciones necesarias para completar la subtarea, mientras la otra persona dicta lo esperado de esta.</li>
+          <li>Un miembro de la pareja debe realizar las acciones necesarias para completar la subtarea, mientras la otra persona dicta lo esperado de esta.</li>
           <li>La persona que realiza las acciones narra lo que hace.</li>
-          <li>La otra persona verifica las acciones de la pareja y comunica los defectos para dar solución inmediatamente.</li>
-          <li>Si la pareja no puede resolver el defecto, este deberá ser documentado en la bitácora de defectos y se deberá comunicar al resto del equipo.</li>
+          <li>La otra persona debe verificar las acciones de la pareja y comunica los defectos para dar solución inmediatamente.</li>
+          <li>Si la pareja no puede resolver el defecto, se debe documentar en la bitácora de defectos y se debe comunicar al resto del equipo.</li>
         </ul>
       </td>
       <td>
@@ -67,7 +67,7 @@
       <td>Rotación.</td>
       <td>
         <ul align="left">
-          <li>Después de un tiempo determinado por la pareja, se intercambian los papeles. Ahora uno realiza la subtarea y la otra persona observa.</li>
+          <li>Después de un tiempo determinado por la pareja, se debe intercambiar los papeles. Ahora uno realiza la subtarea y la otra persona observa.</li>
         </ul>
       </td>
       <td>
@@ -81,7 +81,7 @@
 
 :::note
 
-Si la subtarea en la que se va a trabajar involucra escribir código, se deberá seguir la [guía para manejo de ramas](../guias/G12-guia-para-manejo-de-ramas).
+Si la subtarea en la que se va a trabajar involucra escribir código, se debe seguir la [guía para manejo de ramas](../guias/G12-guia-para-manejo-de-ramas).
 
 :::
 

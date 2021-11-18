@@ -53,7 +53,7 @@ en la misma dirección, siempre procurando su estabilidad tanto física como emo
 # Bitácora de cambios
 
 ## Versión 2.0
-  - El asset ha sido institucionalizado
+  - El asset ha sido institucionalizado.
   
 ## Versión 1.1
   - Se quita lo del tablero de Jira.

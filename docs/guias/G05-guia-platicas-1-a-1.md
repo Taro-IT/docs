@@ -10,8 +10,7 @@ Managers realicen estas pláticas al menos 1 vez a la semana con cada persona en
 - Uno de los PMs le mandará mensaje privado a los integrantes del departamento para agendar una plática 1 a 1, por lo que se debe seguir la [guía para agendar juntas](G01-guia-para-agendar-juntas).
 
 
-## Pasos a seguir
-
+## Pautas a seguir
 
 - La plática durará entre 10 y 15 minutos como máximo.
 
@@ -60,9 +59,9 @@ Las pláticas se llevarán de la siguiente forma:
 # Bitácora de cambios
 
 ## Versión 1.1 
-  - Se especificaron los pre-requisitos para las pláticas 1 a 1
-  - Se modificaron dos preguntas con errores
-  - Se aclaró cómo se les dará seguimiento a las pláticas
+  - Se especificaron los pre-requisitos para las pláticas 1 a 1.
+  - Se modificaron dos preguntas con errores.
+  - Se aclaró cómo se les dará seguimiento a las pláticas.
 
 ## Versión 1.0
-  - Se creó la guía
+  - Se creó la guía.

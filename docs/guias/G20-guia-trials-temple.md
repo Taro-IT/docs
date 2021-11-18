@@ -1,18 +1,21 @@
 # G20 - Guía para el tablero Trials of the Temple
+
 ## Objetivo(s)
-- Orientar en el uso y entendimiento del tablero **Trials of the Temple**
+- Orientar en el uso y entendimiento del tablero **Trials of the Temple**.
+
 ## Pre-requisitos
 - Contar con acceso al tablero [Trials of the Temple](https://docs.google.com/spreadsheets/d/1MZ-7gZ1iUZPbCIa3G2UtK8B-_w1ipbHrO0hJMeRTozQ/edit#gid=1760954040)
+
 ## Pasos a seguir
 
-- Accede a la [página de competencias](https://app.gladio.com.mx/).
-- Revisa el nivel de todas tus competencias de la siguiente forma: 
-    - Da clic en la sección de la página llamada `competencias`.
-    - Da clic en en nombre de la competencia para expandir la información de esta.
-    - Dentro de la información de la competencia, busca su evaluación más actual.
-    - Busca el campo de `Nivel logrado` y ahí encontrarás el nivel de esa competencia.
+- Acceder a la [página de competencias](https://app.gladio.com.mx/).
+- Revisar el nivel de todas tus competencias de la siguiente forma: 
+    - Dar clic en la sección de la página llamada `competencias`.
+    - Dar clic en en nombre de la competencia para expandir la información de esta.
+    - Dentro de la información de la competencia, buscar su evaluación más actual.
+    - Buscar el campo de `Nivel logrado` y ahí encontrarás el nivel de esa competencia.
 - En el tablero de [Trials of the Temple](https://docs.google.com/spreadsheets/d/1MZ-7gZ1iUZPbCIa3G2UtK8B-_w1ipbHrO0hJMeRTozQ/edit#gid=1760954040) busca la hoja `Entrevista y evidencias` más actual.
-- En dicha hoja, ubica tu nombre y actualiza tu nivel actual en cada competencia.
+- En dicha hoja, ubicar tu nombre y actualizar tu nivel actual en cada competencia.
 
 :::note
 
@@ -32,10 +35,14 @@ Recuerda apoyarte de los compañeros con niveles más altos en las competencias,
 
 ## Salidas
 - Tablero Trials of the Temple actualizado.
+
 ## Autores
 - Iván Díaz
+
 ## Auditoría
 - Saúl 
+
 ## Bitácora de cambios
+
 ### Versión 1.0
 - Se creó la guía

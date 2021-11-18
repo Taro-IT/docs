@@ -26,11 +26,11 @@ En caso de no contar con acceso a los calendarios se deberán seguir los pasos p
 ### Pedir acceso al calendario virtual
 
 <ol>
-<li> Ingresa a Google Calendar: Verás una pantalla parecida a esta.</li>
+<li> Ingresar a Google Calendar: Verás una pantalla parecida a esta.</li>
 
 ![image](../../static/img/guias/G01/g01-img-1.png)
 
-<li>Pasa el mouse por encima del nombre del calendario que quieres compatir y da clic en el icono de opciones (⋮). Aparecerá el siguiente menú desplegable, donde tendrás que dar clic en "Configurar y compartir".</li>
+<li>Pasar el mouse por encima del nombre del calendario que quieres compatir y da clic en el icono de opciones (⋮). Aparecerá el siguiente menú desplegable, donde tendrás que dar clic en "Configurar y compartir".</li>
 
 ![image](../../static/img/guias/G01/g01-img-3.png)
 
@@ -50,10 +50,10 @@ En caso de no contar con acceso a los calendarios se deberán seguir los pasos p
 
 ### Norma para los eventos
 
-- Se deberá poner un título descriptivo con la razón objetivo del evento.
-- Se especificará la fecha y rango de horas para el evento.
+- Poner un título descriptivo con la razón objetivo del evento.
+- Especificar la fecha y rango de horas para el evento.
 - En caso de contar con los correos de los participantes, agregarlos para poder enviar una invitación de manera automática.
-- En caso de usar una sala virtual se deberá verificar la disponibilidad de los links:
+- En caso de usar una sala virtual verificar la disponibilidad de los links:
   
 <ol><li>Taro General - https://itesm.zoom.us/j/84214225212 </li><li>Frappé -  https://itesm.zoom.us/j/84214225212
   </li><li>Espresso -  https://itesm.zoom.us/j/84321494768

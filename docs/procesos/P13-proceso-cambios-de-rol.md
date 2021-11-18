@@ -22,10 +22,10 @@
       <td>Exploración</td>
       <td>
         <ul align="left">
-          <li>Se identificará a las personas interesadas en el rol.</li>
-          <li>Las personas interesadas crearán sus objetivos en el rol de forma SMART.</li>
-          <li>Las personas interesadas enlistarán posibles <a href="https://docs.google.com/spreadsheets/d/1L_IWQMrYGR4vnJVB-YF48OHtPyNLnXWxmzz2g-aHHGM/edit?usp=sharing">riesgos</a> o impedimentos de ser asignadas en el rol.</li>
-          <li>La persona interesada hará un <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">listado de qué necesita saber</a> para desempeñarse en el rol.</li>
+          <li>Identificar a las personas interesadas en el rol.</li>
+          <li>Las personas interesadas deben crear sus objetivos en el rol de forma SMART.</li>
+          <li>Las personas interesadas deben enlistar posibles <a href="https://docs.google.com/spreadsheets/d/1L_IWQMrYGR4vnJVB-YF48OHtPyNLnXWxmzz2g-aHHGM/edit?usp=sharing">riesgos</a> o impedimentos de ser asignadas en el rol.</li>
+          <li>La persona interesada debe hacer un <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">listado de qué necesita saber</a> para desempeñarse en el rol.</li>
         </ul>
       </td>
       <td>
@@ -39,8 +39,8 @@
       <td>Asignación</td>
       <td>
         <ul align="left">
-          <li>Las personas interesadas deciden quién se queda en el rol evaluando los riesgos asociados con cada interesado.</li>
-          <li>Se notifica la asignación al resto del departamento y a los consultores.</li>
+          <li>Las personas interesadas deben decidir quién se queda en el rol evaluando los riesgos asociados con cada interesado.</li>
+          <li>Nootificar la asignación al resto del departamento y a los consultores.</li>
         </ul>
       </td>
       <td>
@@ -53,8 +53,8 @@
       <td>Preparación</td>
       <td>
         <ul align="left">
-          <li>En base a las necesidades de la persona asignada, se <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">planeará su capacitación</a> considerando las actividades de la fase de transición siguiendo el <a href="../procesos/P14-proceso-de-definicion-del-plan-inicial">proceso de definición de un plan</a>.</li>
-          <li>En caso de ser necesario, hacer modificaciones a la guía del rol, siguiendo el <a href="#">proceso para actualizar assets</a>.</li>
+          <li>En base a las necesidades de la persona asignada, se <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">planear su capacitación</a> considerando las actividades de la fase de transición siguiendo el <a href="../procesos/P14-proceso-de-definicion-del-plan-inicial">proceso de definición de un plan</a>.</li>
+          <li>En caso de ser necesario, modificar la guía del rol, siguiendo el <a href="#">proceso para actualizar assets</a>.</li>
         </ul>
       </td>
       <td>
@@ -78,9 +78,9 @@
                         <li><a href="#">Guía para Architecture Owner</a></li>
                     </ol>
                 </li>
-                <li>La persona en el rol agendará una sesión con la persona asignada para resolver dudas acerca del rol. </li>
-                <li>La persona en el rol actual acompañará a la persona asignada en un tiempo estimado de 3 a 5 días para apoyarla y guiarla en la práctica. </li>
-                <li>La persona en el rol actual dará un cierre formal de las actividades y se mantendrá al tanto de cualquier asesoría que se ocupe y la persona en el nuevo rol dejará una <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">retroalimentación</a> de la capacitación recibida.</li>
+                <li>La persona en el rol debe agendar una sesión con la persona asignada para resolver dudas acerca del rol. </li>
+                <li>La persona en el rol actual debe acompañar a la persona asignada en un tiempo estimado de 3 a 5 días para apoyarla y guiarla en la práctica. </li>
+                <li>La persona en el rol actual debe dar un cierre formal de las actividades y se mantendrá al tanto de cualquier asesoría que se ocupe y la persona en el nuevo rol dejará una <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">retroalimentación</a> de la capacitación recibida.</li>
             </ol>
       </td>
       <td>

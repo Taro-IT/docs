@@ -2,12 +2,12 @@
 
 ## Objetivo(s)
 
-* Solicitar la revisión y el merge de nuevas funcionalidades para validar que este sigue los estandares de calidad.
+* Solicitar la revisión y el merge de nuevas funcionalidades para validar que este sigue los estándares de calidad.
 
 
 ## Pre-requisitos
 
-* Contar con item de trabajo nuevo o fix de trabajo. (Revisión de codigo, nuevo feature, fix de un feature, etc. ). Siguiendo la [guia de manejo de ramas](https://taro-it.github.io/docs/guias/G12-guia-para-manejo-de-ramas).
+* Contar con item de trabajo nuevo o fix de trabajo. (Revisión de código, nuevo feature, fix de un feature, etc. ). Siguiendo la [guia de manejo de ramas](https://taro-it.github.io/docs/guias/G12-guia-para-manejo-de-ramas).
 
 
 ## Pasos a seguir
@@ -20,7 +20,7 @@
 * Navegar a new Pull Request
 ![image](../../static/img/guias/G21/2.png)
 
-* Localizar la rama a realizar merge y hacer click en la rama a solicitar pull request.
+* Localizar la rama a realizar merge y hacer clic en la rama a solicitar pull request.
 ![image](../../static/img/guias/G21/3.png)
 
 * Navegar a create Pull Request
@@ -48,7 +48,7 @@
 * Request Changes: Verificaste pero aún no esta bien definido.
 ![image](../../static/img/guias/G21/13.png)
 
-* Si tu pull request ya ha sido aprobado por los auditores, entonces se desplegaá la siguiente ventana dentro de tu pull request.
+* Si tu pull request ya ha sido aprobado por los auditores, entonces se desplegará la siguiente ventana dentro de tu pull request.
 ![image](../../static/img/guias/G21/10.png)
 
 ## Salidas
@@ -56,9 +56,10 @@
 * Registro en la bitácora de actualización si un archivo fue actualizado o creado
 
 ## Autores
-Jorge López Chávez
+- Jorge López Chávez
 
 ## Auditoría
+- Jan Limpens Gutierrez
 
 # Bitácora de cambios
 

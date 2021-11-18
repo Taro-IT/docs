@@ -2,12 +2,12 @@
 
 ## Objetivo(s)
 
-- Mantener un ambiente de tranquilidad y amistad en el departamento
-- Fortalecer la relación de los miembros involucrados en el conflicto
+- Mantener un ambiente de tranquilidad y amistad en el departamento.
+- Fortalecer la relación de los miembros involucrados en el conflicto.
 
 ## Entradas
 
-- Volación al código de ética
+- Violación al código de ética.
 
 ## Procedimiento
 
@@ -24,10 +24,10 @@
       <td>Diálogo</td>
       <td>
         <ul align="left">
-        <li>Reunirse con la persona del conflicto. Describir la situación y el sentimiento que genera</li>
-        <li>Pedir la acción concreta que se desea de la otra persona</li>
-        <li>Preguntar a la otra persona si desea una acción concreta de mi parte</li>
-        <li>Si no hay acuerdo, se puede repetir el proceso con un comité</li>
+        <li>Reunirse con la persona del conflicto. Describir la situación y el sentimiento que genera.</li>
+        <li>Pedir la acción concreta que se desea de la otra persona.</li>
+        <li>Preguntar a la otra persona si desea una acción concreta de mi parte.</li>
+        <li>Si no hay acuerdo, se puede repetir el proceso con un comité.</li>
         </ul>
       </td>
       <td>
@@ -54,7 +54,7 @@
 
 ## Auditoría
 
-- 
+- Juan Manuel Amador Pérez
 
 
 # Bitácora de cambios

@@ -1,8 +1,7 @@
 # P19 - Proceso para atender retroalimentación
 
 ## Objetivo(s)
-
-A partir de la retroalimentación recibida, identificar tareas a realizar para poder atenderla exitosamente.
+- Identificar tareas a partir de la retroalimentación para poder atender la misma de manera exitosa.
 
 ## Entradas
 
@@ -80,10 +79,7 @@ A partir de la retroalimentación recibida, identificar tareas a realizar para p
 - Jan Limpens 
 
 ## Auditoría
-
-
-- 
-
+- Adolfo Acosta Castro
 
 # Bitácora de cambios
 

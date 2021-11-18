@@ -2,12 +2,12 @@
 
 ## Objetivo(s)
 
-- Tener conocimiento de los componentes que intervienen en cada requisito y/o work item
-- Poder definir en qué estatus se encuentra cada requisito o work item
+- Tener conocimiento de los componentes que intervienen en cada requisito y/o work item.
+- Poder definir en qué estatus se encuentra cada requisito o work item.
 
 ## Entradas
 
-- requisitos
+- Requisitos
 
 ## Procedimiento
 
@@ -29,7 +29,7 @@
 - Jan Limpens
 
 ## Auditoría
-
+- Adolfo Acosta Castro
 # Bitácora de cambios
 
 ## Versión 1.0

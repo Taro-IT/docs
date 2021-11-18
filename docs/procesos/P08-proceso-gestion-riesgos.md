@@ -3,8 +3,8 @@
 
 ## Objetivo(s)
 
-1. Identificar, analizar y priorizar los riesgos para el departamento y para los equipos
-2. Tener un control y un monitoreo sobre los riesgos
+- Identificar, analizar y priorizar los riesgos para el departamento y para los equipos.
+- Tener un control y un monitoreo sobre los riesgos.
 
 ## Entradas
 

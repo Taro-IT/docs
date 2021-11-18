@@ -120,7 +120,7 @@
 ## Auditoría
 
 - Jan Limpens Gutiérrez
-- Raul Rosario Sandoval Galaviz
+- Raúl Rosario Sandoval Galaviz
 
 
 # Bitácora de cambios

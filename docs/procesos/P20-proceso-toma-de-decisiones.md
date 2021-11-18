@@ -47,12 +47,12 @@
       <td>Evaluación</td>
       <td>
         <ul align="left">
-          <li>Utilizar el canal de slack de #taro-propuestas para informar a todo el departamento de la propuesta de  decisión.</li>
+          <li>Utilizar el canal de Slack de #taro-propuestas para informar a todo el departamento de la propuesta de  decisión.</li>
           <li>Dar un tiempo de mínimo 8 horas y máximo 24 horas para escuchar cualquier opinión a favor o en contra de la decisión.</li>
             <ul>
               <li>En caso de que este periodo incluya fin de semana, postergar la decisión para el siguiente día hábil del departamento.</li>
             </ul>
-          <li>Cualquier refutación o alternativa debe ser informada respondiendo al hilo del mensaje de la propuesta de decisión.</li>
+          <li>Cualquier refutación o alternativa se debe informar respondiendo al hilo del mensaje de la propuesta de decisión.</li>
         </ul>
       </td>
       <td>
@@ -119,6 +119,7 @@
 - Eduardo Castillo
 
 ## Auditoría
+- Saúl Axel Palacios Acosta
 
 ## Bitácora de cambios
 

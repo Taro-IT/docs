@@ -8,7 +8,7 @@
 
 - Tener identificadas las áreas a evaluar.
 - Necesidad de mejora y retroalimentación en áreas definidas.
-- Petición de evaluación por parte del evaluador 
+- Petición de evaluación por parte del evaluador.
 
 <table>
   <thead>
@@ -24,7 +24,7 @@
       <td>
         <ul>
           <li>Comunicarse con el evaluador o la evaluadora para agendar fecha y hora de entrega, seguir la <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>.</li>
-          <li>Avisar por el canal de slack taro-general la fecha y hora de la entrega.</li>
+          <li>Avisar por el canal de Slack taro-general la fecha y hora de la entrega.</li>
         </ul>
       </td>
       <td rowspan="3">
@@ -64,7 +64,7 @@
       <li>Crear una copia de la <a href="https://docs.google.com/spreadsheets/d/1Hr3ab5XTAcUgdhaBFc5iaN5Qahe8IAZbLFuvvKzY0Ss/edit#gid=0">checklist de entrega de SCAMPI </a>, se deberá nombrar de la siguiente manera: [ID_ARTEFACTO_A_EVALUAR]</li>
           <li>Llenar ID, nombre del artefacto y versión.</li>
           <li>Completar la sección "Áreas del CMMI a evaluar" indicando las áreas a evaluar dentro del tablero SCAMPI y estableciendo el "Estado" de estas como "Sin verificar".</li>
-        <li>Comunicar a través del canal de slack taro-general que el tablero ha sido completado y está listo para su verificación añadiendo el enlace a la checklist creada.</li>
+        <li>Comunicar a través del canal de Slack taro-general que el tablero ha sido completado y está listo para su verificación añadiendo el enlace a la checklist creada.</li>
       </td>
       <td rowspan="2">
       <ul>
@@ -93,7 +93,7 @@
           <li>Si el área no cumple con un elemento:
           	<ul>
               <li>Agregar comentarios para detallar las observaciones.</li>
-              <li>Comunicar al departamento de las observaciones realizadas a través del canal de slack taro-general.</li>
+              <li>Comunicar al departamento de las observaciones realizadas a través del canal de Slack taro-general.</li>
               <li>Actualizar la versión del tablero dentro de la matriz de configuración, aumentando en una unidad el valor del número de la derecha.</li>
               <li>Los <a href="https://docs.google.com/spreadsheets/d/1TVphnJJ8Fs1tjc2MPeg-Vpy9lEqMeVrbBeRvzP8b-gw/edit#gid=0">responsables del área</a> deberán hacer las correcciones necesarias y comunicar que esta se ha corregido para ser verificada nuevamente.</li>
               <li>Dentro de la matriz de configuración, se debe actualizar la última fecha de modificación del tablero.</li>
@@ -111,10 +111,10 @@
       <td>
       	<ul>
           <li>Cambiar el nivel del tablero dentro de la matriz de configuración a "Estático".</li>
-          <li>Comunicar por el canal de slack taro-general que la verificación ha sido completada y que se procederá a la entrega del tablero.</li>
+          <li>Comunicar por el canal de Slack taro-general que la verificación ha sido completada y que se procederá a la entrega del tablero.</li>
           <li>Enviar el enlace del tablero al evaluador(a) para iniciar la evaluación.</li>
           <li>Agendar la fecha y hora de la sesión de retroalimentación proporcionada por el evaluador(a) dentro del calendario departamental.</li>
-          <li>Comunicar la fecha y hora de la sesión de retroalimentación al departamento por el canal de slack taro-general.</li>
+          <li>Comunicar la fecha y hora de la sesión de retroalimentación al departamento por el canal de Slack taro-general.</li>
         </ul>
       </td>
       <td rowspan="2">

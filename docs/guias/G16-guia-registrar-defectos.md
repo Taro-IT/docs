@@ -2,7 +2,7 @@
 
 ## Objetivo(s)
 
-- Orientar en el registro y trazabilidad de los defectos encontrados en los proyectos de los equipos [Espresso](https://github.com/Taro-IT/espresso/) y [Frappé](https://github.com/Taro-IT/frappe/)
+- Orientar en el registro y trazabilidad de los defectos encontrados en los proyectos de los equipos [Espresso](https://github.com/Taro-IT/espresso/) y [Frappé](https://github.com/Taro-IT/frappe/).
 
 ## Pre-requisitos
 
@@ -87,10 +87,10 @@ Finalmente, en la columna `Costo (hrs)` se debe registrar la cantidad de horas t
 # Bitácora de cambios
 
 ## Versión 2.0
-  - El asset ha sido institucionalizado
+  - El asset ha sido institucionalizado.
   
 ## Versión 1.1
-- Se actualiza el link a defect log de Espresso
+- Se actualiza el link a defect log de Espresso.
 
 ## Versión 1.0
 - Se creó el proceso.

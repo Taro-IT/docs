@@ -85,4 +85,4 @@ En un conflicto **nivel 5** se recomienda hacer lo que sea necesario para evitar
 ## Bitácora de cambios
 
 ### Versión 1.0
-- Se creó la guía como apoyo al proceso de resolución de conflictos
+- Se creó la guía como apoyo al proceso de resolución de conflictos.

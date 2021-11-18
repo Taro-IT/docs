@@ -105,10 +105,10 @@ git push origin feature/finance/invoice-payments
 # Bitácora de cambios
 
 ## Versión 1.1
-  - Se corrigen errores de ortografía
-  - Se quitan párrafos u oraciones repetitivas
+  - Se corrigen errores de ortografía.
+  - Se quitan párrafos u oraciones repetitivas.
   - Se añaden saltos de línea entre comandos para que sea más fácil de entender.
-  - Se agrega el prefijo hotfix
+  - Se agrega el prefijo hotfix.
 
 ## Versión 1.0
   - Se creó la guía.

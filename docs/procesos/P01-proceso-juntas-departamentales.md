@@ -6,7 +6,7 @@
 - Dar espacio a la modificación del plan departamental y la difusión de estos cambios.
 
 ## Entradas
-- Plan de iteración departamental, Espresso o Frappé
+- Plan de iteración departamental, Espresso o Frappé.
 
 ## Procedimiento
 <table>
@@ -19,7 +19,7 @@
     <td>1. Notificación</td>
     <td>
       <ul>
-        <li>Realizar petición de junta indicando la fecha de la misma durante la reunión de planeación de horarios departamental (reunión recurrente los días jueves de 10:45 a 11:30 agendada siguiendo la guía <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">correspondiente</a>) o a través del canal de slack taro-general.</li>
+        <li>Realizar petición de junta indicando la fecha de la misma durante la reunión de planeación de horarios departamental (reunión recurrente los días jueves de 10:45 a 11:30 agendada siguiendo la guía <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">correspondiente</a>) o a través del canal de Slack taro-general.</li>
         <li>Durante la planeación de horarios decidir el horario para dicha junta teniendo en cuenta la disponibilidad de los integrantes de Taro para garantizar la asistencia de la mayoría.</li>
       </ul>
     </td>
@@ -54,7 +54,7 @@
         <li>Llenar el campo "Asunto" especificando las razones y objetivos de la junta.</li>
         <li>Especificar la fecha, hora de inicio, hora de termino y lugar en que se realizará la junta dentro de la sección "Datos de la Reunión".</li>
         <li>Definir y enlistar los puntos a tratar durante la junta y el tiempo estimado que se tomará en cada uno de estos dentro de la sección "Agenda" dejando cinco minutos libres al inicio y término de esta para la revisión de acuerdos.</li>
-        <li>Comunicar a través del canal de slack taro-general la agenda de la junta y enlazar a la minuta para que todos los integrantes de Taro</li>
+        <li>Comunicar a través del canal de Slack taro-general la agenda de la junta y enlazar a la minuta para que todos los integrantes de Taro</li>
       </ul>
     </td>
     <td>
@@ -75,7 +75,7 @@
         <li>Revisar cada uno de los puntos definidos en la agenda, procurando tomar el tiempo previsto y pasando al siguiente punto siempre y cuando se haya concluido el actual.</li>
         <li>Formalizar los acuerdos y compromisos definidos durante la ejecución de la junta detallando cada uno dentro de la matriz siguiendo la guía correspondiente.</li>
         <li>Antes de finalizar, abrir un espacio para resolución de dudas de los integrantes de Taro.</li>
-        <li>Cerrar la junta recordando a los participantes de cumplir con sus compromisos y estar pendientes del canal de slack taro-general.</li>
+        <li>Cerrar la junta recordando a los participantes de cumplir con sus compromisos y estar pendientes del canal de Slack taro-general.</li>
       </ul>
     </td>
     <td>
