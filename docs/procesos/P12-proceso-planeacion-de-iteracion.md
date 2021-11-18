@@ -123,10 +123,10 @@
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó el proceso.
-
 ## Versión 1.1
   - Se agregó la estimación de tiempo de cada ítem de trabajo. 
+
+## Versión 1.0
+  - Se creó el proceso.
 
 

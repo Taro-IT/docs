@@ -85,6 +85,7 @@ Finalmente, en la columna `Costo (hrs)` se debe registrar la cantidad de horas t
 - Adolfo Acosta Castro
 
 # Bitácora de cambios
+
 ## Versión 2.0
   - El asset ha sido institucionalizado
   
@@ -92,5 +93,4 @@ Finalmente, en la columna `Costo (hrs)` se debe registrar la cantidad de horas t
 - Se actualiza el link a defect log de Espresso
 
 ## Versión 1.0
-
 - Se creó el proceso.

@@ -32,19 +32,17 @@ _Enlistar a las personas que revisaron la guía_
 - 
 
 ## Bitácora de cambios
-- Las version actual debe ser la que quede hasta arriba de esta sección
+- La versión actual debe ser la que quede hasta arriba de esta sección
 
 ### Versión [número de versión]
-
 - [Cambios nuevos en la versión].
 
 ```
 
 ## Bitácora de cambios
-### Versión 2.0
 
+### Versión 2.0
 - Se le agrega la bitácora de cambios a la plantilla.
 
 ### Versión 1.0
-
 - Se creó la plantilla.

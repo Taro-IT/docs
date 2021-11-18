@@ -59,12 +59,10 @@ Las pláticas se llevarán de la siguiente forma:
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó la guía
-
 ## Versión 1.1 
   - Se especificaron los pre-requisitos para las pláticas 1 a 1
   - Se modificaron dos preguntas con errores
   - Se aclaró cómo se les dará seguimiento a las pláticas
 
-
+## Versión 1.0
+  - Se creó la guía

@@ -63,14 +63,14 @@ La versión más reciente se ve así:
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó la forma de trabajo.
-
-## Versión 1.1 
-  - Dejó de ser una política a ser su propio apartado.
-  - Se corrigieron errores de ortografía.
-  
 ## Versión 1.2
   - Se actualizó la imagen del mapa de procesos.
   - Se agregó la liga para la DoD checklist.
   
+## Versión 1.1 
+  - Dejó de ser una política a ser su propio apartado.
+  - Se corrigieron errores de ortografía.
+  
+## Versión 1.0
+  - Se creó la forma de trabajo.
+

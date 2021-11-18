@@ -26,5 +26,4 @@ _Enlistar puntos de cumplimiento de la política_
 ## Bitácora de cambios
 
 ### Versión 1.0
-
 - Se creó la plantilla.

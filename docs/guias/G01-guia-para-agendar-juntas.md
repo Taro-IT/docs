@@ -87,6 +87,7 @@ En el caso de Frappé, los calendarios de disponibilidad de la semana se enviar�
 
 
 # Bitácora de cambios
+
 ## Versión 1.1
   - Se hicieron cambios en la redacción de pasos y con un lenguaje más apropiado.
   - Se cambiaron algunas imágenes para hacer más intelegible la guía.

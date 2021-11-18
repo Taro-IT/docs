@@ -51,6 +51,7 @@ en la misma dirección, siempre procurando su estabilidad tanto física como emo
 - María de los Ángeles Contreras Anaya
 
 # Bitácora de cambios
+
 ## Versión 2.0
   - El asset ha sido institucionalizado
   

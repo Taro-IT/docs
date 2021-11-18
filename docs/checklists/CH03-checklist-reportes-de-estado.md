@@ -5,5 +5,4 @@ La checklist del reporte de estado se encuentra [aquí](https://docs.google.com/
 # Bitácora de cambios
 
 ## Versión 1.0
-
 - Se creó la checklist.

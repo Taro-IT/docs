@@ -42,6 +42,7 @@ Puedes referenciarte a la [política de elementos de configuración y líneas ba
 - Adolfo Acosta Castro
 
 # Bitácora de cambios
+
 ## Versión 2.1
   - Se corrigen las entradas y salidas del proceso
   - Se corrige la versión

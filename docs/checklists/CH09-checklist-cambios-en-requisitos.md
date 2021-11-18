@@ -7,5 +7,4 @@ La checklist para documentar cambios en los requisitos de un proyecto se encuent
 # Bitácora de cambios
 
 ## Versión 1.0
-
 - Se creó la checklist.

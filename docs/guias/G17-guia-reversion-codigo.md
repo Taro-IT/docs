@@ -90,7 +90,7 @@ Si esta trabajando de manera grupal deberá llegar a un consenso antes de utiliz
 ## Versión 2.0
   - El asset ha sido institucionalizado
 
-## Versión 1.0
+## Versión 1.1
 - Se eliminan algunos párrafos para evitar ser repetitivos.
 - Se incluye como revisar el ID de un commit en GitHub.
 - Se agrega "git reset" en un párrafo.

@@ -31,8 +31,8 @@
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó el proceso.
-
 ## Versión 2.0
   - Se cambió a P32 Proceso de análisis de métricas.
+
+## Versión 1.0
+  - Se creó el proceso.

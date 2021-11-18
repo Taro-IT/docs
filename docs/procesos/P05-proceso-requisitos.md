@@ -50,15 +50,17 @@
 <li>Alonso Vladimir Salvador Camacho</li>
 <li>Mauricio Álvarez Milán</li>
 </ul>
+
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó el proceso
-## Versión 1.5
-  - Se arreglaron errores de formato
-  - Se corrigió la ortografía
+## Versión 1.2
+  - Se juntó con el proceso de identificación de necesidades.
+  - Se agregó la checklist de aceptación de requisitos.
+  - Se eliminó la liga incorrecta de una checklist en la fase 1.
   
-## Versión 1.6
-  - Se juntó con el proceso de identificación de necesidades
-  - Se agregó la checklist de aceptación de requisitos
-  - Se eliminó la liga incorrecta de una checklist en la fase 1
+## Versión 1.1
+  - Se arreglaron errores de formato.
+  - Se corrigió la ortografía.
+  
+## Versión 1.0
+  - Se creó el proceso.

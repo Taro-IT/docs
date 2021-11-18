@@ -43,6 +43,7 @@ Un WBS tiene cuatro niveles, los cuales se describen a continuación:
 - Mauricio Álvarez Milán
 
 # Bitácora de cambios
+
 ## Versión 1.1
   - Se agregó una definición de los niveles del WBS.
   - Se agregó el link a la plantilla del WBS.

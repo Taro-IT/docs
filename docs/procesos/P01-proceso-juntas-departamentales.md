@@ -120,6 +120,7 @@
 - Adolfo Acosta Castro
 
 # Bitácora de cambios
+
 ## Versión 1.3
 - Se hizo un refactor de todo el proceso
 - Se añadió el seguimiento de compromisos de Taro

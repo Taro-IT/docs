@@ -61,6 +61,7 @@ La persona que asumirá el rol de Team Leader tendrá el conocimiento necesario 
 
 
 # Bitácora de cambios
+
 ## Versión 2.0
   - El asset ha sido institucionalizado
 

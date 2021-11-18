@@ -41,6 +41,7 @@
 - Adolfo Acosta Castro
 
 # Bitácora de cambios
+
 ## Versión 1.4
 - Se agregó referencia a la plantilla de seguimiento de compromisos.
 - Se reestructuró la fase de ejecución

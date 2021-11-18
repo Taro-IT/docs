@@ -7,10 +7,8 @@ Las checklists se encuentran aquí:
 
 ## Bitácora de cambios
 
-### Versión 1.0
-
-- Se creó la checklist.
-
 ### Versión 1.1
-
 - Se incluyeron las demás checklists para tener todo en un solo excel.
+
+### Versión 1.0
+- Se creó la checklist.

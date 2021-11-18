@@ -101,5 +101,4 @@ Si la subtarea en la que se va a trabajar involucra escribir código, se deberá
 ## Bitácora de cambios
 
 ### Versión 1.0
-
 - Se creó el proceso.

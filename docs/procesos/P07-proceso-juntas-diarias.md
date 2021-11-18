@@ -53,8 +53,8 @@
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó el proceso.
-
 ## Versión 2.0
   - Se le dió un refactor al proceso.
+
+## Versión 1.0
+  - Se creó el proceso.

@@ -102,8 +102,8 @@ Association for Computer Machinery. (2018). *ACM Code of Ethics and Professional
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó el código de ética.
-
 ## Versión 1.1
   - Se creó un apartado para los autores.
+
+## Versión 1.0
+  - Se creó el código de ética.

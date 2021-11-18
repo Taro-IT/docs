@@ -132,13 +132,13 @@ Datos, gráficas, índice CPI y SPI de la iteración.
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó el proceso.
+## Versión 1.2
+  - Se cambió la salida a "retroalimentación de retrospectiva".
 
 ## Versión 1.1
-  - Se añadió el link a la matriz de retrospectives
+  - Se añadió el link a la matriz de retrospectives.
 
-## Versión 1.2
-  - Se cambió la salida a "retroalimentación de retrospectiva"
+## Versión 1.0
+  - Se creó el proceso.
 
 

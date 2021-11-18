@@ -155,6 +155,7 @@
 - Raúl Rosario Sandoval Galaviz
 
 # Bitácora de cambios
+
 ## Versión 1.2
   - Se refactorizó el proceso para incluir el tablero a la matriz de configuración, referencia al proceso de retroalimentación y una mejor definición del uso de la checklist de SCAMPI.
 

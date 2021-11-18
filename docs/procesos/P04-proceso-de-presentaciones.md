@@ -36,16 +36,16 @@
 
 ## Bitácora de cambios
 
-### Versión 1.0
-  - Se creó el proceso
+### Versión 1.2
+- Se arregla la sección de Bitácora de cambios.
+- Se agrega la checklist de presentaciones en la fase de construcción.
+- Se agregan las prácticas de PPQA 1.2 y 2.1 en la fase de construcción.
+
 ### Versión 1.1 
   - Se arreglaron errores de formato
   - Se corrigió la ortografía
   - Se corrigieron las áreas involucradas del CMMI
   - Se agregaron links correspondientes
-  
-### Versión 1.2
 
-- Se arregla la sección de Bitácora de cambios.
-- Se agrega la checklist de presentaciones en la fase de construcción.
-- Se agregan las prácticas de PPQA 1.2 y 2.1 en la fase de construcción.
+### Versión 1.0
+  - Se creó el proceso

@@ -145,19 +145,16 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
 
 ## Bitácora de cambios
 
-### Versión 1.0
-
-- Se creó el proceso
-
-### Versión 1.1
-
-- Se agregaron los links a assets necesarios
-- Se cambiaron las entradas y salidas
+### Versión 1.3
+- Se cambió el proceso para incluir la verificación de entregables e incorporar prácticas de CM.
 
 ### Versión 1.2
-
 - Se cambió el proceso para hacerlo más genérico y no sólo de revisión de código.
 
-### Versión 1.3
+### Versión 1.1
+- Se agregaron los links a assets necesarios.
+- Se cambiaron las entradas y salidas.
 
-- Se cambió el proceso para incluir la verificación de entregables e incorporar prácticas de CM.
+### Versión 1.0
+- Se creó el proceso.
+
