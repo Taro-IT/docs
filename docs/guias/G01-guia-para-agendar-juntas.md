@@ -17,61 +17,55 @@ Contar con las plantillas:
 
 :::note
 
-En caso de no contar con acceso a los calendarios se deberán seguir los pasos presentados a continuación, de lo contrario ir a la sección "Norma para los eventos"
+En caso de no contar con acceso a los calendarios se deberán seguir los pasos presentados a continuación, de lo contrario ir a la sección "Norma para los eventos".
 
 :::
 
 ## Pasos a seguir
 
-### Pedir acceso al calendario Virtual
-
-En caso de no contar con acceso al calendario puedes seguir estos pasos para obtener tu acceso
+### Pedir acceso al calendario virtual
 
 <ol>
-<li> Ingresa a Google Calendar: Verás una pantalla parecida a esta</li>
+<li> Ingresar a Google Calendar: Verás una pantalla parecida a esta.</li>
 
 ![image](../../static/img/guias/G01/g01-img-1.png)
 
-<li>Selecciona el Calendario que deseas compartir, te aparecerá una palomita y el calendario desplegará los eventos actuales</li>
-
-![image](../../static/img/guias/G01/g01-img-2.png)
-
-<li>Dar clic en los tres puntitos, aparecerá el siguiente menú desplegable, donde tendrás que dar clic en "Configurar y compartir"</li>
+<li>Pasar el mouse por encima del nombre del calendario que quieres compatir y da clic en el icono de opciones (⋮). Aparecerá el siguiente menú desplegable, donde tendrás que dar clic en "Configurar y compartir".</li>
 
 ![image](../../static/img/guias/G01/g01-img-3.png)
 
-<li>Aparecerá la siguiente pantalla, aquí podrás editar y configurar todos los aspectos del calendario</li>
+<li>En la pantalla "Configuración", navegar a la sección "Compartir con determinadas personas" y dar clic en el botón "+ Añadir personas".</li>
 
-![image](../../static/img/guias/G01/g01-img-4.png)
+![image](../../static/img/guias/G01/G01_addpeople.png)
 
-<li>Deberás buscar el siguiente botón con nombre "Añadir Persona"</li>
-
-![image](../../static/img/guias/G01/g01-img-5.png)
-
-<li>Ahi, seleccionarás y escribirás el correo al cual quieres que le llegue y los permisos que se le otorgarán ya sean solo de vista de espacios libres, vista general, edición de eventos o edición de eventos + uso compartido   </li>
+<li>En el modal de "Compartir con determinadas personas", ingresar el correo del usuario o usuarios con quién quieres compartir el calendario y seleccionar del dropdown los permisos que se le otorgarán a estos. </li>
 
 ![image](../../static/img/guias/G01/g01-img-6.png)
+
+<li>Dar clic en el botón de "Enviar", aparecerá un mensaje al pie de la ventana "Se han guardado las opciones para compartir."</li>
+
+![image](../../static/img/guias/G01/G01_enviar.png)
 
 </ol>
 
 ### Norma para los eventos
 
-- Se deberá poner un título descriptivo con la razón objetivo del evento
-- Se especificará la fecha y rango de horas para el evento
-- En caso de contar con los correos de los participantes, agregarlos para poder enviar una invitación de manera automática
-- En caso de usar una sala virtual se deberá  verificar la disponibilidad de los links:
+- Poner un título descriptivo con la razón objetivo del evento.
+- Especificar la fecha y rango de horas para el evento.
+- En caso de contar con los correos de los participantes, agregarlos para poder enviar una invitación de manera automática.
+- En caso de usar una sala virtual verificar la disponibilidad de los links:
   
-<ol><li>Taro General - https://itesm.zoom.us/j/84214225212 </li><li>Frappe -  https://itesm.zoom.us/j/84214225212
+<ol><li>Taro General - https://itesm.zoom.us/j/84214225212 </li><li>Frappé -  https://itesm.zoom.us/j/84214225212
   </li><li>Espresso -  https://itesm.zoom.us/j/84321494768
   </li></ol>
 
-- Agregar una descripción y los puntos claves a tocar en ese evento en la sección "Descripción"
-- Seleccionar el Calendario virtual en el que se colocará, ya sea Taro, Cínica o Medio Camino
-- Opcionalmente se puede agregar una notificación de recordatorio
+- Agregar una descripción y los puntos claves a tocar en ese evento en la sección "Descripción".
+- Seleccionar el calendario virtual en el que se colocará, ya sea Taro, Cínica o Medio Camino.
+- Opcionalmente se puede agregar una notificación de recordatorio.
 
 :::note
 
-En el caso de Frappé, los calendarios de disponibilidad de la semana se enviaran el domingo previo a la semana de trabajo.
+En el caso de Frappé, los calendarios de disponibilidad de la semana se enviarán el domingo previo a la semana de trabajo.
 
 :::
 
@@ -93,6 +87,11 @@ En el caso de Frappé, los calendarios de disponibilidad de la semana se enviara
 
 
 # Bitácora de cambios
+
+## Versión 1.1
+  - Se hicieron cambios en la redacción de pasos y con un lenguaje más apropiado.
+  - Se cambiaron algunas imágenes para hacer más intelegible la guía.
+  - Se corrigieron errores de ortografía.
 
 ## Versión 1.0
   - Se creó la guía.

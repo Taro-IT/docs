@@ -33,10 +33,10 @@
 <p>De tal forma que Taro mantenga un estándar, la forma de trabajo para los proyectos se dará de la siguiente manera:</p>
 
 - Tener [juntas de coordinación diarias](./procesos/P07-proceso-juntas-diarias) las cuales permitirán al equipo actualizar el estado del proyecto y poder mejorar la forma de trabajo, se pueden utilizar las preguntas guía para identificar puntos importantes (¿Dónde estamos?¿Dónde deberíamos estar?¿Cuánto nos ha costado?).
-- La [gestión](./procesos/P11-proceso-de-trazabilidad-de-requerimiento) y [toma de requisitos](./procesos/P05-proceso-requisitos) de un proyecto deberá estar definida, incluyendo un control de cambios de los mismos en donde se pueda mantener la trazabilidad.
+- La [gestión](./procesos/P10-proceso-de-trazabilidad-de-requerimiento) y [toma de requisitos](./procesos/P05-proceso-requisitos) de un proyecto deberá estar definida, incluyendo un control de cambios de los mismos en donde se pueda mantener la trazabilidad.
 - Realizar inspecciones de código frecuentes para asegurarse que la implementación cumpla con los estándares establecidos por el equipo, y encontrar defectos para que puedan ser corregidos y mitigados.
 - [Definir correctamente el WBS](./guias/G07-guia-wbs) y actualizarlo constantemente para poder
-- Definir los [criterios para finalizar](./checklists/CH04-definition-of-done) un requisito funcional, para tener claro lo que se tiene que cumplir antes de dar por terminado un requisito.
+- Definir los [criterios para finalizar](./checklists/CH04-checklist-definition-of-done) un requisito funcional, para tener claro lo que se tiene que cumplir antes de dar por terminado un requisito.
 
 
 
@@ -63,14 +63,14 @@ La versión más reciente se ve así:
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó la forma de trabajo.
-
-## Versión 1.1 
-  - Dejó de ser una política a ser su propio apartado.
-  - Se corrigieron errores de ortografía.
-  
 ## Versión 1.2
   - Se actualizó la imagen del mapa de procesos.
   - Se agregó la liga para la DoD checklist.
   
+## Versión 1.1 
+  - Dejó de ser una política a ser su propio apartado.
+  - Se corrigieron errores de ortografía.
+  
+## Versión 1.0
+  - Se creó la forma de trabajo.
+
