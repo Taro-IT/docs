@@ -6,7 +6,7 @@
 
 ## Pre-requisitos
 
-- N/A
+- Un interesado en tomar el rol
 
 ### Descripción del rol
 
@@ -62,7 +62,11 @@ La persona que asumirá el rol de Team Leader tendrá el conocimiento necesario 
 
 # Bitácora de cambios
 
+## Versión 2.0
+  - El asset ha sido institucionalizado.
+
+## Versión 1.1
+  - Se hizo un refactor para incluir recomendaciones y tareas diarias de un Team Leader.
+
 ## Versión 1.0
   - Se creó la guía.
-## Versión 1.1
-  - Se hizo un refactor para incluir recomendaciones y tareas diarias de un Team Leader

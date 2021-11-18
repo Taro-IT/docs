@@ -5,5 +5,4 @@ La plantilla de seguimiento de compromisos se encuentra [aquí](https://docs.goo
 ## Bitácora de cambios
 
 ### Versión 1.0
-
 - Se creó la plantilla 

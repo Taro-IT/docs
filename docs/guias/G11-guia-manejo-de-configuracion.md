@@ -8,8 +8,6 @@
 
 - Existe al menos algún artefacto.
 
-## Pasos a seguir
-
 ### ¿Cómo manejar la configuración?
 
 El manejo de configuración dentro de Taro nos permite mantener consistencia en los artefactos y los cambios que sufren, de tal forma que sea visible y accesible la evolución de nuestro trabajo para todos los miembros del departamento. 

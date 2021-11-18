@@ -6,7 +6,7 @@
 
 ## Pre-requisitos
 
-- N/A
+- Un interesado en tomar el rol
 
 ### Descripción del rol
 
@@ -54,11 +54,15 @@ La persona que asumirá el rol de Product Owner tendrá el conocimiento necesari
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó la guía
+## Versión 2.0
+  - El asset ha sido institucionalizado.
 
 ## Versión 1.1 
-  - Se arreglaron errores de ortografía
+  - Se arreglaron errores de ortografía.
+
+## Versión 1.0
+  - Se creó la guía.
+
   
 
 

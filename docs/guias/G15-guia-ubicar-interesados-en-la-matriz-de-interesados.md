@@ -3,7 +3,7 @@
 
 ## Objetivo(s)
 
-Ubicar dentro de tu matriz de interesados a los involucrados de un plan 
+- Ubicar dentro de tu matriz de interesados a los involucrados de un plan.
 
 ## Pre-requisitos
 
@@ -29,7 +29,6 @@ Ubicar dentro de tu matriz de interesados a los involucrados de un plan
 - Raúl Rosario Galaviz
 
 ## Auditoría
-
 
 - 
 
