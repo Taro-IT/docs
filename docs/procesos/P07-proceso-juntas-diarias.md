@@ -9,7 +9,7 @@
 ## Entradas
 
 - La junta diaria agendada siguiendo el [proceso de juntas](https://taro-it.github.io/docs/procesos/P01-proceso-juntas-departamentales).
-- Las tareas en la herramienta de seguimiento designadas durante la [planificación de la iteración](https://taro-it.github.io/docs/procesos/P15-proceso-planeacion-de-iteracion).
+- Las tareas en la herramienta de seguimiento designadas durante la [planificación de la iteración](https://taro-it.github.io/docs/procesos/P12-proceso-planeacion-de-iteracion).
 
 ## Procedimiento
 
