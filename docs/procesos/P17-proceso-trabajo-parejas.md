@@ -9,7 +9,7 @@
 
 ## Entradas
 
-- Work item definido en el [plan de la iteración](./P15-proceso-planeacion-de-iteracion).
+- Work item definido en el [plan de la iteración](./P12-proceso-planeacion-de-iteracion).
 - Pareja definida y plan actualizado en la [junta de coordinación diaria](./P07-proceso-juntas-diarias).
 
 ## Procedimiento
@@ -87,7 +87,7 @@ Si la subtarea en la que se va a trabajar involucra escribir código, se debe se
 
 ## Salidas
 
-- Subtarea lista para seguir el [proceso de revisión](P31-proceso-revision-codigo).
+- Subtarea lista para seguir el [proceso de revisión](P21-proceso-verificacion-items).
 
 ## Autores
 

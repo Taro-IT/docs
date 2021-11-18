@@ -53,7 +53,7 @@
       <td>Preparación</td>
       <td>
         <ul align="left">
-          <li>En base a las necesidades de la persona asignada, se <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">planear su capacitación</a> considerando las actividades de la fase de transición siguiendo el <a href="../procesos/P14-proceso-de-definicion-del-plan-inicial">proceso de definición de un plan</a>.</li>
+          <li>En base a las necesidades de la persona asignada, se <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">planear su capacitación</a> considerando las actividades de la fase de transición siguiendo el <a href="../procesos/P11-proceso-de-definicion-del-plan-inicial">proceso de definición de un plan</a>.</li>
           <li>En caso de ser necesario, modificar la guía del rol, siguiendo el <a href="#">proceso para actualizar assets</a>.</li>
         </ul>
       </td>
