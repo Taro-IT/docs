@@ -1,4 +1,4 @@
-# G23 - Guía para el tablero Trials of the Temple
+# G20 - Guía para el tablero Trials of the Temple
 ## Objetivo(s)
 - Orientar en el uso y entendimiento del tablero **Trials of the Temple**
 ## Pre-requisitos

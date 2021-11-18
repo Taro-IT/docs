@@ -1,4 +1,4 @@
-# G27 - Guía para llenar la matriz de compromisos
+# G22 - Guía para llenar la matriz de compromisos
 
 ## Objetivo(s)
 

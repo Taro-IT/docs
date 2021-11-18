@@ -1,4 +1,4 @@
-# PL03 - Plantilla para Procesos
+# PL03 - Plantilla para procesos
 
 ```markdown
 

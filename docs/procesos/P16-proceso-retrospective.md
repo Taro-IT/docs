@@ -1,4 +1,4 @@
-# P20 - Proceso para una retrospectiva de la iteración
+# P16 - Proceso para una retrospectiva de la iteración
 
 ## Objetivo(s)
 - Reflexionar sobre las decisiones y prácticas que se realizaron en la iteración .

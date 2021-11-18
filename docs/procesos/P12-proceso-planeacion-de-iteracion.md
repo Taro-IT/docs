@@ -1,4 +1,4 @@
-# P15 - Proceso de planificación de iteración
+# P12 - Proceso de planificación de iteración
 
 ## Objetivo(s)
 

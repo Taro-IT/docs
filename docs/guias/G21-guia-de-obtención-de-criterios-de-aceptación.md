@@ -1,4 +1,4 @@
-# G24 - Guía de definicion de criterios de aceptación
+# G21 - Guía de definicion de criterios de aceptación
 
 ## Objetivo(s)
 

@@ -1,4 +1,4 @@
-# G17 - Guía para Defect Log
+# G16 - Guía para registrar defectos
 
 ## Objetivo(s)
 

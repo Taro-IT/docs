@@ -1,4 +1,4 @@
-# G03 - Guía para Revisar Assets para la Wiki
+# G03 - Guía para revisar assets para la wiki
 
 ## Objetivo(s)
 

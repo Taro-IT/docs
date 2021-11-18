@@ -1,4 +1,4 @@
-# G02 - Guía para la Definición de Assets
+# G02 - Guía para la definición de assets
 
 ## Objetivo(s)
 

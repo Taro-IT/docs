@@ -1,4 +1,4 @@
-# P11 - Proceso de trazabilidad de requisito
+# P10 - Proceso de trazabilidad de requisito
 
 ## Objetivo(s)
 

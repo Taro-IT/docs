@@ -1,4 +1,4 @@
-# PL14 - Plantilla para Políticas
+# PL15 - Plantilla para políticas
 
 ```markdown
 # POL[# de política] - Política <título de la política>

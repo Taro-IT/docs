@@ -1,4 +1,4 @@
-# P24 - Proceso de resolución de conflictos
+# P18 - Proceso de resolución de conflictos
 
 ## Objetivo(s)
 

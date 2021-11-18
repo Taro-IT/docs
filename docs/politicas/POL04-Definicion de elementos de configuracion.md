@@ -1,4 +1,4 @@
-# POL04 - Elementos de configuración y líneas base.
+# POL04 - Políticas para los elementos de configuración y líneas base.
 
 ## Objetivo(s)
 

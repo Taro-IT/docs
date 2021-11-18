@@ -1,5 +1,5 @@
 
-# P30 - Proceso de toma de decisiones
+# P20 - Proceso de toma de decisiones
 
 ## Objetivo(s)
 

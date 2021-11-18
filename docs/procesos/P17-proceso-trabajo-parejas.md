@@ -1,5 +1,5 @@
 
-# P23 - Proceso de Trabajo en Parejas
+# P17 - Proceso de trabajo en parejas
 
 ## Objetivo(s)
 

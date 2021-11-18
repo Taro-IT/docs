@@ -1,4 +1,4 @@
-# G18 - Guía de reversión de código
+# G17 - Guía de reversión de código
 
 ## Objetivo(s)
 
