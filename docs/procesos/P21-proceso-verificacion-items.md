@@ -109,7 +109,7 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
       <td>
         <ul align="left">
           <li>Si el item no es código, dentro de la matriz de configuración en la línea base pertinente, definir el nivel del producto de trabajo como "Estático" y actualizar la versión del mismo (aumentar una unidad el valor de la izquierda y poner en cero el valor de la derecha).</li>
-          <li>Si el item es código, completar el PR haciendo el merge a dev y borrando la rama en la que se trabajaron los cambios. Basarse en la <a href="../guias/G20-guia-archivos-env">guía para realizar un pull request</a>.</li>
+          <li>Si el item es código, completar el PR haciendo el merge a dev y borrando la rama en la que se trabajaron los cambios. Basarse en la <a href="../guias/G23-guia-archivos-env">guía para realizar un pull request</a>.</li>
           <li>Comunicar la creación/modificación exitosa del producto de trabajo, a través del canal de Slack taro-cinica o taro-medio-camino según corresponda o en la daily meeting del equipo.</li>    
         </ul>
       </td>

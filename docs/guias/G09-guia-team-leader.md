@@ -24,7 +24,7 @@ Dentro de las responsabilidades de un TL están las siguientes:
   
 Dentro de las tareas generales de un TL están las siguientes:
 
-- Moderar las juntas de trabajo ([planificación de iteración](../procesos/P15-proceso-planeacion-de-iteracion), [daily meetings](../procesos/P07-proceso-juntas-diarias), [retrospectiva de iteración](../procesos/P20-proceso-retrospective)).
+- Moderar las juntas de trabajo ([planificación de iteración](../procesos/P12-proceso-planeacion-de-iteracion), [daily meetings](../procesos/P07-proceso-juntas-diarias), [retrospectiva de iteración](../procesos/P16-proceso-retrospective)).
 - Conocer y monitorear el estado de las tareas de cada iteración.
 - Planear la agenda de las juntas del equipo.
 - Conocer la disponibilidad de trabajo del equipo.

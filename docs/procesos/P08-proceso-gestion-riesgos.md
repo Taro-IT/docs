@@ -8,7 +8,7 @@
 
 ## Entradas
 
-- Riesgo no gestionado identificado en la [definición de un plan](./P11-proceso-de-definicion-del-plan-inicial), o en la [retrospectiva de la iteración](./P20-proceso-retrospective).
+- Riesgo no gestionado identificado en la [definición de un plan](./P11-proceso-de-definicion-del-plan-inicial), o en la [retrospectiva de la iteración](./P16-proceso-retrospective).
 
 ## Procedimiento
 
@@ -24,7 +24,7 @@
 ## Salidas
 
 - Ítems de trabajo de los riesgos de mayor prioridad.
-- En caso de exceder la magnitud 6, salen ítems de trabajo para contemplar en el [plan de la iteración](../P12-proceso-planeacion-de-iteracion).
+- En caso de exceder la magnitud 6, salen ítems de trabajo para contemplar en el [plan de la iteración](./P12-proceso-planeacion-de-iteracion).
 
 ## Autores
 
