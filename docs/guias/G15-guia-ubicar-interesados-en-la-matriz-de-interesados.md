@@ -32,7 +32,7 @@ Por cada interesado hay que detallar todas las formas de comunicación que se te
 - Por cada herramienta, listar la forma en la que la comunicación tiene lugar, como puede ser las menciones y reacciones, si aplica.
 - Definir los horarios en los cuales es posible comunicarse con los interesados.
 
-Se puede usar la siguiente [plantilla]().
+Se puede usar la siguiente [plantilla](../plantillas/PL16-plantilla-para-plan-comunicacion).
 
 ## Salidas
 
