@@ -1,4 +1,4 @@
-# P11 - Proceso de definición de un plan
+# P11 - Proceso de definición de un plan.
 
 ## Objetivo(s)
 
@@ -27,7 +27,7 @@
       <td>
         <ul align="left">
           <li>Definir un ciclo de vida para el plan, usando la guía. </li>
-          <li>Como marca la <a href="..//docs/politicas/POL06-gestion-conocimiento">Política para la gestión del conocimiento</a>:
+          <li>Como marca la <a href="../politicas/POL06-gestion-conocimiento">Política para la gestión del conocimiento</a>:
             <ul>
               <li>Hacer un inventario de habilidades para conocer las habilidades disponibles.</li>
               <li>Hacer un  <a href="https://docs.google.com/spreadsheets/d/1MZ-7gZ1iUZPbCIa3G2UtK8B-_w1ipbHrO0hJMeRTozQ/edit#gid=1760954040">inventario de las competencias</a>.</li>
@@ -52,14 +52,12 @@
       <td>
         <ul align="left">
           <li>Proponer una solución. </li>
-          <li>Definir el WBS del plan <a href="../guias/G07-guia-wbs">(guía)</a>.</li>
+          <li>Definir el <a href="../guias/G07-guia-wbs">WBS</a> del plan.</li>
           <li>Realizar la <a href="../procesos/P08-proceso-gestion-riesgos">gestión de riesgos</a>.</li>
-          <li>Definir la estimación de cada work item <a href="../guias/G22-guia-para-estimar-workitem">(Usar la guía)</a>.</li>
           <li>Identificar la disponibilidad de los miembros del plan.</li>
-          <li>Basándose en la disponibilidad identificada, el WBS, y la estimación de los work items, definir cuántas tareas se lograrán en el plan.</li>
-          <li>Estimar el calendario del plan.</li>
+          <li>Realizar la <a href="../guias/G19-guia-para-estimar-workitem">estimación de cada work item</a>.</li>
+          <li>Asegurarse de que el plan se puede cumplir en costo, alcance, fecha y calidad con la disponibilidad identificada, el WBS y la estimación de los work items.</li>
           <li>Definir los hitos del plan.</li>
-          <li>Documentar la estimación. </li>
         </ul>
       </td>
       <td>
@@ -76,7 +74,7 @@
       <td>3. Solución</td>
       <td>
         <ul align="left">
-          <li>Prioriza las historias de usuario con base en las necesidades del stakeholder y el valor que le aportarán.</li>
+          <li>Identificar los work items que bloquean a otros work items y asignar una prioridad mayor.</li>
           <li>Obtener compromiso de todos los interesados.</li>
           <li>Verificar la solución.</li> 
         </ul>
