@@ -10,16 +10,18 @@
 
 ## Pasos a seguir
 
+Utilizando la plantilla del [plan de comunicación](../plantillas/PL16-plantilla-para-plan-comunicacion) se deberá de realizar lo siguiente:
+
 ### Identificar a los interesados en la matriz
 
 Un interesado, también llamado stakeholder, son personas o entidades que tienen algún tipo de interés en el proyecto y que pueden afectar o ser afectadas por este. Este paso involucra:
 
 - Identificar a los interesados en el plan.
-- Identificar a los interesados en la siguiente matriz de interesados, en cuestión de su poder e interés sobre el plan.
+- Identificar a los interesados en la siguiente matriz de interesados, con respecto al poder e interés que estos tienen sobre el plan.
 
 ![Matriz de interesados vacía](../../static/img/guias/G15/matrizInteresados.png)
 
-- Usar símbolos o nombres para identificar a cada interesado dentro de esta matriz, por ejemplo:
+- Poner los nombres de cada interesado en el lugar que corresponda dentro de la matriz, por ejemplo:
 
 ![Matriz de interesados](../../static/img/guias/G15/matrizEjemplo.png)
 
@@ -32,8 +34,6 @@ Por cada interesado hay que detallar todas las formas de comunicación que se te
 - Por cada herramienta, listar la forma en la que la comunicación tiene lugar, como puede ser las menciones y reacciones, si aplica.
 - Definir los horarios en los cuales es posible comunicarse con los interesados.
 
-Se puede usar la siguiente [plantilla](../plantillas/PL16-plantilla-para-plan-comunicacion).
-
 ## Salidas
 
 - Plan de comunicación.
@@ -45,7 +45,8 @@ Se puede usar la siguiente [plantilla](../plantillas/PL16-plantilla-para-plan-co
 
 ## Auditoría
 
-- 
+- María de los Ángeles Contreras Anaya.
+- Adolfo Acosta Castro
 
 # Bitácora de cambios
 
