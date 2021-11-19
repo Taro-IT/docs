@@ -1,4 +1,4 @@
-# G03 - Guía para Revisar Assets para la Wiki
+# G03 - Guía para revisar assets para la wiki
 
 ## Objetivo(s)
 
@@ -9,8 +9,6 @@
 - El pull request del asset debe estar en la columna **In Review** en el tablero de la Documentación WIKI.
   ![Columna In Review del tablero](../../static/img/guias/G03/in-review-column.png)
 
-## Pasos a seguir
-
 ### Flujo para hacer la revisión
 
 1. En la tab **Pull requests** usar el filtro `review-requested:USERNAME` para localizar rápidamente los pull requests que requieren revisión.
@@ -19,7 +17,7 @@
 
 :::note
 
-Esta búsqueda también regresara aquellas revisiones que sean asignadas tanto al usuario específico como a un equipo.
+Esta búsqueda también regresará aquellas revisiones que sean asignadas tanto al usuario específico como a un equipo.
 
 ![Filtro review-requested](../../static/img/guias/G03/reviewers.png)
 
@@ -61,7 +59,7 @@ No todos los archivos se podrán ver o tendrán cambios que requieran revisión.
 
 :::
 
-6. Cuando hayas terminado tu revisión, haz clic en **Review changes**, deja algún comentario general de tu revisión, selecciona el tipo de revisión que quieres dejar y da clic en **Submit review**.
+6. Cuando hayas terminado tu revisión, dar clic en **Review changes**, deja algún comentario general de tu revisión, selecciona el tipo de revisión que quieres dejar y da clic en **Submit review**.
 
    ![Submit review](../../static/img/guias/G03/submit-review.png)
 

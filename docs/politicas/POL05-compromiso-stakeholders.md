@@ -1,4 +1,4 @@
-# POL05 - Política para el manejo de compromisos con stakeholders
+# POL05 - Políticas para el manejo de compromisos con stakeholders
 
 
 ### Objetivo:

@@ -91,7 +91,7 @@ git pull dev
 git push origin feature/finance/invoice-payments 
 </pre></code>   
 
-- Seguir la [guía para realizar un pull request](https://taro-it.github.io/docs/guias/G20-guia-archivos-env).
+- Seguir la [guía para realizar un pull request](https://taro-it.github.io/docs/guias/G23-guia-archivos-env).
 
 - Una vez aprobado el pull request, eliminar la rama local sobre la que se estaba trabajando desde la UI de GitHub.
 
@@ -105,10 +105,10 @@ git push origin feature/finance/invoice-payments
 # Bitácora de cambios
 
 ## Versión 1.1
-  - Se corrigen errores de ortografía
-  - Se quitan párrafos u oraciones repetitivas
+  - Se corrigen errores de ortografía.
+  - Se quitan párrafos u oraciones repetitivas.
   - Se añaden saltos de línea entre comandos para que sea más fácil de entender.
-  - Se agrega el prefijo hotfix
+  - Se agrega el prefijo hotfix.
 
 ## Versión 1.0
   - Se creó la guía.
