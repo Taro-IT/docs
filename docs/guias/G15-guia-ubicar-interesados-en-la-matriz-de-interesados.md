@@ -12,14 +12,14 @@
 
 ### Identificar a los interesados en la matriz
 
-Un interesado, también llamado Stakeholder, son personas o entidades con quienes el proyecto tiene algún tipo de relación como puedan ser actividades y relaciones.
+Un interesado, también llamado stakeholder, son personas o entidades que tienen algún tipo de interés en el proyecto y que pueden afectar o ser afectadas por este. Este paso involucra:
 
-- Identificar a los interesados.
-- Identificar los 4 cuadrantes de la matriz de interesados:
+- Identificar a los interesados en el plan.
+- Identificar a los interesados en la siguiente matriz de interesados, en cuestión de su poder e interés sobre el plan.
 
-![Matriz de interesados vacía](..//../static/img/guias/G15/matrizInteresados.png)
+![Matriz de interesados vacía](../../static/img/guias/G15/matrizInteresados.png)
 
-- Usar símbolos o nombres para identificar a cada interesado dentro de esta matriz. Dependiendo de su Poder e Interés sobre el plan.
+- Usar símbolos o nombres para identificar a cada interesado dentro de esta matriz, por ejemplo:
 
 ![Matriz de interesados](../../static/img/guias/G15/matrizEjemplo.png)
 
@@ -30,7 +30,9 @@ Por cada interesado hay que detallar todas las formas de comunicación que se te
 - Listar todas las herramientas de comunicación que se tendrá con el interesado.
 - Por cada herramienta, listar todos los canales que existen y su propósito, si aplica.
 - Por cada herramienta, listar la forma en la que la comunicación tiene lugar, como puede ser las menciones y reacciones, si aplica.
-- Definir los horarios en las cuales es posible tener la comunicación.
+- Definir los horarios en los cuales es posible comunicarse con los interesados.
+
+Se puede usar la siguiente [plantilla]().
 
 ## Salidas
 
@@ -43,15 +45,13 @@ Por cada interesado hay que detallar todas las formas de comunicación que se te
 
 ## Auditoría
 
--
+- 
 
 # Bitácora de cambios
 
 ## Versión 2.0
-
 - Se cambió el propósito de la guía para realizar un plan de comunicación.
 - Se arregló el formato.
 
 ## Versión 1.0
-
 - Se creó la guía.
