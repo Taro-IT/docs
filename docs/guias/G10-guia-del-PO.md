@@ -53,14 +53,15 @@ La persona que asumirá el rol de Product Owner tendrá el conocimiento necesari
 - Jan Limpens 
 
 # Bitácora de cambios
+
 ## Versión 2.0
-  - El asset ha sido institucionalizado
+  - El asset ha sido institucionalizado.
 
 ## Versión 1.1 
-  - Se arreglaron errores de ortografía
+  - Se arreglaron errores de ortografía.
 
 ## Versión 1.0
-  - Se creó la guía
+  - Se creó la guía.
 
   
 

@@ -2,15 +2,13 @@
 
 ## Objetivo(s)
 
-Identificar situaciones que pueden suponer riesgos para los proyectos del departamento
+- Identificar situaciones que pueden suponer riesgos para los proyectos del departamento.
 
 ## Pre-requisitos
 
 Revisar la Matriz de riesgos
 
-## Pasos a seguir
-
-¿Cómo identificar un riesgo?
+## ¿Cómo identificar un riesgo?
 
 Un riesgo es aquel problema que pueda producir un contratiempo en alguna de las siguientes áreas:
 
