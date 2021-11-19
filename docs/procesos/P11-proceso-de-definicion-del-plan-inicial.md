@@ -26,7 +26,7 @@
       <td>1. Inicio</td>
       <td>
         <ul align="left">
-          <li>Definir un ciclo de vida para el plan, usando la guía. </li>
+          <li>Definir un <a href="../guias/G25-guia-ciclos-vida">ciclo de vida</a> para el plan.</li>
           <li>Como marca la <a href="../politicas/POL06-gestion-conocimiento">Política para la gestión del conocimiento</a>:
             <ul>
               <li>Hacer un inventario de habilidades para conocer las habilidades disponibles.</li>
@@ -107,11 +107,13 @@
 # Bitácora de cambios
 
 ## Versión 2.0
-
 - Añadir paso de estimación.
 - Quitar referencias a plantillas obsoletas.
 - Referenciar plantillas de planes departamentales, personales y de equipo.
+- Se agregó paso para realizar Plan de comunicación.
+- Se agregó paso para realizar un Plan de conocimientos.
+- Se referenció la guía para estimar un work item.
+- Se referenció la guía para elegir un ciclo de vida.
 
 ## Versión 1.0
-
 - Se creó el proceso.
