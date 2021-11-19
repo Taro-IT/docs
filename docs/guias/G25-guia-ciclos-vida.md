@@ -6,7 +6,7 @@
 
 ## Pre-requisitos
 
-- Proyecto de desarrollo nuevo
+- Proyecto de desarrollo nuevo.
 
 ## ¿Qué es un ciclo de vida?
 Un ciclo de vida de entrega de soluciones en un proyecto de software es un marco de referencia que describe el proceso que se sigue para producir una solución de forma sistemática y con un alto nivel de calidad. Cada ciclo de vida en general comprende las siguientes etapas:
@@ -21,7 +21,7 @@ Un ciclo de vida de entrega de soluciones en un proyecto de software es un marco
 En Taro utilizamos para nuestros proyectos los ciclos de vida de Disciplined Agile Delivery, los cuales se resumen a continuación. Checa las referencias incluidas en esta guía para encontrar más información sobre los ciclos de vida de DAD.
 
 ### Agile
-Se producen soluciones consumibles traves de iteraciones cortas, también conocidas como sprints. Está basado en Scrum.
+Se producen soluciones consumibles a través de iteraciones cortas, también conocidas como sprints. Está basado en Scrum.
 
 ### Continuous Delivery Agile
 Es una evolución de Agile, se trabaja en iteraciones muy cortas y al final de cada una de ellas se despliega la solución a producción gracias a prácticas de CI/CD.
@@ -40,10 +40,10 @@ Se utiliza cuando se manejan un equipo grande que está organizado como un equip
 
 ## ¿Como se escoge el ciclo de vida para un proyecto?
 
-Para escoger un ciclo de vida se debe entender el contexto único del proyecto a punto de realizarse. Algunos de los factores mas importantes a tener en cuenta son: 
-- Las habilidades y disciplina del equipo
-- La cultura y flexibilidad del equipo
-- La naturaleza del problema y su facilidad para ser descompuesto en incrementos
+Para escoger un ciclo de vida se debe entender el contexto único del proyecto a punto de realizarse. Algunos de los factores más importantes a tener en cuenta son: 
+- Las habilidades y disciplina del equipo.
+- La cultura y flexibilidad del equipo.
+- La naturaleza del problema y su facilidad para ser descompuesto en incrementos.
 
 
 El siguiente diagrama de decisiones indica algunas principales consideraciones para escoger un ciclo de vida:
@@ -57,7 +57,7 @@ El siguiente diagrama de decisiones indica algunas principales consideraciones p
 
 ## Salidas
 
-- Elección de ciclo de vida
+- Elección de ciclo de vida.
 
 ## Autores
 
@@ -65,12 +65,9 @@ El siguiente diagrama de decisiones indica algunas principales consideraciones p
 
 ## Auditoría
 
-_Enlistar a las personas que revisaron la guía_
-
 - 
 
 ## Bitácora de cambios
-- La versión actual debe ser la que quede hasta arriba de esta sección
 
 ### Versión 1.0
 - Se creo la guía
