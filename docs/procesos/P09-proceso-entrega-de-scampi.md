@@ -28,7 +28,17 @@
         </ul>
       </td>
       <td rowspan="3">
-        <ul><li>OPF - 1.2</li><li>VER- 1.1</li><li>OPF - 1.2</li><li>VER -  1.2</li><li>VER - 1.3</li><li>VAL - 1.1</li><li>VAL - 1.2</li></ul>
+        <ul>
+          <li>OPF - 1.2</li>
+          <li>VER- 1.1</li>
+          <li>OPF - 1.2</li>
+          <li>VER -  1.2</li>
+          <li>VER - 1.3</li>
+          <li>VER - 2.1</li>
+          <li>VAL - 1.1</li>
+          <li>VAL - 1.2</li>
+          <li>VAL - 1.3</li>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -154,13 +164,15 @@
 ## Auditoría
 - Raúl Rosario Sandoval Galaviz
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.2
+### Versión 1.3
+- Se agrega la práctica 2.1 de VER y la 1.3 de VAL.
+### Versión 1.2
   - Se refactorizó el proceso para incluir el tablero a la matriz de configuración, referencia al proceso de retroalimentación y una mejor definición del uso de la checklist de SCAMPI.
 
-## Versión 1.1
+### Versión 1.1
   - Se añadió referencia a la checklist de entrega SCAMPI.
 
-## Versión 1.0
+### Versión 1.0
   - Se creó el proceso.
