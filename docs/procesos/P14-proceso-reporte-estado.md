@@ -12,9 +12,9 @@
 
 | Fase                 |                         Actividades                          | Área(s) involucradas |
 | -------------------- | :----------------------------------------------------------: | -------------------- |
-| 1. Preparación       | <ul><li>Seleccionar a un miembro del departamento por cada proyecto para ser el responsable de llenar la sección correspondiente del reporte de estado.</li><li>Recuperar y agregar al reporte de estado las métricas actualizadas de valor planeado y real, costo planeado y real, patrones y antipatrones presentados, manejo de riesgos, milestones alcanzadas, y cualquier otra información oportuna que haya sido identificada, antes del ensayo de la presentación. La información incluida debe responder completamente las preguntas: ¿Dónde estoy?, ¿Dónde debería estar?, ¿Cuánto me ha costado?, ¿Por qué estoy dónde estoy?</li><li>Revisar y corregir la gramática y ortografía de todos los textos en la presentación.</li><li>Asignar a los presentadores de cada sección del reporte de estado. Para los proyectos con socios, el presentador debe ser un miembro que no pertenezca a ese equipo.</li><li>Realizar un ensayo de la presentación un día antes de la presentación del reporte de estado.</li><li>Seleccionar un encargado de crear una minuta con la retroalimentación que se recibirá.</li></ul> | <ul><li>PMC1.1</li><li>PMC1.7</li><li>MA1.2</li><li>MA1.3</li><li>MA1.4</li><li>MA2.1</li><li>MA2.3</li></ul>| |                      |
-| 2. Presentación      | <ul><li>Presentar reporte de estado a los interesados relevantes.</li></ul> | <ul><li>PMC1.6</li><li>MA2.4</li></ul> |
-| 3. Retroalimentación | <ul><li>Crear una minuta con la retroalimentación de los interesados durante la junta de reporte de estado.</li><li>Analizar la retroalimentación de los interesados y convertir la que sea necesaria a work items inmediatamente después de la junta de reporte de estado.</li></ul> |  <ul><li>MA2.2</li></ul>  |
+| 1. Preparación       | <ul><li>Seleccionar a un miembro del departamento por cada proyecto para ser el responsable de llenar la sección correspondiente del reporte de estado.</li><li>Recuperar y agregar al reporte de estado las métricas actualizadas de valor planeado y real, costo planeado y real, patrones y antipatrones presentados, manejo de riesgos, milestones alcanzadas, y cualquier otra información oportuna que haya sido identificada, antes del ensayo de la presentación. La información incluida debe responder completamente las preguntas: ¿Dónde estoy?, ¿Dónde debería estar?, ¿Cuánto me ha costado?, ¿Por qué estoy dónde estoy?</li><li>Revisar y corregir la gramática y ortografía de todos los textos en la presentación.</li><li>Asignar a los presentadores de cada sección del reporte de estado. Para los proyectos con socios, el presentador debe ser un miembro que no pertenezca a ese equipo.</li><li>Realizar un ensayo de la presentación un día antes de la presentación del reporte de estado.</li><li>Seleccionar un encargado de crear una minuta con la retroalimentación que se recibirá.</li></ul> | <ul><li>PMC 1.1</li><li>PMC 1.7</li><li>MA 1.2</li><li>MA 1.3</li><li>MA 1.4</li><li>MA 2.1</li><li>MA 2.3</li></ul>| |                      |
+| 2. Presentación      | <ul><li>Presentar reporte de estado a los interesados relevantes.</li></ul> | <ul><li>PMC 1.6</li><li>MA 2.4</li><li>VER 3.2</li><li>VAL 2.2</li></ul> |
+| 3. Retroalimentación | <ul><li>Crear una minuta con la retroalimentación de los interesados durante la junta de reporte de estado.</li><li>Analizar la retroalimentación de los interesados y convertir la que sea necesaria a work items inmediatamente después de la junta de reporte de estado.</li></ul> |  <ul><li>MA 2.2</li><li>VER 3.2</li><li>VAL 2.2</li></ul>  |
 
 ## Salidas
 - Presentación de reporte de estado
@@ -28,8 +28,10 @@
 ## Auditoría
 
 - Jan Limpens Gutiérrez
-# Bitácora de cambios
+## Bitácora de cambios
 
+## Versión 1.1
+ - Se agregan las prácticas 3.2 de VER y 2.2 de VAL.
 ## Versión 1.0
   - Se creó el proceso.
 

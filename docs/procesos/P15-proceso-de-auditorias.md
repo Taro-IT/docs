@@ -33,8 +33,10 @@
       </td>
       <td>
         <ul>
-          <li>VER 1.1</li>
           <li>VER 1.2</li>
+          <li>VER 1.3</li>
+          <li>VAL 1.2</li>
+          <li>VAL 1.3</li>
         </ul>
       </td>
     </tr>
@@ -64,6 +66,7 @@
           <li>VER 1.3</li>
           <li>VER 2.2</li>
           <li>VER 3.1</li>
+          <li>VAL 2.1</li>
         </ul>
       </td>
     </tr>
@@ -102,6 +105,8 @@
         <ul>
           <li>PPQA 2.1</li>
           <li>PPQA 2.2</li>
+          <li>VER 3.2</li>
+          <li>VAL 2.2</li>
         </ul>
       </td>
     </tr>
@@ -123,9 +128,11 @@
 - Raúl Rosario Sandoval Galaviz
 
 
-# Bitácora de cambios
+## Bitácora de cambios
+### Versión 1.1
+ - Se quitó la práctica 1.1 de VER porque no aplica para este proceso.
+ - Se agregan la prácticas 3.2 de VER, 1.2, 1.3, 2.1 y 2.2 de VAL.
 
-## Versión 1.0
+### Versión 1.0
   - Se creó el proceso.
-
 

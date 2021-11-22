@@ -56,6 +56,7 @@
           <li>PPQA 1.1</li>
           <li>PPQA 2.1</li>
           <li>PPQA 2.2</li>
+          <li>VER 2.1</li>
           <li>VER 2.2</li>
           <li>VER 3.1</li>
           <li>VAL 2.1</li>
@@ -99,6 +100,9 @@ Si la subtarea en la que se va a trabajar involucra escribir código, se debe se
 - 
 
 ## Bitácora de cambios
+
+### Versión 1.1 
+- Se agrega la práctica 2.1 de VER.
 
 ### Versión 1.0
 - Se creó el proceso.
