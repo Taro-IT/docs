@@ -2,7 +2,7 @@
 
 ## Objetivo(s)
 
-- Diferenciar entre los tipos de assets departamentales.
+- Guiar a los miembros de Taro en la identificación de assets departamentales.
 
 - Definir la categoría y el título de un asset que se este creando.
 
@@ -24,14 +24,17 @@ flowchart TD
                 el aprendizaje?"}
     D -->|Sí| E["El asset es 
                 una guía"]
-    D -->|No| F{"¿El objetivo requiere de la ejecución de pasos bien definidos para su cumplimiento?"}
+    D -->|No| F{"¿El objetivo requiere de la 
+                 ejecución de pasos bien definidos 
+                 para su cumplimiento?"}
     F -->|Sí| G["El asset es 
                 un proceso"]
     F -->|No| H{"¿El asset se
                 se enfoca en la
                 verificación?"}
     H -->|Sí| I["El asset es una checklist"]
-    H -->|No| J{"¿El objetivo se enfoca en definir un modelo?"}
+    H -->|No| J{"¿El objetivo se enfoca en definir 
+                 un modelo?"}
     J -->|Sí| K["El asset es una plantilla"]
     J -->|No| L["No es necesario un asset o el 
                 objetivo no está bien definido"]
