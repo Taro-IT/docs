@@ -74,7 +74,7 @@
       <td>3. Solución</td>
       <td>
         <ul align="left">
-          <li>Identificar los work items que bloquean a otros work items y asignar una prioridad mayor.</li>
+          <li>Identificar los work items que bloquean a otros work items y asignarles una prioridad mayor.</li>
           <li>Obtener compromiso de todos los interesados.</li>
           <li>Verificar la solución.</li> 
         </ul>
