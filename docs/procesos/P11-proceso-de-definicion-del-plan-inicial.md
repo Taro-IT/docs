@@ -1,4 +1,4 @@
-# P11 - Proceso de definición de un plan.
+# P11 - Proceso de definición de un plan
 
 ## Objetivo(s)
 
@@ -23,18 +23,18 @@
 
   <tbody>
     <tr>
-      <td>1. Inicio</td>
+      <td>1. Identificación</td>
       <td>
         <ul align="left">
           <li>Definir un <a href="../guias/G25-guia-ciclos-vida">ciclo de vida</a> para el plan.</li>
-          <li>Como marca la <a href="../politicas/POL06-gestion-conocimiento">Política para la gestión del conocimiento</a>:
+          <li>Como está estipulado en la <a href="../politicas/POL06-gestion-conocimiento">política para la gestión del conocimiento</a>:
             <ul>
-              <li>Hacer un inventario de habilidades para conocer las habilidades disponibles.</li>
+              <li>Hacer un <a href="../plantillas/Pl17-plantilla-inventario-habilidades">inventario de habilidades</a> para conocer las habilidades disponibles.</li>
               <li>Hacer un  <a href="https://docs.google.com/spreadsheets/d/1MZ-7gZ1iUZPbCIa3G2UtK8B-_w1ipbHrO0hJMeRTozQ/edit#gid=1760954040">inventario de las competencias</a>.</li>
               <li>Hacer un <a href="https://docs.google.com/spreadsheets/d/1frtMUtfqJzUiE9ej_qi-HwhZZtvbSbPsc-TMsYf10Bk/edit#gid=0">inventario de recursos</a>.</li>
             </ul>
           </li>
-          <li>Realizar un <a href="../guias/G15-guia-ubicar-interesados-en-la-matriz-de-interesados">Plan de comunicación con los interesados</a>.</li>
+          <li>Realizar un <a href="../guias/G15-guia-ubicar-interesados-en-la-matriz-de-interesados">plan de comunicación con los interesados</a>.</li>
         </ul>
       </td>
       <td>
