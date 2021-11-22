@@ -44,7 +44,9 @@ Si varias personas tienen asignado el mismo work item, el costo es la suma del t
 
 1. Teniendo en cuenta la matriz de disponibilidad analizar cuándo se estima será la fecha de finalización de cada work item en función a la disponibilidad de la persona y el costo del work item.
 
-2. Al momento de estimar el calendario, se debe tomar en cuenta las dependencias entre work items.
+2. Al momento de estimar el calendario, se debe tomar en cuenta las dependencias entre work items:
+
+   - Identificar los work items de los cuales dependen otros work items y asignarles una fecha lo más próxima posible al inicio del plan.
 
 3. Al acabar la estimación, si la fecha de finalización del proyecto es menor al objetivo del mismo, deberá ocurrir una renegociación.
 
@@ -72,7 +74,7 @@ Si varias personas tienen asignado el mismo work item, el costo es la suma del t
 ## Versión 1.1
 
 - Se corrigieron errores de ortografía
-- Se agregó una nota 
+- Se agregó una nota
 - Se puso en bold los términos del glosario
 - Falta enlazar a matrices de interesados y de disponibilidad
 
