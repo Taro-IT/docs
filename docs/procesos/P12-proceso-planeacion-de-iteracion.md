@@ -94,12 +94,14 @@
         <ul align="left">
           <li>Revisar la sensatez del plan (sanity check).</li>
           <li>Revisar si los miembros del equipo se comprometen a terminar las tareas asignadas.</li>
+          <li>Revisar que todos los miembros tengan las habilidades necesarias para completar los work items, revisando el Plan de Conocimiento (<a href="https://docs.google.com/spreadsheets/d/1apm2rf-SeUr98bcvCvpQWw3tVGw_1DbVuX9hrJUtZAI/edit#gid=591264054">Departamental</a>, <a>Frappé</a> o <a href="https://docs.google.com/spreadsheets/d/1wBHX1wWpZCr4ZRSE9mcigphbNoGlARHHlWkyXqQczD0/edit#gid=0">Espresso</a>), en caso que no crear tareas de capacitación.</li>
         </ul>
       </td>
       <td>
         <ul>
           <li>PMC 1.1</li>
           <li>PMC 1.3</li>
+          <li>PP 2.5</li>
           <li>PP 3.3</li>
         </ul>
       </td>
@@ -123,10 +125,13 @@
 
 # Bitácora de cambios
 
+## Versión 1.2
+- Se agregó revisar el Plan de conocimiento.
+
 ## Versión 1.1
-  - Se agregó la estimación de tiempo de cada ítem de trabajo. 
+- Se agregó la estimación de tiempo de cada ítem de trabajo. 
 
 ## Versión 1.0
-  - Se creó el proceso.
+- Se creó el proceso.
 
 
