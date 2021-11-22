@@ -1,4 +1,4 @@
-# G20 - Guía para sincronizar, respaldar y compartir archivos de configuración y variables de entorno
+# G23 - Guía para sincronizar, respaldar y compartir archivos de configuración y variables de entorno
 
 ## Objetivo(s)
 

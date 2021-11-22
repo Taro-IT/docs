@@ -31,8 +31,8 @@
       </td>
       <td>
         <ul>
-          <li>CAR 1.1</li>
-          <li>CAR 1.2</li>
+          <li>CAR - 1.1</li>
+          <li>CAR - 1.2</li>
         </ul>
       </td>
     </tr>
@@ -49,8 +49,8 @@
       </td>
       <td>
          <ul>
-          <li>CAR 1.1</li>
-          <li>CAR 1.2</li>
+          <li>CAR - 1.1</li>
+          <li>CAR - 1.2</li>
         </ul>
       </td>
     </tr>
@@ -75,12 +75,14 @@
         <ol align="left">
           <li>Colaborativamente, revisar cuáles tarjetas fueron las más votadas y con ellas, dependiendo de su naturaleza, creen work items o tareas que les permitan cumplirlas en la siguiente iteración.</li>
           <li>Asignar responsables a cada tarea generada.</li>
+          <li>Actualizar y revisar el desarrollo de los conocimientos de los miembros del equipo, revisando el Plan de Conocimiento (<a href="https://docs.google.com/spreadsheets/d/1apm2rf-SeUr98bcvCvpQWw3tVGw_1DbVuX9hrJUtZAI/edit#gid=591264054">Departamental</a>, <a>Frappé</a> o <a href="https://docs.google.com/spreadsheets/d/1wBHX1wWpZCr4ZRSE9mcigphbNoGlARHHlWkyXqQczD0/edit#gid=0">Espresso</a>).</li>
         </ol>
       </td>
       <td>
         <ul>
           <li>CAR 2.1</li>
           <li>CAR 2.3</li>
+          <li>PP 2.5</li>
           <li>PP 3.3</li>
           <li>RM 1.2</li>
         </ul>
@@ -90,13 +92,12 @@
       <td>Análisis de métricas</td>
       <td>
         <ol align="left">
-          <li>En equipo y con una persona compartiendo su pantalla, revisar los resultados de las métricas relacionadas con la iteración anterior y se analizan usando el [proceso de análisis de métricas].</li>
+          <li>En equipo y con una persona compartiendo su pantalla, revisar los resultados de las métricas relacionadas con la iteración anterior y analizarlas usando el <a href="https://taro-it.github.io/docs/procesos/P22-proceso-analisis-metricas">proceso de análisis de métricas</a>.</li>
         </ol>
       </td>
       <td>
         <ul>
-          <li>MA 2.2</li>
-          <li>MA 2.4</li>
+          <li>M&A - 2.2</li>
         </ul>
       </td>
     </tr>
@@ -109,8 +110,8 @@
       </td>
       <td>
         <ul>
-          <li>RKM 3.2</li>
-          <li>PP 2.2</li>
+          <li>RKM - 3.2</li>
+          <li>PP - 2.2</li>
         </ul>
       </td>
     </tr>
@@ -132,13 +133,16 @@
 
 # Bitácora de cambios
 
+## Versión 1.3
+- Se agregó revisar el Plan de conocimiento.
+
 ## Versión 1.2
-  - Se cambió la salida a "retroalimentación de retrospectiva".
+- Se cambió la salida a "retroalimentación de retrospectiva".
 
 ## Versión 1.1
-  - Se añadió el link a la matriz de retrospectivas.
+- Se añadió el link a la matriz de retrospectivas.
 
 ## Versión 1.0
-  - Se creó el proceso.
+- Se creó el proceso.
 
 
