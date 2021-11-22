@@ -75,8 +75,8 @@
       <td>
         <ul align="left">
           <li>Identificar los work items que bloquean a otros work items y asignarles una prioridad mayor.</li>
+          <li>Validar la propuesta de solución y la definición del plan con los interesados.</li> 
           <li>Obtener compromiso de todos los interesados.</li>
-          <li>Verificar la solución.</li> 
         </ul>
       </td>
       <td>
