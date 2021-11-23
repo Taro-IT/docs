@@ -87,7 +87,7 @@ Gracias a todos los departamentos anteriores a TARO por brindarnos su conocimien
 - [Nova](https://github.com/novaDepto/Nova/wiki)
 - [Impulse](https://impulse-semestrei.github.io/)
 - [Blink](https://bitbucket.org/KaryRs/blink_wiki/wiki/Home)
-- [Precept](https://github.com/97joaquinhr/Percept/wiki)
+- [Percept](https://github.com/97joaquinhr/Percept/wiki)
 - [CaveLabs](https://github.com/CaveLabs-1/Wiki)
 - Studio i
 - [Solify](https://github.com/Solify-IT/docs/wiki)
