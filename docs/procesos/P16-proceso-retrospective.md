@@ -100,7 +100,6 @@
       <td>
         <ul>
           <li>MA 2.2</li>
-          <li>MA 2.4</li>
         </ul>
       </td>
     </tr>
