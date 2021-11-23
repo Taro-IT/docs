@@ -7,7 +7,7 @@
 ## Entradas
 
 - Repositorio de la línea base a desplegar.
-- La rama con todos los items de trabajo [previamente verificados y aprobados](P21-proceso-verificacion-items).
+- La rama con todos los ítems de trabajo [previamente verificados y aprobados](P21-proceso-verificacion-items).
 
 :::info
 
@@ -29,7 +29,7 @@ Si no se tiene claro lo que es una línea base, revisar la [Política de Element
 
 ## Autores
 
-- Juan Manuel Amador Perez Flores
+- Juan Manuel Amador Pérez Flores
 - Eric Buitrón López
 
 ## Auditoría
