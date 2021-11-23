@@ -5,6 +5,7 @@ sidebar_position: 1
 ---
 
 # ¿Quiénes somos?
+
 <div class="warning" style={{padding: '1em', backgroundColor:'#EAE3F6', color: '#000000', borderRadius:'5px 35px'}}>
 <span>
 <p align="justify" style={{marginLeft: '1em', marginRight: '1em', fontSize: '17px'}}>
@@ -51,30 +52,23 @@ Construir soluciones de calidad que impacten positivamente en nuestros socios.
 
 Revolucionar la industria del software desarrollando proyectos que se apeguen a los más altos estándares de calidad y que a su vez impacten de manera social y responsable.
 
-
 ## Objetivos
 
 1.-Entregar antes del 3 de diciembre del 2021 los proyectos administrados por Taro en costo, alcance y calidad para que satisfagan las necesidades de los socios y así se cumplan los objetivos acordados.
 
 2.-Mejorar al menos un proceso interno en cada una de las iteraciones que se realicen para alcanzar mínimamente el nivel de certificación CMMI 2 + 7 áreas del 3 para el final del semestre.
 
-3.-Que los integrantes del Departamento Taro logren un desarrollo personal íntegro, y que logren como mínimo un nivel "Jedi" en todas las competencias de la malla de evaluación del Camino del Jedi, y al menos dos competencias en nivel "Maestro Jedi", garantizando el crecimiento de nuestros  integrantes, para la última evaluación de esta malla.
-
+3.-Que los integrantes del Departamento Taro logren un desarrollo personal íntegro, y que logren como mínimo un nivel "Jedi" en todas las competencias de la malla de evaluación del Camino del Jedi, y al menos dos competencias en nivel "Maestro Jedi", garantizando el crecimiento de nuestros integrantes, para la última evaluación de esta malla.
 
 ## Valores
 
-
 **Aprendizaje:** Velar por el crecimiento de todos en el departamento reconociendo que la situación de cada miembro es diferente.
-
 
 **Empatía:** Reconocer a los miembros del departamento como personas, y considerar los sentimientos y puntos de vista de todos.
 
-
 **Integridad:** Comprometerse a hacer todo aquello que considera bueno, sin afectar los intereses de todo el departamento.
 
-
 **Responsabilidad:** Completar el trabajo asignado con calidad y manejar las consecuencias de las decisiones tomadas.
-
 
 **Transparencia:** Ser honesto en la comunicación con el cliente, así como con los demás miembros del departamento.
 
@@ -85,3 +79,19 @@ Visita la wiki de nuestros equipos para conocer más a detalle su forma de traba
 - [Wiki de Frappé](https://taro-it.github.io/frappe/)
 
 - [Wiki de Espresso](https://taro-it.github.io/Espresso_doc/)
+
+## Agradecimientos
+
+Gracias a todos los departamentos anteriores a Taro por brindarnos su conocimiento por medio de la documentación de sus wikis, así como heredar prácticas sanas para la consolidación de un departamento de TI.
+
+- [Nova](https://github.com/novaDepto/Nova/wiki)
+- [Impulse](https://impulse-semestrei.github.io/)
+- [Blink](https://bitbucket.org/KaryRs/blink_wiki/wiki/Home)
+- [Percept](https://github.com/97joaquinhr/Percept/wiki)
+- [CaveLabs](https://github.com/CaveLabs-1/Wiki)
+- Studio i
+- [Solify](https://github.com/Solify-IT/docs/wiki)
+
+### Derechos de autor.
+
+El departamento de TI Taro permite el uso de los recursos presentados en esta wiki con fines de referencia o educativo, siempre y cuando se agregue un pie de página similar al de esta misma wiki y se den los créditos correspondientes a Taro.
