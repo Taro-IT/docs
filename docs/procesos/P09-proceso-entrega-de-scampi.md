@@ -28,17 +28,7 @@
         </ul>
       </td>
       <td rowspan="3">
-        <ul>
-          <li>OPF - 1.2</li>
-          <li>VER- 1.1</li>
-          <li>OPF - 1.2</li>
-          <li>VER -  1.2</li>
-          <li>VER - 1.3</li>
-          <li>VER - 2.1</li>
-          <li>VAL - 1.1</li>
-          <li>VAL - 1.2</li>
-          <li>VAL - 1.3</li>
-        </ul>
+        <ul><li>OPF - 1.2</li><li>M&A - 2.1</li><li>M&A - 2.3</li><li>VER- 1.1</li><li>VER -  1.2</li><li>VER - 1.3</li><li>VAL - 1.1</li><li>VAL - 1.2</li></ul>
       </td>
     </tr>
     <tr>
