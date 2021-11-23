@@ -81,21 +81,29 @@ Ser honesto en la comunicación con todos los interesados, así como con los dem
 ### Violaciones al código y canal de comunicación
 
 1. **Proceso de denuncias de violaciones al código de ética:**  
-   En caso de presentarse algún incidente donde se viole el código de ética, contamos con la opción de presentar una denuncia anónima por medio del canal de slack `#taro-etica-escuchandote`. Para hacer una denuncia, en tu propio chat escribe el comando: `/anon #taro-etica-escuchandote [mensaje]`
+   En caso de presentarse algún incidente donde se viole el código de ética, contamos con la opción de presentar una denuncia anónima por medio del canal de Slack `#taro-etica-escuchandote`. Para hacer una denuncia, en tu propio chat escribe el comando: `/anon #taro-etica-escuchandote [mensaje]`
     Si la denuncia involucra a un miembro del comité, se invita a llevarla con nuestra asesora, Carolina Rodríguez, o bien, a otro miembro del comité.
 
 2. **Canal de comunicación del comité de ética:**  
-El principal canal para que los integrantes del departamento se comuniquen con el equipo Agua es por medio de slack, específicamente en el canal `#taro-etica-escuchandote`
-De igual manera, cualquier miembro del departamento podrá enviar un mensaje privado por slack a cualquier integrante del comité de ética para atender su situación y llevar a cabo las acciones correspondientes.
+El principal canal para que los integrantes del departamento se comuniquen con el equipo Agua es por medio de Slack, específicamente en el canal `#taro-etica-escuchandote`
+De igual manera, cualquier miembro del departamento podrá enviar un mensaje privado por Slack a cualquier integrante del comité de ética para atender su situación y llevar a cabo las acciones correspondientes.
 
 ---
 ## Referencias
 
 Association for Computer Machinery. (2018). *ACM Code of Ethics and Professional Conduct*. Recuperado de https://www.acm.org/code-of-ethics
 
+## Autores
+- Adolfo Acosta Castro
+- Jan Limpens Gutiérrez
+- Juan Manuel Amador Pérez Flores
+- Mauricio Álvarez Milán
+- Raúl Rosario Sandoval Galaviz
+
 # Bitácora de cambios
+
+## Versión 1.1
+  - Se creó un apartado para los autores.
 
 ## Versión 1.0
   - Se creó el código de ética.
-
-  

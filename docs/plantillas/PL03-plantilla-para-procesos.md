@@ -1,4 +1,4 @@
-# PL03 - Plantilla para Procesos
+# PL03 - Plantilla para procesos
 
 ```markdown
 
@@ -84,9 +84,9 @@ _Enlistar a las personas que revisaron el proceso_
 - 
 
 ## Bitácora de cambios
+- La versión actual debe ser la que quede hasta arriba de esta sección
 
 ### Versión [número de versión]
-
 - [Cambios nuevos en la versión].
 
 ```
@@ -94,10 +94,10 @@ _Enlistar a las personas que revisaron el proceso_
 
 ## Bitácora de cambios
 
-### Versión 1.0
+### Versión 2.0
+- Se le agrega la bitácora de cambios a la plantilla.
 
+### Versión 1.0
 - Se creó la plantilla.
 
-### Versión 2.0
 
-- Se le agrega la bitácora de cambios a la plantilla.

@@ -1,4 +1,4 @@
-# PL02 - Plantilla para Guías
+# PL02 - Plantilla para guías
 
 ```markdown
 # G[# de guía] - Guía <título de la guía>
@@ -11,9 +11,9 @@ _Describir los objetivos ._
 
 _Enlistar los pre-requisitos necesarios (con ligas si son recursos)_
 
-## Pasos a seguir
+## Secciones
 
-_Enlistar los pasos a seguir (separando por secciones si es necesario)_
+_Definir cuantas secciones sean necesarias para que el asset sirva como recurso de apoyo en un proceso_
 
 ## Salidas
 
@@ -32,19 +32,17 @@ _Enlistar a las personas que revisaron la guía_
 - 
 
 ## Bitácora de cambios
+- La versión actual debe ser la que quede hasta arriba de esta sección
 
 ### Versión [número de versión]
-
 - [Cambios nuevos en la versión].
 
 ```
 
 ## Bitácora de cambios
 
-### Versión 1.0
-
-- Se creó la plantilla.
-
 ### Versión 2.0
-
 - Se le agrega la bitácora de cambios a la plantilla.
+
+### Versión 1.0
+- Se creó la plantilla.

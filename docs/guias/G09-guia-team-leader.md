@@ -6,7 +6,7 @@
 
 ## Pre-requisitos
 
-- N/A
+- Un interesado en tomar el rol
 
 ### Descripción del rol
 
@@ -24,7 +24,7 @@ Dentro de las responsabilidades de un TL están las siguientes:
   
 Dentro de las tareas generales de un TL están las siguientes:
 
-- Moderar las juntas de trabajo ([planificación de iteración](../procesos/P15-proceso-planeacion-de-iteracion), [daily meetings](../procesos/P07-proceso-juntas-diarias), [retrospectiva de iteración](../procesos/P20-proceso-retrospective)).
+- Moderar las juntas de trabajo ([planificación de iteración](../procesos/P12-proceso-planeacion-de-iteracion), [daily meetings](../procesos/P07-proceso-juntas-diarias), [retrospectiva de iteración](../procesos/P16-proceso-retrospective)).
 - Conocer y monitorear el estado de las tareas de cada iteración.
 - Planear la agenda de las juntas del equipo.
 - Conocer la disponibilidad de trabajo del equipo.
@@ -62,7 +62,11 @@ La persona que asumirá el rol de Team Leader tendrá el conocimiento necesario 
 
 # Bitácora de cambios
 
+## Versión 2.0
+  - El asset ha sido institucionalizado.
+
+## Versión 1.1
+  - Se hizo un refactor para incluir recomendaciones y tareas diarias de un Team Leader.
+
 ## Versión 1.0
   - Se creó la guía.
-## Versión 1.1
-  - Se hizo un refactor para incluir recomendaciones y tareas diarias de un Team Leader
