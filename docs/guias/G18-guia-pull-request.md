@@ -51,6 +51,18 @@
 * Si tu pull request ya ha sido aprobado por los auditores, entonces se desplegará la siguiente ventana dentro de tu pull request.
 ![image](../../static/img/guias/G21/10.png)
 
+:::note
+
+Todos los pull requests pasan por una verificación automática de _integración continua (CI)_. Para poder aprobarlos deben haber pasado exitósamente estas verificaciones.
+
+Así se ve cuando pasaron todas las verificaciones de CI:
+![image](../../static/img/guias/G18/ci-success.png)
+
+Así se ve cuando no pasaron todas las verificaciones de CI:
+![image](../../static/img/guias/G18/ci-fail.png)
+
+:::
+
 ## Salidas
 * Versión nueva del [repositorio](https://github.com/Taro-IT/docs)
 * Registro en la bitácora de actualización si un archivo fue actualizado o creado
@@ -61,7 +73,9 @@
 ## Auditoría
 - Jan Limpens Gutierrez
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.0
+### Versión 1.1
+- Se agrega la nota de la verificación de CI.
+### Versión 1.0
   - Se creó la guía.

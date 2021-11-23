@@ -28,8 +28,10 @@
 ## Auditoría
 
 - Jan Limpens Gutiérrez
-# Bitácora de cambios
+## Bitácora de cambios
 
+## Versión 1.1
+ - Se agregan las prácticas 3.2 de VER y 2.2 de VAL.
 ## Versión 1.0
   - Se creó el proceso.
 

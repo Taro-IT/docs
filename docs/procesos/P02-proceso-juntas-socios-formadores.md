@@ -40,10 +40,11 @@
 - María de los Ángeles Contreras Anaya
 - Adolfo Acosta Castro
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.4
+### Versión 1.5
 - Se agregó referencia a la plantilla de seguimiento de compromisos.
+### Versión 1.4
 - Se reestructuró la fase de ejecución
 - Se agregó el proceso de retroalimentación
 - Falta link de la matriz de compromisos de Frappé

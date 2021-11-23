@@ -57,6 +57,8 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
           <li>OPD - 1.3</li>
           <li>VER - 1.1</li>
           <li>VER - 2.1</li>
+          <li>VAL - 1.2</li>
+          <li>VAL - 1.3</li>
         </ul>
       </td>
     </tr>
@@ -92,12 +94,11 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
           <li>MA - 2.1</li>
           <li>MA - 2.3</li>
           <li>VER - 1.1</li>
-          <li>VER - 2.2</li>
-          <li>VER - 3.1</li>
-          <li>VER - 1.1</li>
           <li>VER - 1.2</li>
           <li>VER - 1.3</li>
-          <li>VER - 3.1</li>
+          <li>VER - 2.2</li>
+          <li>VER - 3.1</li> 
+          <li>VAL - 2.1</li>         
           <li>PPQA - 1.2</li>
           <li>PPQA - 2.1</li>
           <li>PPQA - 2.2</li>
@@ -145,6 +146,8 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
 
 ## Bitácora de cambios
 
+### Versión 1.4
+- Se agregan las prácticas 1.2, 1.3 y 2.1 de VAL.
 ### Versión 1.3
 - Se cambió el proceso para incluir la verificación de entregables e incorporar prácticas de CM.
 
