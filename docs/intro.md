@@ -82,7 +82,7 @@ Visita la wiki de nuestros equipos para conocer más a detalle su forma de traba
 
 ## Agradecimientos
 
-Gracias a todos los departamentos anteriores a TARO por brindarnos su conocimiento por medio de la documentación de sus wikis, así como heredar prácticas sanas para la consolidación de un departamento de TI.
+Gracias a todos los departamentos anteriores a Taro por brindarnos su conocimiento por medio de la documentación de sus wikis, así como heredar prácticas sanas para la consolidación de un departamento de TI.
 
 - [Nova](https://github.com/novaDepto/Nova/wiki)
 - [Impulse](https://impulse-semestrei.github.io/)
@@ -94,4 +94,4 @@ Gracias a todos los departamentos anteriores a TARO por brindarnos su conocimien
 
 ### Derechos de autor.
 
-El departamento de TI TARO permite el uso de los recursos presentados en esta wiki con fines de referencia o educativo, siempre y cuando se agregue un pie de página similar al de esta misma wiki y se den los créditos correspondientes a TARO.
+El departamento de TI Taro permite el uso de los recursos presentados en esta wiki con fines de referencia o educativo, siempre y cuando se agregue un pie de página similar al de esta misma wiki y se den los créditos correspondientes a Taro.
