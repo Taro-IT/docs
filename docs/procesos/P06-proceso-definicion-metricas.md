@@ -8,7 +8,7 @@
 
 - Necesidades de información de los proyectos.
 - [Matriz de métricas del departamento](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=0).
-- [Matriz de métricas de Frappé,](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=1505846577).
+- [Matriz de métricas de Frappé](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=1505846577).
 - [Matriz de métricas de Espresso](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=16791600).
 
 ## Procedimiento
