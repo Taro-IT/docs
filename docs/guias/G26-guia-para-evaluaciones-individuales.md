@@ -55,7 +55,7 @@
 - Una reflexión es la evidencia más importante para cada competencia, esta debe ser un texto donde se respondan, de manera consciente, las siguientes preguntas:
   - Conforme a la competencia a evaluar:
     - ¿Cómo solías ser en proyectos de software anteriores o en tu vida diaria?
-    - ¿Qué haz hecho diferente a lo largo de este proyecto departamental?
+    - ¿Qué has hecho diferente a lo largo de este proyecto departamental?
     - ¿Cómo te ha cambiado el proyecto?
     - ¿Qué aprendiste en esta experiencia de aprendizaje?
     - ¿Cómo cambió tu vida?
