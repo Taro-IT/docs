@@ -2,14 +2,14 @@
 
 ## Objetivo(s)
 
-- Alinear la creación de nuevas métricas con las necesidades de información de los proyectos y que puedan ser utilizadas de acuerdo con el proceso de análisis de métricas.
+- Alinear la creación de nuevas métricas con las necesidades de información de los proyectos y que puedan ser utilizadas de acuerdo con el [proceso de análisis de métricas](https://taro-it.github.io/docs/procesos/P22-proceso-analisis-metricas/).
 
 ## Entradas
 
 - Necesidades de información de los proyectos.
 - [Matriz de métricas del departamento](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=0).
-- [Matriz de métricas de frappe](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=1505846577).
-- [Matriz de métricas de espresso](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=16791600).
+- [Matriz de métricas de Frappé](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=1505846577).
+- [Matriz de métricas de Espresso](https://docs.google.com/spreadsheets/d/1iPB2uvTLcUs6xwrzPDwUiacKQenPDzABNM7yl2GitkI/edit#gid=16791600).
 
 ## Procedimiento
 
@@ -74,7 +74,7 @@
         <ul align="left">
           <li>Detallar como se interpretan los datos obtenidos para la métrica, especificando cuando sea posible el significado de ciertos rangos de valores. Registrar la explicación en la columna de "Criterio de análisis".</li>
           <li>Especificar la periodicidad con la que se analizarán los datos obtenidos para la métrica en la columna de "Frecuencia de análisis".</li>
-          <li>Identificar los stakeholders a quienes se les debe mantener informados sobre los resultados de la recolección de la métrica y su análisis, y registrarlos en la columna de "Interesados". Para indentificar a los stakeholders relevantes, consultar la matriz de interesados en el plan de conocimiento correspondiente (<a href="https://docs.google.com/document/d/1kYryes1hKTYkQ3kTnzVUAklUdh9R8K4m-rjXLyk1LRI/edit#">Departamental</a>, Frappé, <a href="https://docs.google.com/document/d/19Auo8DCu3hAS-yt8lOKl2ZeIKqRGLWPEfqoljVTOIK0/edit#heading=h.9fiepmd07hop">Espresso</a>).</li>
+          <li>Identificar los stakeholders a quienes se les debe mantener informados sobre los resultados de la recolección de la métrica y su análisis, y registrarlos en la columna de "Interesados". Para indentificar a los stakeholders relevantes, consultar la matriz de interesados en el plan de comunicación correspondiente (<a href="https://docs.google.com/document/d/1kYryes1hKTYkQ3kTnzVUAklUdh9R8K4m-rjXLyk1LRI/edit#">departamental</a>, <a href="https://docs.google.com/document/d/1kGH1U_97bXjmKr7aNI7CQmQych3FDtbAWG_J6pRdkm4/edit#heading=h.9fiepmd07hop">Frappé</a>, <a href="https://docs.google.com/document/d/19Auo8DCu3hAS-yt8lOKl2ZeIKqRGLWPEfqoljVTOIK0/edit#heading=h.9fiepmd07hop">Espresso</a>).</li>
           <li>Modificar los procesos relevantes para definir el uso de la métrica dentro de la forma de trabajo.</li>
           <li>Llenar la casilla en la columna de "Activa". Esto significa que la métrica ahora se encuentra en uso. Para saber cuándo desactivar una métrica consultar el <a href="https://taro-it.github.io/docs/procesos/P22-proceso-analisis-metricas">proceso de análisis de métricas</a> .</li>
         </ul>
