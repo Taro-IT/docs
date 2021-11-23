@@ -30,13 +30,13 @@
 
 # Bitácora de cambios
 
-## Versión 1.0
-
-- Se creó la política.
-
 ## Versión 1.1
-
 - Añadir medidas de prevención.
 - Arreglar formato.
 - Se agregó el respaldo de información.
 - Fix de links.
+
+## Versión 1.0
+- Se creó la política.
+
+

@@ -1,57 +1,138 @@
 # P01 - Proceso de juntas departamentales
 
 ## Objetivo(s)
-
-- Eficientar los tiempos y toma de decisiones en temas de relevancia-valor antes y durante las juntas (Usar la [Plantilla](../plantillas/PL01-plantilla-para-minutas) para tener una base establecida y cumplir con los parámetros del proceso).
-
-- Mejorar la percepción de avance y organización dentro de los integrantes del departamento durante todo el semestre para tener una mejor certeza de la dirección a la que el departamento desea llegar.
+- Eficientar los tiempos y toma de decisiones en temas de relevancia-valor antes y durante las juntas.
+- Informar sobre el estado de los todos los proyectos dentro de Taro para aumentar la certeza de los integrantes del departamento sobre la dirección y avance de cada uno de estos.
+- Dar espacio a la modificación del plan departamental y la difusión de estos cambios.
 
 ## Entradas
-
-Necesidad  de junta
+- Plan de iteración departamental, Espresso o Frappé.
 
 ## Procedimiento
-
-| Fase |   Actividades   | Área(s) involucradas |
-|------|:---------------:|--------------------|
-| 1. Notificación    | <ul align="left"><li>Se deberá agendar con anticipación el viernes anterior a la semana de la junta especificando el horario y fecha de la misma.</li><li>Para hacer la petición de una junta departamental se debe hacer a través de un servicio de mensajería instantánea, en este caso es recomendable usar  el canal de SLACK #taro-general con el comando @canal o @channel para forzar la notificación a todos los integrantes.</li></ul> | <ul><li>PMC - 1.5</li><li>PMC - 1.6</li><li>PMC - 1.7</li><li>PMC - 2.1</li></ul> |
-| 2. Formalización    | Crear un evento en el calendario virtual en este caso se recomienda el uso de Google Calendar siguiendo la [Guía para agendar juntas](../guias/G01-guia-para-agendar-juntas), de tal modo que le llegue una invitación a todos los interesados. | <ul><li>PMC - 1.5</li></ul> |
-| 3. Previo a la junta     | Generar una [Minuta](../plantillas/PL01-plantilla-para-minutas) la cual deberá estar en la carpeta correspondiente a las Minutas con la siguiente estructura TARO-numero_de_minuta titulo_minuta-fecha_de_la_minuta  Ejemplo: TARO-003-Alcances_Inicial-2021-08-30. Ésta deberá tener asignado un responsable correspondiente al plan de junta. Dentro de esta plantilla se encuentran las siguientes secciones:  <ul align="left"> <li><u>  Control de versión: </u></li> La versión en la que se encuentra la plantilla de la minuta.  <li><u>  Control de versión del documento: </u> </li> En caso de existir modificaciones a la minuta posteriores a su subida, se especifica quién y cuándo se modificó la minuta.  <li><u> Asunto: </u></li> Se especifican las razones y objetivos de la junta. <li><u>Promotor de la Reunión:  </u></li> Se especifica quién solicitó la Reunión. <li><u>  Datos de la Reunión:  </u></li>Se especifica la fecha, hora de inicio, hora de finalización y lugar en la que se realizó la junta.<li><u> Autor de la Minuta:  </u></li>Se especifica quién estuvo editando la minuta.<li><u> Lista de Participantes:  </u></li>Se anota quién asiste a la junta.<li><u>Lista de acuerdos anteriores.</u></li>Se tocan los temas y acuerdos que quedaron pendientes ya sean de revisar o por discutir. <li><u> Agenda:  </u></li>El itinerario con el tiempo aproximado que se dedicará a cada punto.<li><u> Compromisos </u></li>Se formalizan los acuerdos a los que se llegaron durante la Reunión especificando, la decisión, el responsable y la fecha de seguimiento.<li><u> Próxima Junta:  </u></li>En caso de existir o agendar otra junta, se especifica la fecha, hora, asunto y lugar. </ul>  | <ul><li>PMC - 1.6</li></ul> |
-| 4. Ejecución | Se llevará acabo la junta apegándose lo más posible a: <ul align="left"><li>Encender la cámara para tener una buena comunicación.  </li><li>Pedir la palabra y formular correctamente lo que vaya a aportar a la junta.</li><li>Comenzar con la junta con la revisión y el monitoreo de los riesgos departamentales</li></ul>  | <ul><li>PP - 2.6</li><li>PP - 3.2</li><li>PMC - 1.3</li><li>PMC - 1.5</li><li>PMC - 1.6</li></ul> |
-| 5. Documentos | Los archivos generados, el plan de junta, la minuta, y la grabación, se subirán la unidad del departamento en la carpeta correspondiente. El nombre de la carpeta nueva debe de tener la estructura siguiente: Número_Tema_Fecha. Ejemplo: 1_Requisitos_iniciales_23ene2019. El nombre de los documentos debe de tener fecha y ser identificados con la estructura siguiente: Archivo_Fecha. Ejemplo: Plan de Junta_23/01/2019 | <ul><li>PP - 3.3</li></ul> |
+<table>
+  <tr>
+    <th>Fase</th>
+    <th>Actividades</th>
+    <th>Área(s) involucradas</th>
+  </tr>
+  <tr>
+    <td>1. Notificación</td>
+    <td>
+      <ul>
+        <li>Realizar petición de junta indicando la fecha de la misma durante la reunión de planeación de horarios departamental (reunión recurrente los días jueves de 10:45 a 11:30 agendada siguiendo la guía <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">correspondiente</a>) o a través del canal de Slack taro-general.</li>
+        <li>Durante la planeación de horarios decidir el horario para dicha junta teniendo en cuenta la disponibilidad de los integrantes de Taro para garantizar la asistencia de la mayoría.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>PMC - 1.5</li>
+        <li>PMC - 1.6</li>
+        <li>PMC - 1.7</li>
+        <li>PMC - 2.1</li>
+      </ul>
+    </td>
+  </tr>
+    <tr>
+    <td>2. Formalización</td>
+    <td>
+      <ul>
+        <li>Crear un evento en el calendario virtual haciendo uso de la <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>, de tal modo que le llegue una invitación a todos los interesados.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>PMC - 1.5</li>
+      </ul>
+    </td>
+  </tr>
+    <tr>
+    <td>3. Preparación</td>
+    <td>
+      <ul>
+        <li>Generar una <a href="https://taro-it.github.io/docs/plantillas/PL01-plantilla-para-minutas">minuta</a> dentro de la carpeta <a href="https://drive.google.com/drive/folders/1SuxSp22ltngtlSmymEWx_6vEoKlnA_uR?usp=sharing">correspondiente</a> y nombrar de la siguiente forma: [#_minuta]-TARO-[DD]-[MM]-[AA]. Ejemplo: 003-TARO-16-11-21.</li>
+        <li>Asignar un responsable de la junta (el responsable de la junta se encarga de llenar la minuta y liderar la junta), si se hizo una petición de junta esa persona deberá de ser el responsable, si no, designar a alguno de los PM como responsable.</li>
+        <li>Llenar el campo "Asunto" especificando las razones y objetivos de la junta.</li>
+        <li>Especificar la fecha, hora de inicio, hora de termino y lugar en que se realizará la junta dentro de la sección "Datos de la Reunión".</li>
+        <li>Definir y enlistar los puntos a tratar durante la junta y el tiempo estimado que se tomará en cada uno de estos dentro de la sección "Agenda" dejando cinco minutos libres al inicio y término de esta para la revisión de acuerdos.</li>
+        <li>Comunicar a través del canal de Slack taro-general la agenda de la junta y enlazar a la minuta para que todos los integrantes de Taro</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>PMC - 1.6</li>
+      </ul>
+    </td>
+  </tr>
+    <tr>
+    <td>4. Ejecución</td>
+    <td>
+      <ul>
+        <li>Los PM y el responsable (en caso de que sea alguien con un rol diferente a PM) deberán estar presentes en el lugar de la reunión cinco minutos antes de la hora de inicio.</li>
+        <li>Indicar con un check bajo la columna "Asistió" en la sección de "Convocados" a todas las personas que asistieron a la junta.</li>
+        <li>El responsable deberá encender la cámara y pedir a todos los asistentes que enciendan sus cámaras para tener una comunicación más efectiva.</li>
+        <li>Revisar el <a href="https://docs.google.com/spreadsheets/d/1L_IWQMrYGR4vnJVB-YF48OHtPyNLnXWxmzz2g-aHHGM/edit?usp=sharing">tablero de riesgos departamentales</a> para llevar un correcto monitoreo de los mismos.</li>
+        <li>Revisar la <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=14619367">matriz de compromisos</a> del departamento para obtener información sobre el estado de los mismos. Si existe algún bloqueo por parte del owner del compromiso tomar medidas correctivas.</li>
+        <li>Revisar cada uno de los puntos definidos en la agenda, procurando tomar el tiempo previsto y pasando al siguiente punto siempre y cuando se haya concluido el actual.</li>
+        <li>Formalizar los acuerdos y compromisos definidos durante la ejecución de la junta detallando cada uno dentro de la matriz siguiendo la guía correspondiente.</li>
+        <li>Antes de finalizar, abrir un espacio para resolución de dudas de los integrantes de Taro.</li>
+        <li>Cerrar la junta recordando a los participantes de cumplir con sus compromisos y estar pendientes del canal de Slack taro-general.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>PP - 2.6</li>
+        <li>PP - 3.2</li>
+        <li>PP - 3.3</li>
+        <li>PMC - 1.3</li>
+        <li>PMC - 1.5</li>
+        <li>PMC - 1.6</li>
+      </ul>
+    </td>
+  </tr>
+    <tr>
+    <td>5. Seguimiento</td>
+    <td>
+      <ul>
+        <li>Convertir en work items los compromisos formalizados durante la junta y agregarlos al <a href="https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit?usp=sharing">plan departamental</a>.</li>
+        <li>Actualizar la <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=14619367">matriz de compromisos</a> según sea necesario como preparación para la revisión de la misma en una junta posterior.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>PP 3.3</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Salida
 
-Plan actualizado
+- <a href="https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit?usp=sharing">Plan departamental</a> actualizado
+- <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=14619367">Matriz de compromisos</a> actualizada
 
 ## Autores
-
-<ul>
-<li>José Carlos Pacheco Sánchez</li>
-<li>Eric Buitrón López</li>
-<li>Jan Limpens</li>
-</ul>
+- José Carlos Pacheco Sánchez
+- Eric Buitrón López
+- Jan Limpens
+- María de los Ángeles Contreras Anaya
 
 ## Auditoría
-
-<ul>
-<li>Adolfo Acosta Castro</li>
-<li>María de los Ángeles Contreras Anaya</li>
-<li>Karla Daniela Romero Pérez</li>
-<li>Alonso Vladimir Salvador Camacho</li>
-<li>Mauricio Álvarez Milán</li>
-</ul>
+- Adolfo Acosta Castro
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó el proceso.
-
-## Versión 1.1
-  - Se arreglaron errores de ortografía.
+## Versión 1.3
+- Se hizo un refactor de todo el proceso
+- Se añadió el seguimiento de compromisos de Taro
 
 ## Versión 1.2
   - Se arreglaron errores de ortografía
   - Se agregó una mención al monitoreo de riesgos
   - Se agregó un link faltante
   - Se eliminó referencia a un proceso inexistente
+
+## Versión 1.1
+  - Se arreglaron errores de ortografía.
+
+## Versión 1.0
+  - Se creó el proceso.

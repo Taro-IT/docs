@@ -73,9 +73,7 @@ Un objetico sin un límite temporal, es decir, sin una fecha límite no es efica
 ## Bitácora de cambios
 
 ### Versión 1.1
-
-- Se refactoriza el proceso a una guía
+- Se refactoriza el proceso a una guía.
 
 ### Versión 1.0
-
-- Se creó el proceso de definición de objetivos
+- Se creó el proceso de definición de objetivos.

@@ -31,7 +31,8 @@
 
 # Bitácora de cambios
 
-## Versión 1.0
-  - Se creó la política.
 ## Versión 1.1
   - Se corrigen algunos errores de ortografía
+
+## Versión 1.0
+  - Se creó la política.
