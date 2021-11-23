@@ -2,9 +2,11 @@
 
 ## Roles de liderazgo
 
-- Product Owner: [Adolfo Acosta Castro](mailto:a01705249@itesm.mx)
-- Team Leader: [Juan José Díaz André](mailto:a01066352@itesm.mx)
-- Architecture Owner: [Juan Manuel Amador Pérez Flores](mailto:a01701248@itesm.mx)
+- Product Owner: [Adolfo Acosta Castro](mailto:a01705249@tec.mx)
+- Team Leader: [Juan Manuel Amador Pérez Flores](mailto:a01701248@tec.mx)
+- Architecture Owner: [Sebastián González Tafoya](mailto:a01233416@tec.mx)
+
+[Aquí](https://docs.google.com/spreadsheets/d/1naF2ckYlDvAIQoa3ptkEfBDong-dnMHzKCRtS0vz6x8/edit#gid=0) se encuentra un historial de los roles de liderazgo y las rotaciones de los mismos dentro del departamento Taro.
 
 ## Responsabilidades del equipo
 

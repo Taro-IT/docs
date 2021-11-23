@@ -6,11 +6,13 @@ sidebar_position: 3
 
 ## Definición de Roles de Liderazgo
 
-**Product Owner:** [Jorge Sanchez](mailto:a01209929@itesm.mx)
+**Product Owner:** [Jorge Sanchez](mailto:a01209929@tec.mx)
 
-**Team Leader:** [Iván Alejandro Díaz Peralta](mailto:a01700486@itesm.mx)
+**Team Leader:** [Iván Alejandro Díaz Peralta](mailto:a01700486@tec.mx)
 
-**Architecture Owner:** [Eduardo Andrés Castillo Perera](mailto:a01702948@itesm.mx)
+**Architecture Owner:** [Eduardo Andrés Castillo Perera](mailto:a01702948@tec.mx)
+
+[Aquí](https://docs.google.com/spreadsheets/d/1naF2ckYlDvAIQoa3ptkEfBDong-dnMHzKCRtS0vz6x8/edit#gid=0) se encuentra un historial de los roles de liderazgo y las rotaciones de los mismos dentro del departamento Taro.
 
 ---
 
