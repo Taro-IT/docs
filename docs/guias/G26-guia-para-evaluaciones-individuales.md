@@ -88,7 +88,8 @@ Dependiendo de la competencia, se pueden añadir diversas evidencias de trabajo 
 
 ## Auditoría
 
--
+- Eduardo Andrés Castillo Perera
+- Adolfo Acosta Castro
 
 ## Bitácora de cambios
 
