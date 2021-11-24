@@ -86,7 +86,7 @@
           </ul>
         </li>
         <li>Por cada producto de trabajo validado, asegurarse de obtener una aprobación explícita del socio y documentarla bajo la columna "¿Aprobado?".</li>
-        <li>Si el producto no es aprobado se deberá de detallar bajo la columna "Comentarios" las razones por las cuales se llego a esa conclusión.</li>
+        <li>Si el producto no es aprobado se deberá de detallar bajo la columna "Comentarios" las razones por las cuales se llegó a esa conclusión.</li>
         <li>De ser necesario, añadir a la matriz de compromisos de <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=866452596">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=0">Espresso</a> según corresponda, los cambios solicitados por parte de los socios siguiendo la <a href="https://taro-it.github.io/docs/guias/G22-guia-matriz-compromisos">guía para llenar la matriz compromisos.</a></li>
       </ul>
     </td>
