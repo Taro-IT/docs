@@ -15,7 +15,7 @@ En Taro manejamos las cuatro categorías listadas a continuación:
 
 - ### Análisis
 
-Dentro de la categoría de análisis se encuentran los productos de trabajo tales como: lista de historias de usuario, flujo de interacción, descripción de casos de uso o artefactos similiares.
+Dentro de la categoría de análisis se encuentran los productos de trabajo tales como: lista de historias de usuario, flujo de interacción, descripción de casos de uso o artefactos similares.
 
 Para validaciones de análisis se recomienda el método de tipo "Discusión" ya que estas permiten ahondar sobre las necesidades del cliente.
 
