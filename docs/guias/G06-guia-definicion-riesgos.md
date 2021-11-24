@@ -22,6 +22,15 @@ Un riesgo es aquel problema que pueda producir un contratiempo en alguna de las 
 - Equipo y organización
 - Problemas externos al departamento
 
+## ¿Cómo clasificar un riesgo?
+
+Los riesgos se clasifican dependiendo de su magnitud de acuerdo a la siguiente lista:
+
+- Magnitud 0.0 a 3.9 --> Bajo riesgo
+- Magnitud 4.0 a 5.9 --> Riesgo medio
+- Magnitud 6.0 a 7.9 --> Alto riesgo
+- Magnitud 8.0 a 10.0 --> Riesgo extremo
+
 ## Salidas
 
 Riesgo identificado y clasificado
@@ -37,7 +46,10 @@ Riesgo identificado y clasificado
 - Eric Butirón
 - Jose Carlos Pacheco
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.0
+### Versión 1.1
+- Se agrega la sección para clasificar riesgos dependiendo de su magnitud.
+
+### Versión 1.0
   - Se creó la guía.
