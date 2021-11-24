@@ -68,7 +68,7 @@ En Taro manejamos 3 tipos de validaciones con socios, estos son explicados a con
 
 - ### Discusión
 
-  Este tipo de validaciones sirven demasiado en la etapa incial de los proyectos ya que permiten al facilitador conocer los problemas reales detrás de las peticiones de los clientes, lo que le permite mejorar el entendimiento de lo que se debe de crear para satisfacer y exceder las expectativas del cliente. Estas validaciones deben de realizarse de manera seguida ya que las necesidades del usuario final nunca son estáticas.
+  Este tipo de validaciones sirven demasiado en la etapa inicial de los proyectos ya que permiten al facilitador conocer los problemas reales detrás de las peticiones de los clientes, lo que le permite mejorar el entendimiento de lo que se debe de crear para satisfacer y exceder las expectativas del cliente. Estas validaciones deben de realizarse de manera seguida ya que las necesidades del usuario final nunca son estáticas.
 
 ## Salidas
 
