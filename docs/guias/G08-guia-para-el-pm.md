@@ -34,7 +34,7 @@ en la misma dirección, siempre procurando su estabilidad tanto física como emo
 - Conocer el estado de cada uno de Frappé y Espresso para fomentar la toma de decisiones. 
 - Entrar al menos a dos juntas de cada equipo semanalmente para estar al tanto de las decisiones que toma cada equipo.
 - Pedir retroalimentación constante de los maestros y evaluadores.
-- Leer las [bibliografías recomendadas](../forma-de-trabajo) y hacer referencia a las mismas siempre que sea necesario.
+- Leer las [bibliografías recomendadas](../forma-de-trabajo/forma-de-trabajo-taro.md) y hacer referencia a las mismas siempre que sea necesario.
 - Animar y empoderar a los integrantes de Taro a poner en marcha las propuestas de mejora.
 
 ## Salidas
