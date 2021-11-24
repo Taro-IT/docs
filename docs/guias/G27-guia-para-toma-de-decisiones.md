@@ -46,7 +46,7 @@ Se debe aplicar un proceso de evaluación formal cuando la decisión:
 - Una decisión tomada/experimento se considera exitoso si:
   - Cumple con el resultado esperado establecido en su definición.
   - Supera el resultado esperado establecido en su definición.
-- Un decisión tomada/experimento se considera fallido si:
+- Una decisión tomada/experimento se considera fallido si:
   - No cumple con el resultado esperado establecido en su definición.
 ​
 ### Tiempo de evaluación
