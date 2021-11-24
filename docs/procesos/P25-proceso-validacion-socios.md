@@ -48,7 +48,7 @@
         </ul>
       </li>
       <li>Definir cualquier otra herramienta necesaria para la validación bajo la columna "Herramientas".</li>
-      <li>Si la validación tiene un alcance de "Funcionalidad" definir "Inputs" y "Outputs" para la validación de cada producto de trabajo.</li>
+      <li>Si la validación tiene la categoría de "Funcionalidad" definir "Inputs" y "Outputs" para la validación de cada producto de trabajo.</li>
       </ul>
     </td>
     <td>
