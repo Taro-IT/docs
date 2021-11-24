@@ -128,7 +128,7 @@ Si el item de trabajo a verificar es el primero que se verifica de su historia d
 ## Salidas
 
 - Producto de trabajo verificado.
-- Pull Request aprobado listo para liberación.
+- Pull Request aprobado listo para [liberación](P23-proceso-release-linea-base).
 
 ## Autores
 
