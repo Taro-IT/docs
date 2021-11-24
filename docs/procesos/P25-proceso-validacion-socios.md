@@ -20,7 +20,7 @@
     <td>1. Preparación</td>
     <td>
       <ul>
-        <li>Duplicar el <a href="https://docs.google.com/spreadsheets/d/1qlU1dm3yrt6iGMJEEK14aC9Ro99d33SdCeGvpf3zztI/edit?usp=sharing">reporte de validación</a> en la carpeta de validaciones correspondiente: <a href="https://drive.google.com/drive/folders/16ncpQ51ZNpd6tjy-koKBeN0j4hBXHQlf?usp=sharing">Frappé</a> o <a href="https://drive.google.com/drive/folders/153m6UxG5n3pG-ElVZlr6RJT_uLDoOfnb?usp=sharing">Espresso</a> y nombrarlo de la siguiente manera: VAL-[1], donde el número entre corchetes deberá de ir incrementando según las validaciones realizadas.</li>
+        <li>Duplicar el <a href="https://docs.google.com/spreadsheets/d/1qlU1dm3yrt6iGMJEEK14aC9Ro99d33SdCeGvpf3zztI/edit?usp=sharing">reporte de validación</a> en la carpeta de validaciones correspondiente: <a href="https://drive.google.com/drive/folders/16ncpQ51ZNpd6tjy-koKBeN0j4hBXHQlf?usp=sharing">Frappé</a> o <a href="https://drive.google.com/drive/folders/153m6UxG5n3pG-ElVZlr6RJT_uLDoOfnb?usp=sharing">Espresso</a> y nombrarlo de la siguiente manera: VAL-[n], donde n es el número de incrementos según las validaciones realizadas.</li>
         <li>Seleccionar los productos de trabajo a validar con el socio, documentar dicha selección bajo la columna "Productos a validar".</li>
         <li>Seguir la <a href="../guias/G29-guia-validacion-socios">guía para validación con socios</a> y por cada producto de trabajo seleccionado:
           <ul>
