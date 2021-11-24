@@ -43,7 +43,7 @@
       <li>Definir los dispositivos electrónicos necesarios para la validación y plasmarlos bajo la columna "Dispositivos".</li>
       <li>Definir el software necesario para la validación bajo la columna de "Ambiente":
         <ul>
-          <li>Si la validación tiene un alcance de "Funcionalidad", seguir el proceso de ambiente de validación del equipo correspondiente: Frappé o Espresso y documentar el software necesario en el reporte.</li>
+          <li>Si la validación tiene la categoría de "Funcionalidad", seguir el proceso de ambiente de validación del equipo correspondiente: Frappé o Espresso y documentar el software necesario en el reporte.</li>
           <li>Si la validación tiene un alcance de "Análisis", Diseño" o "Capacitación", seguir la <a href="">guía para validación con socios</a>.</li>
         </ul>
       </li>
