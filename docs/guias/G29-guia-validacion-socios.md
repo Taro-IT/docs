@@ -64,7 +64,7 @@ En Taro manejamos 3 tipos de validaciones con socios, estos son explicados a con
 
 - ### Think aloud
 
-  Este tipo de validaciones ayudan al facilitador a comprender la experiencia emocional y práctica del usuario de un sistema o componente del mismo. Esta validación requiere que el usuario exprese y explique sus pensamiento en voz alta mientras hace uso del sistema o mientras sigue un manual de usuario o tutorial.
+  Este tipo de validaciones ayudan al facilitador a comprender la experiencia emocional y práctica del usuario de un sistema o componente del mismo. Esta validación requiere que el usuario exprese y explique sus pensamientos en voz alta mientras hace uso del sistema o mientras sigue un manual de usuario o tutorial.
 
 - ### Discusión
 
