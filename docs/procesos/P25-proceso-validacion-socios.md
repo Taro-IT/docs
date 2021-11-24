@@ -40,10 +40,11 @@
     <tr>
     <td>2. Preparación de entorno</td>
     <td>
-      <li>Definir los dispositivos electrónicos necesarios para la validación y plasmarlos bajo la columna "Dispositivos".</li>
-      <li>Definir el entorno de validación bajo la columna de "Ambiente" y siguiendo la <a href="../guias/G29-guia-validacion-socios">guía para validación con socios</a>.</li>
-      <li>Definir cualquier otra herramienta necesaria para la validación bajo la columna "Herramientas".</li>
-      <li>Si la validación tiene la categoría de "Funcionalidad" definir "Inputs" y "Outputs" para la validación de cada producto de trabajo.</li>
+      <ul>
+        <li>Definir los dispositivos electrónicos necesarios para la validación y plasmarlos bajo la columna "Dispositivos".</li>
+        <li>Definir el entorno de validación bajo la columna de "Ambiente" y siguiendo la <a href="../guias/G29-guia-validacion-socios">guía para validación con socios</a>.</li>
+        <li>Definir cualquier otra herramienta necesaria para la validación bajo la columna "Herramientas".</li>
+        <li>Si la validación tiene la categoría de "Funcionalidad" definir "Inputs" y "Outputs" para la validación de cada producto de trabajo.</li>
       </ul>
     </td>
     <td>
