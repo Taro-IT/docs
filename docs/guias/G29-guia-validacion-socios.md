@@ -11,7 +11,7 @@
 
 ## ¿Cómo definir la categoría?
 
-En Taro manejamos laz cuatro categorías listadas a continuación:
+En Taro manejamos las cuatro categorías listadas a continuación:
 
 - ### Análisis
 
