@@ -103,7 +103,7 @@
       <ul>
         <li>Definir bajo la columna "¿Cumple?" si los resultados obtenidos eran los resultados esperados.</li>
         <li>Si no eran los resultados esperados, analizar e identificar la causa y el origen de dicha desviación entre lo esperado y lo obtenido.</li>
-        <li>Registrar los defectos identificados en el defect log de <a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=136918999">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=193018758">Espresso</a> según corresponda, siguiendo la <a href="https://taro-it.github.io/docs/guias/G16-guia-registrar-defectos">guia para registrar defectos</a>.</li>
+        <li>Registrar los defectos identificados en el defect log de <a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=136918999">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=193018758">Espresso</a> según corresponda, siguiendo la <a href="https://taro-it.github.io/docs/guias/G16-guia-registrar-defectos">guía para registrar defectos</a>.</li>
         <li>Seguir el <a href="https://taro-it.github.io/docs/procesos/P19-proceso-atender-retro">proceso para atender retroalimentación</a> con los comentarios realizados por los socios.</li>
         <li>Si se identificó alguna mejora en la forma de trabajo para evitar los defectos o desviaciones encontradas, seguir el <a href="https://taro-it.github.io/docs/procesos/P24-proceso-mejora-continua">proceso de mejora continua</a>.</li>
       </ul>
