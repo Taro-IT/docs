@@ -19,7 +19,9 @@ Un release de la wiki se debe de hacer cuando se cumpla **una** de las siguiente
 1. Hacer merge de dev a main del proyecto que se quiere hacer el release.
 
 2. Entrar a [Taro-IT/docs](https://github.com/Taro-IT/docs "Taro-IT/docs"), [Taro-IT/Espresso_doc](https://github.com/Taro-IT/Espresso_doc "Taro-IT/Espresso_doc") ó [Taro-IT/frappe](https://github.com/Taro-IT/frappe "Taro-IT/frappe") y dar clic en **Create a new release**.
+
 ![image](../../static/img/guias/G27/g27-img-1.png)
+
 3. Dar clic en **choose a tag** y escribir la versión del release siguiendo la _.
 ![image](../../static/img/guias/G27/g27-img-2.png)
 4. Dar clic en **create a new tag**.
