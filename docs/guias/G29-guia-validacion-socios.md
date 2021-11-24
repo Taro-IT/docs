@@ -29,7 +29,7 @@ Dentro de la categoría de diseño se encuentran los productos de trabajo tales 
 
 Para validaciones de diseño se recomienda el método de tipo "Demo" para que la retroalimentación de los socios formadores sea de mayor valor ya que tendrán la oportunidad de ver a detalle lo propuesto y enfocarse en validar que el producto de trabajo cumple con lo esperado.
 
-Para validaciones de interfaces en un entorno de desarrollo o de producción se recomienda ampliamente utilizar dispositivos eléctronicos de distintos tamaños (teléfono celular, ordenador portátil, tablet, etc.) para validar que las interfaces son responsivas. 
+Para validaciones de interfaces en un entorno de desarrollo o de producción se recomienda ampliamente utilizar dispositivos electrónicos de distintos tamaños (teléfono celular, ordenador portátil, tablet, etc.) para validar que las interfaces son responsivas. 
 
 - Si es una interfaz implementada, poner bajo la columna de "Entorno" el ambiente (producción o  desarrollo), la URL del sistema y el navegador (Chrome, Edge,  Safari). Si no, poner el valor de "No aplica".
 
