@@ -47,7 +47,7 @@
           <li>Si la validación tiene un alcance de "Análisis", Diseño" o "Capacitación", seguir la <a href="">guía para validación con socios</a>.</li>
         </ul>
       </li>
-      <li>Definir cualquier otra herramienta necesaria para la validación bajo la columna "Otras".</li>
+      <li>Definir cualquier otra herramienta necesaria para la validación bajo la columna "Herramientas".</li>
       <li>Si la validación tiene un alcance de "Funcionalidad" definir "Inputs" y "Outputs" para la validación de cada producto de trabajo.</li>
       </ul>
     </td>
