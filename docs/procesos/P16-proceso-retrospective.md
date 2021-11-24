@@ -114,6 +114,7 @@
       </td>
       <td>
         <ul>
+          <li>RKM - 1.3</li>
           <li>RKM - 3.2</li>
           <li>PP - 2.2</li>
         </ul>
@@ -135,18 +136,20 @@
 ## Auditoría
 - Raúl Rosario Sandoval Galaviz
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.3
+### Versión 1.4
+- Se agrega la práctica 1.3 de RKM.
+### Versión 1.3
 - Se agregó revisar el Plan de conocimiento.
 
-## Versión 1.2
+### Versión 1.2
 - Se cambió la salida a "retroalimentación de retrospectiva".
 
-## Versión 1.1
+### Versión 1.1
 - Se añadió el link a la matriz de retrospectivas.
 
-## Versión 1.0
+### Versión 1.0
 - Se creó el proceso.
 
 
