@@ -67,7 +67,7 @@
         <li>Si el método es "Demo": 
           <ul>
             <li>Definir si la demostración será en vivo o grabada bajo la columna "Tipo".</li>
-            <li>Si la demo será en vivo, preparar el entorno en el dispositivo eléctronico adecuado, diez minutos antes de la reunión con socios.</li>
+            <li>Si la demo será en vivo, preparar el entorno en el dispositivo electrónico adecuado, diez minutos antes de la reunión con socios.</li>
             <li>Si la demo será grabada, grabar con anticipación el video y tenerlo listo para su reproducción cinco minutos antes de la reunión con socios.</li>
             <li>Llevar a cabo la demostración de los productos de trabajo.</li>
           </ul>
