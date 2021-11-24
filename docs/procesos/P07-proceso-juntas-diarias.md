@@ -9,7 +9,7 @@
 ## Entradas
 
 - La junta diaria agendada siguiendo el [proceso de juntas](https://taro-it.github.io/docs/procesos/P01-proceso-juntas-departamentales).
-- Las tareas en la herramienta de seguimiento designadas durante la [planificación de la iteración](https://taro-it.github.io/docs/procesos/P12-proceso-planeacion-de-iteracion).
+- Las tareas en la herramienta de seguimiento designada durante la [planificación de la iteración](https://taro-it.github.io/docs/procesos/P12-proceso-planeacion-de-iteracion).
 
 ## Procedimiento
 
@@ -35,8 +35,8 @@
 
 ## Salida
 
-- Lista de bloqueos a atender siguiendo el _proceso para convertir retroalimentación a work items_.
-- Work items del día asignados para seguir el _proceso de pair programming_.
+- [Retroalimentación](https://taro-it.github.io/docs/procesos/P19-proceso-atender-retro) de la junta diaria.
+- Work items del día asignados para seguir el [proceso de trabajo en parejas](https://taro-it.github.io/docs/procesos/P17-proceso-trabajo-parejas).
 
 ## Autores
 
