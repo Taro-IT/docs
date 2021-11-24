@@ -125,7 +125,7 @@
 
 ## Autores
 
-- María de los Angeles Contreras Anaya
+- María de los Ángeles Contreras Anaya
 
 ## Auditoría
 
