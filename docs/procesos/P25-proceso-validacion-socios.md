@@ -24,7 +24,7 @@
         <li>Seleccionar los productos de trabajo a validar con el socio, documentar dicha selección bajo la columna "Productos a validar".</li>
         <li>Seguir la <a href="../guias/G29-guia-validacion-socios">guía para validación con socios</a> y por cada producto de trabajo seleccionado:
           <ul>
-            <li>Identificar el alcance de la validación y documentarlo bajo la columna "Alcance".</li>
+            <li>Identificar la categoría de la validación y documentarlo bajo la columna "Categoría".</li>
             <li>Enlistar los criterios de aceptación bajo la columna "Criterios".</li>
             <li>Definir el método de validación y plasmarlo bajo la columna "Método".</li>
           </ul>
