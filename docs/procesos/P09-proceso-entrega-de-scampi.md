@@ -119,10 +119,11 @@
       </td>
       <td rowspan="2">
         <ul>
-          <li>OPF - 1.2</li>
           <li>VAL - 2.1</li>
           <li>VAL - 2.2</li>
           <li>PPQA - 2.1</li>
+          <li>OPF - 1.2</li>
+          <li>OPF - 3.3</li>
         </ul>
       </td>
     </tr>
