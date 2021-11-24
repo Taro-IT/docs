@@ -76,7 +76,7 @@ En Taro manejamos 3 tipos de validaciones con socios, estos son explicados a con
 
 ## Autores
 
-- María de los Angeles Contreras Anaya
+- María de los Ángeles Contreras Anaya
 
 ## Auditoría
 
