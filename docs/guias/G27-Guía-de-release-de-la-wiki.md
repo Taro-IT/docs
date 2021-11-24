@@ -9,7 +9,7 @@
 
 - Todas las políticas, procesos y guías deben de tener el estado _controlado_ o _estático_ dentro de la [matriz de configuración](https://docs.google.com/spreadsheets/d/13zfQpqBBmqAT_znf1N4ebV_jcLBpeh_gjq9eHpkdOhk/edit?usp=sharing "matriz de configuración") que corresponda. 
 
-## ¿Cuando hacer un realise de la wiki?
+## ¿Cuándo hacer un realise de la wiki?
 Un release de la wiki se debe de hacer cuando se cumpla **una** de las siguientes condiciones:
 - Se va a tener una revisión SCAMPI en los próximos días.
 - Se va a hacer una presentación de avance en los próximos días.
