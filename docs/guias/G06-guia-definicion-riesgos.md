@@ -26,10 +26,10 @@ Un riesgo es aquel problema que pueda producir un contratiempo en alguna de las 
 
 Los riesgos se clasifican dependiendo de su magnitud de acuerdo a la siguiente lista:
 
-- Magnitud 0.0 a 3.9 --> Bajo riesgo
-- Magnitud 4.0 a 5.9 --> Riesgo medio
-- Magnitud 6.0 a 7.9 --> Alto riesgo
-- Magnitud 8.0 a 10.0 --> Riesgo extremo
+- Magnitud 0.0 a 3.9 --> Riesgo bajo (Supone un problema fácil de solucionar o buscar alternativas)
+- Magnitud 4.0 a 5.9 --> Riesgo medio (Retrasa el desarrollo de una iteración)
+- Magnitud 6.0 a 7.9 --> Riesgo alto (Retrasa el desarrollo del proyecto)
+- Magnitud 8.0 a 10.0 --> Riesgo extremo (Exige cambiar el alcance del proyecto)
 
 ## Salidas
 
