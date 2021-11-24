@@ -37,6 +37,8 @@
           <li>VER 1.3</li>
           <li>VAL 1.2</li>
           <li>VAL 1.3</li>
+          <li>OPF 1.1</li>
+          <li>OPF 1.2</li>
         </ul>
       </td>
     </tr>
@@ -67,6 +69,7 @@
           <li>VER 2.2</li>
           <li>VER 3.1</li>
           <li>VAL 2.1</li>
+          <li>OPF 1.2</li>
         </ul>
       </td>
     </tr>
@@ -107,6 +110,9 @@
           <li>PPQA 2.2</li>
           <li>VER 3.2</li>
           <li>VAL 2.2</li>
+          <li>OPF 1.1</li>
+          <li>OPF 1.2</li>
+          <li>OPF 3.3</li>
         </ul>
       </td>
     </tr>

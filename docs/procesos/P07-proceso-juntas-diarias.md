@@ -9,7 +9,7 @@
 ## Entradas
 
 - La junta diaria agendada siguiendo el [proceso de juntas](https://taro-it.github.io/docs/procesos/P01-proceso-juntas-departamentales).
-- Las tareas en la herramienta de seguimiento designadas durante la [planificación de la iteración](https://taro-it.github.io/docs/procesos/P12-proceso-planeacion-de-iteracion).
+- Las tareas en la herramienta de seguimiento designada durante la [planificación de la iteración](https://taro-it.github.io/docs/procesos/P12-proceso-planeacion-de-iteracion).
 
 ## Procedimiento
 
@@ -25,7 +25,7 @@
 | 2. Trabajo realizado. | <ul><li>La persona en turno responde a la pregunta: ¿Qué hice ayer?</li><li>La persona con rol de Team Leader revisa que los work items mencionados por la persona en turno como finalizados tengan el registro del costo real y fecha de terminación real en la herramienta de seguimiento. Si dicha información no está presente, la persona en turno deberá registrarla.</li><li>La persona con rol de Team Leader le da seguimiento a los impedimentos, bloqueos o aspectos del día anterior.</li></ul>  | <ul><li>PMC - 1.1</li><li>PMC - 1.2</li><li>PMC - 1.4</li><li>PMC - 1.6</li><li>PMC - 2.3</li><li>M&A - 2.1</li><li>M&A - 2.3</li></ul> |
 | 3. Asignación de work items. | <ul><li>La persona en turno responde a la pregunta: ¿Qué voy a hacer hoy?</li><li>La persona en turno junto con la persona con rol de  Team Leader verifican que la respuesta vaya de acuerdo a la disponibilidad de tiempos del integrante marcada en la matriz de disponibilidad.</li><li>La persona con rol de Team Leader modifica la fecha planeada de los work items de acuerdo a la respuesta del integrante del equipo.</li></ul> | <ul><li>PMC - 1.1</li><li>PMC - 1.2</li><li>PMC - 1.6</li><li>RM - 1.2</li><li>PP - 3.2</li><li>PP - 3.3</li><li>VER - 3.1</li></ul> |
 | 4. Identificación de impedimentos, bloqueos o aspectos. | <ul><li>La persona en turno responde a la pregunta: ¿Tengo algún impedimento/bloqueo/aspecto?</li><li>La persona con rol de Team Leader toma nota de los impedimentos, bloqueos o aspectos, para darles seguimiento después de la junta diaria.  **Nota: Si el impedimento, bloqueo o aspecto se puede resolver de manera inmediata, se resolverá.** </li></ul> | <ul><li>PMC - 1.4</li><li>PMC - 1.6</li><li>PMC - 2.1</li><li>PMC - 2.2</li><li>PP - 2.1</li></ul> |
-| 5. Revisar estado de la iteración. | <ul><li>La persona con el rol de Team Leader guía al equipo para analizar, (de acuerdo con el [proceso de análisis de métricas](https://taro-it.github.io/docs/procesos/P22-proceso-analisis-metricas), el valor planeado y ganado, el costo planeado y real, el CPI, el SPI y la efectividad diaria para mostrar el estado de la iteración.</li><li>Si hubo progreso y/o mejora se felicita al equipo. De lo contrario se toman decisiones para corregir las desviaciones encontradas en el plan de la iteración, siguiendo el [proceso de toma de decisiones](https://taro-it.github.io/docs/procesos/P20-proceso-toma-de-decisiones).</li></ul> | <ul><li>PMC - 1.1</li><li>PMC - 1.4</li><li>PMC - 1.6</li><li>M&A - 2.2</li></ul> |
+| 5. Revisar estado de la iteración. | <ul><li>La persona con el rol de Team Leader guía al equipo para analizar, (de acuerdo con el [proceso de análisis de métricas](https://taro-it.github.io/docs/procesos/P22-proceso-analisis-metricas), el valor planeado y ganado, el costo planeado y real, el CPI, el SPI y la efectividad diaria para mostrar el estado de la iteración.</li><li>Revisar el estado de cada una de las [decisiones activas](https://docs.google.com/spreadsheets/d/1VfGH0x5rURBKiXvmC0vpmr9f11dtOssSHuqzyoRvj-w/edit#gid=0) de la iteración.</li><li>Si hubo progreso y/o mejora se felicita al equipo. De lo contrario se <a href="./P20-proceso-toma-de-decisiones">toman decisiones</a>  para corregir las desviaciones encontradas en el plan de la iteración.</li></ul> | <ul><li>PMC - 1.1</li><li>PMC - 1.4</li><li>PMC - 2.2</li><li>PMC - 2.3</li><li>PMC - 1.6</li><li>M&A - 2.2</li></ul> |
 
 :::note
 
@@ -35,8 +35,8 @@
 
 ## Salida
 
-- Lista de bloqueos a atender siguiendo el _proceso para convertir retroalimentación a work items_.
-- Work items del día asignados para seguir el _proceso de pair programming_.
+- [Retroalimentación](https://taro-it.github.io/docs/procesos/P19-proceso-atender-retro) de la junta diaria.
+- Work items del día asignados para seguir el [proceso de trabajo en parejas](https://taro-it.github.io/docs/procesos/P17-proceso-trabajo-parejas).
 
 ## Autores
 

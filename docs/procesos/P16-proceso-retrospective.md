@@ -21,13 +21,13 @@
     <tr>
       <td>Preparación</td>
       <td>
-        <ol align="left">
+        <ul align="left">
           <li>Entrar a <a href="https://easyretro.io">EasyRetro</a> y haz click en "Get started for free". Elige el plan gratuito.</li>
           <li>En el dashboard, hacer click en "Add board" para crear un nuevo tablero. </li>
           <li>Nombrar el tablero "Retrospectiva SP[# iteración], permite 5 votos por participante y haz habilita las opciones de "Hide cards initially", "Disable voting initially" </li>
           <li>Agregar las columnas Start doing, Continue doing, Stop doing y Kudos. Haz click en "Create".</li>
           <li>Añadir el link del tablero a la <a href="https://docs.google.com/spreadsheets/d/1uYSPo966wNlzTGg_xeQxHO8dOu2z2sIsBVoq0DF8umo/edit#gid=53563502">Matriz de Retrospectives</a>.</li>
-        </ol>
+        </ul>
       </td>
       <td>
         <ul>
@@ -39,13 +39,13 @@
     <tr>
       <td>Ejecución</td>
       <td>
-        <ol align="left">
+        <ul align="left">
           <li>Enviar el link del tablero a los participantes</li>
           <li>Iniciar un timer de 3 minutos </li>
           <li>Sin compartir la pantalla, los participantes deben usar el tiempo para agregar la mayor cantidad de tarjetas en la columna de <b>Start Doing</b>. Cada tarjeta debe contener ideas de prácticas que cada quién considere que se deben hacer la siguiente iteración. Los participantes no pueden ver las tarjetas que escriban los demás. <br/>
           El formato para estas tarjetas es el siguiente: <i>"Actualmente tenemos X medición, si hacemos Y práctica obtendremos Z medición"</i></li>
           <li>Repetir el paso 2 y 3 para las columnas restantes. <br/>La columna <b>Stop Doing</b> se llena con actividades o prácticas que cada quién considera que deben de dejar de hacerse la siguiente iteración; la columna <b>Continue Doing</b> con aquellas que deban continuarse ejecutando la siguiente iteración. <br/>Finalmente, la columna de <b>Kudos</b> está dedicada a hacer menciones y reconocimientos, confetti y fiesta a prácticas, actividades o miembros de la iteración.</li>
-        </ol>
+        </ul>
       </td>
       <td>
          <ul>
@@ -57,11 +57,11 @@
     <tr>
       <td>Revisión</td>
       <td>
-        <ol align="left">
+        <ul align="left">
           <li>En la parte de ajustes (en la esquina superior derecha) quitar la opción de "hide cards" para revelar a todos las tarjetas que cada quien haya creado.</li>
           <li>Compartir pantalla para que entre todos revisen cada tarjeta de cada columna. Siempre que dos tarjetas de una misma columna traten del mismo tema, se deben mezclar arrastrando una encima de la otra. No olvides felicitar a todos en la columna de <b>Kudos</b></li>
           <li>Deselecciona la opción de "Disable voting" en los ajustes e inicia un timer de 3 minutos, entre todos voten por las cinco tarjetas (o mezclas de tarjetas) más importantes sin importar la columna en la que se encuentren a excepción de la de <b>Kudos</b>.</li>
-        </ol>
+        </ul>
       </td>
       <td>
         <ul>
@@ -72,11 +72,11 @@
     <tr>
       <td>Toma de decisiones</td>
       <td>
-        <ol align="left">
+        <ul align="left">
           <li>Colaborativamente, revisar cuáles tarjetas fueron las más votadas y con ellas, dependiendo de su naturaleza, creen work items o tareas que les permitan cumplirlas en la siguiente iteración.</li>
           <li>Asignar responsables a cada tarea generada.</li>
           <li>Actualizar y revisar el desarrollo de los conocimientos de los miembros del equipo, revisando el Plan de Conocimiento (<a href="https://docs.google.com/spreadsheets/d/1apm2rf-SeUr98bcvCvpQWw3tVGw_1DbVuX9hrJUtZAI/edit#gid=591264054">Departamental</a>, <a>Frappé</a> o <a href="https://docs.google.com/spreadsheets/d/1wBHX1wWpZCr4ZRSE9mcigphbNoGlARHHlWkyXqQczD0/edit#gid=0">Espresso</a>).</li>
-        </ol>
+        </ul>
       </td>
       <td>
         <ul>
@@ -91,25 +91,30 @@
     <tr>
       <td>Análisis de métricas</td>
       <td>
-        <ol align="left">
+        <ul align="left">
           <li>En equipo y con una persona compartiendo su pantalla, revisar los resultados de las métricas relacionadas con la iteración anterior y analizarlas usando el <a href="https://taro-it.github.io/docs/procesos/P22-proceso-analisis-metricas">proceso de análisis de métricas</a>.</li>
-        </ol>
+          <li>Revisar el estado de cada una de las [decisiones activas](https://docs.google.com/spreadsheets/d/1VfGH0x5rURBKiXvmC0vpmr9f11dtOssSHuqzyoRvj-w/edit#gid=0) de la iteración.</li>
+        </ul>
       </td>
       <td>
         <ul>
           <li>M&A - 2.2</li>
+          <li>PMC - 2.2</li>
+          <li>PMC - 2.3</li>
         </ul>
       </td>
     </tr>
      <tr>
       <td>Seguimiento de riesgos</td>
       <td>
-        <ol align="left">
+        <ul align="left">
           <li>Colaborativamente, revisar los riesgos del plan del equipo, y evalúen si ya se mitigaron algunos, si hay que agregar nuevos o si hay que comenzar a aplicar los planes de mitigación o de contingencia.</li>
-        </ol>
+          <li>Colaborativamente, revisar las decisiones activas, y evalúen si ya se mitigaron algunos, si hay que agregar nuevos o si hay que comenzar a aplicar los planes de mitigación o de contingencia.</li>
+        </ul>
       </td>
       <td>
         <ul>
+          <li>RKM - 1.3</li>
           <li>RKM - 3.2</li>
           <li>PP - 2.2</li>
         </ul>
@@ -120,7 +125,7 @@
 
 ## Salidas
 
-- Retroalimentación de retrospectiva.
+- [Retroalimentación](https://taro-it.github.io/docs/procesos/P19-proceso-atender-retro) de retrospectiva.
 
 ## Autores
 
@@ -131,18 +136,20 @@
 ## Auditoría
 - Raúl Rosario Sandoval Galaviz
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.3
+### Versión 1.4
+- Se agrega la práctica 1.3 de RKM.
+### Versión 1.3
 - Se agregó revisar el Plan de conocimiento.
 
-## Versión 1.2
+### Versión 1.2
 - Se cambió la salida a "retroalimentación de retrospectiva".
 
-## Versión 1.1
+### Versión 1.1
 - Se añadió el link a la matriz de retrospectivas.
 
-## Versión 1.0
+### Versión 1.0
 - Se creó el proceso.
 
 

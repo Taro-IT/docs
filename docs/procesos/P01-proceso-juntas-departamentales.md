@@ -80,12 +80,15 @@
     </td>
     <td>
       <ul>
+        <li>PP - 2.2</li>
         <li>PP - 2.6</li>
         <li>PP - 3.2</li>
         <li>PP - 3.3</li>
         <li>PMC - 1.3</li>
         <li>PMC - 1.5</li>
         <li>PMC - 1.6</li>
+        <li>RKM - 1.3</li>
+        <li>RKM - 3.2</li>
       </ul>
     </td>
   </tr>
@@ -121,6 +124,8 @@
 
 # Bitácora de cambios
 
+## Versión 1.4
+- Se agregan las prácticas de RKM en la fase de ejecución.
 ## Versión 1.3
 - Se hizo un refactor de todo el proceso
 - Se añadió el seguimiento de compromisos de Taro
