@@ -41,10 +41,9 @@
     <td>2. Preparación de entorno</td>
     <td>
       <li>Definir los dispositivos electrónicos necesarios para la validación y plasmarlos bajo la columna "Dispositivos".</li>
-      <li>Definir el software necesario para la validación bajo la columna de "Ambiente":
+      <li>Definir el entorno de validación bajo la columna de "Ambiente" y siguiendo la <a href="../guias/G29-guia-validacion-socios">guía para validación con socios</a>:
         <ul>
-          <li>Si la validación tiene la categoría de "Funcionalidad", seguir el proceso de ambiente de validación del equipo correspondiente: Frappé o Espresso y documentar el software necesario en el reporte.</li>
-          <li>Si la validación tiene la categoría de "Análisis", Diseño" o "Capacitación", seguir la <a href="">guía para validación con socios</a>.</li>
+          <li>Si la validación tiene la categoría de "Funcionalidad", seguir el proceso de ambiente de validación del equipo correspondiente: Frappé o Espresso.</li>
         </ul>
       </li>
       <li>Definir cualquier otra herramienta necesaria para la validación bajo la columna "Herramientas".</li>
