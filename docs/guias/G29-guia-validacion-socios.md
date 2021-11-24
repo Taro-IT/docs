@@ -8,6 +8,7 @@
 ## Pre-requisitos
 
 - Producto de trabajo seleccionado para la validación.
+- [Plantilla de reporte de validación](https://docs.google.com/spreadsheets/d/1qlU1dm3yrt6iGMJEEK14aC9Ro99d33SdCeGvpf3zztI/edit?usp=sharing).
 
 ## ¿Cómo definir la categoría?
 
