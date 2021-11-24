@@ -63,7 +63,7 @@ Nuestro mapa de procesos se encuentra [aquí](https://drive.google.com/file/d/1D
 
 La versión más reciente se ve así:
 
-![Mapa de Procesos](../../static/img/mapa-procesos-3.PNG)
+![Mapa de Procesos](../../static/img/mapa-procesos-3.png)
 
 ## Ciclo de vida DAD
 
