@@ -8,9 +8,23 @@
 
 - Situación identificada que requiere de una toma de decisión.
 
-## ¿Qué es una decisión?
+## Decisión
 
 Una *decisión* es la determinación para actuar ante una situación que presenta varias alternativas.
+
+## Experimento
+​
+- Se define como un experimento a cualquier decisión correctiva tomada dada una desviación en el plan o cualquier decisión exploratoria para facilitar la mejora de la forma de trabajo.
+​
+### Características
+​
+- Todo experimento tiene las siguientes características:
+  - Análisis: Se identifica el problema o la causa que lleva a la definición del experimento después de realizar un análisis de métricas siguiendo el [proceso de análisis de métricas](../procesos/P22-proceso-analisis-metricas).
+  - Decisión: Se toma una decisión tras llevar a cabo el [proceso de toma de decisiones](../procesos/P20-proceso-toma-de-decisiones).
+  - Resultado esperado: Donde se describe que se espera obtener de la ejecución del experimento.
+  - Fecha de reporte: Donde se plasma la fecha en la que se identificó la necesidad de un toma de decisión.
+  - Resultado real: Usando el [proceso de análisis de métricas](../procesos/P22-proceso-analisis-metricas), documentar el resultado obtenido.
+  - Fecha de aplicación: Fecha donde se implementa el experimento.
 
 ## ¿Qué es un proceso de evaluación formal?
 
@@ -27,6 +41,17 @@ Se debe aplicar un proceso de evaluación formal cuando la decisión:
 - Tiene un impacto mayor en costo que el costo del proceso de evaluación formal.
 - Está ligada a una obligación legal.
 
+### Criterios de éxito
+​
+- Una decisión tomada/experimento se considera exitoso si:
+  - Cumple con el resultado esperado establecido en su definición.
+  - Supera el resultado esperado establecido en su definición.
+- Un decisión tomada/experimento se considera fallido si:
+  - No cumple con el resultado esperado establecido en su definición.
+​
+### Tiempo de evaluación
+​
+- El intervalo de tiempo para evaluar la efectividad de la decisión tomada/experimento deberá de ser entre una semana hasta la duración total de un sprint.
 ## Salidas
 
 - Toma de decisión informada.
