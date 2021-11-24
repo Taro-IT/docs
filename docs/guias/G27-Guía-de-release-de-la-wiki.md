@@ -23,17 +23,29 @@ Un release de la wiki se debe de hacer cuando se cumpla **una** de las siguiente
 ![image](../../static/img/guias/G27/g27-img-1.png)
 
 3. Dar clic en **choose a tag** y escribir la versión del release siguiendo la _.
+
 ![image](../../static/img/guias/G27/g27-img-2.png)
+
 4. Dar clic en **create a new tag**.
+
 ![image](../../static/img/guias/G27/g27-img-3.png)
+
 5. Seleccionar la rama de la que se quiere hacer un release.
+
 ![image](../../static/img/guias/G27/g27-img-4.png)
+
 6. Escribir o generar las notas del release.
+
 ![image](../../static/img/guias/G27/g27-img-5.png)
+
 7. Dar clic en **Publish release** si se quiere publicar el release ó S**ave draft** si se quiere trabajar luego. 
+
 ![image](../../static/img/guias/G27/g27-img-6.png)
+
 8. Si se dió clic en **Publish release** ya se puede ver el release en el feed de releases de Github. 
+
 ![image](../../static/img/guias/G27/g27-img-7.png)
+
 ## Salidas
 
 - Release de la wiki.
