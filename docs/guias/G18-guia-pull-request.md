@@ -6,7 +6,7 @@
 
 ## Prerrequisito(s)
 
-- Contar con work item nuevo o correcciones a un work item, siguiendo la [guía de manejo de ramas](G12-guia-para-manejo-de-ramas).
+- Contar con work item nuevo o correcciones a un work item, siguiendo la [guía de manejo de ramas](https://taro-it.github.io/docs/guias/G12-guia-para-manejo-de-ramas).
 - Acceso al repositorio correspondiente ([Taro](https://github.com/Taro-IT/docs), [Espresso](https://github.com/Taro-IT/Espresso), [Frappé](https://github.com/Taro-IT/frappe)).
 
 ## Pasos a seguir

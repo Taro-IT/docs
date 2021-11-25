@@ -22,7 +22,7 @@
     <td>1. Notificación</td>
     <td>
       <ul>
-        <li>Realizar petición de junta indicando la fecha de la misma durante la reunión de planeación de horarios departamental (reunión recurrente los días jueves de 10:45 a 11:30 agendada siguiendo la guía <a href="../guias/G01-guia-para-agendar-juntas">correspondiente</a>) o a través del canal de Slack #taro-general.</li>
+        <li>Realizar petición de junta indicando la fecha de la misma durante la reunión de planeación de horarios departamental (reunión recurrente los días jueves de 10:45 a 11:30 agendada siguiendo la guía <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">correspondiente</a>) o a través del canal de Slack #taro-general.</li>
         <li>Durante la planeación de horarios decidir el horario para dicha junta teniendo en cuenta la disponibilidad de los integrantes de Taro para garantizar la asistencia de la mayoría.</li>
       </ul>
     </td>
@@ -37,7 +37,7 @@
     <td>2. Formalización</td>
     <td>
       <ul>
-        <li>Crear un evento en el calendario virtual haciendo uso de la <a href="../guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>, de tal modo que le llegue una invitación a todos los interesados.</li>
+        <li>Crear un evento en el calendario virtual haciendo uso de la <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>, de tal modo que le llegue una invitación a todos los interesados.</li>
       </ul>
     </td>
     <td>
@@ -50,7 +50,7 @@
     <td>3. Preparación</td>
     <td>
       <ul>
-        <li>Generar una <a href="../plantillas/PL01-plantilla-para-minutas">minuta</a> dentro de la carpeta <a href="https://drive.google.com/drive/folders/1SuxSp22ltngtlSmymEWx_6vEoKlnA_uR?usp=sharing">correspondiente</a> y nombrar de la siguiente forma: [#_minuta]-TARO-[DD]-[MM]-[AA]. Ejemplo: 003-TARO-16-11-21.</li>
+        <li>Generar una <a href="https://taro-it.github.io/docs/plantillas/PL01-plantilla-para-minutas">minuta</a> dentro de la carpeta <a href="https://drive.google.com/drive/folders/1SuxSp22ltngtlSmymEWx_6vEoKlnA_uR?usp=sharing">correspondiente</a> y nombrar de la siguiente forma: [#_minuta]-TARO-[DD]-[MM]-[AA]. Ejemplo: 003-TARO-16-11-21.</li>
         <li>Asignar un responsable de la junta (el responsable de la junta se encarga de llenar la minuta y liderar la junta), si se hizo una petición de junta esa persona deberá de ser el responsable, si no, designar a alguno de los PM como responsable.</li>
         <li>Llenar el campo "Asunto" especificando las razones y objetivos de la junta.</li>
         <li>Especificar la fecha, hora de inicio, hora de termino y lugar en que se realizará la junta dentro de la sección "Datos de la Reunión".</li>

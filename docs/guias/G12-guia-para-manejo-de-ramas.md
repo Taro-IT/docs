@@ -93,7 +93,7 @@ git push origin feature/finance/invoice-payments
 
 </pre></code>
 
-- Seguir la [guía para realizar un pull request](G18-guia-pull-request).
+- Seguir la [guía para realizar un pull request](https://taro-it.github.io/docs/guias/G18-guia-pull-request).
 
 - Una vez aprobado el pull request, eliminar la rama local sobre la que se estaba trabajando desde la UI de GitHub.
 

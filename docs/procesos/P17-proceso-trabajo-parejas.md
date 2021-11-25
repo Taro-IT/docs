@@ -8,8 +8,8 @@
 
 ## Entradas
 
-- Work item definido en el [plan de la iteración](./P12-proceso-planeacion-de-iteracion).
-- Pareja definida y plan actualizado en la [junta diaria](./P07-proceso-juntas-diarias).
+- Work item definido en el [plan de la iteración](https://taro-it.github.io/docs/procesos/P12-proceso-planeacion-de-iteracion).
+- Pareja definida y plan actualizado en la [junta diaria](https://taro-it.github.io/docs/procesos/P07-proceso-juntas-diarias).
 
 ## Procedimiento
 
@@ -79,13 +79,13 @@
 
 :::note
 
-Si la subtarea en la que se va a trabajar involucra escribir código, se debe seguir la [guía para manejo de ramas](../guias/G12-guia-para-manejo-de-ramas).
+Si la subtarea en la que se va a trabajar involucra escribir código, se debe seguir la [guía para manejo de ramas](https://taro-it.github.io/docs/guias/G12-guia-para-manejo-de-ramas).
 
 :::
 
 ## Salidas
 
-- Subtarea lista para seguir el [proceso de revisión](P21-proceso-verificacion-items).
+- Subtarea lista para seguir el [proceso de revisión](https://taro-it.github.io/docs/procesos/P21-proceso-verificacion-items).
 
 ## Autores
 

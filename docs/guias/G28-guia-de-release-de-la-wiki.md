@@ -24,7 +24,7 @@ Un release de la wiki se debe de hacer cuando se cumpla **una** de las siguiente
 
 ![image](../../static/img/guias/G27/g27-img-1.png)
 
-3. Dar clic en **choose a tag** y escribir la versión del release siguiendo la [guía de manejo de configuración](./G11-guia-manejo-de-configuracion).
+3. Dar clic en **choose a tag** y escribir la versión del release siguiendo la [guía de manejo de configuración](https://taro-it.github.io/docs/guias/G11-guia-manejo-de-configuracion).
 
 ![image](../../static/img/guias/G27/g27-img-2.png)
 

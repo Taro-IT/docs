@@ -23,7 +23,7 @@
       <td>Diálogo</td>
       <td>
         <ul align="left">
-        Tomar como referencia la <a href="../guias/G13-guia-resolucion-conflictos">guía de resolución de conflictos y seguir los pasos listados a continuación:</a>
+        Tomar como referencia la <a href="https://taro-it.github.io/docs/guias/G13-guia-resolucion-conflictos">guía de resolución de conflictos y seguir los pasos listados a continuación:</a>
         <li>Reunirse con la persona del conflicto. Describir la situación y el sentimiento que genera.</li>
         <li>Pedir la acción concreta que se desea de la otra persona.</li>
         <li>Preguntar a la otra persona si desea una acción concreta de mi parte.</li>

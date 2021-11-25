@@ -38,11 +38,11 @@ sidebar_position: 1
 
 <p>De tal forma que Taro mantenga un estándar, la forma de trabajo para los proyectos se dará de la siguiente manera:</p>
 
-- Tener [juntas diarias](./procesos/P07-proceso-juntas-diarias) las cuales permitirán al equipo actualizar el estado del proyecto y poder mejorar la forma de trabajo, se pueden utilizar las preguntas guía para identificar puntos importantes (¿Dónde estamos?¿Dónde deberíamos estar?¿Cuánto nos ha costado?).
-- La [gestión](./procesos/P10-proceso-de-trazabilidad-de-requerimiento) y [toma de requisitos](./procesos/P05-proceso-requisitos) de un proyecto deberá estar definida, incluyendo un control de cambios de los mismos en donde se pueda mantener la trazabilidad.
+- Tener [juntas diarias](https://taro-it.github.io/docs/procesos/P07-proceso-juntas-diarias) las cuales permitirán al equipo actualizar el estado del proyecto y poder mejorar la forma de trabajo, se pueden utilizar las preguntas guía para identificar puntos importantes (¿Dónde estamos?¿Dónde deberíamos estar?¿Cuánto nos ha costado?).
+- La [gestión](https://taro-it.github.io/docs/procesos/P10-proceso-de-trazabilidad-de-requerimiento) y [toma de requisitos](https://taro-it.github.io/docs/procesos/P05-proceso-requisitos) de un proyecto deberá estar definida, incluyendo un control de cambios de los mismos en donde se pueda mantener la trazabilidad.
 - Realizar inspecciones de código frecuentes para asegurarse que la implementación cumpla con los estándares establecidos por el equipo, y encontrar defectos para que puedan ser corregidos y mitigados.
-- [Definir correctamente el WBS](./guias/G07-guia-wbs) y actualizarlo constantemente para poder
-- Definir los [criterios para finalizar](./checklists/CH04-checklist-definition-of-done) un requisito funcional, para tener claro lo que se tiene que cumplir antes de dar por terminado un requisito.
+- [Definir correctamente el WBS](https://taro-it.github.io/docs/guias/G07-guia-wbs) y actualizarlo constantemente para poder
+- Definir los [criterios para finalizar](https://taro-it.github.io/docs/checklists/CH04-checklist-definition-of-done) un requisito funcional, para tener claro lo que se tiene que cumplir antes de dar por terminado un requisito.
 
 <p>Como departamento cada equipo estimará los tamaños de los items usando "Agile Points" las cuales se regirán por los siguientes lineamientos</p>
 

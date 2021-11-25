@@ -26,7 +26,7 @@
           <li>Revisar las lecciones aprendidas de la iteración anterior para la nueva planeación.</li>
           <li>Identificar los recursos necesarios para completar el plan, ubicado en el <a href="https://docs.google.com/spreadsheets/d/1frtMUtfqJzUiE9ej_qi-HwhZZtvbSbPsc-TMsYf10Bk/edit#gid=0">Repositorio de recursos</a></li>
           <li>Revisar el WBS (<a href="https://app.diagrams.net/#G1Y_8bcH24-RTK0W6F2wwTM64BEp-ylUWn">Taro</a>, <a href="https://app.diagrams.net/#G1i00w__BA-zEfea5xUjIgRisWwyQ3V-cr">Frappé</a>, <a href="https://app.diagrams.net/#G1BgBJ2mr8yjmmV6anHILdW0YtsEUEv3ja">Espresso</a>) para identificar el alcance de la iteración.</li>
-          <li>Analizar los resultados de las métricas relacionadas con la iteración anterior usando el <a href="./P22-proceso-analisis-metricas">proceso de análisis de métricas</a>.</li>
+          <li>Analizar los resultados de las métricas relacionadas con la iteración anterior usando el <a href="https://taro-it.github.io/docs/procesos/P22-proceso-analisis-metricas">proceso de análisis de métricas</a>.</li>
         </ul>
       </td>
       <td>
@@ -58,7 +58,7 @@
         <ul align="left">
           <li>Seleccionar un ítem de trabajo del backlog.</li>
           <li>Con base en el WBS, en la sección del work item, descomponerlo en las subtareas correspondientes.</li>
-          <li>Usando la <a href="../guias/G19-guia-para-estimar-workitem">guía para estimar work items</a>, definir cuánto tiempo va a costar terminar el ítem de trabajo.</li>
+          <li>Usando la <a href="https://taro-it.github.io/docs/guias/G19-guia-para-estimar-workitem">guía para estimar work items</a>, definir cuánto tiempo va a costar terminar el ítem de trabajo.</li>
           <li>Idear una solución de alto nivel para el ítem de trabajo.</li>
           <li>Discutir las ventajas y desventajas de la solución ideada.</li>
           <li>Elegir la solución propuesta más adecuada para el socio formador, tomando en cuenta el costo y esfuerzo de implementación de la solución.</li>

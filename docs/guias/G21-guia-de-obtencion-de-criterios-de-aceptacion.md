@@ -6,7 +6,7 @@
 
 ## Prerrequisito(s)
 
-- [Historia de usuario](../procesos/P05-proceso-requisitos).
+- [Historia de usuario](https://taro-it.github.io/docs/procesos/P05-proceso-requisitos).
 
 ## ¿Qué son los criterios de aceptación?
 

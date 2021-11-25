@@ -22,7 +22,7 @@
       <ul>
         <li>Duplicar el <a href="https://docs.google.com/spreadsheets/d/1qlU1dm3yrt6iGMJEEK14aC9Ro99d33SdCeGvpf3zztI/edit?usp=sharing">reporte de validación</a> en la carpeta de validaciones correspondiente: <a href="https://drive.google.com/drive/folders/16ncpQ51ZNpd6tjy-koKBeN0j4hBXHQlf?usp=sharing">Frappé</a> o <a href="https://drive.google.com/drive/folders/153m6UxG5n3pG-ElVZlr6RJT_uLDoOfnb?usp=sharing">Espresso</a> y nombrarlo de la siguiente manera: VAL-[n], donde n es el número de incrementos según las validaciones realizadas.</li>
         <li>Seleccionar los productos de trabajo a validar con el socio, documentar dicha selección bajo la columna "Productos a validar".</li>
-        <li>Seguir la <a href="../guias/G29-guia-validacion-socios">guía para validación con socios</a> y por cada producto de trabajo seleccionado:
+        <li>Seguir la <a href="https://taro-it.github.io/docs/guias/G29-guia-validacion-socios">guía para validación con socios</a> y por cada producto de trabajo seleccionado:
           <ul>
             <li>Identificar la categoría de la validación y documentarlo bajo la columna "Categoría".</li>
             <li>Enlistar los criterios de aceptación bajo la columna "Criterios".</li>
@@ -42,7 +42,7 @@
     <td>
       <ul>
         <li>Definir los dispositivos electrónicos necesarios para la validación y plasmarlos bajo la columna "Dispositivos".</li>
-        <li>Definir el entorno de validación bajo la columna de "Ambiente" y siguiendo la <a href="../guias/G29-guia-validacion-socios">guía para validación con socios</a>.</li>
+        <li>Definir el entorno de validación bajo la columna de "Ambiente" y siguiendo la <a href="https://taro-it.github.io/docs/guias/G29-guia-validacion-socios">guía para validación con socios</a>.</li>
         <li>Definir cualquier otra herramienta necesaria para la validación bajo la columna "Herramientas".</li>
         <li>Si la validación tiene la categoría de "Funcionalidad" definir "Inputs" y "Outputs" para la validación de cada producto de trabajo.</li>
       </ul>
@@ -59,7 +59,7 @@
     <td>
       <ul>
         Seguir el método de validación seleccionado:
-        <li>Agendar una reunión con los socios siguiendo la <a href="../guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>.</li>
+        <li>Agendar una reunión con los socios siguiendo la <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>.</li>
         <li>Si el método es "Demo": 
           <ul>
             <li>Definir si la demostración será en vivo o grabada bajo la columna "Tipo".</li>
@@ -84,7 +84,7 @@
         </li>
         <li>Por cada producto de trabajo validado, asegurarse de obtener una aprobación explícita del socio y documentarla bajo la columna "¿Aprobado?".</li>
         <li>Si el producto no es aprobado se deberá de detallar bajo la columna "Comentarios" las razones por las cuales se llegó a esa conclusión.</li>
-        <li>De ser necesario, añadir a la matriz de compromisos de <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=866452596">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=0">Espresso</a> según corresponda, los cambios solicitados por parte de los socios siguiendo la <a href="../guias/G22-guia-matriz-compromisos">guía para llenar la matriz compromisos.</a></li>
+        <li>De ser necesario, añadir a la matriz de compromisos de <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=866452596">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=0">Espresso</a> según corresponda, los cambios solicitados por parte de los socios siguiendo la <a href="https://taro-it.github.io/docs/guias/G22-guia-matriz-compromisos">guía para llenar la matriz compromisos.</a></li>
       </ul>
     </td>
     <td>
@@ -99,9 +99,9 @@
       <ul>
         <li>Definir bajo la columna "¿Cumple?" si los resultados obtenidos eran los resultados esperados.</li>
         <li>Si no eran los resultados esperados, analizar e identificar la causa y el origen de dicha desviación entre lo esperado y lo obtenido.</li>
-        <li>Registrar los defectos identificados en el defect log de <a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=136918999">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=193018758">Espresso</a> según corresponda, siguiendo la <a href="../guias/G16-guia-registrar-defectos">guía para registrar defectos</a>.</li>
-        <li>Seguir el <a href="../procesos/P19-proceso-atender-retro">proceso para atender retroalimentación</a> con los comentarios realizados por los socios.</li>
-        <li>Si se identificó alguna mejora en la forma de trabajo para evitar los defectos o desviaciones encontradas, seguir el <a href="../procesos/P24-proceso-mejora-continua">proceso de mejora continua</a>.</li>
+        <li>Registrar los defectos identificados en el defect log de <a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=136918999">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=193018758">Espresso</a> según corresponda, siguiendo la <a href="https://taro-it.github.io/docs/guias/G16-guia-registrar-defectos">guía para registrar defectos</a>.</li>
+        <li>Seguir el <a href="https://taro-it.github.io/docs/procesos/P19-proceso-atender-retro">proceso para atender retroalimentación</a> con los comentarios realizados por los socios.</li>
+        <li>Si se identificó alguna mejora en la forma de trabajo para evitar los defectos o desviaciones encontradas, seguir el <a href="https://taro-it.github.io/docs/procesos/P24-proceso-mejora-continua">proceso de mejora continua</a>.</li>
       </ul>
     </td>
     <td>

@@ -18,9 +18,9 @@ Para poder cumplir con ello se siguen las siguientes prácticas:
 
 #### Uso de identificadores únicos
 
-Permiten identificar de forma rápida y clara el tipo de artefacto con el que se está trabajando. L
+Permiten identificar de forma rápida y clara el tipo de artefacto con el que se está trabajando.
 
-Si tu artefacto no se encuentra en la [guía para la definición de assets](G02-guia-definicion-assets), puedes utilizar la siguiente tabla para encontrar el identificador único adecuado:
+Si tu artefacto no se encuentra en la [guía para la definición de assets](https://taro-it.github.io/docs/guias/G02-guia-definicion-assets), puedes utilizar la siguiente tabla para encontrar el identificador único adecuado:
 
 | Tipo de artefacto             | Prefijo | Ejemplo |
 | ----------------------------- | ------- | ------- |

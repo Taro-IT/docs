@@ -23,7 +23,7 @@ Dentro de las responsabilidades de un TL están las siguientes:
 
 Las responsabilidades de un TL son las siguientes:
 
-- Moderar las juntas de trabajo ([planificación de iteración](../procesos/P12-proceso-planeacion-de-iteracion), [junta diaria](../procesos/P07-proceso-juntas-diarias) y [retrospectiva de iteración](../procesos/P16-proceso-retrospective)).
+- Moderar las juntas de trabajo ([planificación de iteración](https://taro-it.github.io/docs/procesos/P12-proceso-planeacion-de-iteracion), [junta diaria](https://taro-it.github.io/docs/procesos/P07-proceso-juntas-diarias) y [retrospectiva de iteración](https://taro-it.github.io/docs/procesos/P16-proceso-retrospective)).
 - Conocer y monitorear el estado de los work items de cada iteración.
 - Planear la agenda de las juntas del equipo.
 - Conocer la disponibilidad de trabajo del equipo.

@@ -24,15 +24,15 @@ Las responsabilidades de un PM son las siguientes:
 
 Las tareas que los PMs realizan son las siguientes:
 
-- [Pláticas 1 a 1](G05-guia-platicas-1-a-1).
+- [Pláticas 1 a 1](https://taro-it.github.io/docs/guias/G05-guia-platicas-1-a-1).
 - Planeación departamental basándose en el [pool de horas departamentales](https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit?usp=sharing) (que se encuentra en la pestaña llamada "Disponibilidad").
-- Organizar [juntas departamentales](../procesos/P01-proceso-juntas-departamentales) y de liderazgo.
+- Organizar [juntas departamentales](https://taro-it.github.io/docs/procesos/P01-proceso-juntas-departamentales) y de liderazgo.
 - Organizar la sesión de [calendarización semanal](https://calendar.google.com/calendar/u/0?cid=Y19mcHJrNWxmZXB2MWRzbGlwdTFkdjFsZXQyY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 - Representar al departamento Taro con vinculación académica.
 - Conocer el estado de cada uno de Frappé y Espresso para fomentar la toma de decisiones.
 - Entrar al menos a dos juntas de cada equipo semanalmente para estar al tanto de las decisiones que toma cada equipo.
 - Pedir retroalimentación constante de los asesores.
-- Leer las [bibliografías recomendadas](../forma-de-trabajo/forma-de-trabajo-taro.md) y hacer referencia a las mismas siempre que sea necesario.
+- Leer las [bibliografías recomendadas](https://taro-it.github.io/docs/forma-de-trabajo/forma-de-trabajo-taro) y hacer referencia a las mismas siempre que sea necesario.
 - Animar y empoderar a los integrantes de Taro a poner en marcha las propuestas de mejora.
 
 ## Salidas

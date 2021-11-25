@@ -92,7 +92,7 @@
         <li>Por cada asset a modificar: 
           <ul>
             <li>Avisar al owner sobre las modificaciones que se van a realizar.</li>
-            <li>Seguir el <a href="P03-proceso-institucionalizacion-assets">proceso de institucionalización de assets</a>.</li>
+            <li>Seguir el <a href="https://taro-it.github.io/docs/procesos/P03-proceso-institucionalizacion-assets">proceso de institucionalización de assets</a>.</li>
           </ul></li>
         <li>Una vez que todos los cambios han sido implementados, registrar la fecha en la <a href="https://docs.google.com/spreadsheets/d/1B628YnkHppCLynz_SScm_8jGJMQRmqfNjoib9KChrU8/edit#gid=0">bitácora de mejoras</a> bajo la columna "Fecha de finalización".</li>
         <li>Definir bajo la columna "Tiempo de evaluación" el intervalo de tiempo que se esperará a partir de la fase de "Difusión" para documentar los resultados de la propuesta.</li>

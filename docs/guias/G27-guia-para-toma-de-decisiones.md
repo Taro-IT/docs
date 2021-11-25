@@ -24,11 +24,11 @@ Una _decisión_ es la determinación para actuar ante una situación que present
 ​
 
 - Todo experimento tiene las siguientes características:
-  - Análisis: Se identifica el problema o la causa que lleva a la definición del experimento después de realizar un análisis de métricas siguiendo el [proceso de análisis de métricas](../procesos/P22-proceso-analisis-metricas).
-  - Decisión: Se toma una decisión tras llevar a cabo el [proceso de toma de decisiones](../procesos/P20-proceso-toma-de-decisiones).
+  - Análisis: Se identifica el problema o la causa que lleva a la definición del experimento después de realizar un análisis de métricas siguiendo el [proceso de análisis de métricas](https://taro-it.github.io/docs/procesos/P22-proceso-analisis-metricas).
+  - Decisión: Se toma una decisión tras llevar a cabo el [proceso de toma de decisiones](https://taro-it.github.io/docs/procesos/P20-proceso-toma-de-decisiones).
   - Resultado esperado: Donde se describe que se espera obtener de la ejecución del experimento.
   - Fecha de reporte: Donde se plasma la fecha en la que se identificó la necesidad de un toma de decisión.
-  - Resultado real: Usando el [proceso de análisis de métricas](../procesos/P22-proceso-analisis-metricas), documentar el resultado obtenido.
+  - Resultado real: Usando el [proceso de análisis de métricas](https://taro-it.github.io/docs/procesos/P22-proceso-analisis-metricas), documentar el resultado obtenido.
   - Fecha de aplicación: Fecha donde se implementa el experimento.
 
 ## ¿Qué es un proceso de evaluación formal?

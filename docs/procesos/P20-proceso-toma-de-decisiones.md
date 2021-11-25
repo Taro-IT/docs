@@ -23,7 +23,7 @@
     <td>1. Preparación</td>
     <td>
       <ul>
-        <li>Definir si es necesario realizar una evaluación formal siguiendo la <a href="../guias/G27-guia-para-toma-de-decisiones">guía para la toma de decisiones</a>.</li>
+        <li>Definir si es necesario realizar una evaluación formal siguiendo la <a href="https://taro-it.github.io/docs/guias/G27-guia-para-toma-de-decisiones">guía para la toma de decisiones</a>.</li>
         <li>Si si es necesario:
           <ul>
             <li>Duplicar la plantilla del <a href="https://docs.google.com/spreadsheets/d/1VfGH0x5rURBKiXvmC0vpmr9f11dtOssSHuqzyoRvj-w/edit#gid=1049070726">reporte de evaluación</a> en el mismo archivo de Excel y nombrar de la siguiente manera: REP-[1] (el valor entre corchetes deberá de ir incrementando según las evaluaciones realizadas).</li>
@@ -138,15 +138,15 @@
     <td>5. Seguimiento</td>
     <td>
       <ul>
-        <li>Seguir el <a href="./P08-proceso-gestion-riesgos">proceso de gestión de riesgos</a> para documentar aquellos que surjan de la toma de decisión.</li>
+        <li>Seguir el <a href="https://taro-it.github.io/docs/procesos/P08-proceso-gestion-riesgos">proceso de gestión de riesgos</a> para documentar aquellos que surjan de la toma de decisión.</li>
         <li>Una vez que los cambios a productos de trabajo se han realizado y que la decisión está lista para ser implementada, documentar en la matriz de decisiones la fecha bajo la columna "Fecha de aplicación".</li>
         <li>Una vez que se ha que ha transcurrido el tiempo de evaluación, documentar en la matriz de decisiones el resultado de la misma bajo la columna "Resultado".</li>
         <li>Comunicar el resultado de la decisión tomada a los stakeholders correspondientes:
           <ul>
-            <li>Si los asesores son stakeholders de la decisión tomada, presentar el resultado en el <a href="./P14-proceso-reporte-estado">reporte de estado.</a></li>
-            <li>Si todos los integrantes de Taro son stakeholders de la decisión tomada, presenta el resultado en una <a href="./P01-proceso-juntas-departamentales">junta departamental.</a></li>
-            <li>Si los socios son stakeholders de la decisión tomada, presentar el resultado en una <a href="./P02-proceso-juntas-socios-formadores">junta con los socios formadores.</a></li>
-            <li>Si un equipo interno de Taro es stakeholder, presentar el resultado en la <a href="./P07-proceso-juntas-diarias">junta diaria</a> del equipo correspondiente.</li>
+            <li>Si los asesores son stakeholders de la decisión tomada, presentar el resultado en el <a href="https://taro-it.github.io/docs/procesos/P14-proceso-reporte-estado">reporte de estado.</a></li>
+            <li>Si todos los integrantes de Taro son stakeholders de la decisión tomada, presenta el resultado en una <a href="https://taro-it.github.io/docs/procesos/P01-proceso-juntas-departamentales">junta departamental.</a></li>
+            <li>Si los socios son stakeholders de la decisión tomada, presentar el resultado en una <a href="https://taro-it.github.io/docs/procesos/P02-proceso-juntas-socios-formadores">junta con los socios formadores.</a></li>
+            <li>Si un equipo interno de Taro es stakeholder, presentar el resultado en la <a href="https://taro-it.github.io/docs/procesos/P07-proceso-juntas-diarias">junta diaria</a> del equipo correspondiente.</li>
           </ul>
         </li>
       </ul>

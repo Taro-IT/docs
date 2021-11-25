@@ -10,7 +10,7 @@
 
 ## Pasos a seguir
 
-Utilizando la plantilla del [plan de comunicación](../plantillas/PL16-plantilla-para-plan-comunicacion) se deberá de realizar lo siguiente:
+Utilizando la plantilla del [plan de comunicación](https://taro-it.github.io/docs/plantillas/PL16-plantilla-para-plan-comunicacion) se deberá de realizar lo siguiente:
 
 ### Identificar a los interesados en la matriz
 

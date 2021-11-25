@@ -7,7 +7,7 @@
 
 ## Prerrequisito(s)
 
-- Uno de los PMs le mandará mensaje privado a los integrantes del departamento para agendar una plática 1 a 1, por lo que se debe seguir la [guía para agendar juntas](G01-guia-para-agendar-juntas).
+- Uno de los PMs le mandará mensaje privado a los integrantes del departamento para agendar una plática 1 a 1, por lo que se debe seguir la [guía para agendar juntas](https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas).
 
 ## Pautas a seguir
 
