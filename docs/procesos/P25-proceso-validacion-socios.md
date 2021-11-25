@@ -22,7 +22,7 @@
       <ul>
         <li>Duplicar el <a href="https://docs.google.com/spreadsheets/d/1qlU1dm3yrt6iGMJEEK14aC9Ro99d33SdCeGvpf3zztI/edit?usp=sharing">reporte de validación</a> en la carpeta de validaciones correspondiente: <a href="https://drive.google.com/drive/folders/16ncpQ51ZNpd6tjy-koKBeN0j4hBXHQlf?usp=sharing">Frappé</a> o <a href="https://drive.google.com/drive/folders/153m6UxG5n3pG-ElVZlr6RJT_uLDoOfnb?usp=sharing">Espresso</a> y nombrarlo de la siguiente manera: VAL-[n], donde n es el número de incrementos según las validaciones realizadas.</li>
         <li>Seleccionar los productos de trabajo a validar con el socio, documentar dicha selección bajo la columna "Productos a validar".</li>
-        <li>Seguir la <a href="https://taro-it.github.io/docs/guias/G29-guia-validacion-socios">guía para validación con socios</a> y por cada producto de trabajo seleccionado:
+        <li>Seguir la <a href="https://taro-it.github.io/docs/guias/G24-guia-validacion-socios">guía para validación con socios</a> y por cada producto de trabajo seleccionado:
           <ul>
             <li>Identificar la categoría de la validación y documentarlo bajo la columna "Categoría".</li>
             <li>Enlistar los criterios de aceptación bajo la columna "Criterios".</li>
@@ -42,7 +42,7 @@
     <td>
       <ul>
         <li>Definir los dispositivos electrónicos necesarios para la validación y plasmarlos bajo la columna "Dispositivos".</li>
-        <li>Definir el entorno de validación bajo la columna de "Ambiente" y siguiendo la <a href="https://taro-it.github.io/docs/guias/G29-guia-validacion-socios">guía para validación con socios</a>.</li>
+        <li>Definir el entorno de validación bajo la columna de "Ambiente" y siguiendo la <a href="https://taro-it.github.io/docs/guias/G24-guia-validacion-socios">guía para validación con socios</a>.</li>
         <li>Definir cualquier otra herramienta necesaria para la validación bajo la columna "Herramientas".</li>
         <li>Si la validación tiene la categoría de "Funcionalidad" definir "Inputs" y "Outputs" para la validación de cada producto de trabajo.</li>
       </ul>
