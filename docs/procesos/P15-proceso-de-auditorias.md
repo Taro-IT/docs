@@ -70,6 +70,7 @@
           <li>VER 3.1</li>
           <li>VAL 2.1</li>
           <li>OPF 1.2</li>
+          <li>OPF 1.3</li>
         </ul>
       </td>
     </tr>
