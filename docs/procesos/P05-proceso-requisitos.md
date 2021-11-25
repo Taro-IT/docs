@@ -28,7 +28,7 @@
 <ul>
   <li><a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=1305724830"> Lista de Historias de usuario de Frappé </a>  /  <a href="https://docs.google.com/spreadsheets/d/1xPuPU4C-SlJlFZ1v5lpxuJ4RD-dEz9dOgNvWhQ9ZiNo/edit#gid=1491480126"> Lista de Historias de usuario de Espresso. </a></li>
   <li>Criterios de aceptación <a href="https://docs.google.com/spreadsheets/d/1L2bO7Se8yjW76UgPGMEY3RFrDZHfvwXE-_TDzNLzHq8/edit?usp=sharing">Frappe</a> / <a href="https://docs.google.com/spreadsheets/d/1RaNq6nGgZuIk7mhuZf-OAdPQ6CCgeKQ4XjUete0aySA/edit#gid=0">Espresso</a>.</li>  
-  <li>Requisitos en matriz de trazabilidad <a href="https://docs.google.com/spreadsheets/d/1xmdFcvkcPPJ7NuXbjDanydW_lu4JNtdOU1JYYvzfASM/edit#gid=0">Frappe</a> / <a href="https://docs.google.com/spreadsheets/d/1dJc2e5C2nm2MUsvmy3gHFZHLYUieNLE-spPpbuIZyN8/edit#gid=1570316564">Espresso</a>.</li>
+  <li>Requisitos en matriz de trazabilidad <a href="https://docs.google.com/spreadsheets/d/1xmdFcvkcPPJ7NuXbjDanydW_lu4JNtdOU1JYYvzfASM/edit?usp=sharing">Frappe</a> / <a href="https://docs.google.com/spreadsheets/d/1dJc2e5C2nm2MUsvmy3gHFZHLYUieNLE-spPpbuIZyN8/edit#gid=1570316564">Espresso</a>.</li>
   <li>Bitácora de cambios en requisitos <a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit?usp=sharing">Frappe</a> / <a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit?usp=sharing">Espresso</a>.</li>
 </ul>
 
