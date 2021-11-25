@@ -4,7 +4,7 @@
 
 - Entender cómo se realiza la revisión de un pull request de assets para la wiki.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
 - El pull request del asset debe estar en la columna **In Review** en el tablero de la Documentación WIKI.
   ![Columna In Review del tablero](../../static/img/guias/G03/in-review-column.png)
@@ -124,7 +124,8 @@ Si durante tu revisión realizaste modificaciones y se hicieron commits a la ram
 - Iván Alejandro Díaz Peralta
 - Karla Daniela Romero Pérez
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.0
-  - Se creó la guía.
+### Versión 1.0
+
+- Se creó la guía.

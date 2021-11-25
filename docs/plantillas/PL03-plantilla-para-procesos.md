@@ -1,7 +1,6 @@
 # PL03 - Plantilla para procesos
 
 ```markdown
-
 # P[# de proceso] - Proceso <título del proceso>
 
 ## Objetivo(s)
@@ -15,7 +14,6 @@ _Enlistar las entradas necesarias para ejecutar el proceso_
 ## Procedimiento
 
 _Rellenar la tabla del procedimiento agregando filas conforme sea necesario._
-
 
 <table>
   <thead>
@@ -75,29 +73,29 @@ _Enlistar los resultados obtenidos al seguir el procedimiento del proceso. Deben
 
 _Enlistar los autores del proceso_
 
-- 
+-
 
 ## Auditoría
 
 _Enlistar a las personas que revisaron el proceso_
 
-- 
+-
 
 ## Bitácora de cambios
+
 - La versión actual debe ser la que quede hasta arriba de esta sección
 
 ### Versión [número de versión]
+
 - [Cambios nuevos en la versión].
-
 ```
-
 
 ## Bitácora de cambios
 
 ### Versión 2.0
+
 - Se le agrega la bitácora de cambios a la plantilla.
 
 ### Versión 1.0
+
 - Se creó la plantilla.
-
-

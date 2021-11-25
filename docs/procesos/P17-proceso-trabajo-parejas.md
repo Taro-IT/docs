@@ -1,4 +1,3 @@
-
 # P17 - Proceso de trabajo en parejas
 
 ## Objetivo(s)
@@ -10,11 +9,9 @@
 ## Entradas
 
 - Work item definido en el [plan de la iteración](./P12-proceso-planeacion-de-iteracion).
-- Pareja definida y plan actualizado en la [junta de coordinación diaria](./P07-proceso-juntas-diarias).
+- Pareja definida y plan actualizado en la [junta diaria](./P07-proceso-juntas-diarias).
 
 ## Procedimiento
-
-
 
 <table>
   <thead>
@@ -97,12 +94,18 @@ Si la subtarea en la que se va a trabajar involucra escribir código, se debe se
 
 ## Auditoría
 
-- 
+-
 
 ## Bitácora de cambios
 
-### Versión 1.1 
+### Versión 2.0
+
+- Se institucionalizó el asset.
+
+### Versión 1.1
+
 - Se agrega la práctica 2.1 de VER.
 
 ### Versión 1.0
+
 - Se creó el proceso.

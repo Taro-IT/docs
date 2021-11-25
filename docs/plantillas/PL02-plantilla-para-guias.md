@@ -7,9 +7,9 @@
 
 _Describir los objetivos ._
 
-## Pre-requisitos
+## Prerrequisito(s)
 
-_Enlistar los pre-requisitos necesarios (con ligas si son recursos)_
+_Enlistar los Prerrequisito(s) necesarios (con ligas si son recursos)_
 
 ## Secciones
 
@@ -23,26 +23,29 @@ _Enlistar los resultados obtenidos al seguir los pasos de la guía. Deben estar 
 
 _Enlistar los autores de la guía_
 
-- 
+-
 
 ## Auditoría
 
 _Enlistar a las personas que revisaron la guía_
 
-- 
+-
 
 ## Bitácora de cambios
+
 - La versión actual debe ser la que quede hasta arriba de esta sección
 
 ### Versión [número de versión]
-- [Cambios nuevos en la versión].
 
+- [Cambios nuevos en la versión].
 ```
 
 ## Bitácora de cambios
 
 ### Versión 2.0
+
 - Se le agrega la bitácora de cambios a la plantilla.
 
 ### Versión 1.0
+
 - Se creó la plantilla.

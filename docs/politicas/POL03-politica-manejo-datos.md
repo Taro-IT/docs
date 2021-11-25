@@ -28,15 +28,19 @@
 - La información ubicada en la unidad compartida de Google Drive deberá ser respaldada y resguardada por los PM y AO cada 3 semanas.
 - Las [líneas base](https://taro-it.github.io/docs/politicas/POL04-Definicion%20de%20elementos%20de%20configuracion) de los proyectos deberán ser clonados por todos los miembros de Taro, se deberá utilizar el comando `git fetch` los días lunes y miércoles de cada semana para mantenerlas actualizadas.
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.1
+### Versión 2.0
+
+- Se institucionalizó el asset.
+
+### Versión 1.1
+
 - Añadir medidas de prevención.
 - Arreglar formato.
 - Se agregó el respaldo de información.
 - Fix de links.
 
-## Versión 1.0
+### Versión 1.0
+
 - Se creó la política.
-
-

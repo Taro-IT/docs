@@ -18,13 +18,13 @@ sidebar_position: 3
 
 ## Responsabilidades del equipo
 
-| **Tarea/Rol** | **Product Owner** | **Architecture Owner** | **Team Leader** | **Team Member** | **Stakeholder** |
-| --- | --- | --- | --- | --- | --- |
-| **Avisar horarios de juntas** | A | C | R | I | C |
-| **Llevar las minutas de la junta con socio** | C | C | A | R | I |
-| **Liderar las juntas** | A | C | R | C | I |
-| **Recuperación de requisitos** | R | C | A | C | C |
-| **Modificaciones en esquema de datos** | A | R | C | C | I |
+| **Tarea/Rol**                                | **Product Owner** | **Architecture Owner** | **Team Leader** | **Team Member** | **Stakeholder** |
+| -------------------------------------------- | ----------------- | ---------------------- | --------------- | --------------- | --------------- |
+| **Avisar horarios de juntas**                | A                 | C                      | R               | I               | C               |
+| **Llevar las minutas de la junta con socio** | C                 | C                      | A               | R               | I               |
+| **Liderar las juntas**                       | A                 | C                      | R               | C               | I               |
+| **Recuperación de requisitos**               | R                 | C                      | A               | C               | C               |
+| **Modificaciones en esquema de datos**       | A                 | R                      | C               | C               | I               |
 
 ## Juntas
 
@@ -57,4 +57,5 @@ El equipo trabajará bajo el ciclo de vida básico de DAD hasta la terminación 
 ## Bitácora de cambios
 
 ### Versión 1.0
+
 - Se registro la forma de trabajo en la Wiki

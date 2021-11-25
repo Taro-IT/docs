@@ -4,19 +4,19 @@
 
 - Orientar a los integrantes de Taro en el llenado correcto de la matriz de compromisos facilitando así la visualización del estado de cada uno de estos.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
-- Compromiso interno (entre integrantes del departamento)
-- Compromiso externo (entre Espresso y Frappé con sus respectivos socios)
-- Matriz de compromisos [Frappé](https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=866452596), [Espresso](https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=0) o [Taro](https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=14619367)
+- Compromiso interno (entre integrantes del departamento).
+- Compromiso externo (entre Espresso y Frappé con sus respectivos socios).
+- Matriz de compromisos [Frappé](https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=866452596), [Espresso](https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=0) o [Taro](https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=14619367).
 
 ## ¿Qué es un compromiso?
 
-Un compromiso es cualquier obligación que contraemos al dar nuestra palabra para cumplir con una acción determinada, es decir una acción de la cual tenemos conocimiento y para la cual existe el rol de quien la ejecuta que asumimos nosotros y el rol de quien la recibe y/o evalúa que asume otra persona. 
+Un compromiso es cualquier obligación que contraemos al dar nuestra palabra para cumplir con una acción determinada, es decir una acción de la cual tenemos conocimiento y para la cual existe el rol de quien la ejecuta que asumimos nosotros y el rol de quien la recibe y/o evalúa que asume otra persona.
 
 ## ¿Por qué llevar una matriz de compromisos?
 
-En Taro hemos decidido llevar una matriz de compromisos para poder garantizar el cumplimiento de los mismos en la fecha acordada y según lo estipulado desde un principio. Gracias a la matriz diseñada es más sencillo el visualizar el estado y todo lo acordado para el cumplimiento de dichos compromisos, además la inclusión de una columna llamada "Días de incumplimiento" hace que el encargado de ejecutar determinada tarea tenga un incremento en el nivel de compromiso por cumplir con esta.
+En Taro hemos decidido llevar una matriz de compromisos para poder garantizar el cumplimiento de los mismos en la fecha acordada y según lo estipulado desde un principio. Gracias a la matriz diseñada es más sencillo el visualizar el estado y todo lo acordado para el cumplimiento de dichos compromisos, además la inclusión de una columna llamada "Días de incumplimiento" hace que el encargado de ejecutar determinado work item tenga un incremento en el nivel de compromiso por cumplir con esta.
 
 ## ¿Cómo llenar la matriz de compromisos?
 
@@ -48,7 +48,7 @@ Una vez que el compromiso ha sido completado se deberá de:
 
 ## Salidas
 
-- Compromiso registrado en la matriz correspondiente
+- Compromiso registrado en la matriz correspondiente.
 
 ## Autores
 
@@ -60,6 +60,6 @@ Una vez que el compromiso ha sido completado se deberá de:
 
 ## Bitácora de cambios
 
-### Versión 0.0
+### Versión 1.0
 
-- Se creó la guía
+- Se creó la guía.

@@ -2,15 +2,17 @@
 
 ## Objetivo(s)
 
-- Orientar en la toma de decisión de cuando hacer un release de la wiki. 
+- Orientar en la toma de decisión de cuando hacer un release de la wiki.
 - Dar a conocer los pasos necesarios para realizar un release de la wiki.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
-- Todas las políticas, procesos y guías deben de tener el estado _controlado_ o _estático_ dentro de la [matriz de configuración](https://docs.google.com/spreadsheets/d/13zfQpqBBmqAT_znf1N4ebV_jcLBpeh_gjq9eHpkdOhk/edit?usp=sharing "matriz de configuración") que corresponda. 
+- Todas las políticas, procesos y guías deben de tener el estado _controlado_ o _estático_ dentro de la [matriz de configuración](https://docs.google.com/spreadsheets/d/13zfQpqBBmqAT_znf1N4ebV_jcLBpeh_gjq9eHpkdOhk/edit?usp=sharing "matriz de configuración") que corresponda.
 
 ## ¿Cuándo hacer un release de la wiki?
+
 Un release de la wiki se debe de hacer cuando se cumpla **una** de las siguientes condiciones:
+
 - Se va a tener una revisión SCAMPI en los próximos días.
 - Se va a hacer una presentación de avance en los próximos días.
 
@@ -38,7 +40,7 @@ Un release de la wiki se debe de hacer cuando se cumpla **una** de las siguiente
 
 ![image](../../static/img/guias/G27/g27-img-5.png)
 
-7. Dar clic en **Publish release** si se quiere publicar el release ó **Save draft** si se quiere trabajar luego. 
+7. Dar clic en **Publish release** si se quiere publicar el release ó **Save draft** si se quiere trabajar luego.
 
 ![image](../../static/img/guias/G27/g27-img-6.png)
 
@@ -55,8 +57,11 @@ Un release de la wiki se debe de hacer cuando se cumpla **una** de las siguiente
 - Eduardo Guzmán de la Concha
 
 ## Auditoría
+
 -
+
 ## Bitácora de cambios
 
 ### Versión 1.0
+
 - Se creó la guía.

@@ -4,11 +4,10 @@
 
 - Estimar correctamente todos los work items identificados dentro de un plan, incluso sin datos históricos.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
 - Tener un plan con los work items identificados.
-- Matriz de interesados.
-- Matriz de disponibilidad del equipo.
+- Matriz de disponibilidad correspondiente ([Taro](https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit#gid=470923338), [Espresso](https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=578736519) o [Frappé](https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=2108417235)).
 
 ## Pasos a seguir
 
@@ -32,7 +31,7 @@ Si varias personas tienen asignado el mismo work item, el costo es la suma del t
 
 :::
 
-3. Si el costo individual de todos los work items que tiene asignados una persona es mayor a lo que indica la matriz de disponibilidad, deberá ocurrir una renegociación del plan.
+3. Si el costo individual de todos los work items que tiene asignados una persona es mayor a lo que indica la matriz de disponibilidad, deberá ocurrir una renegociación de las asignaciones.
 
 ### Para la estimación de valor:
 
@@ -69,15 +68,20 @@ Si varias personas tienen asignado el mismo work item, el costo es la suma del t
 - **Costo total**: La suma del costo de todos los work items.
 - **Valor**: El valor que tiene un work item en el proyecto, se obtiene dividiendo el costo del work item entre el costo total.
 
-# Bitácoras de cambios
+## Bitácoras de cambios
 
-## Versión 1.1
+### Versión 1.2
 
-- Se corrigieron errores de ortografía
-- Se agregó una nota
-- Se puso en bold los términos del glosario
-- Falta enlazar a matrices de interesados y de disponibilidad
+- Se agregaron enlaces a las matrices de disponibilidad.
+- Se eliminaron las menciones de la matrices de interesados que no se utilizaban.
 
-## Versión 1.0
+### Versión 1.1
 
-- Se creó la guía
+- Se corrigieron errores de ortografía.
+- Se agregó una nota.
+- Se puso en negritas los términos del glosario.
+- Falta enlazar a matrices de interesados y de disponibilidad.
+
+### Versión 1.0
+
+- Se creó la guía.

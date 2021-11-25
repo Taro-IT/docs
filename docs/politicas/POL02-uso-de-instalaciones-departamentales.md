@@ -1,6 +1,7 @@
 # POL02 - Políticas para el uso de las instalaciones del departamento
 
 ### Objetivo:
+
 <p>Establecer los puntos que un miembro debe considerar para poder ocupar las instalaciones del departamento.</p>
 
 ### Políticas:
@@ -15,7 +16,7 @@
 <li>Llevar cubrebocas.</li>
 </ul>
 
-### Uso de Instalaciones 
+### Uso de Instalaciones
 
 <p>Debido a los cambios y normas establecidos por el campus todos los integrantes que asistan deberán:</p>
 <ul>
@@ -28,11 +29,16 @@
 <li>Al finalizar su estancia en el departamento, cada integrante deberá rociar y limpiar con desinfectante su área de trabajo.</li>
 </ul>
 
+## Bitácora de cambios
 
-# Bitácora de cambios
+### Versión 2.0
 
-## Versión 1.1
-  - Se corrigen algunos errores de ortografía
+- Se institucionalizó el asset.
 
-## Versión 1.0
-  - Se creó la política.
+### Versión 1.1
+
+- Se corrigen algunos errores de ortografía.
+
+### Versión 1.0
+
+- Se creó la política.

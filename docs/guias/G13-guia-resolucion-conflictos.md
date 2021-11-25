@@ -4,9 +4,9 @@
 
 - Proveer de herramientas a los miembros de Taro para una resolución de conflicto adecuada según la severidad del mismo.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
-- Conflicto interno (entre integrantes de Taro) o externo (como departamento con evaluadores, socios u otros)
+- Conflicto interno (entre integrantes de Taro) o externo (como departamento con asesores, socios u otros).
 
 ## Niveles de conflicto
 
@@ -16,11 +16,12 @@ Taro utiliza los cinco niveles de conflicto descritos a continuación como un ma
 
   - Los involucrados trabajan de manera **colaborativa** para determinar qué está mal y cómo solucionarlo.
 
-  - La información fluye libremente entre los involucrados y cualquier intercambio de información es **claro**, **específico** y **basado en hechos**. 
+  - La información fluye libremente entre los involucrados y cualquier intercambio de información es **claro**, **específico** y **basado en hechos**.
 
-  - Existe incomodidad por parte de los involucrados, pero **no se mezclan las emociones**. 
+  - Existe incomodidad por parte de los involucrados, pero **no se mezclan las emociones**.
 
 - **Nivel 2** - Desacuerdo
+
   - La comunicación pasa de ser con todos los involucrados a solo algunos con el objetivo de **construir alianzas**.
   - Los intercambios de información son **generales** e **incompletos** pues se empieza una tendencia a no compartir todo lo que se sabe del problema.
   - Las **interpretaciones** sustituyen a los hechos lo que crea mayor confusión de lo sucedido.
@@ -40,23 +41,23 @@ Taro utiliza los cinco niveles de conflicto descritos a continuación como un ma
 
 ## ¿Cómo resolver un conflicto?
 
-Un conflicto será más sencillo de resolver entre más cerca este del nivel 1, en Taro buscamos que cualquier conflicto que sea detectado se hable de manera inmediata para evitar que el conflicto escale. La mejor forma de resolver un conflicto es analizarlo y comunicar lo que se observa, se piensa y se siente con todos los involucrados, escuchando de la misma forma su sentir, pensar y su conocimiento sobre la situación. 
+Un conflicto será más sencillo de resolver entre más cerca este del nivel 1, en Taro buscamos que cualquier conflicto que sea detectado se hable de manera inmediata para evitar que el conflicto escale. La mejor forma de resolver un conflicto es analizarlo y comunicar lo que se observa, se piensa y se siente con todos los involucrados, escuchando de la misma forma su sentir, pensar y su conocimiento sobre la situación.
 
 Las preguntas listadas a continuación te permitirán tener un **mejor entendimiento** del conflicto y **cómo resolverlo**:
 
 - ¿En qué nivel está el conflicto?
 - ¿Cuál o cuáles son los problemas existentes?
-- ¿Como respondería yo?
-- ¿Como respondería el otro involucrado?
+- ¿Cómo respondería yo?
+- ¿Cómo respondería el otro involucrado?
 - ¿Cuáles son las opciones de resolución, a que acuerdos podemos llegar?
 
 ## Recomendaciones según el nivel de conflicto
 
 En un conflicto de **nivel 1** se recomienda empezar una colaboración para buscar una resolución donde todos los involucrados ganen. Para esto se deben de comunicar los hechos de manera clara y específica, proponer soluciones y llegar a un consenso sobre la mejor de estas.
 
-En un conflicto de **nivel 2** se recomienda empoderar a los involucrados para que estos resuelvan el problema, a la par de actividades que creen un sentimiento de seguridad e integración para fortalecer los valores como equipo. 
+En un conflicto de **nivel 2** se recomienda empoderar a los involucrados para que estos resuelvan el problema, a la par de actividades que creen un sentimiento de seguridad e integración para fortalecer los valores como equipo.
 
-En un conflicto **nivel 3** se recomienda ser objetivo, usar un lenguaje claro y basar cualquier argumento en hechos.  Según el contexto en el que se encuentren existen dos alternativas:
+En un conflicto **nivel 3** se recomienda ser objetivo, usar un lenguaje claro y basar cualquier argumento en hechos. Según el contexto en el que se encuentren existen dos alternativas:
 
 - Si la relación vale más que el conflicto, ceder.
 - Si el conflicto se puede dividir sin involucrar la pérdida de valores de alguna parte, negociar.
@@ -71,7 +72,7 @@ En un conflicto **nivel 5** se recomienda hacer lo que sea necesario para evitar
 
 ## Salidas
 
-- Idea para la resolución del conflicto
+- Idea para la resolución del conflicto.
 
 ## Autores
 
@@ -85,4 +86,5 @@ En un conflicto **nivel 5** se recomienda hacer lo que sea necesario para evitar
 ## Bitácora de cambios
 
 ### Versión 1.0
+
 - Se creó la guía como apoyo al proceso de resolución de conflictos.

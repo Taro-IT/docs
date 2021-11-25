@@ -40,7 +40,7 @@
       <td>
         <ul align="left">
           <li>Las personas interesadas deben decidir quién se queda en el rol evaluando los riesgos asociados con cada interesado.</li>
-          <li>Nootificar la asignación al resto del departamento y a los consultores.</li>
+          <li>Notificar la asignación al resto del departamento y a los asesores.</li>
         </ul>
       </td>
       <td>
@@ -53,8 +53,8 @@
       <td>Preparación</td>
       <td>
         <ul align="left">
-          <li>En base a las necesidades de la persona asignada, se <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">planear su capacitación</a> considerando las actividades de la fase de transición siguiendo el <a href="../procesos/P11-proceso-de-definicion-del-plan-inicial">proceso de definición de un plan</a>.</li>
-          <li>En caso de ser necesario, modificar la guía del rol, siguiendo el <a href="#">proceso para actualizar assets</a>.</li>
+          <li>En base a las necesidades de la persona asignada, se <a href="https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing">planear su capacitación</a> considerando las actividades de la fase de transición siguiendo el <a href="./P11-proceso-de-definicion-del-plan-inicial">proceso de definición de un plan</a>.</li>
+          <li>En caso de ser necesario, modificar la guía del rol.</li>
         </ul>
       </td>
       <td>
@@ -72,10 +72,10 @@
            <ol>
                 <li>Previamente la persona asignada en alguno de los roles tendrá que leer la guía correspondiente:
                     <ol>
-                        <li><a href="../guias/G08-guia-para-el-pm">Guía para Program manager</a></li>
+                        <li><a href="../guias/G08-guia-para-el-pm">Guía para Program Manager</a></li>
                         <li><a href="../guias/G09-guia-team-leader">Guía para Team Leader</a></li>
                         <li><a href="../guias/G10-guia-del-PO">Guía para Product Owner</a></li>
-                        <li><a href="#">Guía para Architecture Owner</a></li>
+                        <li><a href="../guias/G14-guia-architecture-owner">Guía para Architecture Owner</a></li>
                     </ol>
                 </li>
                 <li>La persona en el rol debe agendar una sesión con la persona asignada para resolver dudas acerca del rol. </li>
@@ -97,7 +97,6 @@
 ## Salidas
 
 - Nueva persona en el rol con la capacitación suficiente para poder desempeñarse de manera exitosa.
-- [Plan de capacitación de rol](https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing).
 - [Retroalimentación de capacitación](https://drive.google.com/drive/folders/1qpreDsJfpTt23r9-DsEACp8q0mRXo691?usp=sharing).
 
 ## Autores
@@ -107,13 +106,12 @@
 
 ## Auditoría
 
-- Juan Manuel Amador Perez Flores
+- Juan Manuel Amador Pérez Flores
 - Raúl Rosario Sandoval Galaviz
 - Adolfo Acosta Castro
 
+## Bitácora de cambios
 
-# Bitácora de cambios
+### Versión 1.0
 
-## Versión 1.0
-  - Se creó el proceso.
-
+- Se creó el proceso.

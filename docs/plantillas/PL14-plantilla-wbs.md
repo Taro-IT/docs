@@ -2,7 +2,8 @@
 
 La plantilla de WBS se encuentra [aquí](https://app.diagrams.net/#G1FFD6BBHCHfoPOvhvurE_uToa33KGPnDi).
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.0
-  - Se creó la plantilla.
+### Versión 1.0
+
+- Se creó la plantilla.

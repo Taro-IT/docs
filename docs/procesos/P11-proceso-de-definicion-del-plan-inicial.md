@@ -40,7 +40,6 @@
       <td>
         <ul>
           <li>PP 1.3</li>
-          <li>PP 1.4</li>
           <li>PP 2.4</li>
           <li>PP 2.5</li>
           <li>PP 2.6</li>
@@ -53,7 +52,7 @@
         <ul align="left">
           <li>Proponer una solución. </li>
           <li>Definir el <a href="../guias/G07-guia-wbs">WBS</a> del plan.</li>
-          <li>Realizar la <a href="../procesos/P08-proceso-gestion-riesgos">gestión de riesgos</a>.</li>
+          <li>Realizar la <a href="./P08-proceso-gestion-riesgos">gestión de riesgos</a>.</li>
           <li>Identificar la disponibilidad de los miembros del plan.</li>
           <li>Realizar la <a href="../guias/G19-guia-para-estimar-workitem">estimación de cada work item</a>.</li>
           <li>Asegurarse de que el plan se puede cumplir en costo, alcance, fecha y calidad con la disponibilidad identificada, el WBS y la estimación de los work items.</li>
@@ -64,6 +63,7 @@
         <ul>
           <li>PP 1.1</li>
           <li>PP 1.2</li>
+          <li>PP 1.4</li>
           <li>PP 2.1</li>
           <li>PP 2.2</li>
           <li>PP 2.7</li>
@@ -103,9 +103,10 @@
 
 - José Carlos Pacheco Sánchez
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 2.0
+### Versión 1.1
+
 - Añadir paso de estimación.
 - Quitar referencias a plantillas obsoletas.
 - Referenciar plantillas de planes departamentales, personales y de equipo.
@@ -114,5 +115,6 @@
 - Se referenció la guía para estimar un work item.
 - Se referenció la guía para elegir un ciclo de vida.
 
-## Versión 1.0
+### Versión 1.0
+
 - Se creó el proceso.

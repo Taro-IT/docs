@@ -4,9 +4,9 @@
 
 - Identificar situaciones que pueden suponer riesgos para los proyectos del departamento.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
-Revisar la Matriz de riesgos
+Revisar la matriz de riesgos.
 
 ## ¿Cómo identificar un riesgo?
 
@@ -33,23 +33,24 @@ Los riesgos se clasifican dependiendo de su magnitud de acuerdo a la siguiente l
 
 ## Salidas
 
-Riesgo identificado y clasificado
+Riesgo identificado y clasificado.
 
 ## Autores
 
-
-- Iván Alejandro Díaz 
+- Iván Alejandro Díaz
 - Jan Limpens
 
 ## Auditoría
 
-- Eric Butirón
-- Jose Carlos Pacheco
+- Eric Buitrón
+- José Carlos Pacheco
 
 ## Bitácora de cambios
 
 ### Versión 1.1
+
 - Se agrega la sección para clasificar riesgos dependiendo de su magnitud.
 
 ### Versión 1.0
-  - Se creó la guía.
+
+- Se creó la guía.

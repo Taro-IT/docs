@@ -1,4 +1,4 @@
-# CH02 - Checklists de items de trabajo
+# CH02 - Checklists de productos de trabajo
 
 Las checklists se encuentran aquí:
 
@@ -8,7 +8,9 @@ Las checklists se encuentran aquí:
 ## Bitácora de cambios
 
 ### Versión 1.1
-- Se incluyeron las demás checklists para tener todo en un solo excel.
+
+- Se incluyeron las demás checklists para tener todo en un solo archivo de Excel.
 
 ### Versión 1.0
+
 - Se creó la checklist.

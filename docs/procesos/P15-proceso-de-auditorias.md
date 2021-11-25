@@ -10,7 +10,7 @@
 
 - Contar con la plantilla de [informe de auditoría](https://docs.google.com/spreadsheets/d/10fpQ2uBc86t82SmW0gbTYlMPVWJhpLYFydRohknl13g/edit#gid=2040736568).
 - Proceso a auditar y línea base definida en la [bitácora de auditorías](https://docs.google.com/spreadsheets/d/10fpQ2uBc86t82SmW0gbTYlMPVWJhpLYFydRohknl13g/edit#gid=0).
-- Auditoría requerida comunicada al departamento a través del canal de Slack taro-ccb.
+- Auditoría requerida comunicada al departamento a través del canal de Slack #taro-ccb.
 
 ## Procedimiento
 
@@ -77,7 +77,7 @@
       <td>Comunicación de resultados</td>
       <td>
         <ul align="left">
-          <li>Notificar a los responsables del proceso a través del canal de Slack taro-ccb que la auditoría ha finalizado para que estos revisen el resultado de la misma.</li>
+          <li>Notificar a los responsables del proceso a través del canal de Slack #taro-ccb que la auditoría ha finalizado para que estos revisen el resultado de la misma.</li>
         </ul>
       </td>
       <td>
@@ -98,7 +98,7 @@
               <li>Corregir cada una de las no conformidades identificadas y cambiar su estado dentro del informe de auditoría a corregido.</li>
               <li>Si existe un desacuerdo entre auditor y responsable del producto de trabajo sobre alguna no conformidad, cambiar el estado de esta a "Reconsiderado" y explicar en la columna de "Comentarios" el porqué del desacuerdo.</li>
               <li>Al terminar con el listado de no conformidades, cambiar el estado de las mismas dentro de la bitácora de auditorías a "Resueltas" y llenar el campo "Fecha real de resolución" con la fecha pertinente.</li>
-              <li>Comunicar por medio del canal de Slack taro-ccb a los auditores del proceso de la resolución de no conformidades.</li>
+              <li>Comunicar por medio del canal de Slack #taro-ccb a los auditores del proceso de la resolución de no conformidades.</li>
             </ul>
           </li>
           <li>Los auditores deben revisar que las no conformidades se hayan resuelto de manera satisfactoria y cambiar el estado de la auditoría a "Completada".</li>
@@ -133,12 +133,13 @@
 - Jan Limpens Gutiérrez
 - Raúl Rosario Sandoval Galaviz
 
-
 ## Bitácora de cambios
+
 ### Versión 1.1
- - Se quitó la práctica 1.1 de VER porque no aplica para este proceso.
- - Se agregan la prácticas 3.2 de VER, 1.2, 1.3, 2.1 y 2.2 de VAL.
+
+- Se quitó la práctica 1.1 de VER porque no aplica para este proceso.
+- Se agregan la prácticas 3.2 de VER, 1.2, 1.3, 2.1 y 2.2 de VAL.
 
 ### Versión 1.0
-  - Se creó el proceso.
 
+- Se creó el proceso.

@@ -36,20 +36,20 @@ El equipo trabajará utilizando el ciclo de vida ágil de DA, por lo menos hasta
 
 ![Ciclo de vida Ágil de DAD](../../static/img/forma-de-trabajo-agil.png "Ciclo de vida Ágil")
 
-
 ![Ciclo de vida de Entrega Continua de DAD](../../static/img/forma-de-trabajo-de-entrega-continua.png "Ciclo de vida de Entrega Continua de DAD")
 
 ## Acuerdos específicos
 
-- El product owner es el principal encargado de dirigir las juntas con los socios.
+- El Product Owner es el principal encargado de dirigir las juntas con los socios.
 - Un miembro del equipo recuerda a los socios de asistir a las reuniones 10 minutos antes de la hora de inicio por medio de un mensaje de WhatsApp.
 - Un miembro del equipo recuerda a los socios de las reuniones que se agendaron para una semana el viernes anterior por medio de un mensaje de WhatsApp.
 - Un miembro del equipo recuerda a los socios de las reuniones que se agendaron para cada día al inicio del día de la reunión.
 - Hay dos miembros del equipo fijos para llevar las minutas de las reuniones con los socios.
 - Hay dos miembros del equipo, distintos de los del punto anterior, para llevar las minutas de las reuniones del equipo.
-- Los encargados de llevar la minuta en una reunión agregan los compromisos y tareas que surjan durante todas las reuniones a la herramienta de seguimiento de tareas.
+- Los encargados de llevar la minuta en una reunión agregan los compromisos y work items que surjan durante todas las reuniones a la herramienta de seguimiento de tareas.
 
 ## Bitácora de cambios
 
 ### Versión 1.0
+
 - Se registro la forma de trabajo en la Wiki

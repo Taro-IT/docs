@@ -2,10 +2,10 @@
 
 ## Objetivo(s)
 
-- Guiar a los miembros de Taro en la identificación efectiva de un tipo de validación. 
-- Dar a conocer las distintas categorías de validaciones que existen en Taro.
+- Guiar a los miembros de Taro en la identificación efectiva de un tipo de validación para un producto de trabajo.
+- Dar a conocer las distintas categorías de validaciones que se utilizan en Taro.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
 - Producto de trabajo seleccionado para la validación.
 - [Plantilla de reporte de validación](https://docs.google.com/spreadsheets/d/1qlU1dm3yrt6iGMJEEK14aC9Ro99d33SdCeGvpf3zztI/edit?usp=sharing).
@@ -30,28 +30,28 @@ Dentro de la categoría de diseño se encuentran los productos de trabajo tales 
 
 Para validaciones de diseño se recomienda el método de tipo "Demo" para que la retroalimentación de los socios formadores sea de mayor valor ya que tendrán la oportunidad de ver a detalle lo propuesto y enfocarse en validar que el producto de trabajo cumple con lo esperado.
 
-Para validaciones de interfaces en un entorno de desarrollo o de producción se recomienda ampliamente utilizar dispositivos electrónicos de distintos tamaños (teléfono celular, ordenador portátil, tablet, etc.) para validar que las interfaces son responsivas. 
+Para validaciones de interfaces en un entorno de desarrollo o de producción se recomienda ampliamente utilizar dispositivos electrónicos de distintos tamaños (teléfono celular, ordenador portátil, tablet, etc.) para validar que las interfaces son responsivas.
 
-- Si es una interfaz implementada, poner bajo la columna de "Entorno" el ambiente (producción o  desarrollo), la URL del sistema y el navegador (Chrome, Edge,  Safari). Si no, poner el valor de "No aplica".
+- Si es una interfaz implementada, poner bajo la columna de "Entorno" el ambiente (producción o desarrollo), la URL del sistema y el navegador (Chrome, Edge, Safari). Si no, poner el valor de "No aplica".
 
 - En la columna de "Herramientas" se debe poner aquellas que se usarán para registrar la sesión de validación como Zoom, Teams u otra, así como las herramientas en las que se realizaron los productos de trabajo como Balsamiq Wireframes, Lucidchart, Miro u otras.
 
 - ### Funcionalidad
 
-Dentro de la categoría de funcionalidad se encuentran los productos de trabajo tales como:  historias de uso completadas y desplegadas ya sea en el entorno de desarrollo o en el entorno de producción.
+Dentro de la categoría de funcionalidad se encuentran los productos de trabajo tales como: historias de usuario completadas y desplegadas ya sea en el entorno de desarrollo o en el entorno de producción.
 
 Para validaciones de funcionalidad se recomienda el método de tipo "Demo" o "Think aloud" ya que permite al cliente ver y/o experimentar el sistema en tiempo real y validar si el flujo de interacción entre componentes cubre sus necesidades.
 
-- En la columna de "Entorno" se debe poner el ambiente (producción o  desarrollo), la URL del sistema y el navegador (Chrome, Edge,  Safari). Si el producto a validar requiere del uso de credenciales asegurarse que estas sean de pruebas y agregarlas dentro de la misma columna. 
-- En la columna de "Herramientas" se debe poner aquellas que se usarán para registrar  o tomar nota de la sesión de validación como Zoom, Teams, Word u otra.
+- En la columna de "Entorno" se debe poner el ambiente (producción o desarrollo), la URL del sistema y el navegador (Chrome, Edge, Safari). Si el producto a validar requiere del uso de credenciales asegurarse que estas sean de pruebas y agregarlas dentro de la misma columna.
+- En la columna de "Herramientas" se debe poner aquellas que se usarán para registrarlo tomar nota de la sesión de validación como Zoom, Teams, Word u otra.
 
 - ### Capacitación
 
-Dentro de la categoría de funcionalidad se encuentran los productos de trabajo tales como:  manuales de usuario y tutoriales en cualquier formato. 
+Dentro de la categoría de funcionalidad se encuentran los productos de trabajo tales como: manuales de usuario y tutoriales en cualquier formato.
 
-Para validaciones de funcionalidad se recomienda el método de tipo "Think aloud" ya que permite a los integrantes del equipo validar si los pasos/instrucciones definidas son lo suficientemente sencillos para que el cliente los entienda y  replique sin ningún problema.
+Para validaciones de funcionalidad se recomienda el método de tipo "Think aloud" ya que permite a los integrantes del equipo validar si los pasos/instrucciones definidas son lo suficientemente sencillos para que el cliente los entienda y aplique sin ningún problema.
 
-- En la columna de "Entorno" se debe poner "Producción", añadir URL al sistema en el que se basa el manual o tutorial y el navegador (Chrome, Edge,  Safari).
+- En la columna de "Entorno" se debe poner "Producción", añadir la URL al sistema en el que se basa el manual o tutorial y el navegador (Chrome, Edge, Safari).
 
 - En la columna de "Herramientas" se debe poner aquellas que se usarán para registrar la sesión de validación como Zoom, Teams u otra, así como las herramientas en las que se realizó o publicó el manual o tutorial como Iorad, Youtube o Word.
 
@@ -69,7 +69,7 @@ En Taro manejamos 3 tipos de validaciones con socios, estos son explicados a con
 
 - ### Discusión
 
-  Este tipo de validaciones sirven demasiado en la etapa inicial de los proyectos ya que permiten al facilitador conocer los problemas reales detrás de las peticiones de los clientes, lo que le permite mejorar el entendimiento de lo que se debe de crear para satisfacer y exceder las expectativas del cliente. Estas validaciones deben de realizarse de manera seguida ya que las necesidades del usuario final nunca son estáticas.
+  Este tipo de validaciones aportan gran valor en la etapa inicial de los proyectos ya que permiten al facilitador conocer los problemas reales detrás de las peticiones de los clientes, lo que le permite mejorar el entendimiento de lo que se debe de crear para satisfacer y exceder las expectativas del cliente. Estas validaciones deben de realizarse de manera seguida ya que las necesidades del usuario final nunca son estáticas.
 
 ## Salidas
 
@@ -81,8 +81,10 @@ En Taro manejamos 3 tipos de validaciones con socios, estos son explicados a con
 
 ## Auditoría
 
-- 
+- Saúl Axel Palacios Acosta
 
 ## Bitácora de cambios
+
 ### Versión 1.0
-- Se creó la guía
+
+- Se creó la guía.

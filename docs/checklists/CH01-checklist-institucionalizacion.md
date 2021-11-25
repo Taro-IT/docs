@@ -5,4 +5,5 @@ La checklist de institucionalización se encuentra [aquí](https://docs.google.c
 ## Bitácora de cambios
 
 ### Versión 1.0
+
 - Se creó la checklist.

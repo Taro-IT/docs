@@ -1,7 +1,8 @@
 # P19 - Proceso para atender retroalimentación
 
 ## Objetivo(s)
-- Identificar tareas a partir de la retroalimentación para poder atender la misma de manera exitosa.
+
+- Identificar work items a partir de la retroalimentación para poder atender la misma de manera exitosa.
 
 ## Entradas
 
@@ -12,9 +13,7 @@
 - Retroalimentación de juntas diarias.
 - Retroalimentación de retrospectiva.
 
-
 ## Procedimiento
-
 
 <table>
   <thead>
@@ -74,16 +73,18 @@
 
 ## Salidas
 
-- Tareas por hacer para atender a la retroalimentación.
+- Work items por completar para atender a la retroalimentación.
 
 ## Autores
 
-- Jan Limpens 
+- Jan Limpens
 
 ## Auditoría
+
 - Adolfo Acosta Castro
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.0
-  - Se creó el proceso.
+### Versión 1.0
+
+- Se creó el proceso.

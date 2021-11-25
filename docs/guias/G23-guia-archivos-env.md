@@ -7,7 +7,7 @@
 - Asegurar la confidencialidad y la integridad de claves de acceso importantes que pudieran comprometer el estado del proyecto si se usan de manera inapropiada.
 - Aportar valor al equipo al apoyar en el cumplimento de manejo de configuración en CMMI y las evaluaciones SCAMPI.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
 - Contar con un entorno de pruebas o producción según sea la configuración que se desea compartir.
 - Contar con alguna aplicación o proyecto que use variables como mecanismo de configuración.
@@ -38,7 +38,7 @@
 En ocasiones puede ser necesario consultar una versión anterior de un archivo de configuración. Esto se puede realizar usando las funciones de versionado de Google drive.
 
 - Localizar el archivo en la carpeta correspondiente.
-- Hacer clic secundario y en el menú emergente hacer clic en gestionar versiones
+- Dar clic secundario y en el menú emergente dar clic en gestionar versiones
 - Buscar la versión necesaria.
 
 ![image](../../static/img/guias/G20/Imagen3.png)
@@ -64,7 +64,8 @@ En ocasiones puede ser necesario consultar una versión anterior de un archivo d
 
 [The Twelve-Factor App (12factor.net)](https://12factor.net/config)
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 1.0
+### Versión 1.0
+
 - Se creó la guía.

@@ -4,7 +4,7 @@
 
 - Realizar un plan de comunicación con los interesados, para definir las formas en la cual ocurrirá dicha comunicación.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
 - Una matriz de interesados vacía.
 
@@ -45,14 +45,16 @@ Por cada interesado hay que detallar todas las formas de comunicación que se te
 
 ## Auditoría
 
-- María de los Ángeles Contreras Anaya.
+- María de los Ángeles Contreras Anaya
 - Adolfo Acosta Castro
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 2.0
+### Versión 1.1
+
 - Se cambió el propósito de la guía para realizar un plan de comunicación.
 - Se arregló el formato.
 
-## Versión 1.0
+### Versión 1.0
+
 - Se creó la guía.

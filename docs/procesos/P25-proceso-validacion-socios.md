@@ -59,7 +59,7 @@
     <td>
       <ul>
         Seguir el método de validación seleccionado:
-        <li>Agendar una reunión con los socios siguiendo la <a href="https://taro-it.github.io/docs/guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>.</li>
+        <li>Agendar una reunión con los socios siguiendo la <a href="../guias/G01-guia-para-agendar-juntas">guía para agendar juntas</a>.</li>
         <li>Si el método es "Demo": 
           <ul>
             <li>Definir si la demostración será en vivo o grabada bajo la columna "Tipo".</li>
@@ -84,7 +84,7 @@
         </li>
         <li>Por cada producto de trabajo validado, asegurarse de obtener una aprobación explícita del socio y documentarla bajo la columna "¿Aprobado?".</li>
         <li>Si el producto no es aprobado se deberá de detallar bajo la columna "Comentarios" las razones por las cuales se llegó a esa conclusión.</li>
-        <li>De ser necesario, añadir a la matriz de compromisos de <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=866452596">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=0">Espresso</a> según corresponda, los cambios solicitados por parte de los socios siguiendo la <a href="https://taro-it.github.io/docs/guias/G22-guia-matriz-compromisos">guía para llenar la matriz compromisos.</a></li>
+        <li>De ser necesario, añadir a la matriz de compromisos de <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=866452596">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=0">Espresso</a> según corresponda, los cambios solicitados por parte de los socios siguiendo la <a href="../guias/G22-guia-matriz-compromisos">guía para llenar la matriz compromisos.</a></li>
       </ul>
     </td>
     <td>
@@ -99,9 +99,9 @@
       <ul>
         <li>Definir bajo la columna "¿Cumple?" si los resultados obtenidos eran los resultados esperados.</li>
         <li>Si no eran los resultados esperados, analizar e identificar la causa y el origen de dicha desviación entre lo esperado y lo obtenido.</li>
-        <li>Registrar los defectos identificados en el defect log de <a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=136918999">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=193018758">Espresso</a> según corresponda, siguiendo la <a href="https://taro-it.github.io/docs/guias/G16-guia-registrar-defectos">guía para registrar defectos</a>.</li>
-        <li>Seguir el <a href="https://taro-it.github.io/docs/procesos/P19-proceso-atender-retro">proceso para atender retroalimentación</a> con los comentarios realizados por los socios.</li>
-        <li>Si se identificó alguna mejora en la forma de trabajo para evitar los defectos o desviaciones encontradas, seguir el <a href="https://taro-it.github.io/docs/procesos/P24-proceso-mejora-continua">proceso de mejora continua</a>.</li>
+        <li>Registrar los defectos identificados en el defect log de <a href="https://docs.google.com/spreadsheets/d/1p8eNzn0IgJH-SGfaK-i6bGYGC0DOQpu-bQXMhOE0LYU/edit#gid=136918999">Frappé</a> o de <a href="https://docs.google.com/spreadsheets/d/1n6PMomqQTDm6H63FSoyWhuyGEX2YNRk_ZnLx1ZDeG1A/edit#gid=193018758">Espresso</a> según corresponda, siguiendo la <a href="../guias/G16-guia-registrar-defectos">guía para registrar defectos</a>.</li>
+        <li>Seguir el <a href="../procesos/P19-proceso-atender-retro">proceso para atender retroalimentación</a> con los comentarios realizados por los socios.</li>
+        <li>Si se identificó alguna mejora en la forma de trabajo para evitar los defectos o desviaciones encontradas, seguir el <a href="../procesos/P24-proceso-mejora-continua">proceso de mejora continua</a>.</li>
       </ul>
     </td>
     <td>
@@ -111,9 +111,6 @@
     </td>
 	</tr>
 </table>
-
-
-
 
 ## Salidas
 
@@ -125,9 +122,10 @@
 
 ## Auditoría
 
-- 
+- Saúl Axel Palacios Acosta
 
 ## Bitácora de cambios
 
 ### Versión 1.0
+
 - Se creó el proceso

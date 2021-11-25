@@ -1,23 +1,28 @@
-# G27 - Guía para la toma de decisiones
+# G28 - Guía para la toma de decisiones
 
 ## Objetivo(s)
 
 - Orientar a los miembros de Taro a definir si una decisión debe ser sometida a un proceso de evaluación formal.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
 - Situación identificada que requiere de una toma de decisión.
 
 ## Decisión
 
-Una *decisión* es la determinación para actuar ante una situación que presenta varias alternativas.
+Una _decisión_ es la determinación para actuar ante una situación que presenta varias alternativas.
 
 ## Experimento
+
 ​
+
 - Se define como un experimento a cualquier decisión correctiva tomada dada una desviación en el plan o cualquier decisión exploratoria para facilitar la mejora de la forma de trabajo.
-​
+  ​
+
 ### Características
+
 ​
+
 - Todo experimento tiene las siguientes características:
   - Análisis: Se identifica el problema o la causa que lleva a la definición del experimento después de realizar un análisis de métricas siguiendo el [proceso de análisis de métricas](../procesos/P22-proceso-analisis-metricas).
   - Decisión: Se toma una decisión tras llevar a cabo el [proceso de toma de decisiones](../procesos/P20-proceso-toma-de-decisiones).
@@ -28,9 +33,9 @@ Una *decisión* es la determinación para actuar ante una situación que present
 
 ## ¿Qué es un proceso de evaluación formal?
 
-Un proceso de evaluación formal es aquel que indica cómo, quién, cuándo, mediante qué técnicas y con qué instrumentos se obtendrá  información específica que servirá como apoyo en la toma de una decisión que tiene gran impacto en la forma de trabajo, cronograma o capacidad de algún proyecto.
+Un proceso de evaluación formal es aquel que indica cómo, quién, cuándo, mediante qué técnicas y con qué instrumentos se obtendrá información específica que servirá como apoyo en la toma de una decisión que tiene gran impacto en la forma de trabajo, cronograma o capacidad de algún proyecto.
 
-## ¿Cuando aplicar un proceso de evaluación formal?
+## ¿Cuándo aplicar un proceso de evaluación formal?
 
 Se debe aplicar un proceso de evaluación formal cuando la decisión:
 
@@ -42,29 +47,36 @@ Se debe aplicar un proceso de evaluación formal cuando la decisión:
 - Está ligada a una obligación legal.
 
 ### Criterios de éxito
+
 ​
+
 - Una decisión tomada/experimento se considera exitoso si:
   - Cumple con el resultado esperado establecido en su definición.
   - Supera el resultado esperado establecido en su definición.
 - Una decisión tomada/experimento se considera fallido si:
   - No cumple con el resultado esperado establecido en su definición.
-​
+    ​
+
 ### Tiempo de evaluación
+
 ​
+
 - El intervalo de tiempo para evaluar la efectividad de la decisión tomada/experimento deberá de ser entre una semana hasta la duración total de un sprint.
+
 ## Salidas
 
 - Toma de decisión informada.
 
 ## Autores
 
-- María de los Angeles Contreras Anaya
+- María de los Ángeles Contreras Anaya
 
 ## Auditoría
 
-- 
+- José Carlos Pacheco Sánchez
 
 ## Bitácora de cambios
 
 ### Versión 1.0
-- Se crea la guía
+
+- Se crea la guía.

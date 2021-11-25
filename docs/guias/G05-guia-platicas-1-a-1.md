@@ -2,13 +2,12 @@
 
 ## Objetivo(s)
 
-- Que cualquier miembro de Taro pueda tener una plática 1 a 1 enfocada en asuntos departamentales, se espera que los Program 
-Managers realicen estas pláticas al menos 1 vez a la semana con cada persona en el departamento con el fin de detectar, escuchar y mitigar algún problema o comentario que tengan.
+- Que cualquier miembro de Taro pueda tener una plática 1 a 1 enfocada en asuntos departamentales, se espera que los Program
+  Managers realicen estas pláticas al menos 1 vez a la semana con cada persona en el departamento con el fin de detectar, escuchar y mitigar algún problema o comentario que tengan.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
 - Uno de los PMs le mandará mensaje privado a los integrantes del departamento para agendar una plática 1 a 1, por lo que se debe seguir la [guía para agendar juntas](G01-guia-para-agendar-juntas).
-
 
 ## Pautas a seguir
 
@@ -22,9 +21,9 @@ Las pláticas se llevarán de la siguiente forma:
     - ¿Qué impidió que no se cumplieran los acuerdos?
     - ¿Qué se puede hacer para que se cumplan?
   - En caso de haberse cumplido:
-    -  Comentar los resultados de dichos acuerdos cumplidos
-  
+    - Comentar los resultados de dichos acuerdos cumplidos
 - Preguntas clave:
+
   - ¿Cómo te has sentido esta semana?
   - ¿Cómo te sientes en tu equipo?
   - ¿Cómo has sentido el trabajo de los líderes de tu equipo y de los PMs? (En caso de ser un Team Member)
@@ -33,12 +32,12 @@ Las pláticas se llevarán de la siguiente forma:
   - ¿Hay algo que necesites o en lo que podamos apoyarte?
 
 - También se pueden hacer las preguntas dependiendo de la conversación:
+
   - ¿Cómo te sientes con la situación?
   - ¿Qué podemos hacer para solucionar el problema como equipo?
   - ¿Deseas que alguien más se involucre?
 
-
-- Conversación: Es importante enfocarse en responder concretamente la pregunta.  
+- Conversación: Es importante enfocarse en responder concretamente la pregunta.
 - Cierre: Formalización de acuerdos y entendidos de las dos partes que se concreta con el envío de un mensaje privado con un resumen de lo hablado y una lista de acuerdos y compromisos entre ambas partes.
 
 ## Salidas
@@ -54,14 +53,18 @@ Las pláticas se llevarán de la siguiente forma:
 
 - Eric Buitrón López
 
+## Bitácora de cambios
 
+### Versión 2.0
 
-# Bitácora de cambios
+- Se institucionalizó el asset.
 
-## Versión 1.1 
-  - Se especificaron los pre-requisitos para las pláticas 1 a 1.
-  - Se modificaron dos preguntas con errores.
-  - Se aclaró cómo se les dará seguimiento a las pláticas.
+### Versión 1.1
 
-## Versión 1.0
-  - Se creó la guía.
+- Se especificaron los Prerrequisito(s) para las pláticas 1 a 1.
+- Se modificaron dos preguntas con errores.
+- Se aclaró cómo se les dará seguimiento a las pláticas.
+
+### Versión 1.0
+
+- Se creó la guía.

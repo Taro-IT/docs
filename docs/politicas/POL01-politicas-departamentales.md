@@ -1,10 +1,11 @@
 # POL01 - Políticas departamentales
 
-
 ### Objetivo:
-<p>Puntualizar los acuerdos y normas que hemos establecido como departamento </p>
+
+<p>Puntualizar los acuerdos y normas que hemos establecido como departamento.</p>
 
 ### Políticas:
+
 <ul>
 <li>Todos los integrantes de Taro se apegarán a los valores departamentales.</li>
 <li>El departamento trabajará apegándose al código de ética establecido por el comité de este mismo.</li>
@@ -16,8 +17,12 @@
 <li>En caso de presentar algún problema o ausencia en alguna junta o clase se deberá avisar a alguien que si este presente y/o por un medio de comunicación donde todos los integrantes de Taro se puedan enterar.</li>
 </ul>
 
+## Bitácora de cambios
 
-# Bitácora de cambios
+### Versión 2.0
 
-## Versión 1.0
-  - Se creó la política.
+- Se institucionalizó el asset.
+
+### Versión 1.0
+
+- Se creó la política.

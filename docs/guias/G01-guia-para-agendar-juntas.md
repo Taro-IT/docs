@@ -7,13 +7,13 @@
 
 - Organizar de manera visual y ordenada todos los eventos para mejorar la organización y planeación personal de cada integrante del departamento, permitiendo una mayor participación en todos los eventos.
 
-## Pre-requisitos
+## Prerrequisito(s)
 
 Contar con las plantillas:
 
 - Contar con acceso al calendario virtual [Académico (Semestre i)](https://calendar.google.com/calendar/embed?src=itesm.mx_jd61cv3hbbmtuiib93un8s2lok%40group.calendar.google.com&ctz=America%2FMexico_City)
-- Contar con acceso al calendario virtual [Departamental](https://calendar.google.com/calendar/embed?src=c_fprk5lfepv1dslipu1dv1let2c%40group.calendar.google.com&ctz=America%2FMexico_City)
-- Contar con acceso al calendario virtual por Equipos ( [Frappé](https://calendar.google.com/calendar/embed?src=c_8s7cshndqlge2j7bbbnk6g5tbo%40group.calendar.google.com&ctz=America%2FMexico_City) o [Espresso](https://calendar.google.com/calendar/embed?src=c_i6eeag7cqgta7spmhe8iuv3p78%40group.calendar.google.com&ctz=America%2FMexico_City) )
+- Contar con acceso al calendario virtual [Taro](https://calendar.google.com/calendar/embed?src=c_fprk5lfepv1dslipu1dv1let2c%40group.calendar.google.com&ctz=America%2FMexico_City)
+- Contar con acceso al calendario virtual por Equipos ([Frappé](https://calendar.google.com/calendar/embed?src=c_8s7cshndqlge2j7bbbnk6g5tbo%40group.calendar.google.com&ctz=America%2FMexico_City) o [Espresso](https://calendar.google.com/calendar/embed?src=c_i6eeag7cqgta7spmhe8iuv3p78%40group.calendar.google.com&ctz=America%2FMexico_City))
 
 :::note
 
@@ -30,7 +30,7 @@ En caso de no contar con acceso a los calendarios se deberán seguir los pasos p
 
 ![image](../../static/img/guias/G01/g01-img-1.png)
 
-<li>Pasar el mouse por encima del nombre del calendario que quieres compatir y da clic en el icono de opciones (⋮). Aparecerá el siguiente menú desplegable, donde tendrás que dar clic en "Configurar y compartir".</li>
+<li>Pasar el mouse por encima del nombre del calendario que quieres compartir y da clic en el icono de opciones (⋮). Aparecerá el siguiente menú desplegable, donde tendrás que dar clic en "Configurar y compartir".</li>
 
 ![image](../../static/img/guias/G01/g01-img-3.png)
 
@@ -54,10 +54,12 @@ En caso de no contar con acceso a los calendarios se deberán seguir los pasos p
 - Especificar la fecha y rango de horas para el evento.
 - En caso de contar con los correos de los participantes, agregarlos para poder enviar una invitación de manera automática.
 - En caso de usar una sala virtual verificar la disponibilidad de los links:
-  
-<ol><li>Taro General - https://itesm.zoom.us/j/84214225212 </li><li>Frappé -  https://itesm.zoom.us/j/84214225212
-  </li><li>Espresso -  https://itesm.zoom.us/j/84321494768
-  </li></ol>
+
+<ol>
+  <li>Taro General - https://itesm.zoom.us/my/taro.ti </li>
+  <li>Frappé -  https://itesm.zoom.us/j/84214225212</li>
+  <li>Espresso -  https://itesm.zoom.us/j/84321494768</li>
+</ol>
 
 - Agregar una descripción y los puntos claves a tocar en ese evento en la sección "Descripción".
 - Seleccionar el calendario virtual en el que se colocará, ya sea Taro, Cínica o Medio Camino.
@@ -85,13 +87,18 @@ En el caso de Frappé, los calendarios de disponibilidad de la semana se enviar�
 - Karla Daniela Romero Pérez
 - María de los Ángeles Contreras Anaya
 
+## Bitácora de cambios
 
-# Bitácora de cambios
+### Versión 2.0
 
-## Versión 1.1
-  - Se hicieron cambios en la redacción de pasos y con un lenguaje más apropiado.
-  - Se cambiaron algunas imágenes para hacer más intelegible la guía.
-  - Se corrigieron errores de ortografía.
+- Se institucionalizó el asset.
 
-## Versión 1.0
-  - Se creó la guía.
+### Versión 1.1
+
+- Se hicieron cambios en la redacción de pasos y con un lenguaje más apropiado.
+- Se cambiaron algunas imágenes para hacer más inteligible la guía.
+- Se corrigieron errores de ortografía.
+
+### Versión 1.0
+
+- Se creó la guía.

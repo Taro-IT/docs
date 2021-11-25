@@ -4,9 +4,9 @@
 
 - Definir como revertir el código en caso de ser necesario usando la herramienta definida para el control de versiones de código (Git).
 
-## Pre-requisitos
+## Prerrequisito(s)
 
-- Estar en la rama a revertir 
+- Estar en la rama a revertir.
 
 ## Comandos Git para la reversión
 
@@ -34,9 +34,9 @@ Para identificar el ID de un commit en específico puedes utilizar el comando `g
 
 - Se han hecho publicaciones que quieren revertirse pero que se desean mantener en el historial.
 
-### git reset 
+### git reset
 
-El comando `git reset` se utiliza para mover el proyecto a un commit anterior eliminando todos los commits posteriores a este del historial. 
+El comando `git reset` se utiliza para mover el proyecto a un commit anterior eliminando todos los commits posteriores a este del historial.
 
 Para hacer `git reset` sobre el último commit:
 
@@ -62,38 +62,43 @@ Modifica el HEAD, el índice de archivos y el contenido local. El estado del pro
 
 Puede utilizarse `git reset` cuando:
 
-- Se han hecho commits equivocados de manera local y se quieren deshacer dichos cambios 
-    - Usar `git reset --hard` si no se quiere mantener ningún cambio local.
-    - Usar `git reset --soft` si se quieren mantener los cambios locales para hacerles commit en otro momento.
+- Se han hecho commits equivocados de manera local y se quieren deshacer dichos cambios
+
+  - Usar `git reset --hard` si no se quiere mantener ningún cambio local.
+  - Usar `git reset --soft` si se quieren mantener los cambios locales para hacerles commit en otro momento.
 
 - Se ha publicado información sensible o que simplemente se desea eliminar del historial.
 
 :::note
 
-Si esta trabajando de manera grupal deberá llegar a un consenso antes de utilizar `git reset` para evitar conflictos.
+Si se está trabajando de manera grupal, se deberá llegar a un consenso antes de utilizar `git reset` para evitar conflictos.
 
 :::
 
 ## Salidas
 
-- La rama revertida a un punto anterior 
+- La rama revertida a un punto anterior.
 
 ## Autores
 
-- Juan Manuel Amador Perez Flores 
+- Juan Manuel Amador Pérez Flores
 
 ## Auditoría
+
 - Adolfo Acosta Castro
 
-# Bitácora de cambios
+## Bitácora de cambios
 
-## Versión 2.0
-  - El asset ha sido institucionalizado
+### Versión 2.0
 
-## Versión 1.1
+- El asset ha sido institucionalizado.
+
+### Versión 1.1
+
 - Se eliminan algunos párrafos para evitar ser repetitivos.
 - Se incluye como revisar el ID de un commit en GitHub.
 - Se agrega "git reset" en un párrafo.
 
-## Versión 1.0
+### Versión 1.0
+
 - Se creó el proceso.

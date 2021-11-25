@@ -40,7 +40,7 @@
     <td>
       <ul>
         <li>Agregar la propuesta a la <a href="https://docs.google.com/spreadsheets/d/1B628YnkHppCLynz_SScm_8jGJMQRmqfNjoib9KChrU8/edit#gid=0">bitácora de mejoras</a> asignarse uno mismo como owner, agregar la fecha bajo la columna "Fecha de creación" y cambiar el estado a "Creada".</li>
-        <li>Duplicar la plantilla de <a href="https://docs.google.com/spreadsheets/d/1B628YnkHppCLynz_SScm_8jGJMQRmqfNjoib9KChrU8/edit#gid=1718709943">propuesta de mejora</a> en el mismo archivo de excel y nombrar de la siguiente manera: PIP-[0] donde el número entre corchetes deberá ir incrementando según las propuestas realizadas.</li>
+        <li>Duplicar la plantilla de <a href="https://docs.google.com/spreadsheets/d/1B628YnkHppCLynz_SScm_8jGJMQRmqfNjoib9KChrU8/edit#gid=1718709943">propuesta de mejora</a> en el mismo archivo de Excel y nombrar de la siguiente manera: PIP-[0] donde el número entre corchetes deberá ir incrementando según las propuestas realizadas.</li>
         <li>Desarrollar la propuesta siguiendo la plantilla:
           <ul>
             <li>Llenar el campo "Owner" con el nombre de uno mismo.</li>
@@ -52,7 +52,7 @@
             <li>Detallar bajo la columna "Resultado esperado" como se espera cumplir con los criterios de mejora seleccionados.</li>
           </ul>
         </li>
-        <li>Comunicar a través del canal de Slack taro-propuestas la definición o modificación de la propuesta de mejora y la línea base a la que se realiza dicha mejora.</li>
+        <li>Comunicar a través del canal de Slack #taro-propuestas la definición o modificación de la propuesta de mejora y la línea base a la que se realiza dicha mejora.</li>
       </ul>
     </td>
     <td>
@@ -92,7 +92,7 @@
         <li>Por cada asset a modificar: 
           <ul>
             <li>Avisar al owner sobre las modificaciones que se van a realizar.</li>
-            <li>Seguir el <a href="https://taro-it.github.io/docs/procesos/P03-proceso-institucionalizacion-assets">proceso de institucionalización de assets</a>.</li>
+            <li>Seguir el <a href="P03-proceso-institucionalizacion-assets">proceso de institucionalización de assets</a>.</li>
           </ul></li>
         <li>Una vez que todos los cambios han sido implementados, registrar la fecha en la <a href="https://docs.google.com/spreadsheets/d/1B628YnkHppCLynz_SScm_8jGJMQRmqfNjoib9KChrU8/edit#gid=0">bitácora de mejoras</a> bajo la columna "Fecha de finalización".</li>
         <li>Definir bajo la columna "Tiempo de evaluación" el intervalo de tiempo que se esperará a partir de la fase de "Difusión" para documentar los resultados de la propuesta.</li>
@@ -108,7 +108,7 @@
     <td>5. Difusión</td>
     <td>
       <ul>
-        <li>Avisar a los integrantes de Taro a través del canal de Slack taro-propuestas que la propuesta de mejora ha sido aprobada y definida.</li>
+        <li>Avisar a los integrantes de Taro a través del canal de Slack #taro-propuestas que la propuesta de mejora ha sido aprobada y definida.</li>
       </ul>
     </td>
     <td>
@@ -134,7 +134,6 @@
   </tr>
 </table>
 
-
 ## Salidas
 
 - Propuesta de mejora definida e implementada.
@@ -146,9 +145,10 @@
 
 ## Auditoría
 
-- 
+- José Carlos Pacheco Sánchez
 
 ## Bitácora de cambios
 
 ### Versión 1.0
+
 - Se creó el proceso.

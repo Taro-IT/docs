@@ -4,7 +4,7 @@
 
 - Que todos los miembros de Taro conozcan que se requiere para alcanzar el rango de Maestro Jedi en la malla de [Path of the Force](https://docs.google.com/spreadsheets/d/1qDzkJNq39Cn4xAnktU17K6WJ3iaEn9c8DOL-BbSOojI/edit#gid=6097008).
 
-## Pre-requisitos
+## Prerrequisito(s)
 
 - Una evaluación individual.
 

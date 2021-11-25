@@ -1,6 +1,7 @@
 # P16 - Proceso para una retrospectiva de la iteración
 
 ## Objetivo(s)
+
 - Reflexionar sobre las decisiones y prácticas que se realizaron en la iteración.
 - Tomar decisiones que ayudarán a mejorar la forma de trabajo durante la siguiente iteración.
 
@@ -22,10 +23,10 @@
       <td>Preparación</td>
       <td>
         <ul align="left">
-          <li>Entrar a <a href="https://easyretro.io">EasyRetro</a> y haz click en "Get started for free". Elige el plan gratuito.</li>
-          <li>En el dashboard, hacer click en "Add board" para crear un nuevo tablero. </li>
+          <li>Entrar a <a href="https://easyretro.io">EasyRetro</a> y haz clic en "Get started for free". Elige el plan gratuito.</li>
+          <li>En el dashboard, dar clic en "Add board" para crear un nuevo tablero. </li>
           <li>Nombrar el tablero "Retrospectiva SP[# iteración], permite 5 votos por participante y haz habilita las opciones de "Hide cards initially", "Disable voting initially" </li>
-          <li>Agregar las columnas Start doing, Continue doing, Stop doing y Kudos. Haz click en "Create".</li>
+          <li>Agregar las columnas Start doing, Continue doing, Stop doing y Kudos. Haz clic en "Create".</li>
           <li>Añadir el link del tablero a la <a href="https://docs.google.com/spreadsheets/d/1uYSPo966wNlzTGg_xeQxHO8dOu2z2sIsBVoq0DF8umo/edit#gid=53563502">Matriz de Retrospectives</a>.</li>
         </ul>
       </td>
@@ -73,9 +74,9 @@
       <td>Toma de decisiones</td>
       <td>
         <ul align="left">
-          <li>Colaborativamente, revisar cuáles tarjetas fueron las más votadas y con ellas, dependiendo de su naturaleza, creen work items o tareas que les permitan cumplirlas en la siguiente iteración.</li>
-          <li>Asignar responsables a cada tarea generada.</li>
-          <li>Actualizar y revisar el desarrollo de los conocimientos de los miembros del equipo, revisando el Plan de Conocimiento (<a href="https://docs.google.com/spreadsheets/d/1apm2rf-SeUr98bcvCvpQWw3tVGw_1DbVuX9hrJUtZAI/edit#gid=591264054">Departamental</a>, <a>Frappé</a> o <a href="https://docs.google.com/spreadsheets/d/1wBHX1wWpZCr4ZRSE9mcigphbNoGlARHHlWkyXqQczD0/edit#gid=0">Espresso</a>).</li>
+          <li>Colaborativamente, revisar cuáles tarjetas fueron las más votadas y con ellas, dependiendo de su naturaleza, creen work items que les permitan cumplirlas en la siguiente iteración.</li>
+          <li>Asignar responsables a cada work item generado.</li>
+          <li>Actualizar y revisar el desarrollo de los conocimientos de los miembros del equipo, revisando el plan de conocimiento (<a href="https://docs.google.com/spreadsheets/d/1apm2rf-SeUr98bcvCvpQWw3tVGw_1DbVuX9hrJUtZAI/edit#gid=591264054">Taro</a>, <a href="https://docs.google.com/spreadsheets/d/1CWEii3W0BhFfhumYTuUWTwIpcVBNmAVWwzrzv_BeANY/edit?usp=sharing">Frappé</a> o <a href="https://docs.google.com/spreadsheets/d/1wBHX1wWpZCr4ZRSE9mcigphbNoGlARHHlWkyXqQczD0/edit#gid=0">Espresso</a>).</li>
         </ul>
       </td>
       <td>
@@ -92,13 +93,14 @@
       <td>Análisis de métricas</td>
       <td>
         <ul align="left">
-          <li>En equipo y con una persona compartiendo su pantalla, revisar los resultados de las métricas relacionadas con la iteración anterior y analizarlas usando el <a href="https://taro-it.github.io/docs/procesos/P22-proceso-analisis-metricas">proceso de análisis de métricas</a>.</li>
+          <li>En equipo y con una persona compartiendo su pantalla, revisar los resultados de las métricas relacionadas con la iteración anterior y analizarlas usando el <a href="./P22-proceso-analisis-metricas">proceso de análisis de métricas</a>.</li>
           <li>Revisar el estado de cada una de las [decisiones activas](https://docs.google.com/spreadsheets/d/1VfGH0x5rURBKiXvmC0vpmr9f11dtOssSHuqzyoRvj-w/edit#gid=0) de la iteración.</li>
         </ul>
       </td>
       <td>
         <ul>
           <li>M&A - 2.2</li>
+          <li>PMC - 1.7</li>
           <li>PMC - 2.2</li>
           <li>PMC - 2.3</li>
         </ul>
@@ -125,7 +127,7 @@
 
 ## Salidas
 
-- [Retroalimentación](https://taro-it.github.io/docs/procesos/P19-proceso-atender-retro) de retrospectiva.
+- [Retroalimentación](./P19-proceso-atender-retro) de retrospectiva.
 
 ## Autores
 
@@ -134,22 +136,27 @@
 - Raúl Rosario Galaviz
 
 ## Auditoría
+
 - Raúl Rosario Sandoval Galaviz
 
 ## Bitácora de cambios
 
 ### Versión 1.4
+
 - Se agrega la práctica 1.3 de RKM.
+
 ### Versión 1.3
+
 - Se agregó revisar el Plan de conocimiento.
 
 ### Versión 1.2
+
 - Se cambió la salida a "retroalimentación de retrospectiva".
 
 ### Versión 1.1
+
 - Se añadió el link a la matriz de retrospectivas.
 
 ### Versión 1.0
+
 - Se creó el proceso.
-
-
