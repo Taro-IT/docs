@@ -1,4 +1,4 @@
-# G29 - Guía para validación con socios
+# G24 - Guía para validación con socios
 
 ## Objetivo(s)
 
