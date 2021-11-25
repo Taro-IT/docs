@@ -94,7 +94,7 @@
       <td>
         <ul align="left">
           <li>En equipo y con una persona compartiendo su pantalla, revisar los resultados de las métricas relacionadas con la iteración anterior y analizarlas usando el <a href="./P22-proceso-analisis-metricas">proceso de análisis de métricas</a>.</li>
-          <li>Revisar el estado de cada una de las [decisiones activas](https://docs.google.com/spreadsheets/d/1VfGH0x5rURBKiXvmC0vpmr9f11dtOssSHuqzyoRvj-w/edit#gid=0) de la iteración.</li>
+          <li>Revisar el estado de cada una de las <a href="https://docs.google.com/spreadsheets/d/1VfGH0x5rURBKiXvmC0vpmr9f11dtOssSHuqzyoRvj-w/edit#gid=0">decisiones activas</a> de la iteración.</li>
         </ul>
       </td>
       <td>
