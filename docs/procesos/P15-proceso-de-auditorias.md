@@ -39,6 +39,8 @@
           <li>VAL 1.3</li>
           <li>OPF 1.1</li>
           <li>OPF 1.2</li>
+          <li>OPD 1.1</li>
+          <li>OPD 1.3</li>
         </ul>
       </td>
     </tr>
@@ -71,6 +73,8 @@
           <li>VAL 2.1</li>
           <li>OPF 1.2</li>
           <li>OPF 1.3</li>
+          <li>OPD 1.1</li>
+          <li>OPD 1.3</li>
         </ul>
       </td>
     </tr>
@@ -114,6 +118,8 @@
           <li>OPF 1.1</li>
           <li>OPF 1.2</li>
           <li>OPF 3.3</li>
+          <li>OPD 1.1</li>
+          <li>OPD 1.3</li>
         </ul>
       </td>
     </tr>

@@ -93,7 +93,7 @@
       <td>
         <ul align="left">
           <li>En equipo y con una persona compartiendo su pantalla, revisar los resultados de las métricas relacionadas con la iteración anterior y analizarlas usando el <a href="https://taro-it.github.io/docs/procesos/P22-proceso-analisis-metricas">proceso de análisis de métricas</a>.</li>
-          <li>Revisar el estado de cada una de las [decisiones activas](https://docs.google.com/spreadsheets/d/1VfGH0x5rURBKiXvmC0vpmr9f11dtOssSHuqzyoRvj-w/edit#gid=0) de la iteración.</li>
+          <li>Revisar el estado de cada una de las <a>decisiones activas</a href="https://docs.google.com/spreadsheets/d/1VfGH0x5rURBKiXvmC0vpmr9f11dtOssSHuqzyoRvj-w/edit#gid=0"> de la iteración.</li>
         </ul>
       </td>
       <td>
@@ -101,6 +101,7 @@
           <li>M&A - 2.2</li>
           <li>PMC - 2.2</li>
           <li>PMC - 2.3</li>
+          <li>OPD - 1.4</li>
         </ul>
       </td>
     </tr>
@@ -109,7 +110,6 @@
       <td>
         <ul align="left">
           <li>Colaborativamente, revisar los riesgos del plan del equipo, y evalúen si ya se mitigaron algunos, si hay que agregar nuevos o si hay que comenzar a aplicar los planes de mitigación o de contingencia.</li>
-          <li>Colaborativamente, revisar las decisiones activas, y evalúen si ya se mitigaron algunos, si hay que agregar nuevos o si hay que comenzar a aplicar los planes de mitigación o de contingencia.</li>
         </ul>
       </td>
       <td>
