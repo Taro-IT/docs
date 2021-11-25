@@ -1,4 +1,4 @@
-# G27 - Guía de release de la wiki
+# G28 - Guía de release de la wiki
 
 ## Objetivo(s)
 

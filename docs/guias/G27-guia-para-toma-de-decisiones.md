@@ -1,4 +1,4 @@
-# G28 - Guía para la toma de decisiones
+# G27 - Guía para la toma de decisiones
 
 ## Objetivo(s)
 
