@@ -9,11 +9,11 @@
 - [Repositorio de la línea base a desplegar](https://taro-it.github.io/docs/politicas/POL04-Definicion%20de%20elementos%20de%20configuracion).
 - La rama con todos los ítems de trabajo [previamente verificados y aprobados](https://taro-it.github.io/docs/procesos/P21-proceso-verificacion-items).
 
-:::info
+
 
 Si no se tiene claro lo que es una línea base, revisar la [política de elementos de configuración y líneas base](../politicas/POL04-Definicion%20de%20elementos%20de%20configuracion).
 
-:::
+
 
 ## Procedimiento
 
