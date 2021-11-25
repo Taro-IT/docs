@@ -46,10 +46,13 @@
           <li>La persona que realiza las acciones narra lo que hace.</li>
           <li>La otra persona debe verificar las acciones de la pareja y comunica los defectos para dar solución inmediatamente.</li>
           <li>Si la pareja no puede resolver el defecto, se debe documentar en la bitácora de defectos y se debe comunicar al resto del equipo.</li>
+          <li>Cuando se termine la sesión de trabajo la pareja debe registrar en la planificación correspondiente el total de horas invertidas en las tareas realizadas, y si se lograron finalizar, la fecha de terminación real.</li>
         </ul>
       </td>
       <td>
         <ul>
+          <li>M&A 2.1</li>
+          <li>M&A 2.3</li>
           <li>PPQA 1.1</li>
           <li>PPQA 2.1</li>
           <li>PPQA 2.2</li>
