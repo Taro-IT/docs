@@ -8,7 +8,8 @@
 
 ## Entradas
 
-- Plan de iteración Taro, Espresso o Frappé.
+- Riesgos identificado y gestionado.
+- Compromisos de integrantes de Taro.
 
 ## Procedimiento
 
@@ -113,8 +114,8 @@
 
 ## Salida
 
-- <a href="https://docs.google.com/spreadsheets/d/1SIO7qeEihTUOkOuSJZM-Lc6AryG9LPsFKonwZ_kYtCg/edit?usp=sharing">Plan departamental</a> actualizado
-- <a href="https://docs.google.com/spreadsheets/d/13DkKZZyyB2OHshchbra921zE3AGMBl91GKeLuofNgL8/edit#gid=14619367">Matriz de compromisos</a> actualizada
+- Compromisos identificados y formalizados.
+- Work items identificados y añadidos al plan departamental.
 
 ## Autores
 
