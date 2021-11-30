@@ -20,6 +20,10 @@ El departamento está conformado por dieciocho estudiantes del Tecnológico de M
 Si quieres conocer más sobre <b>Taro</b>, en esta wiki encontrarás información sobre nuestra <b>identidad</b> como departamento de TI y toda la documentación que existe sobre nuestra <b>forma de trabajo</b>.
 </p>
 
+## Proyecto ganador de ExpoIngenierías Campus Querétaro AD2021
+
+<img src="../static/img/ExpoIngenieria.png"/>
+
 ## Roles
 
 ### Program Manager (PM)
@@ -41,6 +45,18 @@ Si quieres conocer más sobre <b>Taro</b>, en esta wiki encontrarás informació
 
 - Eduardo Andrés Castillo Perera en el equipo de Frappé.
 - Sebastian Gonzalez Tafoya en el equipo de Espresso.
+
+### Team Members (TM)
+- Adolfo Acosta.
+- Eric Buitrón López.
+- Jan Limpens Gutiérrez.
+- Jorge López.
+- José Carlos Pacheco Sánchez.
+- Juan José Díaz André.
+- Karla Romero.
+- Mauricio Álvarez Millán.
+- Raúl Rosario Sandoval Galaviz.
+- Vladimir Salvador.
 
 [Aquí](https://docs.google.com/spreadsheets/d/1naF2ckYlDvAIQoa3ptkEfBDong-dnMHzKCRtS0vz6x8/edit#gid=0) se encuentra un historial de los roles de liderazgo y las rotaciones de los mismos dentro del departamento Taro.
 
