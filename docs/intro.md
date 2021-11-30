@@ -22,7 +22,7 @@ Si quieres conocer más sobre <b>Taro</b>, en esta wiki encontrarás informació
 
 ## Proyecto ganador de ExpoIngenierías Campus Querétaro AD2021
 
-<img src="../static/img/ExpoIngenieria.png"/>
+![Logo expoingenieria](../static/img/ExpoIngenieria.png)
 
 ## Roles
 
