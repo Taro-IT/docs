@@ -105,7 +105,7 @@ Gracias a todos los departamentos anteriores a Taro por brindarnos su conocimien
 - [Blink](https://bitbucket.org/KaryRs/blink_wiki/wiki/Home)
 - [Percept](https://github.com/97joaquinhr/Percept/wiki)
 - [CaveLabs](https://github.com/CaveLabs-1/Wiki)
-- Studio i
+- Estudio i
 - [Solify](https://github.com/Solify-IT/docs/wiki)
 
 ### Derechos de autor.
